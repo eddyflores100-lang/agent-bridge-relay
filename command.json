@@ -1,9 +1,8 @@
 {
-  "cmd_seq": 37,
-  "action": "scroll",
+  "cmd_seq": 38,
+  "action": "click",
   "args": {
-    "direction": "up",
-    "amount": 5000
+    "selector": "#main > div > div > div:nth-child(3) > div:nth-child(7)"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
