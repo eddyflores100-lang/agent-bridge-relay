@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 45,
-  "action": "open",
+  "cmd_seq": 46,
+  "action": "gettext",
   "args": {
-    "url": "https://hacktoberfest.com/schedule/"
+    "selector": "body"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
