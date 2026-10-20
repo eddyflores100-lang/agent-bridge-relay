@@ -1,6 +1,9 @@
 {
-  "cmd_seq": 34,
-  "action": "snapshot",
-  "args": {},
+  "cmd_seq": 35,
+  "action": "scroll",
+  "args": {
+    "direction": "down",
+    "amount": 2000
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
