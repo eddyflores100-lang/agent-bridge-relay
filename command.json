@@ -1,8 +1,9 @@
 {
-  "cmd_seq": 49,
-  "action": "open",
+  "cmd_seq": 50,
+  "action": "scroll",
   "args": {
-    "url": "https://hacktoberfest.com/my/"
+    "direction": "down",
+    "amount": 5000
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
