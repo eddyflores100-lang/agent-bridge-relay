@@ -1,6 +1,9 @@
 {
-  "cmd_seq": 41,
-  "action": "switchtab",
-  "args": {},
+  "cmd_seq": 42,
+  "action": "scroll",
+  "args": {
+    "direction": "down",
+    "amount": 3000
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
