@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 46,
-  "action": "gettext",
+  "cmd_seq": 47,
+  "action": "open",
   "args": {
-    "selector": "body"
+    "url": "https://hacktoberfest.com/my/promos/"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
