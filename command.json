@@ -1,6 +1,8 @@
 {
-  "cmd_seq": 28,
-  "action": "snapshot",
-  "args": {},
+  "cmd_seq": 29,
+  "action": "open",
+  "args": {
+    "url": "https://www.mlh.com/account/settings#addresses"
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
