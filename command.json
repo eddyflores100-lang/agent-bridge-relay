@@ -1,8 +1,9 @@
 {
-  "cmd_seq": 109,
+  "cmd_seq": 110,
   "action": "gettext",
   "args": {
-    "selector": "body"
+    "selector": "body",
+    "timeout": 60
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
