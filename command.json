@@ -1,8 +1,6 @@
 {
-  "cmd_seq": 22,
-  "action": "click",
-  "args": {
-    "selector": "div:nth-child(33) > header:nth-child(2) > nav:nth-child(1) > div:nth-child(2) > a:nth-child(4)"
-  },
+  "cmd_seq": 23,
+  "action": "geturl",
+  "args": {},
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
