@@ -1,1 +1,1 @@
-{"id":113,"action":"geturl","ok":true,"result":{"url":"https://hacktoberfest.com/my/","title":"My Hacktoberfest | Hacktoberfest 2026","tabId":1762278046}}
+{"id":116,"action":"eval","ok":false,"error":"Evaluating a string as JavaScript violates the following Content Security Policy directive because 'unsafe-eval' is not an allowed source of script: script-src 'self' 'wasm-unsafe-eval' 'inline-speculation-rules' http://localhost:* http://127.0.0.1:*\".\n"}
