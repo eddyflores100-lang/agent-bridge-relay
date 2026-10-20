@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 38,
-  "action": "click",
+  "cmd_seq": 39,
+  "action": "gettext",
   "args": {
-    "selector": "#main > div > div > div:nth-child(3) > div:nth-child(7)"
+    "selector": "body"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
