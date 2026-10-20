@@ -1,5 +1,5 @@
 {
-  "cmd_seq": 150,
+  "cmd_seq": 151,
   "action": "gettext",
   "args": {
     "selector": "#main"
