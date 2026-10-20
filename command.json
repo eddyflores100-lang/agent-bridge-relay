@@ -1,6 +1,8 @@
 {
-  "cmd_seq": 117,
-  "action": "screenshot",
-  "args": {},
+  "cmd_seq": 118,
+  "action": "open",
+  "args": {
+    "url": "https://hacktoberfest.com/activities/"
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
