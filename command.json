@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 132,
-  "action": "gettext",
+  "cmd_seq": 133,
+  "action": "click",
   "args": {
-    "selector": "body"
+    "selector": "a[href*='get.tech']"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
