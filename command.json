@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 166,
-  "action": "gettext",
+  "cmd_seq": 167,
+  "action": "open",
   "args": {
-    "selector": "a.issue-title"
+    "url": "https://gitlab.com/explore/projects?topic=hacktoberfest"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
