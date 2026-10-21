@@ -1,6 +1,8 @@
 {
-  "cmd_seq": 162,
-  "action": "screenshot",
-  "args": {},
+  "cmd_seq": 163,
+  "action": "open",
+  "args": {
+    "url": "https://gitlab.com/explore/issues?label_name=hacktoberfest&sort=created_date&state=opened"
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
