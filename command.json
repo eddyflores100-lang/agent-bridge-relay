@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 176,
+  "cmd_seq": 177,
   "action": "gettext",
   "args": {
-    "selector": "h1"
+    "selector": ".issues-search"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
