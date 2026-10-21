@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 172,
+  "cmd_seq": 173,
   "action": "gettext",
   "args": {
-    "selector": ".issue-title"
+    "selector": ".project-name"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
