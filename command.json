@@ -1,6 +1,8 @@
 {
-  "cmd_seq": 205,
-  "action": "ping",
-  "args": {},
+  "cmd_seq": 206,
+  "action": "open",
+  "args": {
+    "url": "https://gitlab.com/uplex/varnish/libvmod-crypto/-/forks/new"
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
