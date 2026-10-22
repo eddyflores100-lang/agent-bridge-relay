@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 192,
-  "action": "open",
+  "cmd_seq": 193,
+  "action": "gettext",
   "args": {
-    "url": "https://gitlab.com/explore/projects?sort=latest_activity_desc"
+    "selector": "h3"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
