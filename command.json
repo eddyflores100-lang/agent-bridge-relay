@@ -1,9 +1,9 @@
 {
-  "cmd_seq": 239,
-  "action": "gettext",
+  "cmd_seq": 240,
+  "action": "open",
   "args": {
-    "selector": "pre",
-    "timeout": 20
+    "url": "https://gitlab.com/gaia-x/lab/wizards/compliance-wizard/-/raw/main/web-crypto/did.ts",
+    "timeout": 30
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
