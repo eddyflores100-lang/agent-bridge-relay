@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 194,
-  "action": "open",
+  "cmd_seq": 195,
+  "action": "gettext",
   "args": {
-    "url": "https://gitlab.com/explore/projects?name=trust+verification"
+    "selector": "h3"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
