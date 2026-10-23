@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 492,
+  "cmd_seq": 493,
   "action": "open",
   "args": {
-    "url": "https://amazonappdev2026.devpost.com/submissions"
+    "url": "https://devpost.com/software"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
