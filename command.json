@@ -1,8 +1,6 @@
 {
-  "cmd_seq": 287,
-  "action": "open",
-  "args": {
-    "url": "https://glama.ai/mcp/servers/register"
-  },
+  "cmd_seq": 288,
+  "action": "geturl",
+  "args": {},
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
