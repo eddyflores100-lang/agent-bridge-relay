@@ -1,1 +1,1 @@
-{"id":300,"action":"gettext","ok":true,"result":{"text":"\"author:register-server\" matching MCP servers:"}}
+{"id":314,"action":"ping","ok":true,"result":{"pong":true,"ts":1792721726728}}
