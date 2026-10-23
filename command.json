@@ -1,6 +1,8 @@
 {
-  "cmd_seq": 257,
-  "action": "geturl",
-  "args": {},
+  "cmd_seq": 258,
+  "action": "open",
+  "args": {
+    "url": "https://hackenproof.com/ai-agents"
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
