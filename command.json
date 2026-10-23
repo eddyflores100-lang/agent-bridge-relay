@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 468,
-  "action": "gettext",
+  "cmd_seq": 469,
+  "action": "open",
   "args": {
-    "selector": "button"
+    "url": "https://audits.sherlock.xyz/bug-bounties"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
