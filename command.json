@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 331,
-  "action": "open",
+  "cmd_seq": 332,
+  "action": "gettext",
   "args": {
-    "url": "https://huntr.com"
+    "selector": "title"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
