@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 405,
-  "action": "gettext",
+  "cmd_seq": 406,
+  "action": "open",
   "args": {
-    "selector": "h2"
+    "url": "https://huntr.com/challenges"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
