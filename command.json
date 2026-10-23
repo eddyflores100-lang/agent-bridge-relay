@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 281,
-  "action": "open",
+  "cmd_seq": 282,
+  "action": "gettext",
   "args": {
-    "url": "https://glama.ai/mcp/servers/eddyflores100-lang/alethech"
+    "selector": "h1"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
