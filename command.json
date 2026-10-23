@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 452,
-  "action": "gettext",
+  "cmd_seq": 453,
+  "action": "open",
   "args": {
-    "selector": "h1"
+    "url": "https://bugcrowd.com/engagements/openai"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
