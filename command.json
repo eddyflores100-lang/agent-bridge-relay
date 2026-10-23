@@ -1,6 +1,8 @@
 {
-  "cmd_seq": 509,
-  "action": "snapshot",
-  "args": {},
+  "cmd_seq": 510,
+  "action": "open",
+  "args": {
+    "url": "https://devpost.com/eddyflores100"
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
