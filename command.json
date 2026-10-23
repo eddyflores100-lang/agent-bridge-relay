@@ -1,6 +1,8 @@
 {
-  "cmd_seq": 253,
-  "action": "snapshot",
-  "args": {},
+  "cmd_seq": 254,
+  "action": "eval",
+  "args": {
+    "code": "Array.from(document.querySelectorAll(\"a\")).map(a => a.href + \" | \" + (a.textContent || \"\").trim()).filter(x => x.match(/bounty|dashboard|program|signin|login|signup/i)).join(\"\\\\n\")"
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
