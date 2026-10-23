@@ -1,8 +1,9 @@
 {
-  "cmd_seq": 303,
-  "action": "gettext",
+  "cmd_seq": 304,
+  "action": "fill",
   "args": {
-    "selector": "h1"
+    "selector": "#server-name",
+    "value": "Recall MCP"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
