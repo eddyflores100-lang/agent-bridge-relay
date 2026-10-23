@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 321,
-  "action": "gettext",
+  "cmd_seq": 322,
+  "action": "open",
   "args": {
-    "selector": "h1"
+    "url": "https://www.mailgun.com/solutions/startups/"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
