@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 290,
-  "action": "open",
+  "cmd_seq": 291,
+  "action": "gettext",
   "args": {
-    "url": "https://mcpservers.org/submit"
+    "selector": "h1"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
