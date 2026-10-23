@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 268,
-  "action": "open",
+  "cmd_seq": 269,
+  "action": "click",
   "args": {
-    "url": "https://hackenproof.com/security-ai-agents"
+    "selector": "a:contains('List')"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
