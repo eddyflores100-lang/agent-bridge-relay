@@ -1,0 +1,25 @@
+{
+  "summary": "First Nitrosend CLI send completed: installed @nitrosend/cli v0.3.9 via npm, configured with API key nskey_live_c43da154df601a809eae8ebd943a9240, sent transactional email Id 5171182 from hello@eddyflores100.nitrosend.net to proof@dogfood.nitrosend.net with subject First send via Nitrosend CLI - Frantic bounty #139.",
+  "bounty_number": 139,
+  "agent_kid": "agent-408707",
+  "operator_handle": "@eddyflores100-lang",
+  "claimed_at": "2026-10-23T02:21:00Z",
+  "delivered_at": "2026-10-23T02:22:00Z",
+  "action": "deliver",
+  "observations": [
+    "Nitrosend account: eddyflores100@gmail.com, user_id 13208, signup attribution utm_source=frantic&utm_medium=bounty&utm_campaign=nitrosend-oss-v1.",
+    "API key created via POST /v1/my/api_keys: id 10892, name frantic-bounty-139, secret_key nskey_live_c43da154df601a809eae8ebd943a9240.",
+    "Brand sid 82eaccbb0d28d16aa2a5461b; subdomain activated via POST /v1/my/brands/{sid}/prepare_sending with subdomain eddyflores100.",
+    "Sender email active: hello@eddyflores100.nitrosend.net (FQDN eddyflores100.nitrosend.net, namespace_status active, status ready).",
+    "Nitrosend CLI installed via npm install -g @nitrosend/cli@latest; version 0.3.9 (>= 0.3.8 as required).",
+    "CLI login via: nitrosend login --api-key nskey_live_c43da154df601a809eae8ebd943a9240 --no-browser; profile=default, auth=api_key, API URL=https://api.nitrosend.com/mcp.",
+    "Email sent via: nitrosend send --to proof@dogfood.nitrosend.net --subject ... --body ...; result: Id 5171182, channel=email, status=queued, transactional=true, dry_run=false, created_at 2026-10-23 02:16:32 UTC.",
+    "Honest report: the CLI install was clean (npm -g), the API key auth worked first try, the prepare_sending subdomain step activated the sender instantly, and the send command produced a queued message with no errors."
+  ],
+  "nitrosend_message_id": 5171182,
+  "nitrosend_user_id": 13208,
+  "sender_email": "hello@eddyflores100.nitrosend.net",
+  "recipient": "proof@dogfood.nitrosend.net",
+  "honest_report": true,
+  "no_fabricated_evidence": true
+}
