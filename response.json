@@ -1,1 +1,1 @@
-{"id":504,"action":"ping","ok":true,"result":{"pong":true,"ts":1792779937785}}
+{"id":506,"action":"switchtab","ok":false,"error":"Error in invocation of tabs.get(integer tabId, optional function callback): No matching signature."}
