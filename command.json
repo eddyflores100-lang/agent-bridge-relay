@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 318,
-  "action": "gettext",
+  "cmd_seq": 319,
+  "action": "open",
   "args": {
-    "selector": "body"
+    "url": "https://www.mailgun.com/blog/startup-program/"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
