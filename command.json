@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 461,
+  "cmd_seq": 462,
   "action": "click",
   "args": {
-    "selector": "button:contains('Join')"
+    "selector": "a:contains('Join')"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
