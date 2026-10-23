@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 414,
+  "cmd_seq": 415,
   "action": "gettext",
   "args": {
-    "selector": "div.challenge"
+    "selector": "div.card"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
