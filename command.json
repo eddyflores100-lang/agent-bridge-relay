@@ -1,8 +1,6 @@
 {
-  "cmd_seq": 444,
-  "action": "click",
-  "args": {
-    "selector": "a:contains('Register')"
-  },
+  "cmd_seq": 445,
+  "action": "geturl",
+  "args": {},
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
