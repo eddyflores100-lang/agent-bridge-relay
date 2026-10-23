@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 408,
+  "cmd_seq": 409,
   "action": "click",
   "args": {
-    "selector": "a[href*='blind']"
+    "selector": "a:contains('Blind Trust')"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
