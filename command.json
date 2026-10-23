@@ -1,6 +1,8 @@
 {
-  "cmd_seq": 498,
-  "action": "snapshot",
-  "args": {},
+  "cmd_seq": 499,
+  "action": "open",
+  "args": {
+    "url": "https://devpost.com/dashboard/projects"
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
