@@ -1,1 +1,1 @@
-{"id":488,"action":"geturl","ok":true,"result":{"url":"https://devpost.com/dashboard","title":"Devpost","tabId":1762280331}}
+{"id":489,"action":"gettext","ok":false,"error":"Error in invocation of scripting.executeScript(scripting.ScriptInjection injection, optional function callback): Error at parameter 'injection': Error at property 'args': Error at index 0: Value is unserializable."}
