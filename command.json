@@ -1,6 +1,8 @@
 {
-  "cmd_seq": 271,
-  "action": "screenshot",
-  "args": {},
+  "cmd_seq": 272,
+  "action": "click",
+  "args": {
+    "selector": "a[href*=contact]"
+  },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
