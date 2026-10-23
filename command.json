@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 333,
-  "action": "gettext",
+  "cmd_seq": 334,
+  "action": "open",
   "args": {
-    "selector": "h1"
+    "url": "https://huntr.com/bounties"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
