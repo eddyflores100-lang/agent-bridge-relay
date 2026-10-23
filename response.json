@@ -1,1 +1,1 @@
-{"id":512,"action":"switchtab","ok":false,"error":"Error in invocation of tabs.get(integer tabId, optional function callback): No matching signature."}
+{"id":513,"action":"open","ok":true,"result":{"tabId":1762280355,"url":"https://devpost.com/dashboard/projects","title":"Devpost"}}
