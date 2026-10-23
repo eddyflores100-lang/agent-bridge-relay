@@ -1,9 +1,9 @@
 {
-  "cmd_seq": 307,
+  "cmd_seq": 308,
   "action": "fill",
   "args": {
-    "selector": "#server-name",
-    "value": "Recall MCP"
+    "selector": "#server-description",
+    "value": "Long-term memory for AI agents - cross-session persistent semantic memory for any MCP-compatible agent (Claude, Cursor, Cline). Zero dependencies, Python 3.10+."
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
