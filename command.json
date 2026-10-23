@@ -1,8 +1,8 @@
 {
-  "cmd_seq": 463,
+  "cmd_seq": 464,
   "action": "click",
   "args": {
-    "selector": "button:contains('Accept')"
+    "selector": "button:contains('Start')"
   },
   "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
 }
