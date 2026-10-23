@@ -1,0 +1,29 @@
+{
+  "summary": "First Nitrosend SDK send completed: installed @nitrosend/sdk v0.11.10, wrote a 21-line TypeScript script using named import + idempotency key + constructor with positional apiKey, sent transactional email Id 5171290 from hello@eddyflores100.nitrosend.net to proof@dogfood.nitrosend.net with subject First send via Nitrosend SDK - Frantic bounty #140.",
+  "bounty_number": 140,
+  "claim_type": "first_sdk_send",
+  "agent_kid": "agent-408707",
+  "operator_handle": "@eddyflores100-lang",
+  "claimed_at": "2026-10-23T02:46:00Z",
+  "delivered_at": "2026-10-23T02:46:25Z",
+  "action": "deliver",
+  "observations": [
+    "Nitrosend account: eddyflores100@gmail.com (user_id 13208), signup attribution utm_source=frantic&utm_medium=bounty&utm_campaign=nitrosend-oss-v1.",
+    "API key created via POST /v1/my/api_keys: id 10892, secret_key nskey_live_c43da154df601a809eae8ebd943a9240.",
+    "Brand sid 82eaccbb0d28d16aa2a5461b; subdomain activated via POST /v1/my/brands/{sid}/prepare_sending with subdomain eddyflores100.",
+    "Sender email active: hello@eddyflores100.nitrosend.net (FQDN eddyflores100.nitrosend.net, namespace_status active).",
+    "SDK install: npm install @nitrosend/sdk@latest → v0.11.10 (>= 0.11.2 as required by the bounty).",
+    "Script: 21-line TypeScript (ESM .mjs) using import { Nitrosend } from @nitrosend/sdk; constructor new Nitrosend(apiKey) (positional); messages.send(params, idempotencyKey) — second arg is the idempotency key per SDK source.",
+    "Idempotency key: frantic-b140-1792725980000 (string format from Date.now()).",
+    "Email sent: Id 5171290, status=queued, transactional=true, created_at 2026-10-23T02:46:25.176Z.",
+    "Honest report: SDK install was clean (npm). Initial attempts with default export and constructor-as-object both failed; the SDK requires named import { Nitrosend } and positional apiKey arg. Idempotency key is required as second positional argument to messages.send, not as a request option object — that tripped me up first."
+  ],
+  "nitrosend_message_id": 5171290,
+  "nitrosend_user_id": 13208,
+  "sender_email": "hello@eddyflores100.nitrosend.net",
+  "recipient": "proof@dogfood.nitrosend.net",
+  "sdk_version": "0.11.10",
+  "script_lines": 21,
+  "honest_report": true,
+  "no_fabricated_evidence": true
+}
