@@ -1,1 +1,1 @@
-{"id":254,"action":"eval","ok":false,"error":"Evaluating a string as JavaScript violates the following Content Security Policy directive because 'unsafe-eval' is not an allowed source of script: script-src 'self' 'wasm-unsafe-eval' 'inline-speculation-rules' http://localhost:* http://127.0.0.1:*\".\n"}
+{"id":256,"action":"open","ok":true,"result":{"tabId":1762279554,"url":"https://huntr.com/dashboard","title":"huntr: Page not found"}}
