@@ -1,1 +1,1 @@
-{"cmd_seq": 537, "action": "eval", "args": {"code": "JSON.stringify({budget: (document.querySelector(\".budget, [class*=budget], [class*=Budget]\")||{}).textContent||\"\", labels: Array.from(document.querySelectorAll(\"label\")).map(l=>l.textContent.trim()).filter(t=>t&&t.length<60).slice(0,15), h1: (document.querySelector(\"h1\")||{}).textContent||\"\"})"}}
+{"cmd_seq": 538, "action": "gettext", "args": {"selector": "form"}}
