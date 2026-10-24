@@ -1,1 +1,1 @@
-{"cmd_seq": 599, "action": "switchtab", "args": {"tabId": 1762281064}}
+{"cmd_seq": 600, "action": "fill", "args": {"selector": "#Amount", "value": "280"}}
