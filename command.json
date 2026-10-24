@@ -1,6 +1,1 @@
-{
-  "cmd_seq": 522,
-  "action": "snapshot",
-  "args": {},
-  "resp_url": "https://webhook.site/bc53085a-10ce-41e7-8c4d-120f043c2ad0"
-}
+{"cmd_seq": 523, "action": "ping", "args": {}}
