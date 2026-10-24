@@ -1,1 +1,1 @@
-{"cmd_seq": 577, "action": "gettext", "args": {"selector": "#BidDeliveryTime"}}
+{"cmd_seq": 578, "action": "click", "args": {"selector": "input[value=\"Enviar presupuesto\"]"}}
