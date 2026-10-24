@@ -1,1 +1,1 @@
-{"cmd_seq": 635, "action": "gettext", "args": {"selector": "h1, h2, .error, [class*=premium], [class*=limit], [class*=upgrade]"}}
+{"cmd_seq": 636, "action": "switchtab", "args": {"tabId": 1762281064}}
