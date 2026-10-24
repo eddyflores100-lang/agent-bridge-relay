@@ -1,1 +1,1 @@
-{"cmd_seq": 593, "action": "switchtab", "args": {"tabId": 1762281064}}
+{"cmd_seq": 594, "action": "click", "args": {"selector": "input[value=\"Enviar presupuesto\"]"}}
