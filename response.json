@@ -1,1 +1,1 @@
-{"id":698,"action":"ping","ok":true,"result":{"pong":true,"ts":1792869202997}}
+{"id":699,"action":"navigate","ok":false,"error":"Tab did not complete in 30s"}
