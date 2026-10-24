@@ -1,1 +1,1 @@
-{"cmd_seq": 724, "action": "snapshot", "args": {}}
+{"cmd_seq": 725, "action": "scroll", "args": {"direction": "down", "amount": 1200}}
