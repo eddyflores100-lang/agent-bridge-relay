@@ -1,1 +1,1 @@
-{"cmd_seq": 664, "action": "navigate", "args": {"url": "https://www.workana.com/job/desarrollo-de-pagina-web-para-sello-discografico-con-gestion-de-contratos-y-integracion-spotify"}}
+{"cmd_seq": 665, "action": "gettext", "args": {"selector": "body"}}
