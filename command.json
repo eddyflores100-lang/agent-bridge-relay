@@ -1,1 +1,1 @@
-{"cmd_seq": 627, "action": "switchtab", "args": {"tabId": 1762281064}}
+{"cmd_seq": 628, "action": "fill", "args": {"selector": "#BidDeliveryTime", "value": "15 dias"}}
