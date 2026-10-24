@@ -1,1 +1,1 @@
-{"cmd_seq": 634, "action": "snapshot", "args": {}}
+{"cmd_seq": 635, "action": "gettext", "args": {"selector": "h1, h2, .error, [class*=premium], [class*=limit], [class*=upgrade]"}}
