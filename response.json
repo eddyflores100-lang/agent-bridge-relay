@@ -1,1 +1,1 @@
-{"id":537,"action":"eval","ok":false,"error":"Evaluating a string as JavaScript violates the following Content Security Policy directive because 'unsafe-eval' is not an allowed source of script: script-src 'self' 'wasm-unsafe-eval' 'inline-speculation-rules' http://localhost:* http://127.0.0.1:*\".\n"}
+{"id":538,"action":"gettext","ok":true,"result":{"text":"Proyectos  ProyectosFreelancers   "}}
