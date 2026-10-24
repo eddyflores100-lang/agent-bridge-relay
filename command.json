@@ -1,1 +1,1 @@
-{"cmd_seq": 701, "action": "geturl", "args": {}}
+{"cmd_seq": 702, "action": "gettext", "args": {"selector": "body"}}
