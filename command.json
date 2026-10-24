@@ -1,1 +1,1 @@
-{"cmd_seq": 534, "action": "snapshot", "args": {}}
+{"cmd_seq": 535, "action": "click", "args": {"selector": "#bid_button"}}
