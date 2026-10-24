@@ -1,1 +1,1 @@
-{"cmd_seq": 644, "action": "navigate", "args": {"url": "https://www.workana.com/jobs?language=es&skill=web-design"}}
+{"cmd_seq": 645, "action": "gettext", "args": {"selector": "div.projects-list"}}
