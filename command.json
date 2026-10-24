@@ -1,1 +1,1 @@
-{"cmd_seq": 674, "action": "fill", "args": {"selector": "#BidDeliveryTime", "value": "20"}}
+{"cmd_seq": 675, "action": "gettext", "args": {"selector": "#Amount"}}
