@@ -1,1 +1,1 @@
-{"cmd_seq": 655, "action": "gettext", "args": {"selector": "body"}}
+{"cmd_seq": 656, "action": "navigate", "args": {"url": "https://www.workana.com/jobs?category=it-programming&language=es&page=3"}}
