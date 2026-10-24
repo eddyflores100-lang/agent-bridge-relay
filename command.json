@@ -1,1 +1,1 @@
-{"cmd_seq": 687, "action": "navigate", "args": {"url": "https://www.workana.com/jobs?category=it-programming&language=es"}}
+{"cmd_seq": 688, "action": "scroll", "args": {"direction": "down", "pixels": 2500}}
