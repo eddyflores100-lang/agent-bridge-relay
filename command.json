@@ -1,1 +1,1 @@
-{"cmd_seq": 781, "action": "press", "args": {"key": "Enter"}}
+{"cmd_seq": 782, "action": "gettext", "args": {"selector": "div:nth-child(44) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > input:nth-child(2)"}}
