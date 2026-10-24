@@ -1,1 +1,1 @@
-{"cmd_seq": 544, "action": "gettext", "args": {"selector": "input[name=\"bid[deliveryTime]\"]"}}
+{"cmd_seq": 545, "action": "gettext", "args": {"selector": "textarea[name=\"bid[content]\"]"}}
