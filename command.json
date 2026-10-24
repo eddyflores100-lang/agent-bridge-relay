@@ -1,1 +1,1 @@
-{"cmd_seq": 539, "action": "gettext", "args": {"selector": "form:has(input[name=\"bid[amount]\"])"}}
+{"cmd_seq": 540, "action": "fill", "args": {"selector": "input[name=\"bid[amount]\"]", "value": "180"}}
