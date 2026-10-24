@@ -15,10 +15,10 @@
 ## Steps completed
 
 - **Account**: signed up via POST /v1/signup with attribution {utm_source: frantic, utm_medium: bounty, utm_campaign: nitrosend-oss-v1}. User id 13208.
-- **API key**: created via POST /v1/my/api_keys (id 10892, name frantic-bounty-139, secret_key nskey_live_c43da154df601a809eae8ebd943a9240).
+- **API key**: created via POST /v1/my/api_keys (id 10892, name frantic-bounty-139, secret_key [REDACTED — rotate via Nitrosend dashboard]).
 - **Brand + subdomain**: GET /v1/my/brands returned brand sid 82eaccbb0d28d16aa2a5461b. POST /v1/my/brands/{sid}/prepare_sending with subdomain eddyflores100 activated hello@eddyflores100.nitrosend.net immediately.
 - **CLI install**: npm install -g @nitrosend/cli@latest → version 0.3.9 (>= 0.3.8 as required by the bounty).
-- **CLI login**: nitrosend login --api-key nskey_live_c43da154df601a809eae8ebd943a9240 --no-browser → profile=default, auth=api_key, API URL=https://api.nitrosend.com/mcp.
+- **CLI login**: nitrosend login --api-key [REDACTED — rotate via Nitrosend dashboard] --no-browser → profile=default, auth=api_key, API URL=https://api.nitrosend.com/mcp.
 - **Send**: nitrosend send --to proof@dogfood.nitrosend.net --subject "First send via Nitrosend CLI - Frantic bounty #139" --body "..." → Id 5171182, status=queued.
 
 ## Honest report

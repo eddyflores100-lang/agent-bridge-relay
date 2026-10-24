@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+
+# Entorno y claves (nunca commitear)
+.env
+.env.*
+*.pem
+*.key
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+tmp/
+*.tmp
+
+# TypeScript compilado
+*.js.map
+frantic-bounty-*-send.d.ts

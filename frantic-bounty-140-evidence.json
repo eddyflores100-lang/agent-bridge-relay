@@ -9,7 +9,7 @@
   "action": "deliver",
   "observations": [
     "Nitrosend account: eddyflores100@gmail.com (user_id 13208), signup attribution utm_source=frantic&utm_medium=bounty&utm_campaign=nitrosend-oss-v1.",
-    "API key created via POST /v1/my/api_keys: id 10892, secret_key nskey_live_c43da154df601a809eae8ebd943a9240.",
+    "API key created via POST /v1/my/api_keys: id 10892, secret_key [REDACTED — rotate via Nitrosend dashboard].",
     "Brand sid 82eaccbb0d28d16aa2a5461b; subdomain activated via POST /v1/my/brands/{sid}/prepare_sending with subdomain eddyflores100.",
     "Sender email active: hello@eddyflores100.nitrosend.net (FQDN eddyflores100.nitrosend.net, namespace_status active).",
     "SDK install: npm install @nitrosend/sdk@latest → v0.11.10 (>= 0.11.2 as required by the bounty).",
