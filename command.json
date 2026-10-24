@@ -1,1 +1,1 @@
-{"cmd_seq": 533, "action": "click", "args": {"selector": "a[href*=\"rediseno-web-completo\"]"}}
+{"cmd_seq": 534, "action": "snapshot", "args": {}}
