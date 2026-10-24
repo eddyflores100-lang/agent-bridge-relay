@@ -1,1 +1,1 @@
-{"cmd_seq": 788, "action": "snapshot", "args": {}}
+{"cmd_seq": 789, "action": "click", "args": {"selector": "div:nth-child(44) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > textarea:nth-child(1)"}}
