@@ -1,1 +1,1 @@
-{"id":764,"action":"eval","ok":false,"error":"Evaluating a string as JavaScript violates the following Content Security Policy directive because 'unsafe-eval' is not an allowed source of script: script-src 'self' 'wasm-unsafe-eval' 'inline-speculation-rules' http://localhost:* http://127.0.0.1:*\".\n"}
+{"id":765,"action":"switchtab","ok":true,"result":{"url":"https://pro.fiverr.com/seller_onboarding/0","title":"Seller Onboarding"}}
