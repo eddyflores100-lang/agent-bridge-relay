@@ -1,1 +1,1 @@
-{"cmd_seq": 646, "action": "gettext", "args": {"selector": "ul.project-list"}}
+{"cmd_seq": 647, "action": "gettext", "args": {"selector": "div.project-item"}}
