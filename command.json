@@ -1,1 +1,1 @@
-{"cmd_seq": 542, "action": "fill", "args": {"selector": "input[name=\"bid[deliveryTime]\"]", "value": "14 dias"}}
+{"cmd_seq": 543, "action": "gettext", "args": {"selector": "input[name=\"bid[amount]\"]"}}
