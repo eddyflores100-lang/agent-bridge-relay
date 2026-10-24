@@ -1,1 +1,1 @@
-{"cmd_seq": 769, "action": "fill", "args": {"selector": null, "value": "Edison F."}}
+{"cmd_seq": 770, "action": "gettext", "args": {"selector": null}}
