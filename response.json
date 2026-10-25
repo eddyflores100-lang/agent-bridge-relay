@@ -1,15 +1,16 @@
 {
-  "id": 1367,
-  "action": "open",
+  "id": 1368,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1367,
-  "tookMs": 8763,
+  "seq": 1368,
+  "tookMs": 30,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:18:17.160Z",
+  "ts": "2026-10-25T04:18:21.845Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.multitrabajos.com/",
-    "reused": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 0,
+    "elements": [],
+    "title": "",
+    "url": "https://www.multitrabajos.com/"
   }
 }
