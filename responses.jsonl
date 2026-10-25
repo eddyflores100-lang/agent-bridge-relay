@@ -42,3 +42,4 @@
 {"id":1058,"action":"click","ok":true,"seq":1058,"tookMs":327,"version":"2.2.3","ts":"2026-10-25T02:46:14.135Z","result":{"clicked":true,"selector":"div.nnpxsm187 > div.nnpxsm187:nth-of-type(3) > div.ja73c14:nth-of-type(3) > div.ja73c1j > div._1bsa7o5k > button._1bsa7o5r","via":"selector"}}
 {"id":1059,"action":"wait","ok":true,"seq":1059,"tookMs":1508,"version":"2.2.3","ts":"2026-10-25T02:46:18.836Z","result":{"waited":1500}}
 {"id":1060,"action":"click","ok":false,"seq":1060,"tookMs":18,"version":"2.2.3","ts":"2026-10-25T02:46:22.605Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview y reintenta","message":"elemento no visible (zero-size)"}}
+{"id":1061,"action":"wait","ok":true,"seq":1061,"tookMs":1203,"version":"2.2.3","ts":"2026-10-25T02:46:26.505Z","result":{"waited":1200}}
