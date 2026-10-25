@@ -1,1 +1,1 @@
-{"cmd_seq": 1391, "action": "open", "args": {"url": "https://account.hubstaff.com/login", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1392, "action": "getlinks", "args": {"filter": "sign|create|register|talent"}}
