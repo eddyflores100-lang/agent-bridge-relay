@@ -1,15 +1,14 @@
 {
-  "id": 1592,
-  "action": "open",
+  "id": 1593,
+  "action": "geturl",
   "ok": true,
-  "seq": 1592,
-  "tookMs": 3656,
+  "seq": 1593,
+  "tookMs": 7,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:46:46.840Z",
+  "ts": "2026-10-25T04:46:52.635Z",
   "result": {
-    "tabId": 1762281357,
     "url": "https://accounts.torre.ai/account/?next=%2Fopenid%2Fauthorize%3Fscope%3Dopenid%2Bprof",
-    "reused": true,
-    "loadState": "complete"
+    "title": "Create an account | Torre",
+    "tabId": 1762281357
   }
 }
