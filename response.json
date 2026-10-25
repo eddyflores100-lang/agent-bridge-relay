@@ -1,15 +1,14 @@
 {
-  "id": 1584,
-  "action": "open",
+  "id": 1585,
+  "action": "geturl",
   "ok": true,
-  "seq": 1584,
-  "tookMs": 2639,
+  "seq": 1585,
+  "tookMs": 7,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:45:27.082Z",
+  "ts": "2026-10-25T04:45:32.341Z",
   "result": {
-    "tabId": 1762281357,
     "url": "https://www.usebraintrust.com/signup",
-    "reused": true,
-    "loadState": "complete"
+    "title": "Page Not Found | Braintrust | Braintrust",
+    "tabId": 1762281357
   }
 }
