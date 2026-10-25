@@ -1,13 +1,15 @@
 {
-  "id": 2032,
-  "action": "execute",
-  "ok": false,
-  "seq": 2032,
-  "tookMs": 16,
+  "id": 2033,
+  "action": "open",
+  "ok": true,
+  "seq": 2033,
+  "tookMs": 4114,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:00:17.458Z",
-  "error": {
-    "code": "UNSUPPORTED",
-    "message": "accion \"execute\" no soportada en inject.js"
+  "ts": "2026-10-25T19:00:26.179Z",
+  "result": {
+    "tabId": 1762282353,
+    "url": "https://miami.craigslist.org/search/ggg?query=website&sort=date",
+    "background": true,
+    "loadState": "complete"
   }
 }
