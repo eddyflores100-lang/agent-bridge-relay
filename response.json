@@ -1,15 +1,13 @@
 {
-  "id": 1888,
-  "action": "open",
+  "id": 1889,
+  "action": "scroll",
   "ok": true,
-  "seq": 1888,
-  "tookMs": 8245,
+  "seq": 1889,
+  "tookMs": 38,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:32:40.200Z",
+  "ts": "2026-10-25T18:32:46.535Z",
   "result": {
-    "tabId": 1762281634,
-    "url": "https://www.reddit.com/r/forhire/search/?q=%5BHiring%5D%20web&restrict_sr=on&sort=new&t=month",
-    "background": true,
-    "loadState": "complete"
+    "scrolled": true,
+    "y": 0
   }
 }
