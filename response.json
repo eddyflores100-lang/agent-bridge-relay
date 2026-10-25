@@ -1,14 +1,12 @@
 {
-  "id": 869,
-  "action": "click",
+  "id": 870,
+  "action": "wait",
   "ok": true,
-  "seq": 869,
-  "tookMs": 1220,
+  "seq": 870,
+  "tookMs": 3514,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:13:33.641Z",
+  "ts": "2026-10-25T02:13:39.901Z",
   "result": {
-    "clicked": true,
-    "selector": "[data-testid=\"fill-out-manually-button\"]",
-    "via": "selector"
+    "waited": 3500
   }
 }
