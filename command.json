@@ -1,1 +1,1 @@
-{"cmd_seq": 1967, "action": "gettext", "args": {"tabId": 1762281711}}
+{"cmd_seq": 1968, "action": "execute", "args": {"tabId": 1762281711, "fn": "() => { window.close(); return 'ok'; }"}}
