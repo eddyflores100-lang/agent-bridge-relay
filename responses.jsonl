@@ -132,3 +132,4 @@
 {"id":1231,"action":"wait","ok":true,"seq":1231,"tookMs":1006,"version":"2.2.3","ts":"2026-10-25T03:10:15.667Z","result":{"waited":1000}}
 {"id":1232,"action":"click","ok":false,"seq":1232,"tookMs":17,"version":"2.2.3","ts":"2026-10-25T03:10:18.814Z","error":{"code":"OBSCURED","hint":"click al tapador: selector html > body.layout-service > div:nth-of-type(15) > div.tpi8bmk > div.nnpxsm187:nth-of-type(1) > div.ja73cz:nth-of-type(1) o cierra el modal/banner","message":"elemento tapado por div \"Exit\""}}
 {"id":1233,"action":"wait","ok":true,"seq":1233,"tookMs":1809,"version":"2.2.3","ts":"2026-10-25T03:10:25.581Z","result":{"waited":1800}}
+{"id":1234,"action":"click","ok":false,"seq":1234,"tookMs":56,"version":"2.2.3","ts":"2026-10-25T03:10:29.124Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
