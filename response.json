@@ -1,15 +1,13 @@
 {
-  "id": 1908,
-  "action": "open",
+  "id": 1909,
+  "action": "scroll",
   "ok": true,
-  "seq": 1908,
-  "tookMs": 3320,
+  "seq": 1909,
+  "tookMs": 43,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:34:38.419Z",
+  "ts": "2026-10-25T18:34:44.311Z",
   "result": {
-    "tabId": 1762281646,
-    "url": "https://www.reddit.com/r/forhire/search/?q=%5BHiring%5D%20website&restrict_sr=on&sort=new&t=year",
-    "background": true,
-    "loadState": "complete"
+    "scrolled": true,
+    "y": 0
   }
 }
