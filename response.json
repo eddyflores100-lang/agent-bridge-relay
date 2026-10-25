@@ -1,53 +1,15 @@
 {
-  "id": 1457,
-  "action": "snapshot",
+  "id": 1458,
+  "action": "open",
   "ok": true,
-  "seq": 1457,
-  "tookMs": 12,
+  "seq": 1458,
+  "tookMs": 1855,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:30:35.952Z",
+  "ts": "2026-10-25T04:30:42.506Z",
   "result": {
-    "challenge": null,
-    "count": 2,
-    "elements": [
-      {
-        "ariaLabel": "",
-        "href": "https://account.hubstaff.com/",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 17,
-          "w": 58,
-          "x": 379,
-          "y": 204
-        },
-        "ref": "e0",
-        "role": "",
-        "selector": "html > body > div.dialog > ul > li > a",
-        "tag": "a",
-        "text": "Account",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "http://support.hubstaff.com/",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 15,
-          "w": 101,
-          "x": 519,
-          "y": 240
-        },
-        "ref": "e1",
-        "role": "",
-        "selector": "html > body > div.dialog > p:nth-of-type(2) > small > a",
-        "tag": "a",
-        "text": "our support team",
-        "type": ""
-      }
-    ],
-    "title": "Hubstaff - 404",
-    "url": "https://account.hubstaff.com/signup"
+    "tabId": 1762281357,
+    "url": "https://www.computrabajo.com/registro-candidato",
+    "reused": true,
+    "loadState": "complete"
   }
 }
