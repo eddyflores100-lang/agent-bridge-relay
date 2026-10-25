@@ -11,3 +11,4 @@
 {"id":1996,"action":"execute","ok":false,"seq":1996,"tookMs":21,"version":"2.3.0","ts":"2026-10-25T18:56:44.788Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":1997,"action":"open","ok":true,"seq":1997,"tookMs":5034,"version":"2.3.0","ts":"2026-10-25T18:56:54.544Z","result":{"tabId":1762282317,"url":"https://losangeles.craigslist.org/search/ggg?query=website&sort=date","background":true,"loadState":"complete"}}
 {"id":1998,"action":"execute","ok":false,"seq":1998,"tookMs":15,"version":"2.3.0","ts":"2026-10-25T18:57:01.353Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
+{"id":1999,"action":"execute","ok":false,"seq":1999,"tookMs":16,"version":"2.3.0","ts":"2026-10-25T18:57:06.231Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
