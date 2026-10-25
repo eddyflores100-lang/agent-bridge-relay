@@ -1,13 +1,15 @@
 {
-  "id": 2104,
+  "id": 2105,
   "action": "navigate",
-  "ok": false,
-  "seq": 2104,
-  "tookMs": 1,
+  "ok": true,
+  "seq": 2105,
+  "tookMs": 3521,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:08:33.962Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:08:42.179Z",
+  "result": {
+    "url": "https://miami.craigslist.org/search/ggg?query=automation&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
