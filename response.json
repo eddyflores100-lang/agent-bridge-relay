@@ -1,16 +1,15 @@
 {
-  "id": 1341,
-  "action": "snapshot",
+  "id": 1342,
+  "action": "open",
   "ok": true,
-  "seq": 1341,
-  "tookMs": 12,
+  "seq": 1342,
+  "tookMs": 3962,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:14:02.756Z",
+  "ts": "2026-10-25T04:14:09.961Z",
   "result": {
-    "challenge": null,
-    "count": 0,
-    "elements": [],
-    "title": "404 - File or directory not found.",
-    "url": "https://www.computrabajo.com/registro-candidato"
+    "tabId": 1762281357,
+    "url": "https://hubstafftalent.net/",
+    "reused": true,
+    "loadState": "complete"
   }
 }
