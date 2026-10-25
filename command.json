@@ -1,1 +1,1 @@
-{"cmd_seq": 966, "action": "wait", "args": {"ms": 2500}}
+{"cmd_seq": 967, "action": "gethtml", "args": {"selector": "div.ja73c1j > div:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm187", "tabId": 1762281357}}
