@@ -1,16 +1,14 @@
 {
-  "id": 1608,
-  "action": "switchtab",
+  "id": 1609,
+  "action": "geturl",
   "ok": true,
-  "seq": 1608,
-  "tookMs": 109,
+  "seq": 1609,
+  "tookMs": 7,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:30:29.505Z",
+  "ts": "2026-10-25T15:30:35.061Z",
   "result": {
-    "tabId": 1762281357,
+    "url": "https://www.multitrabajos.com/signin?returnTo=%2F",
     "title": "Empleos en Ecuador: trabajo y ofertas de empleo - Multitrabajos 2026",
-    "url": "https://www.multitrabajos.com/signin?returnTo=/",
-    "activated": true,
-    "targeted": true
+    "tabId": 1762281357
   }
 }
