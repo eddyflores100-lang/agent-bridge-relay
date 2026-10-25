@@ -1,15 +1,14 @@
 {
-  "id": 851,
-  "action": "navigate",
+  "id": 852,
+  "action": "geturl",
   "ok": true,
-  "seq": 851,
-  "tookMs": 2364,
+  "seq": 852,
+  "tookMs": 6,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:09:06.171Z",
+  "ts": "2026-10-25T02:09:09.142Z",
   "result": {
-    "url": "https://www.fiverr.com/seller_create_gig/",
-    "loadState": "complete",
-    "tabId": 1762281357,
-    "background": true
+    "url": "https://pro.fiverr.com/seller_create_gig/",
+    "title": "Page not found - Fiverr",
+    "tabId": 1762281357
   }
 }
