@@ -1,1 +1,1 @@
-{"cmd_seq": 1774, "action": "listtabs", "args": {}}
+{"cmd_seq": 1775, "action": "opentab", "args": {"url": "https://www.linkedin.com/search/results/content/?keywords=%22looking%20for%20a%20web%20developer%22%20OR%20%22need%20an%20AI%20agent%22&sortBy=%22date_posted%22", "force": true}}
