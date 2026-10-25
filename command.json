@@ -1,1 +1,1 @@
-{"cmd_seq": 1401, "action": "clicktext", "args": {"text": "For Talent"}}
+{"cmd_seq": 1402, "action": "snapshot", "args": {"maxEls": 150}}
