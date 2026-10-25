@@ -1,16 +1,14 @@
 {
-  "id": 1751,
-  "action": "fill",
+  "id": 1752,
+  "action": "click",
   "ok": true,
-  "seq": 1751,
-  "tookMs": 19,
+  "seq": 1752,
+  "tookMs": 20,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:52:07.271Z",
+  "ts": "2026-10-25T16:52:11.144Z",
   "result": {
-    "filled": true,
-    "length": 23,
-    "mode": "instant-background",
-    "verified": true,
+    "clicked": true,
+    "selector": "div.Uc2NEf:nth-of-type(1) > div.wJFUN:nth-of-type(3) > div.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div:nth-of-type(1) > span > button.VfPpkd-Bz112c-LgbsSe",
     "via": "selector"
   }
 }
