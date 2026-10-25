@@ -97,3 +97,4 @@
 {"id":1194,"action":"check","ok":true,"seq":1194,"tookMs":149,"version":"2.2.3","ts":"2026-10-25T03:06:03.883Z","result":{"checked":false,"verified":false}}
 {"id":1195,"action":"wait","ok":true,"seq":1195,"tookMs":1517,"version":"2.2.3","ts":"2026-10-25T03:06:08.518Z","result":{"waited":1500}}
 {"id":1196,"action":"check","ok":true,"seq":1196,"tookMs":13,"version":"2.2.3","ts":"2026-10-25T03:06:11.798Z","result":{"checked":true,"verified":true}}
+{"id":1197,"action":"wait","ok":true,"seq":1197,"tookMs":1214,"version":"2.2.3","ts":"2026-10-25T03:06:17.448Z","result":{"waited":1200}}
