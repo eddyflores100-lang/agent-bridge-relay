@@ -1,15 +1,14 @@
 {
-  "id": 1353,
-  "action": "open",
+  "id": 1354,
+  "action": "clicktext",
   "ok": true,
-  "seq": 1353,
-  "tookMs": 5163,
+  "seq": 1354,
+  "tookMs": 308,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:15:37.957Z",
+  "ts": "2026-10-25T04:15:42.844Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.usebraintrust.com/signup",
-    "reused": true,
-    "loadState": "complete"
+    "clicked": true,
+    "selector": "button#chatbot-select-talent",
+    "via": "clicktext"
   }
 }
