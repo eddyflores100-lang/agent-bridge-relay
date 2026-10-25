@@ -1,15 +1,377 @@
 {
-  "id": 1762,
-  "action": "navigate",
+  "id": 1763,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1762,
-  "tookMs": 5503,
+  "seq": 1763,
+  "tookMs": 25,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:53:53.580Z",
+  "ts": "2026-10-25T16:53:58.585Z",
   "result": {
-    "url": "https://lemon.io/login/",
-    "loadState": "complete",
-    "tabId": 1762281507,
-    "background": true
+    "challenge": null,
+    "count": 20,
+    "elements": [
+      {
+        "ariaLabel": "Cerca",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 447,
+          "y": 663
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "html.translated-ltr > body.error404 > div.cky-consent-container:nth-of-type(3) > div.cky-consent-bar > button.cky-banner-btn-close",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "No venda ni comparta mi información personal.",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 390,
+          "x": 65,
+          "y": 855
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "div.cky-consent-bar > div.cky-notice-content-wrapper:nth-of-type(1) > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper:nth-of-type(2) > button.cky-btn",
+        "tag": "button",
+        "text": "No venda ni comparta mi información personal.",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Visita el sitio web de CookieYes",
+        "href": "https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=fl-branding",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 78,
+          "x": 281,
+          "y": 916
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "div.cky-consent-container:nth-of-type(3) > div.cky-consent-bar > div:nth-of-type(2) > div > div > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 150,
+          "x": 56,
+          "y": 35
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "header#masthead > div.site-header__wrp > div.site-branding:nth-of-type(1) > a.custom-logo-link",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://magic.lemon.io/welcome?from=hire-talent",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 56,
+          "w": 178,
+          "x": 910,
+          "y": 23
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "[data-testid=\"link-to-magic-lemon\"]",
+        "tag": "a",
+        "text": "Comienza a contratar",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://me.lemon.io/escape-the-matrix?from=header",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 56,
+          "w": 158,
+          "x": 736,
+          "y": 23
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "[data-testid=\"link-to-me-lemon\"]",
+        "tag": "a",
+        "text": "Encuentra empleos",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://app.lemon.io/auth/login",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 104,
+          "x": 1103,
+          "y": 23
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "[data-testid=\"login\"]",
+        "tag": "a",
+        "text": "Acceso",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/login/#",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 68,
+          "w": 190,
+          "x": 254,
+          "y": 17
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "li#menu-item-82838 > a",
+        "tag": "a",
+        "text": "Para desarrolladores",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/login/#",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 68,
+          "w": 140,
+          "x": 459,
+          "y": 17
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "li#menu-item-63134 > a",
+        "tag": "a",
+        "text": "Para empresas",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/login/#",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 104,
+          "x": 616,
+          "y": 17
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "li#menu-item-54526 > a",
+        "tag": "a",
+        "text": "Servicios",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://magic.lemon.io/welcome",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 70,
+          "w": 361,
+          "x": 119,
+          "y": 585
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "div.container > article.page > div.error-404__wrap > div.error-404__content:nth-of-type(1) > div.error-404__btn > a.btn",
+        "tag": "a",
+        "text": "consigue las mejores manos",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/partnership/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 151,
+          "x": 52,
+          "y": 955
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "li#menu-item-81178 > a",
+        "tag": "a",
+        "text": "Programa de socios",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/blog/cloud-computing-statistics/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 299,
+          "x": 267,
+          "y": 955
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "li#menu-item-75182 > a",
+        "tag": "a",
+        "text": "Estadísticas de computación en la nube",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/login/#",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 68,
+          "x": 635,
+          "y": 807
+        },
+        "ref": "e13",
+        "role": "",
+        "selector": "li#menu-item-54572 > a",
+        "tag": "a",
+        "text": "Recursos",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/case-studies/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 126,
+          "x": 635,
+          "y": 844
+        },
+        "ref": "e14",
+        "role": "",
+        "selector": "li#menu-item-58308 > a",
+        "tag": "a",
+        "text": "Estudios de caso",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/interview-questions/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 182,
+          "x": 635,
+          "y": 881
+        },
+        "ref": "e15",
+        "role": "",
+        "selector": "li#menu-item-75156 > a",
+        "tag": "a",
+        "text": "Preguntas de entrevista",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/login/#",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 156,
+          "x": 857,
+          "y": 807
+        },
+        "ref": "e16",
+        "role": "",
+        "selector": "li#menu-item-54576 > a",
+        "tag": "a",
+        "text": "Enlaces importantes",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/job-description/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 276,
+          "x": 857,
+          "y": 844
+        },
+        "ref": "e17",
+        "role": "",
+        "selector": "li#menu-item-54578 > a",
+        "tag": "a",
+        "text": "Descripciones de puestos de trabajo",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.trustpilot.com/review/lemon.io",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 63,
+          "x": 857,
+          "y": 881
+        },
+        "ref": "e18",
+        "role": "",
+        "selector": "li#menu-item-54617 > a",
+        "tag": "a",
+        "text": "Reseñas",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/rate-calculator/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 171,
+          "x": 857,
+          "y": 918
+        },
+        "ref": "e19",
+        "role": "",
+        "selector": "li#menu-item-75732 > a",
+        "tag": "a",
+        "text": "Calculadora de tarifas",
+        "type": ""
+      }
+    ],
+    "title": "Página no encontrada - Lemon.io",
+    "url": "https://lemon.io/login/"
   }
 }
