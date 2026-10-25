@@ -1,14 +1,161 @@
 {
-  "id": 1720,
-  "action": "clicktext",
+  "id": 1721,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1720,
-  "tookMs": 39,
+  "seq": 1721,
+  "tookMs": 17,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:48:23.755Z",
+  "ts": "2026-10-25T16:48:28.551Z",
   "result": {
-    "clicked": true,
-    "selector": "div:nth-of-type(1) > div.sc-cAeoYj > div.sc-gOMZPV > div.sc-gaUXCY:nth-of-type(1) > div.sc-cCqzuZ:nth-of-type(2) > button.sc-dlVxDp:nth-of-type(2)",
-    "via": "clicktext"
+    "challenge": null,
+    "count": 8,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://www.scalablepath.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 21,
+          "w": 1050,
+          "x": 100,
+          "y": 14
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "div.sc-czvYMC:nth-of-type(1) > div.sc-iJKPnr > div.sc-iJKPnr > div.sc-kqnkdz > div.sc-iCfMpq > a.sc-pVTZz",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 28,
+          "w": 28,
+          "x": 1150,
+          "y": 11
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "div.sc-iBjMkt > div.sc-czvYMC:nth-of-type(1) > div.sc-iJKPnr > div.sc-iJKPnr > div.sc-kqnkdz > button.sc-kfPrBu",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 322,
+          "x": 261,
+          "y": 221
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "div:nth-of-type(1) > div.sc-cAeoYj > div.sc-gOMZPV > div.sc-gaUXCY:nth-of-type(1) > div.sc-cCqzuZ:nth-of-type(2) > button.sc-bBHyYg:nth-of-type(1)",
+        "tag": "button",
+        "text": "Sign up with LinkedIn\nSign up with LinkedIn",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.scalablepath.com/oauth/google/register",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 322,
+          "x": 261,
+          "y": 313
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div:nth-of-type(1) > div.sc-cAeoYj > div.sc-gOMZPV > div.sc-gaUXCY:nth-of-type(1) > div.sc-cCqzuZ:nth-of-type(2) > a",
+        "tag": "a",
+        "text": "Sign up with Google\nSign up with Google",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 322,
+          "x": 261,
+          "y": 406
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "div:nth-of-type(1) > div.sc-cAeoYj > div.sc-gOMZPV > div.sc-gaUXCY:nth-of-type(1) > div.sc-cCqzuZ:nth-of-type(2) > button.sc-dlVxDp:nth-of-type(2)",
+        "tag": "button",
+        "text": "Sign up with Email\nSign up with Email",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.scalablepath.com/login",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 28,
+          "w": 279,
+          "x": 282,
+          "y": 498
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "main.sc-eIMkjM > div.sc-PvipX > div:nth-of-type(1) > div.sc-cAeoYj > div.sc-gOMZPV > a",
+        "tag": "a",
+        "text": "I already have a Scalable Path account\nI already have a Scalable Path account",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.cio.com/article/238206/7-habits-of-highly-effective-developers.html",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 126,
+          "x": 718,
+          "y": 301
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "div.sc-PvipX > div.sc-dmvcXF:nth-of-type(2) > div.sc-dshhSw > div.sc-kkQWbL:nth-of-type(2) > div > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.wsj.com/articles/companies-find-tech-talent-in-robust-freelance-market-1453941466",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 72,
+          "x": 879,
+          "y": 301
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "div.sc-PvipX > div.sc-dmvcXF:nth-of-type(2) > div.sc-dshhSw > div.sc-kkQWbL:nth-of-type(2) > div > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      }
+    ],
+    "title": "Apply to Join Our Network | Scalable Path®",
+    "url": "https://www.scalablepath.com/apply"
   }
 }
