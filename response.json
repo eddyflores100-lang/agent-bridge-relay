@@ -1,12 +1,14 @@
 {
-  "id": 870,
-  "action": "wait",
+  "id": 871,
+  "action": "geturl",
   "ok": true,
-  "seq": 870,
-  "tookMs": 3514,
+  "seq": 871,
+  "tookMs": 4,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:13:39.901Z",
+  "ts": "2026-10-25T02:13:44.693Z",
   "result": {
-    "waited": 3500
+    "url": "https://pro.fiverr.com/seller_onboarding/0",
+    "title": "Seller Onboarding",
+    "tabId": 1762281357
   }
 }
