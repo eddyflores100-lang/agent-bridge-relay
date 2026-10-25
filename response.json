@@ -1,16 +1,15 @@
 {
-  "id": 1757,
-  "action": "snapshot",
+  "id": 1758,
+  "action": "open",
   "ok": true,
-  "seq": 1757,
-  "tookMs": 14,
+  "seq": 1758,
+  "tookMs": 2628,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:52:54.451Z",
+  "ts": "2026-10-25T16:53:00.107Z",
   "result": {
-    "challenge": null,
-    "count": 0,
-    "elements": [],
-    "title": "",
-    "url": "https://www.turing.com/apply"
+    "tabId": 1762281538,
+    "url": "https://www.upwork.com/nx/signup/",
+    "background": true,
+    "loadState": "complete"
   }
 }
