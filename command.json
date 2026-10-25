@@ -1,1 +1,1 @@
-{"cmd_seq": 1387, "action": "clicktext", "args": {"text": "Reject All"}}
+{"cmd_seq": 1388, "action": "getlinks", "args": {"filter": "sign|join|register|inscri"}}
