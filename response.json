@@ -1,13 +1,14 @@
 {
-  "id": 1148,
+  "id": 1149,
   "action": "check",
-  "ok": true,
-  "seq": 1148,
-  "tookMs": 12,
+  "ok": false,
+  "seq": 1149,
+  "tookMs": 11,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:00:14.400Z",
-  "result": {
-    "checked": true,
-    "verified": true
+  "ts": "2026-10-25T03:00:19.414Z",
+  "error": {
+    "code": "TARGET_NOT_FOUND",
+    "hint": "prueba snapshot",
+    "message": "selector sin match"
   }
 }
