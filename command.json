@@ -1,1 +1,1 @@
-{"cmd_seq": 1310, "action": "open", "args": {"url": "https://www.guru.com/", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1311, "action": "clicktext", "args": {"text": "Sign Up"}}
