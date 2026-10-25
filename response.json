@@ -1,13 +1,15 @@
 {
-  "id": 2095,
+  "id": 2096,
   "action": "navigate",
-  "ok": false,
-  "seq": 2095,
-  "tookMs": 1,
+  "ok": true,
+  "seq": 2096,
+  "tookMs": 3513,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:07:32.811Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:07:40.982Z",
+  "result": {
+    "url": "https://austin.craigslist.org/search/ggg?query=web&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
