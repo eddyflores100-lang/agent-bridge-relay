@@ -1,12 +1,21 @@
 {
-  "id": 1882,
-  "action": "gettext",
+  "id": 1883,
+  "action": "control",
   "ok": true,
-  "seq": 1882,
-  "tookMs": 384,
+  "seq": 1883,
+  "tookMs": 6,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:16:21.469Z",
+  "ts": "2026-10-25T18:16:47.075Z",
   "result": {
-    "text": "Skip to content\nHome\nAttend online\nAttend in-person\nAbout\nMy Hacktoberfest\n\nATTEND ONLINE\n\nA month of\nthings to join.\n\nEverything happening online this October, in your time zone or any other. Global Hack Week, workshops, streams, and the ceremonies that open and close the month.\n\nOCTOBER 2026 · 55 EVENTS\nSTREAM\nMINI-EVENT\nCHALLENGE\nLAST DAY\nTIMES IN\n▾\n23 past events\nSHOW WHAT HAS ALREADY HAPPENED\nMON\n19\nOCT\nSUBMISSIONS OPEN\nHacktoberfest Week 3 DEV Challenge\nCHALLENGE\nOPENSMon 19 Oct, 2:00 AM\nCLOSESMon 26 Oct, 1:59 AM\nWEEK 5\nMON\n26\nOCT\nFIRST DAY\nHacktoberfest Week 4 DEV Challenge\nCHALLENGE\nOPENSMon 26 Oct, 2:00 AM\nCLOSESSun 1 Nov, 1:59 AM\nMON\n26\nOCT\nLAST DAY\nHacktoberfest Week 3 DEV Challenge\nMon 26 Oct,\nCloses 1:59 AM\nTHU\n29\nOCT\nRunning Local AI Models with Ollama and OpenCode\nSTREAM\nThu 29 Oct,\n4:00 PM – 6:00 PM\nFRI\n30\nOCT\nBuilding Your Own Skills with OpenCode\nSTREAM\nFri 30 Oct,\n2:00 PM – 4:00 PM\nSUN\n1\nNOV\nLAST DAY\nHacktoberfest Week 4 DEV Challenge\nSun 1 Nov,\nCloses 1:59 AM\nWould rather be in a room?\n\nHundreds of Fests are happening in person this October, hosted by local communities around the world. Find the one nearest you.\n\nFind a Fest"
+    "tabId": 1762280432,
+    "url": "https://hacktoberfest.com/schedule/",
+    "who": "agent",
+    "ts": 1792952181412,
+    "summary": {
+      "human": 0,
+      "agent": 1,
+      "total": 1
+    },
+    "pushed": false
   }
 }
