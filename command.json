@@ -1,1 +1,1 @@
-{"cmd_seq": 860, "action": "geturl", "args": {"tabId": 1762281357}}
+{"cmd_seq": 861, "action": "navigate", "args": {"url": "https://pro.fiverr.com/account-settings", "tabId": 1762281357, "waitMs": 12000}}
