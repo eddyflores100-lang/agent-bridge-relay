@@ -1,14 +1,13 @@
 {
-  "id": 1229,
-  "action": "gethtml",
-  "ok": false,
-  "seq": 1229,
-  "tookMs": 12,
+  "id": 1230,
+  "action": "scroll",
+  "ok": true,
+  "seq": 1230,
+  "tookMs": 16,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:09:43.613Z",
-  "error": {
-    "code": "TARGET_NOT_FOUND",
-    "hint": "prueba snapshot",
-    "message": "selector sin match"
+  "ts": "2026-10-25T03:10:11.623Z",
+  "result": {
+    "scrolled": true,
+    "y": 0
   }
 }
