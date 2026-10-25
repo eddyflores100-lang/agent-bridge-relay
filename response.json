@@ -1,53 +1,15 @@
 {
-  "id": 1502,
-  "action": "snapshot",
+  "id": 1503,
+  "action": "open",
   "ok": true,
-  "seq": 1502,
-  "tookMs": 13,
+  "seq": 1503,
+  "tookMs": 2473,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:36:05.012Z",
+  "ts": "2026-10-25T04:36:10.592Z",
   "result": {
-    "challenge": null,
-    "count": 2,
-    "elements": [
-      {
-        "ariaLabel": "",
-        "href": "https://account.hubstaff.com/",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 17,
-          "w": 58,
-          "x": 379,
-          "y": 204
-        },
-        "ref": "e0",
-        "role": "",
-        "selector": "html > body > div.dialog > ul > li > a",
-        "tag": "a",
-        "text": "Account",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "http://support.hubstaff.com/",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 15,
-          "w": 101,
-          "x": 519,
-          "y": 240
-        },
-        "ref": "e1",
-        "role": "",
-        "selector": "html > body > div.dialog > p:nth-of-type(2) > small > a",
-        "tag": "a",
-        "text": "our support team",
-        "type": ""
-      }
-    ],
-    "title": "Hubstaff - 404",
-    "url": "https://account.hubstaff.com/signup"
+    "tabId": 1762281357,
+    "url": "https://www.usebraintrust.com/signup",
+    "reused": true,
+    "loadState": "complete"
   }
 }
