@@ -1,16 +1,15 @@
 {
-  "id": 1704,
-  "action": "snapshot",
+  "id": 1705,
+  "action": "open",
   "ok": true,
-  "seq": 1704,
-  "tookMs": 7,
+  "seq": 1705,
+  "tookMs": 12072,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:45:46.235Z",
+  "ts": "2026-10-25T16:46:01.918Z",
   "result": {
-    "challenge": null,
-    "count": 0,
-    "elements": [],
-    "title": "",
-    "url": "https://www.turing.com/apply"
+    "tabId": 1762281507,
+    "url": "https://lemon.io/for-devs/",
+    "background": true,
+    "loadState": "timeout"
   }
 }
