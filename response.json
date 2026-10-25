@@ -1,12 +1,12 @@
 {
-  "id": 979,
-  "action": "press",
+  "id": 980,
+  "action": "wait",
   "ok": true,
-  "seq": 979,
-  "tookMs": 1933,
+  "seq": 980,
+  "tookMs": 2013,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:32:59.195Z",
+  "ts": "2026-10-25T02:33:04.736Z",
   "result": {
-    "pressed": "Escape"
+    "waited": 2000
   }
 }
