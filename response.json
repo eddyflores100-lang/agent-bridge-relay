@@ -1,15 +1,53 @@
 {
-  "id": 1455,
-  "action": "open",
+  "id": 1456,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1455,
-  "tookMs": 2768,
+  "seq": 1456,
+  "tookMs": 18,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:30:26.277Z",
+  "ts": "2026-10-25T04:30:33.085Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://account.hubstaff.com/signup",
-    "reused": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 2,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://account.hubstaff.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 58,
+          "x": 379,
+          "y": 204
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "html > body > div.dialog > ul > li > a",
+        "tag": "a",
+        "text": "Account",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "http://support.hubstaff.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 15,
+          "w": 101,
+          "x": 519,
+          "y": 240
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "html > body > div.dialog > p:nth-of-type(2) > small > a",
+        "tag": "a",
+        "text": "our support team",
+        "type": ""
+      }
+    ],
+    "title": "Hubstaff - 404",
+    "url": "https://account.hubstaff.com/signup"
   }
 }
