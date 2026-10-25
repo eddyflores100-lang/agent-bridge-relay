@@ -1,1 +1,1 @@
-{"cmd_seq": 865, "action": "click", "args": {"selector": "div.builder-blocks > div.ck74w11j:nth-of-type(2) > div.ck74w11e:nth-of-type(1) > div.ck74w11j > div.ck74w11j > button._1gwpigir", "tabId": 1762281357}}
+{"cmd_seq": 866, "action": "wait", "args": {"ms": 4000}}
