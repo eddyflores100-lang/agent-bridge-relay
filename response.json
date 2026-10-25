@@ -1,11 +1,11 @@
 {
-  "id": 1726,
+  "id": 1727,
   "action": "fill",
   "ok": false,
-  "seq": 1726,
-  "tookMs": 10,
+  "seq": 1727,
+  "tookMs": 19,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:49:07.088Z",
+  "ts": "2026-10-25T16:49:10.675Z",
   "error": {
     "code": "CHALLENGE_PAGE",
     "message": "challenge anti-bot detectado: recaptcha",
