@@ -1,15 +1,178 @@
 {
-  "id": 1684,
+  "id": 1685,
   "action": "snapshot",
   "ok": true,
-  "seq": 1684,
-  "tookMs": 15,
+  "seq": 1685,
+  "tookMs": 63,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:41:13.680Z",
+  "ts": "2026-10-25T15:41:20.317Z",
   "result": {
     "challenge": null,
-    "count": 0,
-    "elements": [],
+    "count": 9,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/ingresar",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 200,
+          "x": 5,
+          "y": 48
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "div#navigation > header.tw-fixed > nav.tw-bg-primary > div.tw-flex > a.col-6",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Cambiar tema claro u oscuro",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 28,
+          "w": 28,
+          "x": 215,
+          "y": 42
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "header.tw-fixed > nav.tw-bg-primary > div.tw-flex > div.tw-flex:nth-of-type(1) > div.btn-group:nth-of-type(1) > button.btn",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 28,
+          "x": 253,
+          "y": 47
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "nav.tw-bg-primary > div.tw-flex > div.tw-flex:nth-of-type(1) > div.tw-flex:nth-of-type(2) > div.online-status-indicator:nth-of-type(2) > button.online-status-btn",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/ingresar#",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 41,
+          "x": 1217,
+          "y": 46
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div#mobile-menu-2 > ul.tw-flex > li.tw-flex > a.tw-block",
+        "tag": "a",
+        "text": "Inicio",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 290,
+          "x": 494,
+          "y": 358
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "input#email",
+        "tag": "input",
+        "text": "",
+        "type": "email"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 290,
+          "x": 494,
+          "y": 432
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "input#password",
+        "tag": "input",
+        "text": "",
+        "type": "password"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 290,
+          "x": 494,
+          "y": 529
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "button#email-signin",
+        "tag": "button",
+        "text": "Ingresar",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/blog/politicas-de-privacidad/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 14,
+          "w": 136,
+          "x": 474,
+          "y": 666
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "div#nav-signin > div.form-text:nth-of-type(3) > a.mousepointer:nth-of-type(1)",
+        "tag": "a",
+        "text": "Políticas de privacidad",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/blog/terminos-y-condiciones/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 14,
+          "w": 142,
+          "x": 663,
+          "y": 666
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "div#nav-signin > div.form-text:nth-of-type(3) > a.mousepointer:nth-of-type(2)",
+        "tag": "a",
+        "text": "Términos y condiciones",
+        "type": ""
+      }
+    ],
     "title": "Ingresar | SoyFreelancer.com",
     "url": "https://www.soyfreelancer.com/ingresar"
   }
