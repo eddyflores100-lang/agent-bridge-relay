@@ -1,1 +1,1 @@
-{"cmd_seq": 2032, "action": "execute", "args": {"tabId": 1762282350, "fn": "() => { window.close(); return 1; }"}}
+{"cmd_seq": 2033, "action": "open", "args": {"url": "https://miami.craigslist.org/search/ggg?query=website&sort=date"}}
