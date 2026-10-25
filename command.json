@@ -1,1 +1,1 @@
-{"cmd_seq": 850, "action": "snapshot", "args": {"tabId": 1762281357, "maxEls": 200}}
+{"cmd_seq": 851, "action": "navigate", "args": {"url": "https://www.fiverr.com/seller_create_gig/", "tabId": 1762281357, "waitMs": 15000}}
