@@ -1,12 +1,229 @@
 {
-  "id": 1896,
-  "action": "gettext",
+  "id": 1897,
+  "action": "listtabs",
   "ok": true,
-  "seq": 1896,
-  "tookMs": 42,
+  "seq": 1897,
+  "tookMs": 10,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:33:25.701Z",
+  "ts": "2026-10-25T18:33:29.820Z",
   "result": {
-    "text": "Ir al contenido principal\n[Hiring] AI agent - Búsqueda de Reddit\nAnunciarse en Reddit\nCrear\nPublicar\nExpandir menú de usuario\nPublicaciones\nComentarios\nMultimedia\nback\nforward\nNuevo\n\nMostrar resultados de \ntodo Reddit\n\n[FOR HIRE] Gameplay Programmer & Team Lead (Godot / Unity, C#). $50-75/hr CAD contract, or salaried full-time\nr/forhire\n·\nhace 4 h\n[FOR HIRE] Gameplay Programmer & Team Lead (Godot / Unity, C#). $50-75/hr CAD contract, or salaried full-time\n2 votos·3 comentarios\n[Hiring] Software Engineer | System Architecture looking to hire me work together with individuals, startups, small businesses or teams remotely\nr/forhire\n·\nhace 6 h\n[Hiring] Software Engineer | System Architecture looking to hire me work together with individuals, startups, small businesses or teams remotely\n1 voto·1 comentario\n[Hiring] Software Engineer | System Architecture looking to hire me work together with individuals, startups, small businesses or teams remotely\nr/forhire\n·\nhace 6 h\n[Hiring] Software Engineer | System Architecture looking to hire me work together with individuals, startups, small businesses or teams remotely\n1 voto·1 comentario\n[Hiring] Software Engineer | System Architecture looking to hire me work together with individuals, startups, small businesses or teams remotely\nr/forhire\n·\nhace 6 h\n[Hiring] Software Engineer | System Architecture looking to hire me work together with individuals, startups, small businesses or teams remotely\n1 voto·1 comentario\n[For Hire] Python Developer: AI/LLM Pipelines, Data Extraction & Backend Automation | Remote | From $20/hr\nr/forhire\n·\nhace 7 h\n[For Hire] Python Developer: AI/LLM Pipelines, Data Extraction & Backend Automation | Remote | From $20/hr\n1 voto·1 comentario\n[HIRING] Remote Appointment Setter — $30/hr + 10% Commission\nr/forhire\n·\nhace 11 h\n[HIRING] Remote Appointment Setter — $30/hr + 10% Commission\n0 votos·4 comentarios\n[HIRING] Procurement & Vendor Management Experts | Remote | $45–$90/hour | 20 Openings\nr/forhire\n·\nhace 14 h\n[HIRING] Procurement & Vendor Management Experts | Remote | $45–$90/hour | 20 Openings\n1 voto·8 comentarios\nCreada el 28 may 2009\nPúblico\n24 mil4,1 mil\nReglas de Reddit\nPolítica de privacidad\nAcuerdo del usuario\nTus opciones de privacidad\nAccesibilidad\nReddit, Inc. © 2026. Todos los derechos reservados.\nContraer la navegación"
+    "tabs": [
+      {
+        "tabId": 1762281381,
+        "title": "Web analytics | Eddyflores100@gmail.com's Account | Cloudflare",
+        "url": "https://dash.cloudflare.com/faf93cd2a0d373573de0859b1cc95328/web-analytics/sites",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281073,
+        "title": "Resultado de la evaluación de tu currículum | Toptal Resume",
+        "url": "https://www.toptal.com/resume/es/analizador-de-curriculum/c3eb4e69050bd2c6c44a8d2d3305f4545ad01e12cc5e29cdead3c1f1f650796e/resultado?utm_source=techresume&utm_medium=email&utm_campaign=free-assessment",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280092,
+        "title": "KUDERT",
+        "url": "https://evaluado.kudert.com/onboarding-proctoring",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280836,
+        "title": "AliceLabs LLC (@f55494505) / X",
+        "url": "https://x.com/f55494505",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281438,
+        "title": "Sent - contacto@alicelabs.site",
+        "url": "https://mail.hostinger.com/0/mailboxes/INBOX.Sent",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280997,
+        "title": "Diseño de banner web",
+        "url": "https://chatgpt.com/c/6ada99da-1fc0-83e9-a5d7-082860be0286",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280432,
+        "title": "🤖 October Schedule | Hacktoberfest 2026",
+        "url": "https://hacktoberfest.com/schedule/",
+        "active": false,
+        "who": "agent"
+      },
+      {
+        "tabId": 1762280107,
+        "title": "Ambitious_Truth_1878 (u/Ambitious_Truth_1878) - Reddit",
+        "url": "https://www.reddit.com/user/Ambitious_Truth_1878/?screen_view_count=2",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280110,
+        "title": "Tokens",
+        "url": "https://vercel.com/account/settings/tokens",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280848,
+        "title": "npm | Settings: Tokens",
+        "url": "https://www.npmjs.com/settings/eddyflores100/tokens/",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280116,
+        "title": "DKIM personalizado | Hostinger",
+        "url": "https://hpanel.hostinger.com/email/alicelabs.site/custom-dkim?location=side_menu",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280119,
+        "title": "Resend",
+        "url": "https://resend.com/login",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280122,
+        "title": "Iniciar sesión · GitLab",
+        "url": "https://gitlab.com/users/sign_in",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280125,
+        "title": "Log in - Intigriti",
+        "url": "https://login.intigriti.com/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Frequest_uri%3Durn%253Aietf%253Aparams%253Aoauth%253Arequest_uri%253A53D35F89F5EE04135DBE764A0F854D35944DC43CEF26",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280128,
+        "title": "New Links | Hacker News",
+        "url": "https://news.ycombinator.com/newest",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280131,
+        "title": "Reseller license – OpenSanctions",
+        "url": "https://www.opensanctions.org/licensing/reseller/",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281373,
+        "title": "Great Domains, Easy Management | Namify",
+        "url": "https://manage.get.tech/login",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281426,
+        "title": "eddyflores100-lang/alicelabs-space: SENTINEL ARENA - el juego de AliceLabs (alicelabs.space). Verifica skills Ed25519, esquiva scams, gana USDC x402. Built by ZOLO.",
+        "url": "https://github.com/eddyflores100-lang/alicelabs-space",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281423,
+        "title": "🚀 Buscamos que seas tu mejor versión",
+        "url": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfMrDhqLo7wAvYJYAkVX-GvLdrtwN4y9fZ_YyuDDlsYVFVqjA/formResponse",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281370,
+        "title": "DigitalOcean",
+        "url": "https://cloud.digitalocean.com/dashboard?utm_source=inflection&utm_medium=email&utm_campaign=EVG_ONB_Welcome_Flow_10.13.2026&utm_content=EVG_ONB_Welcome_VersionC&inf_ver=2&inf_ctx=hde-fH5gos2wAvjh9hBy",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280211,
+        "title": "API Keys | Nitrosend",
+        "url": "https://app.nitrosend.com/my/settings/api-keys",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280164,
+        "title": "SEO y GEO para Marketplaces - Google Gemini",
+        "url": "https://gemini.google.com/app/bba70773eac68750?hl=es&canvas-id=im_874d81fc7c35f1d7",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281067,
+        "title": "Help my build AI agent - $1,000 - Airtasker",
+        "url": "https://www.airtasker.com/tasks/help-my-build-ai-agent-x01m5ktcpm5f1phpwxtk2kjm6fq/",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281010,
+        "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon: Build the conversational experiences of tomorrow - Devpost",
+        "url": "https://aws-cds-partner.devpost.com/",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280980,
+        "title": "Hotmart",
+        "url": "https://app.hotmart.com/tools/webhook/auth",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281040,
+        "title": "(21) Messenger | Freelancer",
+        "url": "https://www.freelancer.com/messages/thread/444615925",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281476,
+        "title": "(21) Service Technician – Wind Turbine Maintenance & Inspections | Freelancer",
+        "url": "https://www.freelancer.com/projects/mechanical-engineering/Service-Technician-Wind-Turbine/details",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281378,
+        "title": "Products",
+        "url": "https://gumroad.com/products",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281233,
+        "title": "Enviados - eddyflores100@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/0/#sent",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281593,
+        "title": "Welcome to the Gun.io platform | Gun.io",
+        "url": "https://app.gun.io/app/join-us/?v=basic-information",
+        "active": false,
+        "who": null
+      }
+    ],
+    "bridgeTabId": 1762281637,
+    "control": {
+      "human": 0,
+      "agent": 3,
+      "total": 3
+    }
   }
 }
