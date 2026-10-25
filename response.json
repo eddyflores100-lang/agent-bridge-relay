@@ -1,13 +1,12 @@
 {
-  "id": 1230,
-  "action": "scroll",
+  "id": 1231,
+  "action": "wait",
   "ok": true,
-  "seq": 1230,
-  "tookMs": 16,
+  "seq": 1231,
+  "tookMs": 1006,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:10:11.623Z",
+  "ts": "2026-10-25T03:10:15.667Z",
   "result": {
-    "scrolled": true,
-    "y": 0
+    "waited": 1000
   }
 }
