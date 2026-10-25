@@ -1,14 +1,14 @@
 {
-  "id": 1115,
+  "id": 1116,
   "action": "click",
-  "ok": true,
-  "seq": 1115,
-  "tookMs": 411,
+  "ok": false,
+  "seq": 1116,
+  "tookMs": 36,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:55:57.870Z",
-  "result": {
-    "clicked": true,
-    "selector": "div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)",
-    "via": "selector"
+  "ts": "2026-10-25T02:56:32.904Z",
+  "error": {
+    "code": "OBSCURED",
+    "hint": "click al tapador: selector div.nnpxsm0 > div.ja73c1j > ul.nnpxsm187 > li.ja73c19:nth-of-type(3) > label.ja73c1j > div._1i8zn3u:nth-of-type(2) o cierra el modal/banner",
+    "message": "elemento tapado por div \"Pro\""
   }
 }
