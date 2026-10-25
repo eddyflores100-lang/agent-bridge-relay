@@ -1,14 +1,14 @@
 {
-  "id": 1700,
-  "action": "fill",
+  "id": 1701,
+  "action": "click",
   "ok": false,
-  "seq": 1700,
+  "seq": 1701,
   "tookMs": 6,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:41:28.076Z",
+  "ts": "2026-10-25T16:41:31.646Z",
   "error": {
     "code": "TARGET_NOT_FOUND",
-    "message": "tabId 1762281490 no existe",
+    "message": "tabId 1762281493 no existe",
     "hint": "listtabs"
   }
 }
