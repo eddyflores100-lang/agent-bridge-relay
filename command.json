@@ -1,1 +1,1 @@
-{"cmd_seq": 1569, "action": "click", "args": {"ref": "e1"}}
+{"cmd_seq": 1570, "action": "snapshot", "args": {"maxEls": 120}}
