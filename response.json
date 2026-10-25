@@ -1,15 +1,13 @@
 {
-  "id": 2006,
-  "action": "open",
-  "ok": true,
-  "seq": 2006,
-  "tookMs": 4513,
+  "id": 2007,
+  "action": "execute",
+  "ok": false,
+  "seq": 2007,
+  "tookMs": 19,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:57:50.040Z",
-  "result": {
-    "tabId": 1762282326,
-    "url": "https://newyork.craigslist.org/search/ggg?query=website&sort=date",
-    "background": true,
-    "loadState": "complete"
+  "ts": "2026-10-25T18:57:55.772Z",
+  "error": {
+    "code": "UNSUPPORTED",
+    "message": "accion \"execute\" no soportada en inject.js"
   }
 }
