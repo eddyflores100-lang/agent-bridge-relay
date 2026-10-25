@@ -1,1 +1,1 @@
-{"cmd_seq": 901, "action": "type", "args": {"selector": "div.ja73cu:nth-of-type(2) input.ja73c1j", "value": "Web Designer - WordPress, Shopify and Landing Pages", "tabId": 1762281357}}
+{"cmd_seq": 902, "action": "press", "args": {"selector": "div.ja73cu:nth-of-type(2) input.ja73c1j", "key": "Enter", "tabId": 1762281357}}
