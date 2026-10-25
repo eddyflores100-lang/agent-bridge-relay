@@ -1,1 +1,1 @@
-{"cmd_seq": 926, "action": "clicktext", "args": {"text": "Spanish", "tabId": 1762281357}}
+{"cmd_seq": 927, "action": "getattr", "args": {"selector": "div.ja73c14[aria-label=\"Add languages\"]", "attr": "aria-expanded", "tabId": 1762281357}}
