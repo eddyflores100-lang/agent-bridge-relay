@@ -1,15 +1,16 @@
 {
-  "id": 1395,
-  "action": "open",
+  "id": 1396,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1395,
-  "tookMs": 2148,
+  "seq": 1396,
+  "tookMs": 11,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:22:35.391Z",
+  "ts": "2026-10-25T04:22:52.690Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.computrabajo.com/registro-candidato",
-    "reused": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 0,
+    "elements": [],
+    "title": "404 - File or directory not found.",
+    "url": "https://www.computrabajo.com/registro-candidato"
   }
 }
