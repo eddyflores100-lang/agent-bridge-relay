@@ -1,1 +1,1 @@
-{"cmd_seq": 1692, "action": "open", "args": {"url": "https://ec.indeed.com/?from=gnav-jobsearch--indeed", "waitMs": 12000}}
+{"cmd_seq": 1693, "action": "snapshot", "args": {"tabId": 1762281487, "maxEls": 160}}
