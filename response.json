@@ -1,16 +1,15 @@
 {
-  "id": 1319,
-  "action": "fill",
+  "id": 1320,
+  "action": "open",
   "ok": true,
-  "seq": 1319,
-  "tookMs": 26,
+  "seq": 1320,
+  "tookMs": 9712,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:11:51.847Z",
+  "ts": "2026-10-25T04:12:05.100Z",
   "result": {
-    "filled": true,
-    "length": 13,
-    "mode": "instant-background",
-    "verified": true,
-    "via": "ref"
+    "tabId": 1762281357,
+    "url": "https://legiit.com/",
+    "reused": true,
+    "loadState": "timeout"
   }
 }
