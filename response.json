@@ -1,12 +1,14 @@
 {
-  "id": 1010,
-  "action": "wait",
-  "ok": true,
-  "seq": 1010,
-  "tookMs": 1513,
+  "id": 1011,
+  "action": "click",
+  "ok": false,
+  "seq": 1011,
+  "tookMs": 13,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:37:48.643Z",
-  "result": {
-    "waited": 1500
+  "ts": "2026-10-25T02:37:54.154Z",
+  "error": {
+    "code": "OBSCURED",
+    "hint": "click al tapador: selector div.nnpxsm0 > div.nnpxsm0 > div.ja73c1j > ul.nnpxsm187 > li.ja73c19:nth-of-type(1) > label.ja73c1j o cierra el modal/banner",
+    "message": "elemento tapado por label \"English\""
   }
 }
