@@ -1,15 +1,1043 @@
 {
-  "id": 1778,
-  "action": "open",
+  "id": 1779,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1778,
-  "tookMs": 10135,
+  "seq": 1779,
+  "tookMs": 90,
   "version": "2.2.3",
-  "ts": "2026-10-25T17:09:13.063Z",
+  "ts": "2026-10-25T17:09:26.923Z",
   "result": {
-    "tabId": 1762281548,
-    "url": "https://www.facebook.com/groups/2327375611076477",
-    "background": true,
-    "loadState": "timeout"
+    "challenge": null,
+    "count": 57,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 34,
+          "x": 75,
+          "y": 9
+        },
+        "ref": "e0",
+        "role": "button",
+        "selector": "[data-testid=\"primary-nav\"] > div.l4jl2p > div.l4jlyw:nth-of-type(1)",
+        "tag": "div",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "Buscar",
+        "rect": {
+          "h": 34,
+          "w": 490,
+          "x": 117,
+          "y": 9
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "input#_r_4_",
+        "tag": "input",
+        "text": "\"looking for a web developer\" OR \"need an AI agent\"",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Inicio, 1 nueva notificación",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 52,
+          "w": 65,
+          "x": 611,
+          "y": 0
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "div#primaryNavLinksComponentRef > div.l4jayf > nav.l4jl4j > ul.l4jayf > li.l4jl4k:nth-of-type(1) > button.l4jl30",
+        "tag": "button",
+        "text": "Inicio",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Red, 0 nuevas notificaciones",
+        "href": "https://www.linkedin.com/mynetwork",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 52,
+          "w": 65,
+          "x": 676,
+          "y": 0
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div#primaryNavLinksComponentRef > div.l4jayf > nav.l4jl4j > ul.l4jayf > li.l4jl4k:nth-of-type(2) > a.l4jl30",
+        "tag": "a",
+        "text": "Red",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Empleos, 0 nuevas notificaciones",
+        "href": "https://www.linkedin.com/jobs/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 52,
+          "w": 65,
+          "x": 741,
+          "y": 0
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "div#primaryNavLinksComponentRef > div.l4jayf > nav.l4jl4j > ul.l4jayf > li.l4jl4k:nth-of-type(3) > a.l4jl30",
+        "tag": "a",
+        "text": "Empleos",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Mensajes, 0 notificaciones nuevas",
+        "href": "https://www.linkedin.com/messaging/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 52,
+          "w": 65,
+          "x": 806,
+          "y": 0
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "div#primaryNavLinksComponentRef > div.l4jayf > nav.l4jl4j > ul.l4jayf > li.l4jl4k:nth-of-type(4) > a.l4jl30",
+        "tag": "a",
+        "text": "Mensajes",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Notificaciones, 0 notificaciones nuevas",
+        "href": "https://www.linkedin.com/notifications/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 52,
+          "w": 65,
+          "x": 871,
+          "y": 0
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "div#primaryNavLinksComponentRef > div.l4jayf > nav.l4jl4j > ul.l4jayf > li.l4jl4k:nth-of-type(5) > a.l4jl30",
+        "tag": "a",
+        "text": "Notificaciones",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 52,
+          "w": 65,
+          "x": 936,
+          "y": 0
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "div#primaryNavLinksComponentRef > div.l4jayf > nav.l4jl4j > ul.l4jayf > li.l4jl4k:nth-of-type(6) > button.l4jl30",
+        "tag": "button",
+        "text": "Yo",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Para negocios",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 52,
+          "w": 65,
+          "x": 1014,
+          "y": 0
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "div.l4jlpg:nth-of-type(3) > div.l4jayf > nav.l4jl4j > ul.l4jayf > li.l4jl4k > button.l4jl30",
+        "tag": "button",
+        "text": "Para negocios",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/premium/redeem/?_ed=0_bvLJH59RTSY-u5c6PMUa4IW0M54p9mxZpuVkfRvTl7r&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text_winback%3ANav%3AIn-Product&referenceId=cX8i5HCHTvyTcJXZ5Fse9w%3D%3D&customKey=wb_c&redeemTypeV2=DISCOUNT",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 30,
+          "w": 124,
+          "x": 1079,
+          "y": 11
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "div.l4jayf > div.l4jlpg:nth-of-type(3) > div.l4jayf > div.l4ja1r > div.l4jax7 > a.l4jku5",
+        "tag": "a",
+        "text": "Reactivar Premium con un -50 %",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/premium/redeem/?_ed=0_bvLJH59RTSY-u5c6PMUa4IW0M54p9mxZpuVkfRvTl7r&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text_winback%3ANav%3AIn-Product&referenceId=cX8i5HCHTvyTcJXZ5Fse9w%3D%3D&customKey=wb_c&redeemTypeV2=DISCOUNT",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 31,
+          "w": 102,
+          "x": 1092,
+          "y": 10
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "div.l4jax7 > a.l4jku5 > div.l4jikq > p.l4jk8d > span > a.l4jgi5",
+        "tag": "a",
+        "text": "Reactivar Premium con un -50 %",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 104,
+          "x": 214,
+          "y": 64
+        },
+        "ref": "e11",
+        "role": "button",
+        "selector": "div#SearchResults_SearchResultsFilterBar > div.l4jax7 > div.l4jk1d > div.l4jax7:nth-of-type(2) > div.l4jlyw",
+        "tag": "div",
+        "text": "Lo último",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 177,
+          "x": 323,
+          "y": 64
+        },
+        "ref": "e12",
+        "role": "button",
+        "selector": "div#SearchResults_SearchResultsFilterBar > div.l4jax7 > div.l4jk1d > div.l4jax7:nth-of-type(3) > div.l4jlyw",
+        "tag": "div",
+        "text": "Fecha de publicación",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 160,
+          "x": 504,
+          "y": 64
+        },
+        "ref": "e13",
+        "role": "button",
+        "selector": "div#SearchResults_SearchResultsFilterBar > div.l4jax7 > div.l4jk1d > div.l4jax7:nth-of-type(4) > div.l4jlyw",
+        "tag": "div",
+        "text": "Tipo de contenido",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 146,
+          "x": 668,
+          "y": 64
+        },
+        "ref": "e14",
+        "role": "button",
+        "selector": "div#SearchResults_SearchResultsFilterBar > div.l4jax7 > div.l4jk1d > div.l4jax7:nth-of-type(5) > div.l4jhi2",
+        "tag": "div",
+        "text": "De esta persona",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 116,
+          "x": 818,
+          "y": 64
+        },
+        "ref": "e15",
+        "role": "",
+        "selector": "div#SearchResults_SearchResultsFilterBar > div.l4jax7 > div.l4jk1d > button.l4jlhg",
+        "tag": "button",
+        "text": "Todos los filtros",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/search/results/content/?keywords=%22looking+for+a+web+developer%22+OR+%22need+an+AI+agent%22&origin=FACETED_SEARCH",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 89,
+          "x": 938,
+          "y": 64
+        },
+        "ref": "e16",
+        "role": "",
+        "selector": "div#SearchResults_SearchResultsFilterBar > div.l4jax7 > div.l4jk1d > a.l4jlhg",
+        "tag": "a",
+        "text": "Restablecer",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/in/vicnanda/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 48,
+          "x": 81,
+          "y": 146
+        },
+        "ref": "e17",
+        "role": "",
+        "selector": "div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(1) > div:nth-of-type(1) > div.l4ja1r > a.l4jkxt",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/in/vicnanda/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 130,
+          "x": 137,
+          "y": 146
+        },
+        "ref": "e18",
+        "role": "",
+        "selector": "div.l4jk2b:nth-of-type(1) > div.l4jikq:nth-of-type(2) > div.l4jlpg > div.l4jjrc:nth-of-type(1) > div.l4ja1r > a.l4jhi2",
+        "tag": "a",
+        "text": "Vic Nanda\n\n \n • 3er+",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Seguir a Vic Nanda",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 77,
+          "x": 502,
+          "y": 134
+        },
+        "ref": "e19",
+        "role": "",
+        "selector": "div.l4jlpg > div.l4jk2b:nth-of-type(1) > div.l4jax7:nth-of-type(3) > div.l4ja1r > div.l4jax7 > button.l4jlhg",
+        "tag": "button",
+        "text": "Seguir",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Abrir el menú de controles para la publicación de Vic Nanda",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 32,
+          "x": 583,
+          "y": 142
+        },
+        "ref": "e20",
+        "role": "",
+        "selector": "div#expandedZLJ15ED2dyJh3iY5P9wW4-XXVsBPmzVTOJFTQt3YX9oFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(1) > button.l4jlhg",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Abrir http://e-verything.com",
+        "href": "https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fe-verything%2Ecom&urlhash=yaw0&mt=0DdgUvTHOzlND_RD_CBe3LoZSm-vf5k-h17Ac3cIgvFTyxwp07wILCZ_nNuXYrFCt4drwPFjwvr5I2YKbXLyihxfdyTMA3r0plz6JHpoWEga385KbzClpeKOQQ&isSdui=true",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 105,
+          "x": 287,
+          "y": 204
+        },
+        "ref": "e21",
+        "role": "",
+        "selector": "[data-testid=\"expandable-text-box\"] > span.l4jgb5:nth-of-type(2) > a.l4jhc3",
+        "tag": "a",
+        "text": "e-verything.com",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Ver el perfil de Rajeev Nanda",
+        "href": "https://www.linkedin.com/in/rajeevnanda/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 87,
+          "x": 414,
+          "y": 204
+        },
+        "ref": "e22",
+        "role": "",
+        "selector": "[data-testid=\"expandable-text-box\"] > span.l4jgb5:nth-of-type(5) > a.l4jhc3",
+        "tag": "a",
+        "text": "Rajeev Nanda",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 57,
+          "x": 550,
+          "y": 284
+        },
+        "ref": "e23",
+        "role": "",
+        "selector": "[data-testid=\"expandable-text-button\"]",
+        "tag": "button",
+        "text": "… más",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 121,
+          "x": 81,
+          "y": 304
+        },
+        "ref": "e24",
+        "role": "",
+        "selector": "div#expandedZLJ15ED2dyJh3iY5P9wW4-XXVsBPmzVTOJFTQt3YX9oFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jlpg:nth-of-type(3) > button.l4jlhg",
+        "tag": "button",
+        "text": "Mostrar traducción",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Estado del botón de reacción: ninguna reacción",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 40,
+          "x": 81,
+          "y": 352
+        },
+        "ref": "e25",
+        "role": "",
+        "selector": "div.l4jlpg > div.l4jk2b:nth-of-type(4) > div.l4jlf1:nth-of-type(1) > div.l4jlf3 > div.l4jlf7 > button.l4jlhg",
+        "tag": "button",
+        "text": "​",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Comentar",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 40,
+          "x": 123,
+          "y": 352
+        },
+        "ref": "e26",
+        "role": "",
+        "selector": "div#expandedZLJ15ED2dyJh3iY5P9wW4-XXVsBPmzVTOJFTQt3YX9oFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(4) > button.l4jlhg:nth-of-type(1)",
+        "tag": "button",
+        "text": "​",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Compartir",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 40,
+          "x": 165,
+          "y": 352
+        },
+        "ref": "e27",
+        "role": "",
+        "selector": "div#expandedZLJ15ED2dyJh3iY5P9wW4-XXVsBPmzVTOJFTQt3YX9oFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(4) > button.l4jlhg:nth-of-type(2)",
+        "tag": "button",
+        "text": "​",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Enviar",
+        "href": "https://www.linkedin.com/search/results/content/?keywords=%22looking%20for%20a%20web%20developer%22%20OR%20%22need%20an%20AI%20agent%22&sortBy=%22date_posted%22",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 40,
+          "x": 207,
+          "y": 352
+        },
+        "ref": "e28",
+        "role": "",
+        "selector": "div#expandedZLJ15ED2dyJh3iY5P9wW4-XXVsBPmzVTOJFTQt3YX9oFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(4) > a.l4jlhg",
+        "tag": "a",
+        "text": "​",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/groups/10383779/?q=highlightedFeedForGroups&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7520168255853019136",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 48,
+          "x": 81,
+          "y": 418
+        },
+        "ref": "e29",
+        "role": "",
+        "selector": "div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(1) > div:nth-of-type(1) > div.l4ja1r > a.l4jkxt",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/groups/10383779/?q=highlightedFeedForGroups&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7520168255853019136",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 382,
+          "x": 137,
+          "y": 418
+        },
+        "ref": "e30",
+        "role": "",
+        "selector": "div.l4jk2b:nth-of-type(1) > div.l4jikq:nth-of-type(2) > div.l4jlpg > div.l4jjrc:nth-of-type(1) > div.l4ja1r > a.l4jhi2",
+        "tag": "a",
+        "text": "DoD & State Federal Government Careers | Aerospace, Military & Cyber Security, Clearance Jobs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Unirse a DoD & State Federal Government Careers | Aerospace, Military & Cyber Security, Clearance Jobs",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 56,
+          "x": 522,
+          "y": 406
+        },
+        "ref": "e31",
+        "role": "",
+        "selector": "div#expandediV5X5QbD2p6fH-bhF97on9V7dguR42UjXJzh7QXd_7YFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(1) > button.l4jlhg:nth-of-type(1)",
+        "tag": "button",
+        "text": "Unirse",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Abrir el menú de controles para la publicación de Mohammad Huvaiz",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 32,
+          "x": 583,
+          "y": 414
+        },
+        "ref": "e32",
+        "role": "",
+        "selector": "div#expandediV5X5QbD2p6fH-bhF97on9V7dguR42UjXJzh7QXd_7YFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(1) > button.l4jlhg:nth-of-type(2)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Ver hashtag: #linkedinnetwork",
+        "href": "https://www.linkedin.com/search/results/all/?keywords=%23linkedinnetwork&origin=HASH_TAG_FROM_FEED",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 117,
+          "x": 117,
+          "y": 476
+        },
+        "ref": "e33",
+        "role": "",
+        "selector": "[data-testid=\"expandable-text-box\"] > span.l4jgb5:nth-of-type(2) > a.l4jhc3",
+        "tag": "a",
+        "text": "#LinkedInNetwork",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Ver hashtag: #hiringurgently",
+        "href": "https://www.linkedin.com/search/results/all/?keywords=%23hiringurgently&origin=HASH_TAG_FROM_FEED",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 102,
+          "x": 237,
+          "y": 476
+        },
+        "ref": "e34",
+        "role": "",
+        "selector": "[data-testid=\"expandable-text-box\"] > span.l4jgb5:nth-of-type(4) > a.l4jhc3",
+        "tag": "a",
+        "text": "#HiringUrgently",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 41,
+          "x": 565,
+          "y": 556
+        },
+        "ref": "e35",
+        "role": "",
+        "selector": "[data-testid=\"expandable-text-button\"]",
+        "tag": "button",
+        "text": "… más",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 121,
+          "x": 81,
+          "y": 576
+        },
+        "ref": "e36",
+        "role": "",
+        "selector": "div#expandediV5X5QbD2p6fH-bhF97on9V7dguR42UjXJzh7QXd_7YFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jlpg:nth-of-type(3) > button.l4jlhg",
+        "tag": "button",
+        "text": "Mostrar traducción",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Estado del botón de reacción: ninguna reacción",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 40,
+          "x": 81,
+          "y": 624
+        },
+        "ref": "e37",
+        "role": "",
+        "selector": "div.l4jlpg > div.l4jk2b:nth-of-type(4) > div.l4jlf1:nth-of-type(1) > div.l4jlf3 > div.l4jlf7 > button.l4jlhg",
+        "tag": "button",
+        "text": "​",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Comentar",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 40,
+          "x": 123,
+          "y": 624
+        },
+        "ref": "e38",
+        "role": "",
+        "selector": "div#expandediV5X5QbD2p6fH-bhF97on9V7dguR42UjXJzh7QXd_7YFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(4) > button.l4jlhg:nth-of-type(1)",
+        "tag": "button",
+        "text": "​",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Compartir",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 40,
+          "x": 165,
+          "y": 624
+        },
+        "ref": "e39",
+        "role": "",
+        "selector": "div#expandediV5X5QbD2p6fH-bhF97on9V7dguR42UjXJzh7QXd_7YFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(4) > button.l4jlhg:nth-of-type(2)",
+        "tag": "button",
+        "text": "​",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Enviar",
+        "href": "https://www.linkedin.com/search/results/content/?keywords=%22looking%20for%20a%20web%20developer%22%20OR%20%22need%20an%20AI%20agent%22&sortBy=%22date_posted%22",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 40,
+          "x": 207,
+          "y": 624
+        },
+        "ref": "e40",
+        "role": "",
+        "selector": "div#expandediV5X5QbD2p6fH-bhF97on9V7dguR42UjXJzh7QXd_7YFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(4) > a.l4jlhg",
+        "tag": "a",
+        "text": "​",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/in/pal-wabuson-948168234/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 48,
+          "x": 81,
+          "y": 690
+        },
+        "ref": "e41",
+        "role": "",
+        "selector": "div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(1) > div:nth-of-type(1) > div.l4ja1r > a.l4jkxt",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/in/pal-wabuson-948168234/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 136,
+          "x": 137,
+          "y": 690
+        },
+        "ref": "e42",
+        "role": "",
+        "selector": "div.l4jk2b:nth-of-type(1) > div.l4jikq:nth-of-type(2) > div.l4jlpg > div.l4jjrc:nth-of-type(1) > div.l4ja1r > a.l4jhi2",
+        "tag": "a",
+        "text": "Pal Wabuson\n\n \n • 2º",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Seguir a Pal Wabuson",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 77,
+          "x": 502,
+          "y": 678
+        },
+        "ref": "e43",
+        "role": "",
+        "selector": "div.l4jlpg > div.l4jk2b:nth-of-type(1) > div.l4jax7:nth-of-type(3) > div.l4ja1r > div.l4jax7 > button.l4jlhg",
+        "tag": "button",
+        "text": "Seguir",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "Abrir el menú de controles para la publicación de Pal Wabuson",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 32,
+          "x": 583,
+          "y": 686
+        },
+        "ref": "e44",
+        "role": "",
+        "selector": "div#expandedtDBAv2dnepgWRaIvH3L6w6VLehLoaSG6Yo8WGjmM4NkFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jk2b:nth-of-type(1) > button.l4jlhg",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 93,
+          "x": 513,
+          "y": 788
+        },
+        "ref": "e45",
+        "role": "",
+        "selector": "[data-testid=\"expandable-text-button\"]",
+        "tag": "button",
+        "text": "… más",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 121,
+          "x": 81,
+          "y": 808
+        },
+        "ref": "e46",
+        "role": "",
+        "selector": "div#expandedtDBAv2dnepgWRaIvH3L6w6VLehLoaSG6Yo8WGjmM4NkFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4jlpg:nth-of-type(3) > button.l4jlhg",
+        "tag": "button",
+        "text": "Mostrar traducción",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/search/results/content/?keywords=%22looking%20for%20a%20web%20developer%22%20OR%20%22need%20an%20AI%20agent%22&sortBy=%22date_posted%22",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 688,
+          "w": 550,
+          "x": 69,
+          "y": 856
+        },
+        "ref": "e47",
+        "role": "",
+        "selector": "div#expandedtDBAv2dnepgWRaIvH3L6w6VLehLoaSG6Yo8WGjmM4NkFeedType_FLAGSHIP_SEARCH > div.l4jlpg > div.l4jax7:nth-of-type(1) > div.l4jlpg > div.l4ja1r:nth-of-type(4) > a.l4jhz6",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://about.linkedin.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 15,
+          "w": 52,
+          "x": 683,
+          "y": 137
+        },
+        "ref": "e48",
+        "role": "",
+        "selector": "div#SearchResults_SearchRightRail > div.l4jlpg > div.l4jlpg > footer.l4jayf > a.l4jkxq:nth-of-type(1)",
+        "tag": "a",
+        "text": "Acerca de",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/accessibility/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 15,
+          "w": 69,
+          "x": 751,
+          "y": 137
+        },
+        "ref": "e49",
+        "role": "",
+        "selector": "div#SearchResults_SearchRightRail > div.l4jlpg > div.l4jlpg > footer.l4jayf > a.l4jkxq:nth-of-type(2)",
+        "tag": "a",
+        "text": "Accesibilidad",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/help/linkedin/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 15,
+          "w": 88,
+          "x": 836,
+          "y": 137
+        },
+        "ref": "e50",
+        "role": "",
+        "selector": "div#SearchResults_SearchRightRail > div.l4jlpg > div.l4jlpg > footer.l4jayf > a.l4jkxq:nth-of-type(3)",
+        "tag": "a",
+        "text": "Centro de ayuda",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 150,
+          "x": 658,
+          "y": 160
+        },
+        "ref": "e51",
+        "role": "button",
+        "selector": "div#SearchResults_SearchRightRail > div.l4jlpg > div.l4jlpg > footer.l4jayf > div.l4jkxq:nth-of-type(1)",
+        "tag": "div",
+        "text": "Privacidad y condiciones",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/help/linkedin/answer/62931/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 15,
+          "w": 125,
+          "x": 824,
+          "y": 161
+        },
+        "ref": "e52",
+        "role": "",
+        "selector": "div#SearchResults_SearchRightRail > div.l4jlpg > div.l4jlpg > footer.l4jayf > a.l4jkxq:nth-of-type(4)",
+        "tag": "a",
+        "text": "Opciones de publicidad",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 15,
+          "w": 55,
+          "x": 697,
+          "y": 185
+        },
+        "ref": "e53",
+        "role": "",
+        "selector": "div#SearchResults_SearchRightRail > div.l4jlpg > div.l4jlpg > footer.l4jayf > a.l4jkxq:nth-of-type(5)",
+        "tag": "a",
+        "text": "Publicidad",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 142,
+          "x": 768,
+          "y": 184
+        },
+        "ref": "e54",
+        "role": "button",
+        "selector": "div#SearchResults_SearchRightRail > div.l4jlpg > div.l4jlpg > footer.l4jayf > div.l4jkxq:nth-of-type(2)",
+        "tag": "div",
+        "text": "Servicios empresariales",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/mobile/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 15,
+          "w": 186,
+          "x": 692,
+          "y": 208
+        },
+        "ref": "e55",
+        "role": "",
+        "selector": "div#SearchResults_SearchRightRail > div.l4jlpg > div.l4jlpg > footer.l4jayf > a.l4jkxq:nth-of-type(6)",
+        "tag": "a",
+        "text": "Descargar la aplicación de LinkedIn",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/search/results/content/?keywords=%22looking%20for%20a%20web%20developer%22%20OR%20%22need%20an%20AI%20agent%22&sortBy=%22date_posted%22",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 15,
+          "w": 22,
+          "x": 894,
+          "y": 208
+        },
+        "ref": "e56",
+        "role": "",
+        "selector": "div#SearchResults_SearchRightRail > div.l4jlpg > div.l4jlpg > footer.l4jayf > a.l4jkxq:nth-of-type(7)",
+        "tag": "a",
+        "text": "Más",
+        "type": ""
+      }
+    ],
+    "title": "Buscar | LinkedIn",
+    "url": "https://www.linkedin.com/search/results/content/?keywords=%22looking%20for%20a%20web%20developer%22%20OR%20%22need%20an%20AI%20agent%22&sortBy=%22date_posted%22"
   }
 }
