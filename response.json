@@ -1,143 +1,16 @@
 {
-  "id": 1734,
-  "action": "snapshot",
+  "id": 1735,
+  "action": "fill",
   "ok": true,
-  "seq": 1734,
-  "tookMs": 31,
+  "seq": 1735,
+  "tookMs": 125,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:50:04.591Z",
+  "ts": "2026-10-25T16:50:23.391Z",
   "result": {
-    "challenge": null,
-    "count": 7,
-    "elements": [
-      {
-        "ariaLabel": "",
-        "href": "https://flexiple.com/talent#main-content",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 1,
-          "w": 1,
-          "x": 15,
-          "y": 15
-        },
-        "ref": "e0",
-        "role": "",
-        "selector": "html > body.bg-surface > a.sr-only",
-        "tag": "a",
-        "text": "Skip to content",
-        "type": ""
-      },
-      {
-        "ariaLabel": "Flexiple home",
-        "href": "https://flexiple.com/",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 26,
-          "w": 81,
-          "x": 205,
-          "y": 30
-        },
-        "ref": "e1",
-        "role": "",
-        "selector": "body.bg-surface > div.min-h-dvh:nth-of-type(2) > header.bg-surface > nav.flex > div.flex:nth-of-type(1) > a",
-        "tag": "a",
-        "text": "",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "https://app.flexiple.com/signup?step=signup&intent=talent",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 38,
-          "w": 104,
-          "x": 780,
-          "y": 24
-        },
-        "ref": "e2",
-        "role": "",
-        "selector": "div.min-h-dvh:nth-of-type(2) > header.bg-surface > nav.flex > div.flex:nth-of-type(2) > div.flex > a.inline-flex:nth-of-type(1)",
-        "tag": "a",
-        "text": "Find Jobs",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "https://app.flexiple.com/signup?step=signup&intent=client",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 36,
-          "w": 118,
-          "x": 900,
-          "y": 25
-        },
-        "ref": "e3",
-        "role": "",
-        "selector": "div.min-h-dvh:nth-of-type(2) > header.bg-surface > nav.flex > div.flex:nth-of-type(2) > div.flex > a.inline-flex:nth-of-type(2)",
-        "tag": "a",
-        "text": "Build a team",
-        "type": ""
-      },
-      {
-        "ariaLabel": "Toggle menu",
-        "href": "",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 24,
-          "w": 24,
-          "x": 1034,
-          "y": 31
-        },
-        "ref": "e4",
-        "role": "",
-        "selector": "body.bg-surface > div.min-h-dvh:nth-of-type(2) > header.bg-surface > nav.flex > div.flex:nth-of-type(2) > button.relative",
-        "tag": "button",
-        "text": "",
-        "type": "button"
-      },
-      {
-        "ariaLabel": "",
-        "href": "https://app.flexiple.com/signup?step=signup&intent=talent",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 52,
-          "w": 119,
-          "x": 48,
-          "y": 640
-        },
-        "ref": "e5",
-        "role": "",
-        "selector": "section.relative:nth-of-type(1) > div.container:nth-of-type(3) > div.grid > div:nth-of-type(1) > div.mt-8:nth-of-type(1) > a.inline-flex:nth-of-type(1)",
-        "tag": "a",
-        "text": "Sign up",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "https://flexiple.com/talent#how-it-works",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 54,
-          "w": 160,
-          "x": 179,
-          "y": 639
-        },
-        "ref": "e6",
-        "role": "",
-        "selector": "section.relative:nth-of-type(1) > div.container:nth-of-type(3) > div.grid > div:nth-of-type(1) > div.mt-8:nth-of-type(1) > a.inline-flex:nth-of-type(2)",
-        "tag": "a",
-        "text": "How it works",
-        "type": ""
-      }
-    ],
-    "title": "Talent | Roles That Come to You | Flexiple",
-    "url": "https://flexiple.com/talent"
+    "filled": true,
+    "length": 20,
+    "mode": "instant-background",
+    "verified": true,
+    "via": "selector"
   }
 }
