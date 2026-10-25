@@ -1,1 +1,1 @@
-{"cmd_seq": 1388, "action": "getlinks", "args": {"filter": "sign|join|register|inscri"}}
+{"cmd_seq": 1389, "action": "open", "args": {"url": "https://www.soyfreelancer.com/ingresar", "reuse": true, "waitMs": 9000}}
