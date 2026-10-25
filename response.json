@@ -1,14 +1,15 @@
 {
-  "id": 860,
-  "action": "geturl",
+  "id": 861,
+  "action": "navigate",
   "ok": true,
-  "seq": 860,
-  "tookMs": 6,
+  "seq": 861,
+  "tookMs": 5943,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:12:08.492Z",
+  "ts": "2026-10-25T02:12:18.650Z",
   "result": {
-    "url": "https://pro.fiverr.com/start_selling",
-    "title": "Start Selling on Fiverr",
-    "tabId": 1762281357
+    "url": "https://pro.fiverr.com/account-settings",
+    "loadState": "complete",
+    "tabId": 1762281357,
+    "background": true
   }
 }
