@@ -1,1 +1,1 @@
-{"cmd_seq": 1728, "action": "clicktext", "args": {"tabId": 1762281526, "text": "Accept all", "contains": true}}
+{"cmd_seq": 1729, "action": "open", "args": {"url": "https://www.gun.io/for-developers", "waitMs": 12000}}
