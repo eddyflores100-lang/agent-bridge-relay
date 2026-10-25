@@ -1,53 +1,16 @@
 {
-  "id": 1567,
-  "action": "snapshot",
+  "id": 1568,
+  "action": "fill",
   "ok": true,
-  "seq": 1567,
-  "tookMs": 21,
+  "seq": 1568,
+  "tookMs": 1559,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:44:02.479Z",
+  "ts": "2026-10-25T04:44:07.950Z",
   "result": {
-    "challenge": null,
-    "count": 2,
-    "elements": [
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "email",
-        "placeholder": "",
-        "rect": {
-          "h": 46,
-          "w": 496,
-          "x": 391,
-          "y": 136
-        },
-        "ref": "e0",
-        "role": "",
-        "selector": "input#id_email",
-        "tag": "input",
-        "text": "",
-        "type": "text"
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "submit",
-        "placeholder": "",
-        "rect": {
-          "h": 36,
-          "w": 118,
-          "x": 771,
-          "y": 210
-        },
-        "ref": "e1",
-        "role": "",
-        "selector": "button[name=\"submit\"]",
-        "tag": "button",
-        "text": "CONTINUAR",
-        "type": "submit"
-      }
-    ],
-    "title": "Torre cuentas | Torre",
-    "url": "https://accounts.torre.ai/email/?next=/openid/authorize%3Fscope%3Dopenid%2Bprofile%2Bemail%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Ftorre.ai%252Fcallback%253Fclient_name%253Dstarrgate%26state%3DnhaPS7ASTsJC03RdCcooLdk29NBCLBczE7Hde7s6F8k%26intent%3Dhome%253Asign-in%26client_id%3D5"
+    "filled": true,
+    "length": 23,
+    "mode": "human",
+    "verified": true,
+    "via": "ref"
   }
 }
