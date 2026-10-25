@@ -1,15 +1,13 @@
 {
-  "id": 1903,
-  "action": "open",
+  "id": 1904,
+  "action": "scroll",
   "ok": true,
-  "seq": 1903,
-  "tookMs": 5544,
+  "seq": 1904,
+  "tookMs": 74,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:34:06.682Z",
+  "ts": "2026-10-25T18:34:14.968Z",
   "result": {
-    "tabId": 1762281643,
-    "url": "https://www.reddit.com/r/freelancer_hire/new/",
-    "background": true,
-    "loadState": "complete"
+    "scrolled": true,
+    "y": 0
   }
 }
