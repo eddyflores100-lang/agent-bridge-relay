@@ -1,1 +1,1 @@
-{"cmd_seq": 1720, "action": "clicktext", "args": {"tabId": 1762281526, "text": "Sign up with Email", "contains": true}}
+{"cmd_seq": 1721, "action": "snapshot", "args": {"tabId": 1762281526, "maxEls": 120}}
