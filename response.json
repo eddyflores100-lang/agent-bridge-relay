@@ -1,35 +1,15 @@
 {
-  "id": 1352,
-  "action": "snapshot",
+  "id": 1353,
+  "action": "open",
   "ok": true,
-  "seq": 1352,
-  "tookMs": 17,
+  "seq": 1353,
+  "tookMs": 5163,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:15:28.360Z",
+  "ts": "2026-10-25T04:15:37.957Z",
   "result": {
-    "challenge": null,
-    "count": 1,
-    "elements": [
-      {
-        "ariaLabel": "",
-        "href": "https://arc.dev/signup?to=https%3A%2F%2Fwww.codementor.io%2Fbecome-a-mentor%2Fget-started&service=codementor",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 55,
-          "w": 318,
-          "x": 472,
-          "y": 389
-        },
-        "ref": "e0",
-        "role": "",
-        "selector": "center > div.inner-body > div.customizeContainer > div.row-fluid:nth-of-type(2) > div.span10 > a.become-a-codementor",
-        "tag": "a",
-        "text": "BECOME A CODEMENTOR NOW",
-        "type": ""
-      }
-    ],
-    "title": "Apply to Become An Expert Programming Mentor on Codementor",
-    "url": "https://www.codementor.io/mentor/apply"
+    "tabId": 1762281357,
+    "url": "https://www.usebraintrust.com/signup",
+    "reused": true,
+    "loadState": "complete"
   }
 }
