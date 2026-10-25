@@ -17,3 +17,4 @@
 {"id":1111,"action":"click","ok":true,"seq":1111,"tookMs":377,"version":"2.2.3","ts":"2026-10-25T02:55:38.689Z","result":{"clicked":true,"selector":"button._1bsa7o5r","via":"selector"}}
 {"id":1112,"action":"type","ok":true,"seq":1112,"tookMs":138,"version":"2.2.3","ts":"2026-10-25T02:55:43.891Z","result":{"filled":true,"length":10,"mode":"instant-background","verified":true,"via":"selector"}}
 {"id":1113,"action":"check","ok":true,"seq":1113,"tookMs":96,"version":"2.2.3","ts":"2026-10-25T02:55:48.502Z","result":{"checked":false,"verified":false}}
+{"id":1114,"action":"check","ok":false,"seq":1114,"tookMs":13,"version":"2.2.3","ts":"2026-10-25T02:55:52.449Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
