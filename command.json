@@ -1,1 +1,1 @@
-{"cmd_seq": 1400, "action": "open", "args": {"url": "https://www.usebraintrust.com/signup", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1401, "action": "clicktext", "args": {"text": "For Talent"}}
