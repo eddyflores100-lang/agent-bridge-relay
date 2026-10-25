@@ -1,12 +1,229 @@
 {
-  "id": 1906,
-  "action": "gettext",
+  "id": 1907,
+  "action": "listtabs",
   "ok": true,
-  "seq": 1906,
-  "tookMs": 52,
+  "seq": 1907,
+  "tookMs": 10,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:34:26.963Z",
+  "ts": "2026-10-25T18:34:31.684Z",
   "result": {
-    "text": "Ir al contenido principal\nfreelancer_hire\nAnunciarse en Reddit\nPublicar\nExpandir menú de usuario\nr/freelancer_hire\nCrear publicación\nLo más destacado de la comunidad\nWelcome! Read First!\nAnuncio\n13 votos • 0 comentarios\nRepublicar\n[FOR HIRE] Full-Stack Software Engineer | October Special — Websites from $199 | SaaS, AI & Automation\nu/Educational_Half4979\n•\nhace 8 h\n[FOR HIRE] Full-Stack Software Engineer | October Special — Websites from $199 | SaaS, AI & Automation\nFor Hire\n\nHey everyone! \n\nI’m a full-stack software engineer based in South Africa, currently offering discounted rates for a limited number of projects before October ends.\nI specialise in building modern, high-performance websites and custom software solutions for startups, entrepreneurs and established businesses worldwide. \n\nWhat I can help you with: \n\nProfessional business websites and landing pages\nFull-stack web applications and SaaS platforms\nAI integrations and workflow automation\nDashboards, booking systems and customer portals\nAPI integrations and payment systems\nWebsite redesigns, performance improvements and SEO \n\n🔥 LIMITED-TIME OCTOBER SPECIAL \n\nLanding pages: From $199\nBusiness websites: From $299\nWebsite redesigns: From $249\nCustom applications and SaaS: Quoted based on scope\nMy tech stack includes React, Next.js, TypeScript, Node.js, PostgreSQL and more.\nOnly 3 discounted project slots available until October 31!\nI’m available to start immediately and work with clients internationally. \n\n📩 DM me for my portfolio, previous work, or a free project quote. \n\nLet’s turn your idea into something real!\n\nAnuncio: Increase brand visibility on Reddit\nu/RedditforBusiness\n•\nAnuncio\nIncrease brand visibility on Reddit\nads.reddit.com\nMás información\nRepublicar\n[For Hire] Social media scheduling setup and monthly management for small brands\nu/the-air-cyborg\n•\nhace 13 h\n[For Hire] Social media scheduling setup and monthly management for small brands\nFor Hire\n\nI help small businesses and creators keep their social media consistent without hiring a full team. \n\nBase service: \n\n- Setup: I connect your Instagram to Buffer and set up a posting schedule for your posts and carousels, so everything goes live at the right time without daily effort \n\n- Monthly retainer: I improve your posts and carousels based on your requirements and performance insights, and write scripts for your reels or short videos \n\nAdd-ons (priced separately, only if you need them): \n\n- Reel and short-video editing \n\n- Faceless videos, on request \n\n- Extra platforms: LinkedIn and X \n\n- Ads campaigns \n\n- B2B outreach emails \n\nExperience: \n\n- I handled the marketing for a game I shipped, including social media, outreach and cold emailing \n\n- I currently run social media and marketing for a tech startup and have trained a marketing intern \n\n- I previously founded a small game studio \n\nPortfolio and samples: https://www.instagram.com/the21stcen_social \n\nPricing (USD, and I'm taking on a small number of clients): \n\n- One-time setup: from $100 \n\n- Monthly retainer: from $250, covering up to 12 posts or carousels, reel scripts and one revision round \n\n- Add-ons quoted based on scope \n\nClients pay for their own Buffer plan. \n\nTo get in touch, send me a DM here. Please include your business, platforms and monthly budget, and I'll reply with a short plan.\n\n1\nRepublicar\nDevelopers doing AI training jobs is it worth it?\nu/Wrong-Meringue-9000\n•\nhace 1 d\nDevelopers doing AI training jobs is it worth it?\n\nHey everyone! \n\nI’m a software engineer with a Master’s in CS, 4 internships, and experience in Java, Python, Spring Boot, and LLM integration. \n\nI’m exploring AI training and coding evaluation jobs as a side income, but I’m not sure where to start. \n\nFor those already doing this work: which platforms actually pay well, offer consistent projects, and are worth applying to? \n\nWould love to hear your real experiences and recommendations. \n\nThanks!\n\nCreada el 9 may 2026\nPúblico\n1,9 mil159\nREGLAS DE R/FREELANCER_HIRE\n1\nRespect others and be civil\n2\nNo spam\n3\nMandatory Flairs\n4\nNo Low-Effort/Vague Posts\n5\nNo Scams, Fraud, or Malicious Links\n6\nNo Illegal or Unethical Work\n7\nProfessional Conduct\n8\nNo karma farming\n9\nNo BS Jobs\nMODERADORES\nEnviar mensaje a moderadores\nu/pureroganjosh\nu/Forward-Teacher-3027\nScammer Hunter\nu/thoughtsoup792\nu/bot-bouncer\nVer todos los moderadores\nAPPS INSTALADAS\nBot Bouncer\nReglas de Reddit\nPolítica de privacidad\nAcuerdo del usuario\nTus opciones de privacidad\nAccesibilidad\nReddit, Inc. © 2026. Todos los derechos reservados.\nContraer la navegación"
+    "tabs": [
+      {
+        "tabId": 1762281381,
+        "title": "Web analytics | Eddyflores100@gmail.com's Account | Cloudflare",
+        "url": "https://dash.cloudflare.com/faf93cd2a0d373573de0859b1cc95328/web-analytics/sites",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281073,
+        "title": "Resultado de la evaluación de tu currículum | Toptal Resume",
+        "url": "https://www.toptal.com/resume/es/analizador-de-curriculum/c3eb4e69050bd2c6c44a8d2d3305f4545ad01e12cc5e29cdead3c1f1f650796e/resultado?utm_source=techresume&utm_medium=email&utm_campaign=free-assessment",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280092,
+        "title": "KUDERT",
+        "url": "https://evaluado.kudert.com/onboarding-proctoring",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280836,
+        "title": "AliceLabs LLC (@f55494505) / X",
+        "url": "https://x.com/f55494505",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281438,
+        "title": "Sent - contacto@alicelabs.site",
+        "url": "https://mail.hostinger.com/0/mailboxes/INBOX.Sent",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280997,
+        "title": "Diseño de banner web",
+        "url": "https://chatgpt.com/c/6ada99da-1fc0-83e9-a5d7-082860be0286",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280432,
+        "title": "🤖 October Schedule | Hacktoberfest 2026",
+        "url": "https://hacktoberfest.com/schedule/",
+        "active": false,
+        "who": "agent"
+      },
+      {
+        "tabId": 1762280107,
+        "title": "Ambitious_Truth_1878 (u/Ambitious_Truth_1878) - Reddit",
+        "url": "https://www.reddit.com/user/Ambitious_Truth_1878/?screen_view_count=2",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280110,
+        "title": "Tokens",
+        "url": "https://vercel.com/account/settings/tokens",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280848,
+        "title": "npm | Settings: Tokens",
+        "url": "https://www.npmjs.com/settings/eddyflores100/tokens/",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280116,
+        "title": "DKIM personalizado | Hostinger",
+        "url": "https://hpanel.hostinger.com/email/alicelabs.site/custom-dkim?location=side_menu",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280119,
+        "title": "Resend",
+        "url": "https://resend.com/login",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280122,
+        "title": "Iniciar sesión · GitLab",
+        "url": "https://gitlab.com/users/sign_in",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280125,
+        "title": "Log in - Intigriti",
+        "url": "https://login.intigriti.com/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Frequest_uri%3Durn%253Aietf%253Aparams%253Aoauth%253Arequest_uri%253A53D35F89F5EE04135DBE764A0F854D35944DC43CEF26",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280128,
+        "title": "New Links | Hacker News",
+        "url": "https://news.ycombinator.com/newest",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280131,
+        "title": "Reseller license – OpenSanctions",
+        "url": "https://www.opensanctions.org/licensing/reseller/",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281373,
+        "title": "Great Domains, Easy Management | Namify",
+        "url": "https://manage.get.tech/login",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281426,
+        "title": "eddyflores100-lang/alicelabs-space: SENTINEL ARENA - el juego de AliceLabs (alicelabs.space). Verifica skills Ed25519, esquiva scams, gana USDC x402. Built by ZOLO.",
+        "url": "https://github.com/eddyflores100-lang/alicelabs-space",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281423,
+        "title": "🚀 Buscamos que seas tu mejor versión",
+        "url": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfMrDhqLo7wAvYJYAkVX-GvLdrtwN4y9fZ_YyuDDlsYVFVqjA/formResponse",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281370,
+        "title": "DigitalOcean",
+        "url": "https://cloud.digitalocean.com/dashboard?utm_source=inflection&utm_medium=email&utm_campaign=EVG_ONB_Welcome_Flow_10.13.2026&utm_content=EVG_ONB_Welcome_VersionC&inf_ver=2&inf_ctx=hde-fH5gos2wAvjh9hBy",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280211,
+        "title": "API Keys | Nitrosend",
+        "url": "https://app.nitrosend.com/my/settings/api-keys",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280164,
+        "title": "SEO y GEO para Marketplaces - Google Gemini",
+        "url": "https://gemini.google.com/app/bba70773eac68750?hl=es&canvas-id=im_874d81fc7c35f1d7",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281067,
+        "title": "Help my build AI agent - $1,000 - Airtasker",
+        "url": "https://www.airtasker.com/tasks/help-my-build-ai-agent-x01m5ktcpm5f1phpwxtk2kjm6fq/",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281010,
+        "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon: Build the conversational experiences of tomorrow - Devpost",
+        "url": "https://aws-cds-partner.devpost.com/",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762280980,
+        "title": "Hotmart",
+        "url": "https://app.hotmart.com/tools/webhook/auth",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281040,
+        "title": "(21) Messenger | Freelancer",
+        "url": "https://www.freelancer.com/messages/thread/444615925",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281476,
+        "title": "(21) Service Technician – Wind Turbine Maintenance & Inspections | Freelancer",
+        "url": "https://www.freelancer.com/projects/mechanical-engineering/Service-Technician-Wind-Turbine/details",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281378,
+        "title": "Products",
+        "url": "https://gumroad.com/products",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281233,
+        "title": "Enviados - eddyflores100@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/0/#sent",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762281593,
+        "title": "Welcome to the Gun.io platform | Gun.io",
+        "url": "https://app.gun.io/app/join-us/?v=basic-information",
+        "active": false,
+        "who": null
+      }
+    ],
+    "bridgeTabId": 1762281643,
+    "control": {
+      "human": 0,
+      "agent": 5,
+      "total": 5
+    }
   }
 }
