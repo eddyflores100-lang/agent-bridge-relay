@@ -1,16 +1,12 @@
 {
-  "id": 918,
-  "action": "type",
+  "id": 919,
+  "action": "press",
   "ok": true,
-  "seq": 918,
-  "tookMs": 106,
+  "seq": 919,
+  "tookMs": 103,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:21:41.575Z",
+  "ts": "2026-10-25T02:21:44.924Z",
   "result": {
-    "filled": true,
-    "length": 53,
-    "mode": "instant-background",
-    "verified": true,
-    "via": "selector"
+    "pressed": "Enter"
   }
 }
