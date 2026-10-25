@@ -1,11 +1,11 @@
 {
-  "id": 842,
+  "id": 843,
   "action": "snapshot",
   "ok": false,
-  "seq": 842,
-  "tookMs": 202,
+  "seq": 843,
+  "tookMs": 8,
   "version": "2.2.2",
-  "ts": "2026-10-25T01:57:41.479Z",
+  "ts": "2026-10-25T01:57:45.014Z",
   "error": {
     "code": "INJECTION_FAILED",
     "message": "no se pudo inyectar (pagina restringida?)",
