@@ -1,1 +1,1 @@
-{"cmd_seq": 1118, "action": "gethtml", "args": {"selector": "[data-track-tag=\"combobox_option\"]", "tabId": 1762281357}}
+{"cmd_seq": 1119, "action": "check", "args": {"selector": "li[data-track-value=\"INTERMEDIATE\"] input[type=\"radio\"]", "tabId": 1762281357}}
