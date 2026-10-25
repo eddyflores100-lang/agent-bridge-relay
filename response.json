@@ -1,13 +1,15 @@
 {
-  "id": 1776,
-  "action": "opentab",
-  "ok": false,
-  "seq": 1776,
-  "tookMs": 22,
+  "id": 1777,
+  "action": "open",
+  "ok": true,
+  "seq": 1777,
+  "tookMs": 5806,
   "version": "2.2.3",
-  "ts": "2026-10-25T17:08:41.370Z",
-  "error": {
-    "code": "UNSUPPORTED",
-    "message": "accion \"opentab\" no soportada en inject.js"
+  "ts": "2026-10-25T17:09:00.226Z",
+  "result": {
+    "tabId": 1762281545,
+    "url": "https://www.linkedin.com/search/results/content/?keywords=%22looking%20for%20a%20web%20developer%22%20OR%20%22need%20an%20AI%20agent%22&sortBy=%22date_posted%22",
+    "background": true,
+    "loadState": "complete"
   }
 }
