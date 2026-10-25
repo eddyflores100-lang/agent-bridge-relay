@@ -1,13 +1,15 @@
 {
-  "id": 1863,
-  "action": "scroll",
+  "id": 1864,
+  "action": "open",
   "ok": true,
-  "seq": 1863,
-  "tookMs": 12,
+  "seq": 1864,
+  "tookMs": 5970,
   "version": "2.2.3",
-  "ts": "2026-10-25T17:25:10.530Z",
+  "ts": "2026-10-25T17:25:27.990Z",
   "result": {
-    "scrolled": true,
-    "y": 0
+    "tabId": 1762281599,
+    "url": "https://www.facebook.com/search/posts/?q=%22need%20a%20website%20for%20my%20business%22",
+    "background": true,
+    "loadState": "complete"
   }
 }
