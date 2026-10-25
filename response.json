@@ -1,15 +1,12 @@
 {
-  "id": 1948,
-  "action": "open",
+  "id": 1949,
+  "action": "gettext",
   "ok": true,
-  "seq": 1948,
-  "tookMs": 2058,
+  "seq": 1949,
+  "tookMs": 34,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:40:54.356Z",
+  "ts": "2026-10-25T18:41:00.957Z",
   "result": {
-    "tabId": 1762281693,
-    "url": "https://www.reddit.com/r/jobbit/search.json?q=%22%5BHiring%5D%22+web&restrict_sr=on&sort=new&t=month&limit=15&raw_json=1",
-    "background": true,
-    "loadState": "complete"
+    "text": "{\"kind\": \"Listing\", \"data\": {\"modhash\": \"d8o123gp3ifbb6cfde59d797e282e9e230abb6e56b51eeabb8\", \"dist\": 0, \"facets\": {}, \"after\": null, \"geo_filter\": \"\", \"children\": [], \"before\": null}}"
   }
 }
