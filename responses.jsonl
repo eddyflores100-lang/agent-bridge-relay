@@ -7,3 +7,4 @@
 {"id":1992,"action":"execute","ok":false,"seq":1992,"tookMs":21,"version":"2.3.0","ts":"2026-10-25T18:56:24.639Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":1993,"action":"execute","ok":false,"seq":1993,"tookMs":16,"version":"2.3.0","ts":"2026-10-25T18:56:27.465Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":1994,"action":"open","ok":true,"seq":1994,"tookMs":3187,"version":"2.3.0","ts":"2026-10-25T18:56:35.206Z","result":{"tabId":1762282314,"url":"https://sandiego.craigslist.org/search/ggg?query=ai+automation&sort=date","background":true,"loadState":"complete"}}
+{"id":1995,"action":"execute","ok":false,"seq":1995,"tookMs":20,"version":"2.3.0","ts":"2026-10-25T18:56:41.044Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
