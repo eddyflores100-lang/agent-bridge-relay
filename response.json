@@ -1,16 +1,12 @@
 {
-  "id": 1072,
-  "action": "switchtab",
+  "id": 1073,
+  "action": "wait",
   "ok": true,
-  "seq": 1072,
-  "tookMs": 69,
+  "seq": 1073,
+  "tookMs": 1211,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:48:20.072Z",
+  "ts": "2026-10-25T02:48:24.939Z",
   "result": {
-    "tabId": 1762281357,
-    "title": "Seller Onboarding",
-    "url": "https://pro.fiverr.com/seller_onboarding/0",
-    "activated": true,
-    "targeted": true
+    "waited": 1200
   }
 }
