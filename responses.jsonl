@@ -44,3 +44,4 @@
 {"id":1060,"action":"click","ok":false,"seq":1060,"tookMs":18,"version":"2.2.3","ts":"2026-10-25T02:46:22.605Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview y reintenta","message":"elemento no visible (zero-size)"}}
 {"id":1061,"action":"wait","ok":true,"seq":1061,"tookMs":1203,"version":"2.2.3","ts":"2026-10-25T02:46:26.505Z","result":{"waited":1200}}
 {"id":1062,"action":"click","ok":true,"seq":1062,"tookMs":348,"version":"2.2.3","ts":"2026-10-25T02:46:31.700Z","result":{"clicked":true,"selector":"div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)","via":"selector"}}
+{"id":1063,"action":"wait","ok":true,"seq":1063,"tookMs":2015,"version":"2.2.3","ts":"2026-10-25T02:46:37.480Z","result":{"waited":2000}}
