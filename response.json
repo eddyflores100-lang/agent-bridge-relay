@@ -1,15 +1,14 @@
 {
-  "id": 1534,
-  "action": "open",
+  "id": 1535,
+  "action": "geturl",
   "ok": true,
-  "seq": 1534,
-  "tookMs": 4034,
+  "seq": 1535,
+  "tookMs": 8,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:39:39.593Z",
+  "ts": "2026-10-25T04:39:43.999Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://comeup.com/en/login",
-    "reused": true,
-    "loadState": "complete"
+    "url": "https://comeup.com/en/#login",
+    "title": "ComeUp - Professional freelance services marketplace",
+    "tabId": 1762281357
   }
 }
