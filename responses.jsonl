@@ -53,3 +53,4 @@
 {"id":1149,"action":"check","ok":false,"seq":1149,"tookMs":11,"version":"2.2.3","ts":"2026-10-25T03:00:19.414Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1150,"action":"check","ok":false,"seq":1150,"tookMs":7,"version":"2.2.3","ts":"2026-10-25T03:00:25.117Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1151,"action":"check","ok":false,"seq":1151,"tookMs":11,"version":"2.2.3","ts":"2026-10-25T03:00:30.608Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
+{"id":1152,"action":"click","ok":true,"seq":1152,"tookMs":293,"version":"2.2.3","ts":"2026-10-25T03:00:35.064Z","result":{"clicked":true,"selector":"div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)","via":"selector"}}
