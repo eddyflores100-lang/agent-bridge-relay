@@ -1,11 +1,11 @@
 {
-  "id": 1775,
+  "id": 1776,
   "action": "opentab",
   "ok": false,
-  "seq": 1775,
-  "tookMs": 16,
+  "seq": 1776,
+  "tookMs": 22,
   "version": "2.2.3",
-  "ts": "2026-10-25T17:08:38.474Z",
+  "ts": "2026-10-25T17:08:41.370Z",
   "error": {
     "code": "UNSUPPORTED",
     "message": "accion \"opentab\" no soportada en inject.js"
