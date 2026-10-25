@@ -1,15 +1,13 @@
 {
-  "id": 1870,
-  "action": "open",
+  "id": 1871,
+  "action": "scroll",
   "ok": true,
-  "seq": 1870,
-  "tookMs": 4431,
+  "seq": 1871,
+  "tookMs": 285,
   "version": "2.2.3",
-  "ts": "2026-10-25T17:26:36.278Z",
+  "ts": "2026-10-25T17:26:46.449Z",
   "result": {
-    "tabId": 1762281602,
-    "url": "https://www.linkedin.com/search/results/content/?keywords=hiring%20%22freelance%20developer%22%20OR%20%22freelance%20web%22%20OR%20%22need%20a%20developer%22&sortBy=%22date_posted%22",
-    "background": true,
-    "loadState": "complete"
+    "scrolled": true,
+    "y": 0
   }
 }
