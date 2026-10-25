@@ -1,15 +1,14 @@
 {
-  "id": 1315,
-  "action": "open",
-  "ok": true,
-  "seq": 1315,
-  "tookMs": 9030,
+  "id": 1316,
+  "action": "clicktext",
+  "ok": false,
+  "seq": 1316,
+  "tookMs": 54,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:11:28.670Z",
-  "result": {
-    "tabId": 1762281357,
-    "url": "https://comeup.com/en/",
-    "reused": true,
-    "loadState": "timeout"
+  "ts": "2026-10-25T04:11:35.326Z",
+  "error": {
+    "code": "TARGET_NOT_FOUND",
+    "hint": "snapshot para ver la pagina",
+    "message": "clicktext sin match visible para \"sign up\""
   }
 }
