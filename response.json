@@ -1,12 +1,13 @@
 {
-  "id": 1004,
-  "action": "wait",
+  "id": 1005,
+  "action": "gethtml",
   "ok": true,
-  "seq": 1004,
-  "tookMs": 1515,
+  "seq": 1005,
+  "tookMs": 9,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:36:44.449Z",
+  "ts": "2026-10-25T02:36:47.854Z",
   "result": {
-    "waited": 1500
+    "text": "<li class=\"ja73c19 _1bsa7o5k _1bsa7o5s nnpxsm0 nnpxsm1gt nnpxsm1g nnpxsmr\" data-track-tag=\"combobox_option\" data-track-value=\"ES\" tabindex=\"-1\" role=\"listitem\" aria-disabled=\"false\" style=\"--ja73ca: 200px; --_1bsa7o50: var(--vmb8qq1y); --_1bsa7o58: var(--vmb8qq1o);\"><label class=\"ja73c1j nnpxsmsd nnpxsmvk nnpxsmym nnpxsmp1 nnpxsm18h nnpxsm0 nnpxsm1ap nnpxsm1m8 nnpxsme nnpxsm1cs\" data-track-tag=\"box\" style=\"--ja73c0: 100%;\"><input class=\"ja73c1j nnpxsm1md nnpxsm0 nnpxsm1lt nnpxsm1cn _12va5912 _12va5913 _12va5910 xriu3x1\" data-track-tag=\"input\" data-track-value=\"&lt;value&gt;\" type=\"radio\" role=\"radio\" name=\"item\" value=\"ES\" checked=\"\" style=\"--ja73c0: 100%;\"><div class=\"ja73c14 ja73c1j nnpxsm0 nnpxsm1ap nnpxsmhy nnpxsm1cs\" data-track-tag=\"box\" role=\"img\" style=\"--ja73cf: 16px; --ja73c0: 16px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" data-track-tag=\"check_icon\"><path stroke=\"#222325\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"m1.25 9.306 3.92 3.92 9.58-10.452\"></path></svg></div><div class=\"_1i8zn3u nnpxsm0\" data-track-tag=\"box\" style=\"--_1i8zn3a: 1;\">Spanish</div></label></li>",
+    "via": "selector"
   }
 }
