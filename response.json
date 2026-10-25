@@ -1,15 +1,15 @@
 {
-  "id": 1777,
+  "id": 1778,
   "action": "open",
   "ok": true,
-  "seq": 1777,
-  "tookMs": 5806,
+  "seq": 1778,
+  "tookMs": 10135,
   "version": "2.2.3",
-  "ts": "2026-10-25T17:09:00.226Z",
+  "ts": "2026-10-25T17:09:13.063Z",
   "result": {
-    "tabId": 1762281545,
-    "url": "https://www.linkedin.com/search/results/content/?keywords=%22looking%20for%20a%20web%20developer%22%20OR%20%22need%20an%20AI%20agent%22&sortBy=%22date_posted%22",
+    "tabId": 1762281548,
+    "url": "https://www.facebook.com/groups/2327375611076477",
     "background": true,
-    "loadState": "complete"
+    "loadState": "timeout"
   }
 }
