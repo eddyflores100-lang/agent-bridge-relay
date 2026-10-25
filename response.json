@@ -1,16 +1,15 @@
 {
-  "id": 1630,
-  "action": "snapshot",
+  "id": 1631,
+  "action": "open",
   "ok": true,
-  "seq": 1630,
-  "tookMs": 12,
+  "seq": 1631,
+  "tookMs": 5939,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:34:47.890Z",
+  "ts": "2026-10-25T15:35:00.324Z",
   "result": {
-    "challenge": null,
-    "count": 0,
-    "elements": [],
-    "title": "Ingresar | SoyFreelancer.com",
-    "url": "https://www.soyfreelancer.com/ingresar"
+    "tabId": 1762281357,
+    "url": "https://www.multitrabajos.com/signin?returnTo=/",
+    "reused": true,
+    "loadState": "complete"
   }
 }
