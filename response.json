@@ -1,15 +1,14 @@
 {
-  "id": 834,
-  "action": "open",
-  "ok": true,
-  "seq": 834,
-  "tookMs": 10130,
+  "id": 835,
+  "action": "snapshot",
+  "ok": false,
+  "seq": 835,
+  "tookMs": 13,
   "version": "2.2.2",
-  "ts": "2026-10-25T01:55:03.068Z",
-  "result": {
-    "tabId": 1762281349,
-    "url": "https://www.fiverr.com/",
-    "background": true,
-    "loadState": "timeout"
+  "ts": "2026-10-25T01:55:11.012Z",
+  "error": {
+    "code": "INJECTION_FAILED",
+    "message": "no se pudo inyectar (pagina restringida?)",
+    "hint": "prueba en una pestaña normal http(s)"
   }
 }
