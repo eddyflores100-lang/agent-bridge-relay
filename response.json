@@ -1,13 +1,15 @@
 {
-  "id": 1390,
-  "action": "getlinks",
+  "id": 1391,
+  "action": "open",
   "ok": true,
-  "seq": 1390,
-  "tookMs": 11,
+  "seq": 1391,
+  "tookMs": 3549,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:21:47.744Z",
+  "ts": "2026-10-25T04:21:55.176Z",
   "result": {
-    "count": 0,
-    "links": []
+    "tabId": 1762281357,
+    "url": "https://account.hubstaff.com/login",
+    "reused": true,
+    "loadState": "complete"
   }
 }
