@@ -74,3 +74,4 @@
 {"id":2059,"action":"execute","ok":false,"seq":2059,"tookMs":19,"version":"2.3.0","ts":"2026-10-25T19:02:57.789Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2060,"action":"open","ok":true,"seq":2060,"tookMs":4454,"version":"2.3.0","ts":"2026-10-25T19:03:05.989Z","result":{"tabId":1762282380,"url":"https://denver.craigslist.org/search/ggg?query=website&sort=date","background":true,"loadState":"complete"}}
 {"id":2061,"action":"execute","ok":false,"seq":2061,"tookMs":19,"version":"2.3.0","ts":"2026-10-25T19:03:11.831Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
+{"id":2062,"action":"execute","ok":false,"seq":2062,"tookMs":19,"version":"2.3.0","ts":"2026-10-25T19:03:15.541Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
