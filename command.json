@@ -1,1 +1,1 @@
-{"cmd_seq": 1463, "action": "snapshot", "args": {"maxEls": 150}}
+{"cmd_seq": 1464, "action": "open", "args": {"url": "https://www.multitrabajos.com/signin?returnTo=/", "reuse": true, "waitMs": 9000}}
