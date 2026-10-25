@@ -16,3 +16,4 @@
 {"id":1032,"action":"wait","ok":true,"seq":1032,"tookMs":1516,"version":"2.2.3","ts":"2026-10-25T02:42:21.758Z","result":{"waited":1500}}
 {"id":1033,"action":"click","ok":true,"seq":1033,"tookMs":667,"version":"2.2.3","ts":"2026-10-25T02:42:26.491Z","result":{"clicked":true,"selector":"div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(1) > div._1bsa7o5w > div.ja73cu:nth-of-type(1) > input.evy0qv8","via":"selector"}}
 {"id":1034,"action":"wait","ok":true,"seq":1034,"tookMs":2008,"version":"2.2.3","ts":"2026-10-25T02:42:32.652Z","result":{"waited":2000}}
+{"id":1035,"action":"click","ok":false,"seq":1035,"tookMs":17,"version":"2.2.3","ts":"2026-10-25T02:42:36.066Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview y reintenta","message":"elemento no visible (zero-size)"}}
