@@ -52,3 +52,4 @@
 {"id":2037,"action":"execute","ok":false,"seq":2037,"tookMs":23,"version":"2.3.0","ts":"2026-10-25T19:00:49.339Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2038,"action":"execute","ok":false,"seq":2038,"tookMs":24,"version":"2.3.0","ts":"2026-10-25T19:00:53.020Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2039,"action":"open","ok":true,"seq":2039,"tookMs":3586,"version":"2.3.0","ts":"2026-10-25T19:01:01.239Z","result":{"tabId":1762282359,"url":"https://miami.craigslist.org/search/ggg?query=ai+automation&sort=date","background":true,"loadState":"complete"}}
+{"id":2040,"action":"execute","ok":false,"seq":2040,"tookMs":17,"version":"2.3.0","ts":"2026-10-25T19:01:07.011Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
