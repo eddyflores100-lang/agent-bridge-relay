@@ -1,16 +1,13 @@
 {
-  "id": 1581,
-  "action": "fill",
+  "id": 1582,
+  "action": "check",
   "ok": true,
-  "seq": 1581,
-  "tookMs": 2498,
+  "seq": 1582,
+  "tookMs": 20,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:45:16.185Z",
+  "ts": "2026-10-25T04:45:19.022Z",
   "result": {
-    "filled": true,
-    "length": 23,
-    "mode": "human",
-    "verified": true,
-    "via": "ref"
+    "checked": true,
+    "verified": true
   }
 }
