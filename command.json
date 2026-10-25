@@ -1,1 +1,1 @@
-{"cmd_seq": 1097, "action": "snapshot", "args": {"tabId": 1762281357, "maxEls": 300}}
+{"cmd_seq": 1098, "action": "check", "args": {"selector": "li[data-track-value=\"INTERMEDIATE\"] input[type=\"radio\"]", "tabId": 1762281357}}
