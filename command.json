@@ -1,1 +1,1 @@
-{"cmd_seq": 1363, "action": "snapshot", "args": {"maxEls": 130}}
+{"cmd_seq": 1364, "action": "open", "args": {"url": "https://torre.ai/", "reuse": true, "waitMs": 9000}}
