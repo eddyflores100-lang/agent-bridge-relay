@@ -1,13 +1,15 @@
 {
-  "id": 2098,
+  "id": 2099,
   "action": "navigate",
-  "ok": false,
-  "seq": 2098,
-  "tookMs": 0,
+  "ok": true,
+  "seq": 2099,
+  "tookMs": 3427,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:07:52.714Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:08:00.799Z",
+  "result": {
+    "url": "https://austin.craigslist.org/search/ggg?query=automation&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
