@@ -1,15 +1,14 @@
 {
-  "id": 1644,
-  "action": "open",
+  "id": 1645,
+  "action": "geturl",
   "ok": true,
-  "seq": 1644,
-  "tookMs": 4974,
+  "seq": 1645,
+  "tookMs": 8,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:36:22.168Z",
+  "ts": "2026-10-25T15:36:26.890Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://contra.com/",
-    "reused": true,
-    "loadState": "complete"
+    "url": "https://www.getonbrd.com/webpros/login",
+    "title": "Deja que los empleos lleguen a ti. - Get on Board | Get on Board",
+    "tabId": 1762281357
   }
 }
