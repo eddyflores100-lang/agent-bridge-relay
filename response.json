@@ -1,15 +1,14 @@
 {
-  "id": 1320,
-  "action": "open",
+  "id": 1321,
+  "action": "clicktext",
   "ok": true,
-  "seq": 1320,
-  "tookMs": 9712,
+  "seq": 1321,
+  "tookMs": 158,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:12:05.100Z",
+  "ts": "2026-10-25T04:12:10.665Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://legiit.com/",
-    "reused": true,
-    "loadState": "timeout"
+    "clicked": true,
+    "selector": "div#legiit-cookie-consent > div.legiit-cc-banner > div.legiit-cc-banner-inner:nth-of-type(1) > div.legiit-cc-actions:nth-of-type(2) > button.legiit-cc-btn:nth-of-type(2)",
+    "via": "clicktext"
   }
 }
