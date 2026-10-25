@@ -1,1 +1,1 @@
-{"cmd_seq": 1557, "action": "snapshot", "args": {"maxEls": 150}}
+{"cmd_seq": 1558, "action": "open", "args": {"url": "https://app.usebraintrust.com/signup", "reuse": true, "waitMs": 9000}}
