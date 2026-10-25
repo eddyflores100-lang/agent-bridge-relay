@@ -1,15 +1,431 @@
 {
-  "id": 1452,
-  "action": "open",
+  "id": 1453,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1452,
-  "tookMs": 4084,
+  "seq": 1453,
+  "tookMs": 46,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:30:07.002Z",
+  "ts": "2026-10-25T04:30:12.702Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://talent.hubstaff.com/",
-    "reused": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 23,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 69,
+          "w": 189,
+          "x": 62,
+          "y": 0
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "body.home > nav.navbar-default:nth-of-type(1) > div.container > div.navbar-wrapper:nth-of-type(1) > div.navbar-header > a.navbar-brand",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 70,
+          "w": 100,
+          "x": 266,
+          "y": 0
+        },
+        "ref": "e1",
+        "role": "button",
+        "selector": "nav.navbar-default:nth-of-type(1) > div.container > div.collapse:nth-of-type(2) > ul.nav:nth-of-type(1) > li.dropdown > a.dropdown-toggle",
+        "tag": "a",
+        "text": "Products",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/how_it_works",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 70,
+          "w": 111,
+          "x": 587,
+          "y": 0
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "nav.navbar-default:nth-of-type(1) > div.container > div.collapse:nth-of-type(2) > ul.nav:nth-of-type(2) > li:nth-of-type(1) > a",
+        "tag": "a",
+        "text": "How it works",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/#",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 29,
+          "w": 32,
+          "x": 713,
+          "y": 21
+        },
+        "ref": "e3",
+        "role": "button",
+        "selector": "div.container > div.collapse:nth-of-type(2) > ul.nav:nth-of-type(2) > ul.navbar-search > li.dropdown:nth-of-type(1) > a.dropdown-toggle",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "search[keywords]",
+        "placeholder": "Search profiles",
+        "rect": {
+          "h": 32,
+          "w": 242,
+          "x": 713,
+          "y": 19
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "input[name=\"search[keywords]\"]",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/jobs/new",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 125,
+          "x": 980,
+          "y": 19
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "nav.navbar-default:nth-of-type(1) > div.container > div.collapse:nth-of-type(2) > ul.nav:nth-of-type(2) > li:nth-of-type(2) > a.text-white",
+        "tag": "a",
+        "text": "Post a job (FREE)",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/login",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 70,
+          "w": 72,
+          "x": 1115,
+          "y": 0
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "nav.navbar-default:nth-of-type(1) > div.container > div.collapse:nth-of-type(2) > ul.nav:nth-of-type(2) > li:nth-of-type(3) > a.text-info",
+        "tag": "a",
+        "text": "Sign in",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/search/jobs",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 70,
+          "w": 106,
+          "x": 77,
+          "y": 71
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "nav.navbar-default:nth-of-type(2) > div.container > div.collapse > ul.nav > li:nth-of-type(1) > a",
+        "tag": "a",
+        "text": "Browse jobs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/work",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 70,
+          "w": 135,
+          "x": 183,
+          "y": 71
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "nav.navbar-default:nth-of-type(2) > div.container > div.collapse > ul.nav > li:nth-of-type(2) > a",
+        "tag": "a",
+        "text": "Looking for work",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/hire",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 70,
+          "w": 122,
+          "x": 317,
+          "y": 71
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "nav.navbar-default:nth-of-type(2) > div.container > div.collapse > ul.nav > li:nth-of-type(3) > a",
+        "tag": "a",
+        "text": "Looking to hire",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "search[keywords]",
+        "placeholder": "Search by keywords (PHP, .NET, graphic design, etc.)",
+        "rect": {
+          "h": 49,
+          "w": 496,
+          "x": 354,
+          "y": 408
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "input[name=\"search[keywords]\"]",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 49,
+          "w": 60,
+          "x": 849,
+          "y": 408
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "div.row:nth-of-type(2) > div.col-sm-10 > form > div.input-group > span.input-group-btn > button.btn",
+        "tag": "button",
+        "text": "",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/profile_types",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 51,
+          "w": 183,
+          "x": 446,
+          "y": 497
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "div.row:nth-of-type(2) > div.col-sm-10 > form > ul.list-inline > li:nth-of-type(1) > a.btn",
+        "tag": "a",
+        "text": "Start a profile",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/search/jobs",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 51,
+          "w": 174,
+          "x": 639,
+          "y": 497
+        },
+        "ref": "e13",
+        "role": "",
+        "selector": "div.row:nth-of-type(2) > div.col-sm-10 > form > ul.list-inline > li:nth-of-type(2) > a.btn",
+        "tag": "a",
+        "text": "Browse jobs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/why_we_are_free",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 118,
+          "x": 573,
+          "y": 593
+        },
+        "ref": "e14",
+        "role": "",
+        "selector": "div.page-wrapper > section.masthead:nth-of-type(1) > div.container > div.row:nth-of-type(2) > div.col-sm-10 > a.why-free-link",
+        "tag": "a",
+        "text": "Why we are free",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/profiles/juliet-ureta",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 50,
+          "w": 50,
+          "x": 211,
+          "y": 682
+        },
+        "ref": "e15",
+        "role": "",
+        "selector": "div.row > div.col-md-10 > ul.top-profiles > li.sidebar-profile:nth-of-type(1) > div.avatar:nth-of-type(1) > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/profiles/juliet-ureta",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 72,
+          "x": 271,
+          "y": 684
+        },
+        "ref": "e16",
+        "role": "",
+        "selector": "div.row > div.col-md-10 > ul.top-profiles > li.sidebar-profile:nth-of-type(1) > div.main-details:nth-of-type(2) > a.name",
+        "tag": "a",
+        "text": "Juliet Ureta",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/profiles/brian-karanja",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 50,
+          "w": 50,
+          "x": 420,
+          "y": 682
+        },
+        "ref": "e17",
+        "role": "",
+        "selector": "div.row > div.col-md-10 > ul.top-profiles > li.sidebar-profile:nth-of-type(2) > div.avatar:nth-of-type(1) > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/profiles/brian-karanja",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 84,
+          "x": 480,
+          "y": 684
+        },
+        "ref": "e18",
+        "role": "",
+        "selector": "div.row > div.col-md-10 > ul.top-profiles > li.sidebar-profile:nth-of-type(2) > div.main-details:nth-of-type(2) > a.name",
+        "tag": "a",
+        "text": "Brian Karanja",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/profiles/rubiya",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 50,
+          "w": 50,
+          "x": 648,
+          "y": 682
+        },
+        "ref": "e19",
+        "role": "",
+        "selector": "div.row > div.col-md-10 > ul.top-profiles > li.sidebar-profile:nth-of-type(3) > div.avatar:nth-of-type(1) > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/profiles/rubiya",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 42,
+          "x": 708,
+          "y": 684
+        },
+        "ref": "e20",
+        "role": "",
+        "selector": "div.row > div.col-md-10 > ul.top-profiles > li.sidebar-profile:nth-of-type(3) > div.main-details:nth-of-type(2) > a.name",
+        "tag": "a",
+        "text": "Rubiya",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/profiles/bridget-onoji",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 50,
+          "w": 50,
+          "x": 861,
+          "y": 682
+        },
+        "ref": "e21",
+        "role": "",
+        "selector": "div.row > div.col-md-10 > ul.top-profiles > li.sidebar-profile:nth-of-type(4) > div.avatar:nth-of-type(1) > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/profiles/bridget-onoji",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 81,
+          "x": 921,
+          "y": 684
+        },
+        "ref": "e22",
+        "role": "",
+        "selector": "div.row > div.col-md-10 > ul.top-profiles > li.sidebar-profile:nth-of-type(4) > div.main-details:nth-of-type(2) > a.name",
+        "tag": "a",
+        "text": "Bridget Onoji",
+        "type": ""
+      }
+    ],
+    "title": "Hire Freelancers & Remote Workers For Free",
+    "url": "https://hubstafftalent.net/"
   }
 }
