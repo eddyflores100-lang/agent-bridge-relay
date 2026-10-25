@@ -1,1 +1,1 @@
-{"cmd_seq": 1481, "action": "open", "args": {"url": "https://www.codementor.io/", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1482, "action": "geturl", "args": {}}
