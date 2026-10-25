@@ -1,11 +1,11 @@
 {
-  "id": 1136,
+  "id": 1137,
   "action": "check",
   "ok": false,
-  "seq": 1136,
-  "tookMs": 13,
+  "seq": 1137,
+  "tookMs": 14,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:59:20.569Z",
+  "ts": "2026-10-25T02:59:24.243Z",
   "error": {
     "code": "TARGET_NOT_FOUND",
     "hint": "prueba snapshot",
