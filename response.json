@@ -1,16 +1,12 @@
 {
-  "id": 901,
-  "action": "type",
+  "id": 902,
+  "action": "press",
   "ok": true,
-  "seq": 901,
-  "tookMs": 125,
+  "seq": 902,
+  "tookMs": 74,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:18:43.020Z",
+  "ts": "2026-10-25T02:18:46.579Z",
   "result": {
-    "filled": true,
-    "length": 51,
-    "mode": "instant-background",
-    "verified": true,
-    "via": "selector"
+    "pressed": "Enter"
   }
 }
