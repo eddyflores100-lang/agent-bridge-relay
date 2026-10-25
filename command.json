@@ -1,1 +1,1 @@
-{"cmd_seq": 1722, "action": "switchtab", "args": {"tabId": 1762281526, "realSwitch": true}}
+{"cmd_seq": 1723, "action": "clicktext", "args": {"tabId": 1762281526, "text": "Sign up with Email", "contains": true}}
