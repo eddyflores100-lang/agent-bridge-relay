@@ -1,12 +1,16 @@
 {
-  "id": 923,
-  "action": "wait",
+  "id": 924,
+  "action": "type",
   "ok": true,
-  "seq": 923,
-  "tookMs": 1505,
+  "seq": 924,
+  "tookMs": 326,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:22:16.819Z",
+  "ts": "2026-10-25T02:22:20.521Z",
   "result": {
-    "waited": 1500
+    "filled": true,
+    "length": 7,
+    "mode": "instant-background",
+    "verified": true,
+    "via": "selector"
   }
 }
