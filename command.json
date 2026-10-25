@@ -1,1 +1,1 @@
-{"cmd_seq": 1262, "action": "gethtml", "args": {"selector": "li[data-track-value=\"ES\"]", "tabId": 1762281357}}
+{"cmd_seq": 1263, "action": "click", "args": {"selector": "div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(3) > div._1bsa7o5w > div.ja73cu:nth-of-type(1) > input.evy0qv8", "tabId": 1762281357}}
