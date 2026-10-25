@@ -1,16 +1,287 @@
 {
-  "id": 1641,
-  "action": "switchtab",
+  "id": 1642,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1641,
-  "tookMs": 8,
+  "seq": 1642,
+  "tookMs": 1786,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:35:56.774Z",
+  "ts": "2026-10-25T15:36:02.932Z",
   "result": {
-    "tabId": 1762281357,
-    "title": "Inicia sesión: Cuentas de Google",
-    "url": "https://accounts.google.com/v3/signin/accountchooser?access_type=offline&client_id=471436299215-h897rc7c5ebc8jshf0e1g74k8ruf85rl.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.getonbrd.com%",
-    "activated": true,
-    "targeted": true
+    "challenge": null,
+    "count": 15,
+    "elements": [
+      {
+        "ariaLabel": "Email o teléfono",
+        "href": "",
+        "name": "session_key",
+        "placeholder": " ",
+        "rect": {
+          "h": 52,
+          "w": 384,
+          "x": 510,
+          "y": 231
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "input#username",
+        "tag": "input",
+        "text": "eddyflores100@hotmail.com",
+        "type": "email"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "session_password",
+        "placeholder": "",
+        "rect": {
+          "h": 52,
+          "w": 384,
+          "x": 510,
+          "y": 295
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "input#password",
+        "tag": "input",
+        "text": "",
+        "type": "password"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 66,
+          "x": 824,
+          "y": 309
+        },
+        "ref": "e2",
+        "role": "button",
+        "selector": "span#password-visibility-toggle",
+        "tag": "span",
+        "text": "Mostrar",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Cancelar",
+        "href": "https://www.linkedin.com/oauth/v2/login-cancel?app_id=9554043&auth_type=AC&flow=%7B%22state%22%3A%22fd39ee52421ace9671ad2d0710d85c760b80dae880ab0ee3%22%2C%22creationTime%22%3A1792942560435%2C%22appId%22%3A9554043%2C%22scope%22%3A%22r_liteprofile+r_emailaddress%22%2C%22authorizationType%22%3A%22OAUTH",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 52,
+          "w": 184,
+          "x": 514,
+          "y": 367
+        },
+        "ref": "e3",
+        "role": "button",
+        "selector": "div#app__container > main.app__content > div.flavor:nth-of-type(2) > form.login__form > div.login__form_action_container:nth-of-type(3) > a.btn__secondary--large",
+        "tag": "a",
+        "text": "Cancelar",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Iniciar sesión",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 52,
+          "w": 184,
+          "x": 706,
+          "y": 367
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "div#app__container > main.app__content > div.flavor:nth-of-type(2) > form.login__form > div.login__form_action_container:nth-of-type(3) > button.btn__primary--large",
+        "tag": "button",
+        "text": "Iniciar sesión",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/checkpoint/rp/request-password-reset?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D9554043%26auth_type%3DAC%26flow%3D%257B%2522state%2522%253A%2522fd39ee52421ace9671ad2d0710d85c760b80dae880ab0ee3%2522%252C%2522creationTime%2522%253A1792942560435%252C%2522appId%25",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 228,
+          "x": 588,
+          "y": 447
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "div#app__container > main.app__content > div.flavor:nth-of-type(2) > div.footer-app-content-actions:nth-of-type(3) > div > a.btn__tertiary--medium",
+        "tag": "a",
+        "text": "¿Has olvidado tu contraseña?",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/signup/cold-join?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D9554043%26auth_type%3DAC%26flow%3D%257B%2522state%2522%253A%2522fd39ee52421ace9671ad2d0710d85c760b80dae880ab0ee3%2522%252C%2522creationTime%2522%253A1792942560435%252C%2522appId%2522%253A9554043%252C%",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 92,
+          "x": 782,
+          "y": 491
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "a#join_now",
+        "tag": "a",
+        "text": "Unirse ahora",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/legal/user-agreement?trk=d_checkpoint_lg_consumer_login_oauth_ft_user_agreement",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 106,
+          "x": 252,
+          "y": 1036
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "footer.footer__base > div.footer__base__wrapper > div > ul.footer__base__nav-list > li:nth-of-type(1) > a",
+        "tag": "a",
+        "text": "Condiciones de uso",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/legal/privacy-policy?trk=d_checkpoint_lg_consumer_login_oauth_ft_privacy_policy",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 116,
+          "x": 374,
+          "y": 1036
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "footer.footer__base > div.footer__base__wrapper > div > ul.footer__base__nav-list > li:nth-of-type(2) > a",
+        "tag": "a",
+        "text": "Política de privacidad",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_checkpoint_lg_consumer_login_oauth_ft_california_privacy_choices",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 200,
+          "x": 506,
+          "y": 1036
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "footer.footer__base > div.footer__base__wrapper > div > ul.footer__base__nav-list > li:nth-of-type(3) > a",
+        "tag": "a",
+        "text": "Opciones de privacidad de California",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/help/linkedin/answer/34593?lang=en&trk=d_checkpoint_lg_consumer_login_oauth_ft_community_guidelines",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 109,
+          "x": 721,
+          "y": 1036
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "footer.footer__base > div.footer__base__wrapper > div > ul.footer__base__nav-list > li:nth-of-type(4) > a",
+        "tag": "a",
+        "text": "Pautas comunitarias",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/legal/cookie-policy?trk=d_checkpoint_lg_consumer_login_oauth_ft_cookie_policy",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 101,
+          "x": 846,
+          "y": 1036
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "footer.footer__base > div.footer__base__wrapper > div > ul.footer__base__nav-list > li:nth-of-type(5) > a",
+        "tag": "a",
+        "text": "Política de cookies",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/legal/copyright-policy?trk=d_checkpoint_lg_consumer_login_oauth_ft_copyright_policy",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 112,
+          "x": 963,
+          "y": 1036
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "footer.footer__base > div.footer__base__wrapper > div > ul.footer__base__nav-list > li:nth-of-type(6) > a",
+        "tag": "a",
+        "text": "Política de copyright",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/help/linkedin?trk=d_checkpoint_lg_consumer_login_oauth_ft_send_feedback&lang=en",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 104,
+          "x": 1091,
+          "y": 1036
+        },
+        "ref": "e13",
+        "role": "",
+        "selector": "li#feedback-request > a",
+        "tag": "a",
+        "text": "Enviar comentarios",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 58,
+          "x": 252,
+          "y": 1068
+        },
+        "ref": "e14",
+        "role": "",
+        "selector": "div.footer__base__wrapper > div > ul.footer__base__nav-list > li:nth-of-type(8) > div.language-selector > button.language-selector__button",
+        "tag": "button",
+        "text": "Idioma",
+        "type": ""
+      }
+    ],
+    "title": "Iniciar sesión en LinkedIn | LinkedIn",
+    "url": "https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D9554043%26auth_type%3DAC%26flow%3D%257B%2522state%2522%253A%2522fd39ee52421ace9671ad2d0710d85c760b80dae880ab0ee3%2522%252C%2522creationTime%2522%253A1792942560435%252C%2522appId%2522%253A9554043%252C%2522sco"
   }
 }
