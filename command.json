@@ -1,1 +1,1 @@
-{"cmd_seq": 1699, "action": "snapshot", "args": {"tabId": 1762281496, "maxEls": 160}}
+{"cmd_seq": 1700, "action": "fill", "args": {"tabId": 1762281490, "selector": "#Email", "value": "eddyflores100@gmail.com"}}
