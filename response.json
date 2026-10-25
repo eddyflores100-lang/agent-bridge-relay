@@ -1,14 +1,14 @@
 {
-  "id": 1974,
+  "id": 1981,
   "action": "open",
   "ok": true,
-  "seq": 1974,
-  "tookMs": 1990,
+  "seq": 1981,
+  "tookMs": 1483,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:45:10.939Z",
+  "ts": "2026-10-25T18:49:29.921Z",
   "result": {
-    "tabId": 1762281720,
-    "url": "https://www.reddit.com/r/forhire/search.json?q=%22%5BHiring%5D%22+web&restrict_sr=on&sort=new&t=month&limit=15&raw_json=1",
+    "tabId": 1762282063,
+    "url": "https://www.reddit.com/r/forhire/search.json?q=%22%5BHiring%5D%22+website&restrict_sr=on&sort=new&t=year&limit=15&raw_json=1",
     "background": true,
     "loadState": "complete"
   }
