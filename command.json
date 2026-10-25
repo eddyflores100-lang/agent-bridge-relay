@@ -1,1 +1,1 @@
-{"cmd_seq": 1320, "action": "open", "args": {"url": "https://legiit.com/", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1321, "action": "clicktext", "args": {"text": "Reject All"}}
