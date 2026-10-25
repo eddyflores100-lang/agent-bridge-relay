@@ -1,1 +1,1 @@
-{"cmd_seq": 1779, "action": "snapshot", "args": {"tabId": 1762281545}}
+{"cmd_seq": 1780, "action": "execute", "args": {"tabId": 1762281545, "fn": "() => ({url: location.href, title: document.title, len: document.body.innerText.length, txt: document.body.innerText.slice(0,3000)})"}}
