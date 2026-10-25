@@ -1,14 +1,287 @@
 {
-  "id": 1723,
-  "action": "clicktext",
+  "id": 1724,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1723,
-  "tookMs": 542,
+  "seq": 1724,
+  "tookMs": 17,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:48:46.141Z",
+  "ts": "2026-10-25T16:48:52.153Z",
   "result": {
-    "clicked": true,
-    "selector": "div:nth-of-type(1) > div.sc-cAeoYj > div.sc-gOMZPV > div.sc-gaUXCY:nth-of-type(1) > div.sc-cCqzuZ:nth-of-type(2) > button.sc-dlVxDp:nth-of-type(2)",
-    "via": "clicktext"
+    "challenge": "recaptcha",
+    "count": 15,
+    "elements": [
+      {
+        "ariaLabel": "Cookie Policy",
+        "href": "https://www.scalablepath.com/cookie-policy",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 21,
+          "w": 87,
+          "x": 224,
+          "y": 886
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "div.cky-consent-bar > div.cky-notice > div.cky-notice-group > div.cky-notice-des:nth-of-type(1) > p > a.cky-policy",
+        "tag": "a",
+        "text": "Cookie Policy",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Customize",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 104,
+          "x": 35,
+          "y": 923
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "div.cky-consent-container:nth-of-type(2) > div.cky-consent-bar > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper:nth-of-type(2) > button.cky-btn:nth-of-type(1)",
+        "tag": "button",
+        "text": "Customize",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Reject All",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 97,
+          "x": 147,
+          "y": 923
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "div.cky-consent-container:nth-of-type(2) > div.cky-consent-bar > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper:nth-of-type(2) > button.cky-btn:nth-of-type(2)",
+        "tag": "button",
+        "text": "Reject All",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Accept All",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 102,
+          "x": 253,
+          "y": 923
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div.cky-consent-container:nth-of-type(2) > div.cky-consent-bar > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper:nth-of-type(2) > button.cky-btn:nth-of-type(3)",
+        "tag": "button",
+        "text": "Accept All",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.scalablepath.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 21,
+          "w": 1050,
+          "x": 100,
+          "y": 14
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "div.sc-czvYMC:nth-of-type(1) > div.sc-iJKPnr > div.sc-iJKPnr > div.sc-kqnkdz > div.sc-iCfMpq > a.sc-pVTZz",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 28,
+          "w": 28,
+          "x": 1150,
+          "y": 11
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "div.sc-iBjMkt > div.sc-czvYMC:nth-of-type(1) > div.sc-iJKPnr > div.sc-iJKPnr > div.sc-kqnkdz > button.sc-kfPrBu",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 322,
+          "x": 261,
+          "y": 221
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "div:nth-of-type(1) > div.sc-cAeoYj > div.sc-gOMZPV > div.sc-eYQqHe:nth-of-type(1) > div.sc-iEhNnd:nth-of-type(2) > button.sc-bBHyYg",
+        "tag": "button",
+        "text": "Sign up with LinkedIn\nSign up with LinkedIn",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.scalablepath.com/oauth/google/register",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 322,
+          "x": 261,
+          "y": 313
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "div:nth-of-type(1) > div.sc-cAeoYj > div.sc-gOMZPV > div.sc-eYQqHe:nth-of-type(1) > div.sc-iEhNnd:nth-of-type(2) > a",
+        "tag": "a",
+        "text": "Sign up with Google\nSign up with Google",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "first_name",
+        "placeholder": "",
+        "rect": {
+          "h": 31,
+          "w": 322,
+          "x": 261,
+          "y": 420
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "input#first_name",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "last_name",
+        "placeholder": "",
+        "rect": {
+          "h": 31,
+          "w": 322,
+          "x": 261,
+          "y": 486
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "input#last_name",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "email",
+        "placeholder": "",
+        "rect": {
+          "h": 31,
+          "w": 322,
+          "x": 261,
+          "y": 553
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "input#email",
+        "tag": "input",
+        "text": "",
+        "type": "email"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 31,
+          "w": 322,
+          "x": 261,
+          "y": 619
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "div:nth-of-type(4) > div.sc-avhQh > div > div.sc-kmQJWH:nth-of-type(1) > div.sc-eldhKs > input.sc-clIByv",
+        "tag": "input",
+        "text": "",
+        "type": "password"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 21,
+          "w": 141,
+          "x": 261,
+          "y": 672
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "div.sc-eYQqHe:nth-of-type(1) > div.sc-iEhNnd:nth-of-type(2) > div.sc-fXNlwt:nth-of-type(3) > div.sc-jSYHjV:nth-of-type(1) > div.sc-cCKAkT:nth-of-type(5) > button.sc-bBHyYg",
+        "tag": "button",
+        "text": "I have a referral code\nI have a referral code",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.cio.com/article/238206/7-habits-of-highly-effective-developers.html",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 126,
+          "x": 718,
+          "y": 301
+        },
+        "ref": "e13",
+        "role": "",
+        "selector": "div.sc-PvipX > div.sc-dmvcXF:nth-of-type(2) > div.sc-dshhSw > div.sc-kkQWbL:nth-of-type(2) > div > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.wsj.com/articles/companies-find-tech-talent-in-robust-freelance-market-1453941466",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 72,
+          "x": 879,
+          "y": 301
+        },
+        "ref": "e14",
+        "role": "",
+        "selector": "div.sc-PvipX > div.sc-dmvcXF:nth-of-type(2) > div.sc-dshhSw > div.sc-kkQWbL:nth-of-type(2) > div > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      }
+    ],
+    "title": "Apply to Join Our Network | Scalable Path®",
+    "url": "https://www.scalablepath.com/apply"
   }
 }
