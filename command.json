@@ -1,1 +1,1 @@
-{"cmd_seq": 1160, "action": "wait", "args": {"ms": 2000}}
+{"cmd_seq": 1161, "action": "gethtml", "args": {"selector": "[data-track-tag=\"combobox_option\"]", "tabId": 1762281357}}
