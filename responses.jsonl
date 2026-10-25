@@ -151,3 +151,4 @@
 {"id":1250,"action":"wait","ok":true,"seq":1250,"tookMs":2208,"version":"2.2.3","ts":"2026-10-25T03:13:29.975Z","result":{"waited":2200}}
 {"id":1251,"action":"check","ok":false,"seq":1251,"tookMs":11,"version":"2.2.3","ts":"2026-10-25T03:13:32.975Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1252,"action":"wait","ok":true,"seq":1252,"tookMs":1511,"version":"2.2.3","ts":"2026-10-25T03:13:38.291Z","result":{"waited":1500}}
+{"id":1253,"action":"gethtml","ok":false,"seq":1253,"tookMs":11,"version":"2.2.3","ts":"2026-10-25T03:13:41.392Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
