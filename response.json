@@ -1,14 +1,16 @@
 {
-  "id": 1760,
-  "action": "reload",
+  "id": 1761,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1760,
-  "tookMs": 3337,
+  "seq": 1761,
+  "tookMs": 15,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:53:16.663Z",
+  "ts": "2026-10-25T16:53:26.569Z",
   "result": {
-    "url": "https://www.turing.com/apply",
-    "loadState": "complete",
-    "tabId": 1762281504
+    "challenge": null,
+    "count": 0,
+    "elements": [],
+    "title": "",
+    "url": "https://www.turing.com/apply"
   }
 }
