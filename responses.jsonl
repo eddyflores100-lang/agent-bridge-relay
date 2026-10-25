@@ -28,3 +28,4 @@
 {"id":2013,"action":"execute","ok":false,"seq":2013,"tookMs":15,"version":"2.3.0","ts":"2026-10-25T18:58:31.336Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2014,"action":"execute","ok":false,"seq":2014,"tookMs":17,"version":"2.3.0","ts":"2026-10-25T18:58:34.111Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2015,"action":"open","ok":true,"seq":2015,"tookMs":4358,"version":"2.3.0","ts":"2026-10-25T18:58:43.158Z","result":{"tabId":1762282335,"url":"https://chicago.craigslist.org/search/ggg?query=website&sort=date","background":true,"loadState":"complete"}}
+{"id":2016,"action":"execute","ok":false,"seq":2016,"tookMs":37,"version":"2.3.0","ts":"2026-10-25T18:58:49.972Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
