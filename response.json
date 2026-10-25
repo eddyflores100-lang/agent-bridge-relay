@@ -1,107 +1,15 @@
 {
-  "id": 1562,
-  "action": "snapshot",
+  "id": 1563,
+  "action": "open",
   "ok": true,
-  "seq": 1562,
-  "tookMs": 18,
+  "seq": 1563,
+  "tookMs": 6196,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:42:36.643Z",
+  "ts": "2026-10-25T04:43:43.416Z",
   "result": {
-    "challenge": null,
-    "count": 5,
-    "elements": [
-      {
-        "ariaLabel": "",
-        "href": "https://app.usebraintrust.com/",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 31,
-          "w": 121,
-          "x": 22,
-          "y": 20
-        },
-        "ref": "e0",
-        "role": "",
-        "selector": "div.MuiStack-root > div.MuiBox-root:nth-of-type(1) > div.MuiStack-root:nth-of-type(1) > div.MuiBox-root:nth-of-type(1) > div.MuiStack-root:nth-of-type(1) > a.style_logo__s0SVx",
-        "tag": "a",
-        "text": "",
-        "type": ""
-      },
-      {
-        "ariaLabel": "Search",
-        "href": "",
-        "name": "",
-        "placeholder": "Search for jobs",
-        "rect": {
-          "h": 46,
-          "w": 513,
-          "x": 218,
-          "y": 14
-        },
-        "ref": "e1",
-        "role": "",
-        "selector": "input#_r_1_",
-        "tag": "input",
-        "text": "",
-        "type": "text"
-      },
-      {
-        "ariaLabel": "",
-        "href": "https://app.usebraintrust.com/auth/login/?next=%2Fpage-not-found%2F%3Freloaded%3Dtrue&reloaded=true",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 38,
-          "w": 87,
-          "x": 1062,
-          "y": 17
-        },
-        "ref": "e2",
-        "role": "",
-        "selector": "div.MuiStack-root > div.MuiBox-root:nth-of-type(1) > div.MuiStack-root:nth-of-type(1) > div.styles_actions__ML6iW:nth-of-type(2) > div.MuiBox-root > a.MuiButtonBase-root:nth-of-type(1)",
-        "tag": "a",
-        "text": "Log In",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "https://app.usebraintrust.com/auth/sign_up/?next=%2Fpage-not-found%2F%3Freloaded%3Dtrue&reloaded=true",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 38,
-          "w": 99,
-          "x": 1157,
-          "y": 17
-        },
-        "ref": "e3",
-        "role": "",
-        "selector": "div.MuiStack-root > div.MuiBox-root:nth-of-type(1) > div.MuiStack-root:nth-of-type(1) > div.styles_actions__ML6iW:nth-of-type(2) > div.MuiBox-root > a.MuiButtonBase-root:nth-of-type(2)",
-        "tag": "a",
-        "text": "Sign Up",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "https://app.usebraintrust.com/",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 36,
-          "w": 180,
-          "x": 527,
-          "y": 584
-        },
-        "ref": "e4",
-        "role": "",
-        "selector": "div.MuiStack-root:nth-of-type(2) > div.MuiStack-root > div.MuiStack-root > div.MuiGrid-root:nth-of-type(2) > p.MuiTypography-root:nth-of-type(2) > a",
-        "tag": "a",
-        "text": "homepage",
-        "type": ""
-      }
-    ],
-    "title": "Braintrust | Page Not Found",
-    "url": "https://app.usebraintrust.com/page-not-found/?reloaded=true"
+    "tabId": 1762281357,
+    "url": "https://torre.ai/",
+    "reused": true,
+    "loadState": "complete"
   }
 }
