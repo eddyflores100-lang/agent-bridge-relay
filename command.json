@@ -1,1 +1,1 @@
-{"cmd_seq": 2114, "action": "navigate", "args": {"url": "https://seattle.craigslist.org/search/ggg?query=web&sort=date", "tabId": 1762282395}}
+{"cmd_seq": 2115, "action": "snapshot", "args": {"tabId": 1762282395, "maxEls": 250}}
