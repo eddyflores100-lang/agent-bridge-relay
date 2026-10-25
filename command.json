@@ -1,1 +1,1 @@
-{"cmd_seq": 2035, "action": "execute", "args": {"tabId": 1762282353, "fn": "() => { window.close(); return 1; }"}}
+{"cmd_seq": 2036, "action": "open", "args": {"url": "https://miami.craigslist.org/search/ggg?query=web+developer&sort=date"}}
