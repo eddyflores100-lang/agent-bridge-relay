@@ -1,1 +1,1 @@
-{"cmd_seq": 1267, "action": "gethtml", "args": {"selector": "li[data-track-value=\"ES\"]", "tabId": 1762281357}}
+{"cmd_seq": 1268, "action": "ping", "args": {}}
