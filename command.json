@@ -1,1 +1,1 @@
-{"cmd_seq": 898, "action": "press", "args": {"selector": "div.ja73cu:nth-of-type(2) input.ja73c1j", "key": "Enter", "tabId": 1762281357}}
+{"cmd_seq": 899, "action": "click", "args": {"selector": "div.ja73cu:nth-of-type(2) svg[data-track-tag=\"pencil_icon\"]", "tabId": 1762281357}}
