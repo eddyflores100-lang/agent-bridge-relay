@@ -1,15 +1,14 @@
 {
-  "id": 1492,
-  "action": "open",
+  "id": 1493,
+  "action": "geturl",
   "ok": true,
-  "seq": 1492,
-  "tookMs": 3502,
+  "seq": 1493,
+  "tookMs": 8,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:35:16.428Z",
+  "ts": "2026-10-25T04:35:22.393Z",
   "result": {
-    "tabId": 1762281357,
     "url": "https://comeup.com/en/register",
-    "reused": true,
-    "loadState": "complete"
+    "title": "ComeUp - La meilleure plateforme freelance française",
+    "tabId": 1762281357
   }
 }
