@@ -1,12 +1,13 @@
 {
-  "id": 1970,
-  "action": "gettext",
-  "ok": true,
-  "seq": 1970,
-  "tookMs": 42,
+  "id": 1971,
+  "action": "execute",
+  "ok": false,
+  "seq": 1971,
+  "tookMs": 18,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:44:08.424Z",
-  "result": {
-    "text": "{\"kind\": \"Listing\", \"data\": {\"modhash\": \"iab3h7mkrm50d895b70f88f7e4a6df9b164759e8ff9fc5caa2\", \"dist\": 0, \"facets\": {}, \"after\": null, \"geo_filter\": \"\", \"children\": [], \"before\": null}}"
+  "ts": "2026-10-25T18:44:14.724Z",
+  "error": {
+    "code": "UNSUPPORTED",
+    "message": "accion \"execute\" no soportada en inject.js"
   }
 }
