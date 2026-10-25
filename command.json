@@ -1,1 +1,1 @@
-{"cmd_seq": 1591, "action": "snapshot", "args": {"maxEls": 200}}
+{"cmd_seq": 1592, "action": "open", "args": {"url": "https://accounts.torre.ai/account/?next=%2Fopenid%2Fauthorize%3Fscope%3Dopenid%2Bprof", "reuse": true, "waitMs": 8000}}
