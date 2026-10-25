@@ -1,14 +1,14 @@
 {
-  "id": 1656,
-  "action": "click",
+  "id": 1657,
+  "action": "geturl",
   "ok": true,
-  "seq": 1656,
-  "tookMs": 384,
+  "seq": 1657,
+  "tookMs": 9,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:37:33.965Z",
+  "ts": "2026-10-25T15:37:44.103Z",
   "result": {
-    "clicked": true,
-    "selector": "div.__variable_b8b323 > div.sc-8dbb5c38-0 > header.ui__sc-1n3xs03-1 > div.header-bar-contents > div.right:nth-of-type(2) > button.ui__sc-1mmo7mk-0",
-    "via": "ref"
+    "url": "https://www.codementor.io/",
+    "title": "Codementor | Get live 1:1 coding help, hire a developer, & more",
+    "tabId": 1762281357
   }
 }
