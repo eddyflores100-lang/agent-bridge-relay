@@ -1,14 +1,14 @@
 {
-  "id": 1169,
-  "action": "gethtml",
-  "ok": false,
-  "seq": 1169,
-  "tookMs": 28,
+  "id": 1170,
+  "action": "click",
+  "ok": true,
+  "seq": 1170,
+  "tookMs": 413,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:03:28.644Z",
-  "error": {
-    "code": "TARGET_NOT_FOUND",
-    "hint": "prueba snapshot",
-    "message": "selector sin match"
+  "ts": "2026-10-25T03:03:32.094Z",
+  "result": {
+    "clicked": true,
+    "selector": "button._1bsa7o5r",
+    "via": "selector"
   }
 }
