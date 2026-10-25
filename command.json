@@ -1,1 +1,1 @@
-{"cmd_seq": 1244, "action": "scroll", "args": {"dir": "up", "px": 1500, "tabId": 1762281357}}
+{"cmd_seq": 1245, "action": "wait", "args": {"ms": 1200}}
