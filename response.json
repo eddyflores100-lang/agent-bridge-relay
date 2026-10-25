@@ -1,16 +1,15 @@
 {
-  "id": 1295,
-  "action": "snapshot",
+  "id": 1296,
+  "action": "open",
   "ok": true,
-  "seq": 1295,
-  "tookMs": 12,
+  "seq": 1296,
+  "tookMs": 9062,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:07:29.238Z",
+  "ts": "2026-10-25T04:07:40.998Z",
   "result": {
-    "challenge": null,
-    "count": 0,
-    "elements": [],
-    "title": "",
-    "url": "https://www.codementor.io/mentor/apply"
+    "tabId": 1762281357,
+    "url": "https://www.usebraintrust.com/signup",
+    "reused": true,
+    "loadState": "timeout"
   }
 }
