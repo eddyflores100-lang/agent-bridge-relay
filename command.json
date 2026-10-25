@@ -1,1 +1,1 @@
-{"cmd_seq": 1398, "action": "snapshot", "args": {"maxEls": 200}}
+{"cmd_seq": 1399, "action": "getlinks", "args": {"filter": "apply|become|mentor"}}
