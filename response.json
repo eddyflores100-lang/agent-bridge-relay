@@ -1,13 +1,12 @@
 {
-  "id": 1890,
-  "action": "scroll",
+  "id": 1891,
+  "action": "gettext",
   "ok": true,
-  "seq": 1890,
-  "tookMs": 34,
+  "seq": 1891,
+  "tookMs": 32,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:32:52.505Z",
+  "ts": "2026-10-25T18:32:56.861Z",
   "result": {
-    "scrolled": true,
-    "y": 0
+    "text": "Ir al contenido principal\n[Hiring] web - Búsqueda de Reddit\nAnunciarse en Reddit\nCrear\nPublicar\nExpandir menú de usuario\nPublicaciones\nComentarios\nMultimedia\nback\nforward\nNuevo\n\nMostrar resultados de \ntodo Reddit\n\n[For Hire] Senior Java & Spring Boot Developer | Bug Fixing, REST APIs & Backend Troubleshooting\nr/forhire\n·\nhace 1 d\n[For Hire] Senior Java & Spring Boot Developer | Bug Fixing, REST APIs & Backend Troubleshooting\n1 voto·1 comentario\n[For Hire] Software Engineer | Full-Stack Development, APIs & Custom Applications\nr/forhire\n·\nhace 1 d\n[For Hire] Software Engineer | Full-Stack Development, APIs & Custom Applications\n1 voto·1 comentario\n[FOR HIRE] Virtual Assistant and Video Editor\nr/forhire\n·\nhace 1 d\n[FOR HIRE] Virtual Assistant and Video Editor\n1 voto·2 comentarios\n[FOR HIRE] Full-Stack Web & App Developer | Bring Me Your Idea, I’ll Build It | Only 5 Projects.\nr/forhire\n·\nhace 1 d\n[FOR HIRE] Full-Stack Web & App Developer | Bring Me Your Idea, I’ll Build It | Only 5 Projects.\n1 voto·3 comentarios\n[For Hire] Software Developer | Web Apps, Backend & Al\nr/forhire\n·\nhace 2 d\n[For Hire] Software Developer | Web Apps, Backend & Al\n1 voto·3 comentarios\n[For Hire] Website Development & Hosting. Fast Delivery. Transparent Pricing.\nr/forhire\n·\nhace 2 d\n[For Hire] Website Development & Hosting. Fast Delivery. Transparent Pricing.\n2 votos·2 comentarios\n[For Hire] Experienced C#/.NET Developer Available for Freelance Work — Bug Fixes, APIs, SQL, React, and More\nr/forhire\n·\nhace 2 d\n[For Hire] Experienced C#/.NET Developer Available for Freelance Work — Bug Fixes, APIs, SQL, React, and More\n3 votos·5 comentarios\nCreada el 28 may 2009\nPúblico\n24 mil4,1 mil\nReglas de Reddit\nPolítica de privacidad\nAcuerdo del usuario\nTus opciones de privacidad\nAccesibilidad\nReddit, Inc. © 2026. Todos los derechos reservados.\nContraer la navegación"
   }
 }
