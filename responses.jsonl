@@ -47,3 +47,4 @@
 {"id":880,"action":"wait","ok":true,"seq":880,"tookMs":1209,"version":"2.2.3","ts":"2026-10-25T02:15:58.846Z","result":{"waited":1200}}
 {"id":881,"action":"type","ok":true,"seq":881,"tookMs":107,"version":"2.2.3","ts":"2026-10-25T02:16:02.030Z","result":{"filled":true,"length":9,"mode":"instant-background","verified":true,"via":"selector"}}
 {"id":883,"action":"wait","ok":true,"seq":883,"tookMs":1206,"version":"2.2.3","ts":"2026-10-25T02:16:16.986Z","result":{"waited":1200}}
+{"id":884,"action":"type","ok":false,"seq":884,"tookMs":16,"version":"2.2.3","ts":"2026-10-25T02:16:19.889Z","error":{"code":"WRITE_FAILED","message":"elemento disabled/readonly"}}
