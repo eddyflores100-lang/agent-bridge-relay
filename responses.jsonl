@@ -71,3 +71,4 @@
 {"id":2056,"action":"execute","ok":false,"seq":2056,"tookMs":18,"version":"2.3.0","ts":"2026-10-25T19:02:38.950Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2057,"action":"open","ok":true,"seq":2057,"tookMs":3494,"version":"2.3.0","ts":"2026-10-25T19:02:47.152Z","result":{"tabId":1762282377,"url":"https://seattle.craigslist.org/search/ggg?query=ai+automation&sort=date","background":true,"loadState":"complete"}}
 {"id":2058,"action":"execute","ok":false,"seq":2058,"tookMs":20,"version":"2.3.0","ts":"2026-10-25T19:02:52.969Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
+{"id":2059,"action":"execute","ok":false,"seq":2059,"tookMs":19,"version":"2.3.0","ts":"2026-10-25T19:02:57.789Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
