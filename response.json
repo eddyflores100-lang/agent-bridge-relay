@@ -1,13 +1,15 @@
 {
-  "id": 1962,
-  "action": "execute",
-  "ok": false,
-  "seq": 1962,
-  "tookMs": 19,
+  "id": 1963,
+  "action": "open",
+  "ok": true,
+  "seq": 1963,
+  "tookMs": 2766,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:42:51.190Z",
-  "error": {
-    "code": "UNSUPPORTED",
-    "message": "accion \"execute\" no soportada en inject.js"
+  "ts": "2026-10-25T18:43:07.402Z",
+  "result": {
+    "tabId": 1762281708,
+    "url": "https://www.reddit.com/r/freelancer_hire/new.json?limit=15&sort=new&raw_json=1",
+    "background": true,
+    "loadState": "complete"
   }
 }
