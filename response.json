@@ -1,16 +1,305 @@
 {
-  "id": 1614,
-  "action": "switchtab",
+  "id": 1615,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1614,
-  "tookMs": 9,
+  "seq": 1615,
+  "tookMs": 27,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:31:13.908Z",
+  "ts": "2026-10-25T15:31:21.942Z",
   "result": {
-    "tabId": 1762281357,
+    "challenge": null,
+    "count": 16,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 250,
+          "x": 514,
+          "y": 37
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "body.signup-page > div.page-wrapper > div.signup-header-bar:nth-of-type(1) > div.row > div.col-sm-12 > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "user[name]",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 495,
+          "x": 392,
+          "y": 272
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "input#hubstaff_user_name",
+        "tag": "input",
+        "text": "Edison Flores",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "user[email]",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 495,
+          "x": 392,
+          "y": 366
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "input#hubstaff_email",
+        "tag": "input",
+        "text": "eddyflores100@gmail.com",
+        "type": "email"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "user[password]",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 495,
+          "x": 392,
+          "y": 461
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "input#hubstaff_password",
+        "tag": "input",
+        "text": "Emm@darla2012500",
+        "type": "password"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "user[password_confirmation]",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 495,
+          "x": 392,
+          "y": 555
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "input#hubstaff_password_confirmation",
+        "tag": "input",
+        "text": "Emm@darla201500",
+        "type": "password"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "user[terms]",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 392,
+          "y": 614
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "input#user_terms",
+        "tag": "input",
+        "text": "1",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstaff.com/terms",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 39,
+          "x": 496,
+          "y": 612
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "div.row:nth-of-type(1) > div.col-sm-8 > div.signup-form-wrapper:nth-of-type(1) > form.simple_form > label.checkbox > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Terms",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstaff.com/privacy",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 86,
+          "x": 542,
+          "y": 612
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "div.row:nth-of-type(1) > div.col-sm-8 > div.signup-form-wrapper:nth-of-type(1) > form.simple_form > label.checkbox > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstaff.com/dpa",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 26,
+          "x": 658,
+          "y": 612
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "div.row:nth-of-type(1) > div.col-sm-8 > div.signup-form-wrapper:nth-of-type(1) > form.simple_form > label.checkbox > a:nth-of-type(3)",
+        "tag": "a",
+        "text": "DPA",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "button",
+        "placeholder": "",
+        "rect": {
+          "h": 49,
+          "w": 495,
+          "x": 392,
+          "y": 663
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "button[name=\"button\"]",
+        "tag": "button",
+        "text": "Sign up",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/login",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 42,
+          "x": 699,
+          "y": 783
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "div.page-wrapper > div.container:nth-of-type(2) > div.row:nth-of-type(1) > div.col-sm-8 > div.text-center:nth-of-type(2) > a",
+        "tag": "a",
+        "text": "Sign in",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 160,
+          "x": 69,
+          "y": 846
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "body.signup-page > div.page-wrapper > div.container:nth-of-type(2) > div.row:nth-of-type(2) > div.col-sm-4:nth-of-type(1) > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.facebook.com/hubstaffapps",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 16,
+          "x": 1053,
+          "y": 844
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "body.signup-page > div.page-wrapper > div.container:nth-of-type(2) > div.row:nth-of-type(2) > div.col-sm-4:nth-of-type(3) > a.social-link:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/company/hubstaff",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 14,
+          "x": 1099,
+          "y": 844
+        },
+        "ref": "e13",
+        "role": "",
+        "selector": "body.signup-page > div.page-wrapper > div.container:nth-of-type(2) > div.row:nth-of-type(2) > div.col-sm-4:nth-of-type(3) > a.social-link:nth-of-type(2)",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://twitter.com/Hubstaff",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 16,
+          "x": 1143,
+          "y": 844
+        },
+        "ref": "e14",
+        "role": "",
+        "selector": "body.signup-page > div.page-wrapper > div.container:nth-of-type(2) > div.row:nth-of-type(2) > div.col-sm-4:nth-of-type(3) > a.social-link:nth-of-type(3)",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.youtube.com/channel/UCV0-Tt5WiHnxDb3Z7wV_Qlg/feed",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 20,
+          "x": 1189,
+          "y": 844
+        },
+        "ref": "e15",
+        "role": "",
+        "selector": "body.signup-page > div.page-wrapper > div.container:nth-of-type(2) > div.row:nth-of-type(2) > div.col-sm-4:nth-of-type(3) > a.social-link:nth-of-type(4)",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      }
+    ],
     "title": "Create an account",
-    "url": "https://hubstafftalent.net/signup",
-    "activated": true,
-    "targeted": true
+    "url": "https://hubstafftalent.net/signup"
   }
 }
