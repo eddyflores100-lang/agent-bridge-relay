@@ -1,1 +1,1 @@
-{"cmd_seq": 1371, "action": "open", "args": {"url": "https://www.getonbrd.com/home", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1372, "action": "snapshot", "args": {"maxEls": 150}}
