@@ -1,13 +1,15 @@
 {
-  "id": 1392,
-  "action": "getlinks",
+  "id": 1393,
+  "action": "open",
   "ok": true,
-  "seq": 1392,
-  "tookMs": 11,
+  "seq": 1393,
+  "tookMs": 9031,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:22:00.462Z",
+  "ts": "2026-10-25T04:22:12.965Z",
   "result": {
-    "count": 0,
-    "links": []
+    "tabId": 1762281357,
+    "url": "https://www.multitrabajos.com/",
+    "reused": true,
+    "loadState": "timeout"
   }
 }
