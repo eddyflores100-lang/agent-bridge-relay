@@ -1,1 +1,1 @@
-{"cmd_seq": 916, "action": "click", "args": {"selector": "div.ja73cu:nth-of-type(2) svg[data-track-tag=\"pencil_icon\"]", "tabId": 1762281357}}
+{"cmd_seq": 917, "action": "wait", "args": {"ms": 1200}}
