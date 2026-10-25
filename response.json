@@ -1,14 +1,12 @@
 {
-  "id": 965,
-  "action": "click",
-  "ok": false,
-  "seq": 965,
-  "tookMs": 16,
+  "id": 966,
+  "action": "wait",
+  "ok": true,
+  "seq": 966,
+  "tookMs": 2511,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:30:27.361Z",
-  "error": {
-    "code": "NOT_VISIBLE",
-    "hint": "scrollintoview y reintenta",
-    "message": "elemento no visible (css-hidden)"
+  "ts": "2026-10-25T02:30:32.819Z",
+  "result": {
+    "waited": 2500
   }
 }
