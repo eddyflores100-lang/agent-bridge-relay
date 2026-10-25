@@ -1,1 +1,1 @@
-{"cmd_seq": 1724, "action": "snapshot", "args": {"tabId": 1762281526, "maxEls": 120}}
+{"cmd_seq": 1725, "action": "fill", "args": {"tabId": 1762281526, "selector": "#first_name", "value": "Edison"}}
