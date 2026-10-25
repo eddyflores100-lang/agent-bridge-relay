@@ -1,1 +1,1 @@
-{"cmd_seq": 2075, "action": "execute", "args": {"tabId": 1762282392, "fn": "() => { window.close(); return 1; }"}}
+{"cmd_seq": 2076, "action": "open", "args": {"url": "https://sandiego.craigslist.org/search/ggg?query=website&sort=date"}}
