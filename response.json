@@ -1,14 +1,15 @@
 {
-  "id": 1309,
-  "action": "fill",
-  "ok": false,
-  "seq": 1309,
-  "tookMs": 10,
+  "id": 1310,
+  "action": "open",
+  "ok": true,
+  "seq": 1310,
+  "tookMs": 4688,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:10:45.420Z",
-  "error": {
-    "code": "CHALLENGE_PAGE",
-    "message": "challenge anti-bot detectado: recaptcha",
-    "hint": "resuelvelo a mano y reload"
+  "ts": "2026-10-25T04:10:56.189Z",
+  "result": {
+    "tabId": 1762281357,
+    "url": "https://www.guru.com/",
+    "reused": true,
+    "loadState": "complete"
   }
 }
