@@ -1,1 +1,1 @@
-{"cmd_seq": 1101, "action": "click", "args": {"selector": "li[data-track-value=\"WORDPRESS\"] label", "tabId": 1762281357}}
+{"cmd_seq": 1102, "action": "wait", "args": {"ms": 1500}}
