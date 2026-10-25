@@ -1,14 +1,12 @@
 {
-  "id": 1225,
-  "action": "click",
-  "ok": false,
-  "seq": 1225,
-  "tookMs": 15,
+  "id": 1226,
+  "action": "wait",
+  "ok": true,
+  "seq": 1226,
+  "tookMs": 2203,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:09:27.117Z",
-  "error": {
-    "code": "TARGET_NOT_FOUND",
-    "hint": "prueba snapshot",
-    "message": "selector sin match"
+  "ts": "2026-10-25T03:09:32.903Z",
+  "result": {
+    "waited": 2200
   }
 }
