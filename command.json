@@ -1,1 +1,1 @@
-{"cmd_seq": 1309, "action": "fill", "args": {"ref": "e50", "value": "Edison Flores"}}
+{"cmd_seq": 1310, "action": "open", "args": {"url": "https://www.guru.com/", "reuse": true, "waitMs": 9000}}
