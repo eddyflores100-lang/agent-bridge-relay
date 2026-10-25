@@ -1,1 +1,1 @@
-{"cmd_seq": 1189, "action": "click", "args": {"selector": "div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)", "tabId": 1762281357}}
+{"cmd_seq": 1190, "action": "gethtml", "args": {"selector": "[data-track-tag=\"combobox_option\"]", "tabId": 1762281357}}
