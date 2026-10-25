@@ -1,1 +1,1 @@
-{"cmd_seq": 1269, "action": "ping", "args": {}}
+{"cmd_seq": 1270, "action": "open", "args": {"url": "https://www.guru.com/join/", "reuse": true, "waitMs": 9000}}
