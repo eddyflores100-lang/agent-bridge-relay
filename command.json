@@ -1,1 +1,1 @@
-{"cmd_seq": 1736, "action": "fill", "args": {"tabId": 1762281529, "selector": "#input_4_1", "value": "eddyflores100@gmail.com"}}
+{"cmd_seq": 1737, "action": "click", "args": {"tabId": 1762281529, "selector": "button#gform_submit_button_4"}}
