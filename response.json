@@ -1,15 +1,14 @@
 {
-  "id": 859,
-  "action": "navigate",
+  "id": 860,
+  "action": "geturl",
   "ok": true,
-  "seq": 859,
-  "tookMs": 14228,
+  "seq": 860,
+  "tookMs": 6,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:12:05.452Z",
+  "ts": "2026-10-25T02:12:08.492Z",
   "result": {
-    "url": "https://www.fiverr.com/eddyflores100",
-    "loadState": "complete",
-    "tabId": 1762281357,
-    "background": true
+    "url": "https://pro.fiverr.com/start_selling",
+    "title": "Start Selling on Fiverr",
+    "tabId": 1762281357
   }
 }
