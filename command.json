@@ -1,1 +1,1 @@
-{"cmd_seq": 857, "action": "navigate", "args": {"url": "https://www.fiverr.com/sellers_onboarding", "tabId": 1762281357, "waitMs": 15000}}
+{"cmd_seq": 858, "action": "geturl", "args": {"tabId": 1762281357}}
