@@ -1,13 +1,15 @@
 {
-  "id": 1971,
-  "action": "execute",
-  "ok": false,
-  "seq": 1971,
-  "tookMs": 18,
+  "id": 1972,
+  "action": "open",
+  "ok": true,
+  "seq": 1972,
+  "tookMs": 1968,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:44:14.724Z",
-  "error": {
-    "code": "UNSUPPORTED",
-    "message": "accion \"execute\" no soportada en inject.js"
+  "ts": "2026-10-25T18:44:30.648Z",
+  "result": {
+    "tabId": 1762281717,
+    "url": "https://www.reddit.com/r/forhire/search.json?q=%22%5BHiring%5D%22+web&restrict_sr=on&sort=new&t=month&limit=15&raw_json=1",
+    "background": true,
+    "loadState": "complete"
   }
 }
