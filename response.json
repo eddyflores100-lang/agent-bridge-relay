@@ -1,14 +1,15 @@
 {
-  "id": 1714,
-  "action": "snapshot",
-  "ok": false,
-  "seq": 1714,
-  "tookMs": 5,
+  "id": 1715,
+  "action": "open",
+  "ok": true,
+  "seq": 1715,
+  "tookMs": 3548,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:47:38.132Z",
-  "error": {
-    "code": "TARGET_NOT_FOUND",
-    "message": "tabId 1762281513 no existe",
-    "hint": "listtabs"
+  "ts": "2026-10-25T16:47:45.771Z",
+  "result": {
+    "tabId": 1762281518,
+    "url": "https://arc.dev/talent/onboarding",
+    "background": true,
+    "loadState": "complete"
   }
 }
