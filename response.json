@@ -1,16 +1,14 @@
 {
-  "id": 890,
-  "action": "type",
+  "id": 891,
+  "action": "clicktext",
   "ok": true,
-  "seq": 890,
-  "tookMs": 105,
+  "seq": 891,
+  "tookMs": 166,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:17:17.344Z",
+  "ts": "2026-10-25T02:17:29.143Z",
   "result": {
-    "filled": true,
-    "length": 49,
-    "mode": "instant-background",
-    "verified": true,
-    "via": "selector"
+    "clicked": true,
+    "selector": "html > body.layout-service > div:nth-of-type(15) > div.tpi8bmk",
+    "via": "clicktext"
   }
 }
