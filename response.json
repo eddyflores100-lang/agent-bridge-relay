@@ -1,13 +1,15 @@
 {
-  "id": 1920,
-  "action": "execute",
-  "ok": false,
-  "seq": 1920,
-  "tookMs": 17,
+  "id": 1921,
+  "action": "open",
+  "ok": true,
+  "seq": 1921,
+  "tookMs": 2238,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:36:33.347Z",
-  "error": {
-    "code": "UNSUPPORTED",
-    "message": "accion \"execute\" no soportada en inject.js"
+  "ts": "2026-10-25T18:36:42.773Z",
+  "result": {
+    "tabId": 1762281663,
+    "url": "https://www.reddit.com/r/forhire/search.json?q=%22%5BHiring%5D%22+automation&restrict_sr=on&sort=new&t=year&limit=50",
+    "background": true,
+    "loadState": "complete"
   }
 }
