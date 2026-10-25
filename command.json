@@ -1,1 +1,1 @@
-{"cmd_seq": 1690, "action": "open", "args": {"url": "https://www.computrabajo.com.ec/", "waitMs": 12000}}
+{"cmd_seq": 1691, "action": "snapshot", "args": {"tabId": 1762281484, "maxEls": 160}}
