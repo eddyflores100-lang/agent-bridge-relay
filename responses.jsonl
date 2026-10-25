@@ -63,3 +63,4 @@
 {"id":897,"action":"type","ok":false,"seq":897,"tookMs":12,"version":"2.2.3","ts":"2026-10-25T02:18:20.604Z","error":{"code":"WRITE_FAILED","message":"elemento disabled/readonly"}}
 {"id":898,"action":"press","ok":true,"seq":898,"tookMs":192,"version":"2.2.3","ts":"2026-10-25T02:18:25.024Z","result":{"pressed":"Enter"}}
 {"id":899,"action":"click","ok":true,"seq":899,"tookMs":154,"version":"2.2.3","ts":"2026-10-25T02:18:35.024Z","result":{"clicked":true,"selector":"div.nnpxsm187 > div.nnpxsm0 > svg","via":"selector"}}
+{"id":901,"action":"type","ok":true,"seq":901,"tookMs":125,"version":"2.2.3","ts":"2026-10-25T02:18:43.020Z","result":{"filled":true,"length":51,"mode":"instant-background","verified":true,"via":"selector"}}
