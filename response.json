@@ -1,16 +1,14 @@
 {
-  "id": 1568,
-  "action": "fill",
+  "id": 1569,
+  "action": "click",
   "ok": true,
-  "seq": 1568,
-  "tookMs": 1559,
+  "seq": 1569,
+  "tookMs": 376,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:44:07.950Z",
+  "ts": "2026-10-25T04:44:11.277Z",
   "result": {
-    "filled": true,
-    "length": 23,
-    "mode": "human",
-    "verified": true,
+    "clicked": true,
+    "selector": "button[name=\"submit\"]",
     "via": "ref"
   }
 }
