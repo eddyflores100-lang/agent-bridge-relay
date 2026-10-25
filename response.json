@@ -1,14 +1,14 @@
 {
-  "id": 1168,
-  "action": "click",
-  "ok": true,
-  "seq": 1168,
-  "tookMs": 344,
+  "id": 1169,
+  "action": "gethtml",
+  "ok": false,
+  "seq": 1169,
+  "tookMs": 28,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:03:23.152Z",
-  "result": {
-    "clicked": true,
-    "selector": "div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)",
-    "via": "selector"
+  "ts": "2026-10-25T03:03:28.644Z",
+  "error": {
+    "code": "TARGET_NOT_FOUND",
+    "hint": "prueba snapshot",
+    "message": "selector sin match"
   }
 }
