@@ -1,1 +1,1 @@
-{"cmd_seq": 2100, "action": "snapshot", "args": {"tabId": 1762282395, "maxEls": 250}}
+{"cmd_seq": 2101, "action": "navigate", "args": {"url": "about:blank", "tabId": 1762282395}}
