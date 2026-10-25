@@ -1,16 +1,341 @@
 {
-  "id": 1519,
-  "action": "switchtab",
+  "id": 1520,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1519,
-  "tookMs": 10,
+  "seq": 1520,
+  "tookMs": 43,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:37:34.442Z",
+  "ts": "2026-10-25T04:37:41.951Z",
   "result": {
-    "tabId": 1762281357,
+    "challenge": null,
+    "count": 18,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/registro",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 200,
+          "x": 5,
+          "y": 16
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "div#navigation > header.tw-fixed > nav.tw-bg-primary > div.tw-flex > a.col-6",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Cambiar tema claro u oscuro",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 28,
+          "w": 28,
+          "x": 215,
+          "y": 11
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "header.tw-fixed > nav.tw-bg-primary > div.tw-flex > div.tw-flex:nth-of-type(1) > div.btn-group > button.btn",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 41,
+          "x": 719,
+          "y": 16
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "div#mobile-menu-2 > ul.tw-flex > li.tw-flex:nth-of-type(1) > a.tw-block",
+        "tag": "a",
+        "text": "Inicio",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/trabajos-freelance",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 110,
+          "x": 792,
+          "y": 20
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div#mobile-menu-2 > ul.tw-flex > li.tw-flex:nth-of-type(2) > a.tw-block",
+        "tag": "a",
+        "text": "Trabajo Freelance",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/freelancers",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 74,
+          "x": 934,
+          "y": 16
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "div#mobile-menu-2 > ul.tw-flex > li.tw-flex:nth-of-type(3) > a.tw-block",
+        "tag": "a",
+        "text": "Freelancers",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/blog/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 36,
+          "x": 1040,
+          "y": 16
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "div#mobile-menu-2 > ul.tw-flex > li.tw-flex:nth-of-type(4) > a.tw-block",
+        "tag": "a",
+        "text": "Blog",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/ingresar",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 140,
+          "x": 1108,
+          "y": 11
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "div#mobile-menu-2 > ul.tw-flex > li.tw-flex:nth-of-type(5) > a.tw-block",
+        "tag": "a",
+        "text": "Ingresar / Registrarse",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 200,
+          "x": 534,
+          "y": 691
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "div#error-page > a.btn",
+        "tag": "a",
+        "text": "Ir al Inicio",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/blog/sponsored-posts/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 146,
+          "x": 355,
+          "y": 968
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "div.tw-pt-7 > div.d-none:nth-of-type(1) > div:nth-of-type(1) > ul.tw-leading-7 > li:nth-of-type(2) > a.tw-text-sm",
+        "tag": "a",
+        "text": "Anúnciate con nosotros",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/blog/preguntas-frecuentes/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 130,
+          "x": 581,
+          "y": 931
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "div.tw-pt-7 > div.d-none:nth-of-type(1) > div:nth-of-type(2) > ul.tw-leading-7 > li:nth-of-type(1) > a.tw-text-sm",
+        "tag": "a",
+        "text": "Preguntas frecuentes",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/freelancers",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 132,
+          "x": 581,
+          "y": 959
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "div.tw-pt-7 > div.d-none:nth-of-type(1) > div:nth-of-type(2) > ul.tw-leading-7 > li:nth-of-type(2) > a.tw-text-sm",
+        "tag": "a",
+        "text": "Encuentra freelancers",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/trabajos-freelance",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 28,
+          "w": 109,
+          "x": 581,
+          "y": 983
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "div.tw-pt-7 > div.d-none:nth-of-type(1) > div:nth-of-type(2) > ul.tw-leading-7 > li:nth-of-type(3) > a.tw-text-sm",
+        "tag": "a",
+        "text": "Encuentra trabajo",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/freelancers/mexico",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 44,
+          "x": 851,
+          "y": 940
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "div.tw-pt-7 > div.d-none:nth-of-type(1) > div:nth-of-type(3) > ul.tw-leading-7 > li:nth-of-type(1) > a.tw-text-sm",
+        "tag": "a",
+        "text": "México",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.soyfreelancer.com/freelancers/colombia",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 59,
+          "x": 851,
+          "y": 968
+        },
+        "ref": "e13",
+        "role": "",
+        "selector": "div.tw-pt-7 > div.d-none:nth-of-type(1) > div:nth-of-type(3) > ul.tw-leading-7 > li:nth-of-type(2) > a.tw-text-sm",
+        "tag": "a",
+        "text": "Colombia",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://twitter.com/soy_freelancer",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 20,
+          "x": 908,
+          "y": 1211
+        },
+        "ref": "e14",
+        "role": "",
+        "selector": "footer#special-footer > div.tw-pt-7 > div.tw-text-center:nth-of-type(3) > ul.tw-flex > li:nth-of-type(3) > a.tw-text-gray-500",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/company/10192250/admin/feed/posts/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 20,
+          "x": 948,
+          "y": 1211
+        },
+        "ref": "e15",
+        "role": "",
+        "selector": "footer#special-footer > div.tw-pt-7 > div.tw-text-center:nth-of-type(3) > ul.tw-flex > li:nth-of-type(4) > a.tw-text-gray-500",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 158,
+          "x": 49,
+          "y": 901
+        },
+        "ref": "e16",
+        "role": "",
+        "selector": "button#c-p-bn",
+        "tag": "button",
+        "text": "Aceptar todas",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 158,
+          "x": 220,
+          "y": 901
+        },
+        "ref": "e17",
+        "role": "",
+        "selector": "button#c-s-bn",
+        "tag": "button",
+        "text": "Cancelar",
+        "type": "button"
+      }
+    ],
     "title": "Plataforma Freelance | crece tu equipo de trabajo",
-    "url": "https://www.soyfreelancer.com/registro",
-    "activated": true,
-    "targeted": true
+    "url": "https://www.soyfreelancer.com/registro"
   }
 }
