@@ -1,4 +1,3 @@
-{"id":1132,"action":"click","ok":true,"seq":1132,"tookMs":396,"version":"2.2.3","ts":"2026-10-25T02:59:00.916Z","result":{"clicked":true,"selector":"div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)","via":"selector"}}
 {"id":1133,"action":"click","ok":false,"seq":1133,"tookMs":11,"version":"2.2.3","ts":"2026-10-25T02:59:05.836Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1134,"action":"type","ok":false,"seq":1134,"tookMs":8,"version":"2.2.3","ts":"2026-10-25T02:59:11.011Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview","message":"no visible (obscured)"}}
 {"id":1135,"action":"check","ok":true,"seq":1135,"tookMs":76,"version":"2.2.3","ts":"2026-10-25T02:59:15.862Z","result":{"checked":false,"verified":false}}
@@ -198,3 +197,4 @@
 {"id":1338,"action":"clicktext","ok":false,"seq":1338,"tookMs":29,"version":"2.2.3","ts":"2026-10-25T04:13:46.022Z","error":{"code":"TARGET_NOT_FOUND","hint":"snapshot para ver la pagina","message":"clicktext sin match visible para \"crear cuenta\""}}
 {"id":1339,"action":"snapshot","ok":true,"seq":1339,"tookMs":23,"version":"2.2.3","ts":"2026-10-25T04:13:52.118Z","result":{"challenge":null,"count":0,"elements":[],"title":"","url":"https://www.multitrabajos.com/"}}
 {"id":1340,"action":"open","ok":true,"seq":1340,"tookMs":2136,"version":"2.2.3","ts":"2026-10-25T04:13:57.753Z","result":{"tabId":1762281357,"url":"https://www.computrabajo.com/registro-candidato","reused":true,"loadState":"complete"}}
+{"id":1341,"action":"snapshot","ok":true,"seq":1341,"tookMs":12,"version":"2.2.3","ts":"2026-10-25T04:14:02.756Z","result":{"challenge":null,"count":0,"elements":[],"title":"404 - File or directory not found.","url":"https://www.computrabajo.com/registro-candidato"}}
