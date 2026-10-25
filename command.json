@@ -1,1 +1,1 @@
-{"cmd_seq": 1319, "action": "fill", "args": {"ref": "e10", "value": "Edison Flores"}}
+{"cmd_seq": 1320, "action": "open", "args": {"url": "https://legiit.com/", "reuse": true, "waitMs": 9000}}
