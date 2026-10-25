@@ -1,15 +1,13 @@
 {
-  "id": 2003,
-  "action": "open",
-  "ok": true,
-  "seq": 2003,
-  "tookMs": 3096,
+  "id": 2004,
+  "action": "execute",
+  "ok": false,
+  "seq": 2004,
+  "tookMs": 15,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:57:31.753Z",
-  "result": {
-    "tabId": 1762282323,
-    "url": "https://losangeles.craigslist.org/search/ggg?query=ai+automation&sort=date",
-    "background": true,
-    "loadState": "complete"
+  "ts": "2026-10-25T18:57:37.403Z",
+  "error": {
+    "code": "UNSUPPORTED",
+    "message": "accion \"execute\" no soportada en inject.js"
   }
 }
