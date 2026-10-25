@@ -1,14 +1,12 @@
 {
-  "id": 1014,
-  "action": "click",
-  "ok": false,
-  "seq": 1014,
-  "tookMs": 55,
+  "id": 1015,
+  "action": "wait",
+  "ok": true,
+  "seq": 1015,
+  "tookMs": 1508,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:39:06.671Z",
-  "error": {
-    "code": "OBSCURED",
-    "hint": "click al tapador: selector div.tpi8bmk > div._1i8zn314:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm187:nth-of-type(1) > div.nnpxsm187 > h2._1bsa7o5k o cierra el modal/banner",
-    "message": "elemento tapado por h2 \"Review your new profile\""
+  "ts": "2026-10-25T02:39:12.222Z",
+  "result": {
+    "waited": 1500
   }
 }
