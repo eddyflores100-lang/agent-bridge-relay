@@ -1,15 +1,16 @@
 {
-  "id": 1758,
-  "action": "open",
+  "id": 1759,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1758,
-  "tookMs": 2628,
+  "seq": 1759,
+  "tookMs": 13,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:53:00.107Z",
+  "ts": "2026-10-25T16:53:04.258Z",
   "result": {
-    "tabId": 1762281538,
-    "url": "https://www.upwork.com/nx/signup/",
-    "background": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 0,
+    "elements": [],
+    "title": "Un momento…",
+    "url": "https://www.upwork.com/nx/signup/"
   }
 }
