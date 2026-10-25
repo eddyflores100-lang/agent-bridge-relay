@@ -1,71 +1,15 @@
 {
-  "id": 1716,
-  "action": "snapshot",
+  "id": 1717,
+  "action": "open",
   "ok": true,
-  "seq": 1716,
-  "tookMs": 19,
+  "seq": 1717,
+  "tookMs": 7824,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:47:49.091Z",
+  "ts": "2026-10-25T16:47:59.924Z",
   "result": {
-    "challenge": null,
-    "count": 3,
-    "elements": [
-      {
-        "ariaLabel": "",
-        "href": "https://github.com/CreateJS/EaselJS",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 16,
-          "w": 51,
-          "x": 1213,
-          "y": 955
-        },
-        "ref": "e0",
-        "role": "",
-        "selector": "html > body > div.universe > footer > div.credit:nth-of-type(1) > a",
-        "tag": "a",
-        "text": "EaselJS",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "mailto:support@arc.dev",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 16,
-          "w": 52,
-          "x": 61,
-          "y": 935
-        },
-        "ref": "e1",
-        "role": "",
-        "selector": "body > div.universe > footer > div.support:nth-of-type(2) > p > a:nth-of-type(1)",
-        "tag": "a",
-        "text": "email us",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "https://arc.dev/",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 16,
-          "w": 21,
-          "x": 202,
-          "y": 935
-        },
-        "ref": "e2",
-        "role": "",
-        "selector": "body > div.universe > footer > div.support:nth-of-type(2) > p > a:nth-of-type(2)",
-        "tag": "a",
-        "text": "Arc",
-        "type": ""
-      }
-    ],
-    "title": "Arc: Hire Remote Developers & Engineering Teams",
-    "url": "https://arc.dev/talent/onboarding"
+    "tabId": 1762281526,
+    "url": "https://www.scalablepath.com/apply/",
+    "background": true,
+    "loadState": "complete"
   }
 }
