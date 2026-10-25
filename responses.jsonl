@@ -25,3 +25,4 @@
 {"id":857,"action":"navigate","ok":true,"seq":857,"tookMs":2457,"version":"2.2.3","ts":"2026-10-25T02:10:56.007Z","result":{"url":"https://www.fiverr.com/sellers_onboarding","loadState":"complete","tabId":1762281357,"background":true}}
 {"id":858,"action":"geturl","ok":true,"seq":858,"tookMs":6,"version":"2.2.3","ts":"2026-10-25T02:11:01.234Z","result":{"url":"https://pro.fiverr.com/sellers_onboarding","title":"Page not found - Fiverr","tabId":1762281357}}
 {"id":859,"action":"navigate","ok":true,"seq":859,"tookMs":14228,"version":"2.2.3","ts":"2026-10-25T02:12:05.452Z","result":{"url":"https://www.fiverr.com/eddyflores100","loadState":"complete","tabId":1762281357,"background":true}}
+{"id":860,"action":"geturl","ok":true,"seq":860,"tookMs":6,"version":"2.2.3","ts":"2026-10-25T02:12:08.492Z","result":{"url":"https://pro.fiverr.com/start_selling","title":"Start Selling on Fiverr","tabId":1762281357}}
