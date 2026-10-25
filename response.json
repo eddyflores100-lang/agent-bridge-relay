@@ -1,15 +1,14 @@
 {
-  "id": 1664,
-  "action": "open",
+  "id": 1665,
+  "action": "geturl",
   "ok": true,
-  "seq": 1664,
-  "tookMs": 1393,
+  "seq": 1665,
+  "tookMs": 6,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:39:18.056Z",
+  "ts": "2026-10-25T15:39:22.628Z",
   "result": {
-    "tabId": 1762281357,
     "url": "https://www.codementor.io/user-onboarding",
-    "reused": true,
-    "loadState": "complete"
+    "title": "Codementor | Obtén ayuda personalizada de programación en vivo, contrata a un desarrollador y mucho más.",
+    "tabId": 1762281357
   }
 }
