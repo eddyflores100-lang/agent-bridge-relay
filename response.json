@@ -1,15 +1,14 @@
 {
-  "id": 1342,
-  "action": "open",
+  "id": 1343,
+  "action": "clicktext",
   "ok": true,
-  "seq": 1342,
-  "tookMs": 3962,
+  "seq": 1343,
+  "tookMs": 46,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:14:09.961Z",
+  "ts": "2026-10-25T04:14:15.992Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://hubstafftalent.net/",
-    "reused": true,
-    "loadState": "complete"
+    "clicked": true,
+    "selector": "nav.navbar-default:nth-of-type(1) > div.container > div.collapse:nth-of-type(2) > ul.nav:nth-of-type(2) > li:nth-of-type(3) > a.text-info",
+    "via": "clicktext"
   }
 }
