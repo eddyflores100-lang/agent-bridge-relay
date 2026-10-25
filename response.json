@@ -1,11 +1,11 @@
 {
-  "id": 1871,
+  "id": 1872,
   "action": "scroll",
   "ok": true,
-  "seq": 1871,
-  "tookMs": 285,
+  "seq": 1872,
+  "tookMs": 11,
   "version": "2.2.3",
-  "ts": "2026-10-25T17:26:46.449Z",
+  "ts": "2026-10-25T17:26:54.509Z",
   "result": {
     "scrolled": true,
     "y": 0
