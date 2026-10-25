@@ -1,1 +1,1 @@
-{"cmd_seq": 1222, "action": "wait", "args": {"ms": 1200}}
+{"cmd_seq": 1223, "action": "click", "args": {"selector": "div.ja73c14[aria-label=\"Add languages\"] a", "tabId": 1762281357}}
