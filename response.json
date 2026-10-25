@@ -1,89 +1,14 @@
 {
-  "id": 1765,
-  "action": "snapshot",
+  "id": 1766,
+  "action": "click",
   "ok": true,
-  "seq": 1765,
-  "tookMs": 78,
+  "seq": 1766,
+  "tookMs": 102,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:54:24.110Z",
+  "ts": "2026-10-25T16:54:38.073Z",
   "result": {
-    "challenge": null,
-    "count": 4,
-    "elements": [
-      {
-        "ariaLabel": "",
-        "href": "https://app.lemon.io/",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 34,
-          "w": 112,
-          "x": 20,
-          "y": 21
-        },
-        "ref": "e0",
-        "role": "",
-        "selector": "div#__next > div > header.sc-e44881cc-0 > a",
-        "tag": "a",
-        "text": "",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "https://app.lemon.io/auth/login",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 21,
-          "w": 42,
-          "x": 1171,
-          "y": 27
-        },
-        "ref": "e1",
-        "role": "",
-        "selector": "div#__next > div > header.sc-e44881cc-0 > div.sc-e44881cc-6 > a.sc-e44881cc-8",
-        "tag": "a",
-        "text": "Login",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "https://lemon.io/privacy-policy/",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 18,
-          "w": 90,
-          "x": 30,
-          "y": 937
-        },
-        "ref": "e2",
-        "role": "",
-        "selector": "div#__next > div > div.sc-7c2840e7-0:nth-of-type(3) > p.sc-7c2840e7-1 > a",
-        "tag": "a",
-        "text": "Privacy Policy",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 32,
-          "w": 63,
-          "x": 1140,
-          "y": 901
-        },
-        "ref": "e3",
-        "role": "",
-        "selector": "[data-testid=\"got-it-btn\"]",
-        "tag": "button",
-        "text": "Got It!",
-        "type": "button"
-      }
-    ],
-    "title": "Lemon.io – Vetted and Tested Programmers On Demand for Agencies and Businesses",
-    "url": "https://app.lemon.io/"
+    "clicked": true,
+    "selector": "[data-testid=\"got-it-btn\"]",
+    "via": "selector"
   }
 }
