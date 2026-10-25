@@ -1,14 +1,14 @@
 {
-  "id": 1645,
+  "id": 1646,
   "action": "geturl",
   "ok": true,
-  "seq": 1645,
-  "tookMs": 8,
+  "seq": 1646,
+  "tookMs": 13,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:36:26.890Z",
+  "ts": "2026-10-25T15:36:35.331Z",
   "result": {
-    "url": "https://www.getonbrd.com/webpros/login",
-    "title": "Deja que los empleos lleguen a ti. - Get on Board | Get on Board",
+    "url": "https://github.com/login/oauth/authorize?client_id=fe0959835b76f7ba8b73&redirect_uri=https%3A%2F%2Fwww.getonbrd.com%2Fauth%2Fgithub%2Fcallback&response_type=code&scope=read%3Auser%2Cuser%3Aemail&state=283925f4aa330cb15b08038b28166d9b8cd64cccd035e437",
+    "title": "github.com/login/oauth/authorize?client_id=fe0959835b76f7ba8b73&redirect_uri=https%3A%2F%2Fwww.getonbrd.com%2Fauth%2Fgithub%2Fcallback&response_type=code&scope=read%3Auser%2Cuser%3Aemail&state=283925f4aa330cb15b08038b28166d9b8cd64cccd035e437",
     "tabId": 1762281357
   }
 }
