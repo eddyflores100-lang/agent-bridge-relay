@@ -1,15 +1,14 @@
 {
-  "id": 1400,
-  "action": "open",
+  "id": 1401,
+  "action": "clicktext",
   "ok": true,
-  "seq": 1400,
-  "tookMs": 2895,
+  "seq": 1401,
+  "tookMs": 79,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:23:24.327Z",
+  "ts": "2026-10-25T04:23:29.348Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.usebraintrust.com/signup",
-    "reused": true,
-    "loadState": "complete"
+    "clicked": true,
+    "selector": "body > header.hBw1pG_header > div.hBw1pG_inner:nth-of-type(1) > nav.hBw1pG_nav > div.hBw1pG_navItem:nth-of-type(6) > button.nav-link",
+    "via": "clicktext"
   }
 }
