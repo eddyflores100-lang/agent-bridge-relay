@@ -1,1 +1,1 @@
-{"cmd_seq": 1174, "action": "check", "args": {"selector": "li[data-track-value=\"E-Commerce Website\"] input[type=\"radio\"]", "tabId": 1762281357}}
+{"cmd_seq": 1175, "action": "check", "args": {"selector": "li[data-track-value=\"e-commerce website\"] input[type=\"radio\"]", "tabId": 1762281357}}
