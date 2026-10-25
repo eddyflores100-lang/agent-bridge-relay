@@ -1,14 +1,12 @@
 {
-  "id": 882,
-  "action": "click",
+  "id": 883,
+  "action": "wait",
   "ok": true,
-  "seq": 882,
-  "tookMs": 186,
+  "seq": 883,
+  "tookMs": 1206,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:16:12.762Z",
+  "ts": "2026-10-25T02:16:16.986Z",
   "result": {
-    "clicked": true,
-    "selector": "div.ja73c1j:nth-of-type(1) > div.ja73cu:nth-of-type(2) > div.nnpxsm0 > div.nnpxsm187 > div.nnpxsm0 > svg",
-    "via": "selector"
+    "waited": 1200
   }
 }
