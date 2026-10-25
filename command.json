@@ -1,1 +1,1 @@
-{"cmd_seq": 1289, "action": "snapshot", "args": {"maxEls": 140}}
+{"cmd_seq": 1290, "action": "open", "args": {"url": "https://www.multitrabajos.com/", "reuse": true, "waitMs": 9000}}
