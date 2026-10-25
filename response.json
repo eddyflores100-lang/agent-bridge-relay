@@ -1,14 +1,16 @@
 {
-  "id": 1665,
-  "action": "geturl",
+  "id": 1666,
+  "action": "switchtab",
   "ok": true,
-  "seq": 1665,
-  "tookMs": 6,
+  "seq": 1666,
+  "tookMs": 10,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:39:22.628Z",
+  "ts": "2026-10-25T15:39:26.708Z",
   "result": {
-    "url": "https://www.codementor.io/user-onboarding",
+    "tabId": 1762281357,
     "title": "Codementor | Obtén ayuda personalizada de programación en vivo, contrata a un desarrollador y mucho más.",
-    "tabId": 1762281357
+    "url": "https://www.codementor.io/user-onboarding",
+    "activated": true,
+    "targeted": true
   }
 }
