@@ -1,1 +1,1 @@
-{"cmd_seq": 1096, "action": "wait", "args": {"ms": 2500}}
+{"cmd_seq": 1097, "action": "snapshot", "args": {"tabId": 1762281357, "maxEls": 300}}
