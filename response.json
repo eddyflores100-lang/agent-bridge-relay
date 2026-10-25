@@ -1,14 +1,287 @@
 {
-  "id": 1767,
-  "action": "clicktext",
+  "id": 1768,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1767,
-  "tookMs": 65,
+  "seq": 1768,
+  "tookMs": 15,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:54:41.349Z",
+  "ts": "2026-10-25T16:54:47.788Z",
   "result": {
-    "clicked": true,
-    "selector": "div#__next > div > header.sc-e44881cc-0 > div.sc-e44881cc-6 > a.sc-e44881cc-8",
-    "via": "clicktext"
+    "challenge": null,
+    "count": 15,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 112,
+          "x": 80,
+          "y": 56
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "div#__next > div.MuiBox-root > main.MuiGrid-root > div.MuiGrid-root > div.MuiGrid-root:nth-of-type(1) > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://me.lemon.io/escape-the-matrix/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 83,
+          "x": 266,
+          "y": 480
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "main.MuiGrid-root > div.MuiGrid-root > div.MuiGrid-root:nth-of-type(1) > div.MuiBox-root:nth-of-type(1) > p.MuiTypography-root > a.MuiTypography-root:nth-of-type(1)",
+        "tag": "a",
+        "text": "developer",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/form-the-union/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 78,
+          "x": 358,
+          "y": 480
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "main.MuiGrid-root > div.MuiGrid-root > div.MuiGrid-root:nth-of-type(1) > div.MuiBox-root:nth-of-type(1) > p.MuiTypography-root > a.MuiTypography-root:nth-of-type(2)",
+        "tag": "a",
+        "text": "dev team",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://magic.lemon.io/welcome/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 45,
+          "x": 463,
+          "y": 480
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "main.MuiGrid-root > div.MuiGrid-root > div.MuiGrid-root:nth-of-type(1) > div.MuiBox-root:nth-of-type(1) > p.MuiTypography-root > a.MuiTypography-root:nth-of-type(3)",
+        "tag": "a",
+        "text": "client",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/terms-of-use/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 15,
+          "w": 106,
+          "x": 337,
+          "y": 957
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "div.MuiBox-root > main.MuiGrid-root > div.MuiGrid-root > div.MuiGrid-root:nth-of-type(1) > div.MuiBox-root:nth-of-type(2) > a.MuiTypography-root:nth-of-type(1)",
+        "tag": "a",
+        "text": "Terms of Use",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/privacy-policy/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 15,
+          "w": 79,
+          "x": 442,
+          "y": 957
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "div.MuiBox-root > main.MuiGrid-root > div.MuiGrid-root > div.MuiGrid-root:nth-of-type(1) > div.MuiBox-root:nth-of-type(2) > a.MuiTypography-root:nth-of-type(2)",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 56,
+          "w": 540,
+          "x": 689,
+          "y": 281
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "main.MuiGrid-root > div.MuiGrid-root > div.MuiGrid-root:nth-of-type(2) > div.MuiBox-root > div.MuiBox-root:nth-of-type(2) > button.MuiButtonBase-root",
+        "tag": "button",
+        "text": "Continue with Google",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "email",
+        "placeholder": "",
+        "rect": {
+          "h": 56,
+          "w": 540,
+          "x": 689,
+          "y": 409
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "input#email",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "password",
+        "placeholder": "",
+        "rect": {
+          "h": 56,
+          "w": 488,
+          "x": 689,
+          "y": 489
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "input#password",
+        "tag": "input",
+        "text": "",
+        "type": "password"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 1185,
+          "y": 497
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "[data-testid=\"wrapper-password\"] > div.MuiInputBase-root > div.MuiInputAdornment-root > button.MuiButtonBase-root",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/terms-of-use/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 85,
+          "x": 871,
+          "y": 570
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "div.MuiBox-root > div.MuiBox-root:nth-of-type(2) > form > div.MuiGrid-root:nth-of-type(3) > span.MuiTypography-root > a.MuiTypography-root:nth-of-type(1)",
+        "tag": "a",
+        "text": "Terms of Use",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/developer-placement-fee-and-refund-policy/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 38,
+          "w": 503,
+          "x": 689,
+          "y": 570
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "div.MuiBox-root > div.MuiBox-root:nth-of-type(2) > form > div.MuiGrid-root:nth-of-type(3) > span.MuiTypography-root > a.MuiTypography-root:nth-of-type(2)",
+        "tag": "a",
+        "text": "Developer Placement Fees and Refund Policy",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://lemon.io/privacy-policy/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 91,
+          "x": 836,
+          "y": 590
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "div.MuiBox-root > div.MuiBox-root:nth-of-type(2) > form > div.MuiGrid-root:nth-of-type(3) > span.MuiTypography-root > a.MuiTypography-root:nth-of-type(3)",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 199,
+          "x": 669,
+          "y": 633
+        },
+        "ref": "e13",
+        "role": "",
+        "selector": "div.MuiGrid-root:nth-of-type(2) > div.MuiBox-root > div.MuiBox-root:nth-of-type(2) > form > div.MuiBox-root:nth-of-type(4) > button.MuiButtonBase-root:nth-of-type(1)",
+        "tag": "button",
+        "text": "Forgot password?",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 119,
+          "x": 1109,
+          "y": 633
+        },
+        "ref": "e14",
+        "role": "",
+        "selector": "[data-testid=\"login-btn\"]",
+        "tag": "button",
+        "text": "Log in",
+        "type": "submit"
+      }
+    ],
+    "title": "Login | Lemon",
+    "url": "https://app.lemon.io/auth/login"
   }
 }
