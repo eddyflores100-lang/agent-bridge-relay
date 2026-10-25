@@ -1,14 +1,14 @@
 {
-  "id": 1331,
+  "id": 1332,
   "action": "fill",
   "ok": true,
-  "seq": 1331,
-  "tookMs": 27,
+  "seq": 1332,
+  "tookMs": 741,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:13:02.044Z",
+  "ts": "2026-10-25T04:13:06.016Z",
   "result": {
     "filled": true,
-    "length": 6,
+    "length": 23,
     "mode": "instant-background",
     "verified": true,
     "via": "ref"
