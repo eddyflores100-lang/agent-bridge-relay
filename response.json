@@ -1,14 +1,12 @@
 {
-  "id": 1022,
-  "action": "click",
-  "ok": false,
-  "seq": 1022,
-  "tookMs": 13,
+  "id": 1023,
+  "action": "wait",
+  "ok": true,
+  "seq": 1023,
+  "tookMs": 2002,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:40:21.966Z",
-  "error": {
-    "code": "OBSCURED",
-    "hint": "click al tapador: selector html > body.layout-service > div:nth-of-type(15) > div.tpi8bmk > div.nnpxsm187:nth-of-type(1) > div.ja73cz:nth-of-type(1) o cierra el modal/banner",
-    "message": "elemento tapado por div \"Exit\""
+  "ts": "2026-10-25T02:40:28.574Z",
+  "result": {
+    "waited": 2000
   }
 }
