@@ -1,15 +1,16 @@
 {
-  "id": 1294,
-  "action": "open",
+  "id": 1295,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1294,
-  "tookMs": 2150,
+  "seq": 1295,
+  "tookMs": 12,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:07:27.416Z",
+  "ts": "2026-10-25T04:07:29.238Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.codementor.io/mentor/apply",
-    "reused": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 0,
+    "elements": [],
+    "title": "",
+    "url": "https://www.codementor.io/mentor/apply"
   }
 }
