@@ -1,1 +1,1 @@
-{"cmd_seq": 858, "action": "geturl", "args": {"tabId": 1762281357}}
+{"cmd_seq": 859, "action": "navigate", "args": {"url": "https://www.fiverr.com/eddyflores100", "tabId": 1762281357, "waitMs": 12000}}
