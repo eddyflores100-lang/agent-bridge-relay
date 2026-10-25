@@ -1,13 +1,15 @@
 {
-  "id": 1926,
-  "action": "execute",
-  "ok": false,
-  "seq": 1926,
-  "tookMs": 15,
+  "id": 1927,
+  "action": "open",
+  "ok": true,
+  "seq": 1927,
+  "tookMs": 2166,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:37:25.029Z",
-  "error": {
-    "code": "UNSUPPORTED",
-    "message": "accion \"execute\" no soportada en inject.js"
+  "ts": "2026-10-25T18:37:34.841Z",
+  "result": {
+    "tabId": 1762281669,
+    "url": "https://www.reddit.com/r/jobbit/search.json?q=%22%5BHiring%5D%22+web&restrict_sr=on&sort=new&t=month&limit=50",
+    "background": true,
+    "loadState": "complete"
   }
 }
