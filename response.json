@@ -1,15 +1,13 @@
 {
-  "id": 2042,
-  "action": "open",
-  "ok": true,
-  "seq": 2042,
-  "tookMs": 4057,
+  "id": 2043,
+  "action": "execute",
+  "ok": false,
+  "seq": 2043,
+  "tookMs": 18,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:01:19.623Z",
-  "result": {
-    "tabId": 1762282362,
-    "url": "https://atlanta.craigslist.org/search/ggg?query=website&sort=date",
-    "background": true,
-    "loadState": "complete"
+  "ts": "2026-10-25T19:01:25.409Z",
+  "error": {
+    "code": "UNSUPPORTED",
+    "message": "accion \"execute\" no soportada en inject.js"
   }
 }
