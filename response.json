@@ -1,15 +1,16 @@
 {
-  "id": 1703,
-  "action": "open",
+  "id": 1704,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1703,
-  "tookMs": 2351,
+  "seq": 1704,
+  "tookMs": 7,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:45:40.873Z",
+  "ts": "2026-10-25T16:45:46.235Z",
   "result": {
-    "tabId": 1762281504,
-    "url": "https://www.turing.com/apply",
-    "background": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 0,
+    "elements": [],
+    "title": "",
+    "url": "https://www.turing.com/apply"
   }
 }
