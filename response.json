@@ -1,14 +1,13 @@
 {
-  "id": 1152,
-  "action": "click",
+  "id": 1153,
+  "action": "gethtml",
   "ok": true,
-  "seq": 1152,
-  "tookMs": 293,
+  "seq": 1153,
+  "tookMs": 9,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:00:35.064Z",
+  "ts": "2026-10-25T03:00:54.896Z",
   "result": {
-    "clicked": true,
-    "selector": "div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)",
+    "text": "<li class=\"ja73c19 _1bsa7o5k _1bsa7o5s nnpxsm0 nnpxsm1gt nnpxsm1g nnpxsmr\" data-track-tag=\"combobox_option\" data-track-value=\"Landing page design\" tabindex=\"-1\" role=\"listitem\" aria-disabled=\"false\" style=\"--ja73ca: 200px; --_1bsa7o50: var(--vmb8qq1y); --_1bsa7o58: var(--vmb8qq1o);\"><label class=\"ja73c1j nnpxsmsd nnpxsmvk nnpxsmym nnpxsmp1 nnpxsm18h nnpxsm0 nnpxsm1ap nnpxsm1m8 nnpxsme nnpxsm1cs\" data-track-tag=\"box\" style=\"--ja73c0: 100%;\"><input class=\"ja73c1j nnpxsm1md nnpxsm0 nnpxsm1lt nnpxsm1cn _12va5912 _12va5913 _12va5910 xriu3x1\" data-track-tag=\"input\" data-track-value=\"&lt;value&gt;\" type=\"radio\" role=\"radio\" name=\"item\" value=\"Landing page design\" style=\"--ja73c0: 100%;\" data-uw-rm-form=\"nfx\"><div class=\"ja73c14 ja73c1j nnpxsm0 nnpxsm1ap nnpxsmhy nnpxsm1cs\" data-track-tag=\"box\" role=\"img\" style=\"--ja73cf: 16px; --ja73c0: 16px;\"></div><div class=\"_1i8zn3u nnpxsm0\" data-track-tag=\"box\" style=\"--_1i8zn3a: 1;\"><span class=\"_1bsa7o5k nnpxsm1gt nnpxsm1eb nnpxsm7 nnpxsm2\" data-track-tag=\"text\" style=\"--_1bsa7o50: var(--vmb8qq1y);\">Landing page<span class=\"_1bsa7o5k nnpxsm1gt nnpxsm1eb nnpxsm9 nnpxsm2\" data-track-tag=\"text\" style=\"--_1bsa7o50: var(--vmb8qq1);\"> design</span></span></div></label></li>",
     "via": "selector"
   }
 }
