@@ -1,16 +1,89 @@
 {
-  "id": 1647,
-  "action": "switchtab",
+  "id": 1648,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1647,
-  "tookMs": 9,
+  "seq": 1648,
+  "tookMs": 110,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:36:40.429Z",
+  "ts": "2026-10-25T15:36:44.336Z",
   "result": {
-    "tabId": 1762281357,
-    "title": "OAuth application authorized",
-    "url": "https://github.com/login/oauth/authorize",
-    "activated": true,
-    "targeted": true
+    "challenge": null,
+    "count": 4,
+    "elements": [
+      {
+        "ariaLabel": "Close",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 44,
+          "x": 1045,
+          "y": 65
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "div#enter-email-modal > div.modal-dialog > div.modal-content > button.close",
+        "tag": "button",
+        "text": "×",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 47,
+          "w": 190,
+          "x": 473,
+          "y": 194
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "form#welcome_form > div.form-item:nth-of-type(1) > div.rightcol:nth-of-type(2) > button.gb-btn",
+        "tag": "button",
+        "text": "Importar tu CV",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "webpro[visible_for_companies]",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 228,
+          "y": 494
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "input#visible_for_companies",
+        "tag": "input",
+        "text": "1",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "commit",
+        "placeholder": "",
+        "rect": {
+          "h": 49,
+          "w": 109,
+          "x": 224,
+          "y": 535
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "input#submit-welcome-info",
+        "tag": "input",
+        "text": "Guardar",
+        "type": "submit"
+      }
+    ],
+    "title": "Empleos para ti | Get on Board",
+    "url": "https://www.getonbrd.com/myjobs"
   }
 }
