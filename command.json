@@ -1,1 +1,1 @@
-{"cmd_seq": 1737, "action": "click", "args": {"tabId": 1762281529, "selector": "button#gform_submit_button_4"}}
+{"cmd_seq": 1738, "action": "snapshot", "args": {"tabId": 1762281529, "maxEls": 40}}
