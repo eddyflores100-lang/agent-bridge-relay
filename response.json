@@ -1,15 +1,12 @@
 {
-  "id": 1966,
-  "action": "open",
+  "id": 1967,
+  "action": "gettext",
   "ok": true,
-  "seq": 1966,
-  "tookMs": 1983,
+  "seq": 1967,
+  "tookMs": 109,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:43:37.944Z",
+  "ts": "2026-10-25T18:43:44.523Z",
   "result": {
-    "tabId": 1762281711,
-    "url": "https://www.reddit.com/r/freelancer_hire/new.json?limit=15&sort=new&raw_json=1&after=t3_1qz0000",
-    "background": true,
-    "loadState": "complete"
+    "text": "{\"message\": \"Forbidden\", \"error\": 403}"
   }
 }
