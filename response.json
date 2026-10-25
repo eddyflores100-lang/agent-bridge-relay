@@ -1,13 +1,15 @@
 {
-  "id": 2080,
+  "id": 2081,
   "action": "navigate",
-  "ok": false,
-  "seq": 2080,
-  "tookMs": 1,
+  "ok": true,
+  "seq": 2081,
+  "tookMs": 2492,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:06:04.059Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:06:12.195Z",
+  "result": {
+    "url": "https://losangeles.craigslist.org/search/ggg?query=automation&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
