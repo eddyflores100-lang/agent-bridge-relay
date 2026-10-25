@@ -1,15 +1,14 @@
 {
-  "id": 1386,
-  "action": "open",
+  "id": 1387,
+  "action": "clicktext",
   "ok": true,
-  "seq": 1386,
-  "tookMs": 4242,
+  "seq": 1387,
+  "tookMs": 117,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:21:24.823Z",
+  "ts": "2026-10-25T04:21:30.102Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://comeup.com/en/",
-    "reused": true,
-    "loadState": "complete"
+    "clicked": true,
+    "selector": "div.cky-consent-container:nth-of-type(1) > div.cky-consent-bar:nth-of-type(1) > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper:nth-of-type(2) > button.cky-btn:nth-of-type(2)",
+    "via": "clicktext"
   }
 }
