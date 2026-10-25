@@ -1,1 +1,1 @@
-{"cmd_seq": 1738, "action": "snapshot", "args": {"tabId": 1762281529, "maxEls": 40}}
+{"cmd_seq": 1739, "action": "clicktext", "args": {"tabId": 1762281532, "text": "JOIN THE WAITLIST", "contains": true}}
