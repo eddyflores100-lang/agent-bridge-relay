@@ -1,14 +1,89 @@
 {
-  "id": 1748,
-  "action": "click",
+  "id": 1749,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1748,
-  "tookMs": 20,
+  "seq": 1749,
+  "tookMs": 18,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:51:44.112Z",
+  "ts": "2026-10-25T16:51:48.851Z",
   "result": {
-    "clicked": true,
-    "selector": "div.Uc2NEf:nth-of-type(1) > div.wJFUN:nth-of-type(3) > div.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div:nth-of-type(1) > span > button.VfPpkd-Bz112c-LgbsSe",
-    "via": "selector"
+    "challenge": null,
+    "count": 4,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSfS16t95jza0RmpCL8SqYfXgK-WsR5luspHvIr26Fo_Runn4w/viewform?usp%3Dsend_form&service=wise",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 121,
+          "x": 515,
+          "y": 528
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "div#wSDd7b > div.ut7aeb:nth-of-type(1) > div.eAQI0e > a.jZZ5Nd",
+        "tag": "a",
+        "text": "Cambiar de cuenta",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 295,
+          "x": 337,
+          "y": 727
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "div.AgroKb:nth-of-type(2) > div.rFrNMe > div.aCsJod:nth-of-type(1) > div.aXBtI > div.Xb9hP:nth-of-type(1) > input.whsOnd",
+        "tag": "input",
+        "text": "Edison Flores Guerra",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 295,
+          "x": 337,
+          "y": 877
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "div.AgroKb:nth-of-type(2) > div.rFrNMe > div.aCsJod:nth-of-type(1) > div.aXBtI > div.Xb9hP:nth-of-type(1) > input.whsOnd",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "ayuda y comentarios",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 48,
+          "x": 5,
+          "y": 932
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div.Uc2NEf:nth-of-type(1) > div.wJFUN:nth-of-type(3) > div.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div:nth-of-type(1) > span > button.VfPpkd-Bz112c-LgbsSe",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      }
+    ],
+    "title": "Codeable Expert Application Waitlist",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfS16t95jza0RmpCL8SqYfXgK-WsR5luspHvIr26Fo_Runn4w/viewform"
   }
 }
