@@ -1,107 +1,15 @@
 {
-  "id": 1649,
-  "action": "snapshot",
+  "id": 1650,
+  "action": "open",
   "ok": true,
-  "seq": 1649,
-  "tookMs": 24,
+  "seq": 1650,
+  "tookMs": 3976,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:36:50.079Z",
+  "ts": "2026-10-25T15:37:00.525Z",
   "result": {
-    "challenge": null,
-    "count": 5,
-    "elements": [
-      {
-        "ariaLabel": "Close",
-        "href": "",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 44,
-          "w": 44,
-          "x": 885,
-          "y": 65
-        },
-        "ref": "e0",
-        "role": "",
-        "selector": "div#welcome-resume-modal > div.modal-dialog > div.modal-content > button.close",
-        "tag": "button",
-        "text": "×",
-        "type": "button"
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "resume[file]",
-        "placeholder": "",
-        "rect": {
-          "h": 22,
-          "w": 317,
-          "x": 413,
-          "y": 353
-        },
-        "ref": "e1",
-        "role": "",
-        "selector": "input#welcome_resume_file_modal",
-        "tag": "input",
-        "text": "",
-        "type": "file"
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "resume[label]",
-        "placeholder": "ej., CV Desarrollador Backend, CV 2024",
-        "rect": {
-          "h": 41,
-          "w": 400,
-          "x": 413,
-          "y": 473
-        },
-        "ref": "e2",
-        "role": "",
-        "selector": "input#welcome_resume_label_modal",
-        "tag": "input",
-        "text": "",
-        "type": "text"
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 38,
-          "w": 67,
-          "x": 413,
-          "y": 551
-        },
-        "ref": "e3",
-        "role": "",
-        "selector": "div#welcome-resume-upload-form > div.flex:nth-of-type(3) > button.gb-btn:nth-of-type(1)",
-        "tag": "button",
-        "text": "Cancelar",
-        "type": "button"
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 38,
-          "w": 67,
-          "x": 500,
-          "y": 551
-        },
-        "ref": "e4",
-        "role": "",
-        "selector": "div#welcome-resume-upload-form > div.flex:nth-of-type(3) > button.gb-btn:nth-of-type(2)",
-        "tag": "button",
-        "text": "Subir",
-        "type": "button"
-      }
-    ],
-    "title": "Empleos para ti | Get on Board",
-    "url": "https://www.getonbrd.com/myjobs"
+    "tabId": 1762281357,
+    "url": "https://www.codementor.io/",
+    "reused": true,
+    "loadState": "complete"
   }
 }
