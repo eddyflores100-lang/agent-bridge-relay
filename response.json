@@ -1,15 +1,1475 @@
 {
-  "id": 2096,
-  "action": "navigate",
+  "id": 2097,
+  "action": "snapshot",
   "ok": true,
-  "seq": 2096,
-  "tookMs": 3513,
+  "seq": 2097,
+  "tookMs": 153,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:07:40.982Z",
+  "ts": "2026-10-25T19:07:47.759Z",
   "result": {
-    "url": "https://austin.craigslist.org/search/ggg?query=web&sort=date",
-    "loadState": "complete",
-    "tabId": 1762282395,
-    "background": true
+    "challenge": null,
+    "count": 81,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/area/austin",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 37,
+          "w": 60,
+          "x": 5,
+          "y": 4
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "html.bd-can-hover > body > div.cl-content:nth-of-type(1) > header.cl-header > div.cl-left-group:nth-of-type(1) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "CL",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 67,
+          "x": 74,
+          "y": 6
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > header.cl-header > div.cl-left-group:nth-of-type(1) > div.cl-breadcrumb:nth-of-type(1) > div.bd-posit-box > button.bd-button",
+        "tag": "button",
+        "text": "austin",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 53,
+          "x": 249,
+          "y": 6
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > header.cl-header > div.cl-left-group:nth-of-type(1) > div.cl-breadcrumb:nth-of-type(3) > div.bd-posit-box > button.bd-button",
+        "tag": "button",
+        "text": "gigs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 40,
+          "x": 347,
+          "y": 6
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > header.cl-header > div.cl-left-group:nth-of-type(1) > div.cl-breadcrumb:nth-of-type(4) > div.bd-posit-box > button.bd-button",
+        "tag": "button",
+        "text": "all",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/post/aus",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 44,
+          "x": 1167,
+          "y": 0
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "html.bd-can-hover > body > div.cl-content:nth-of-type(1) > header.cl-header > div.cl-right-group:nth-of-type(3) > a.cl-thumb-anchor:nth-of-type(3)",
+        "tag": "a",
+        "text": "post",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/account",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 44,
+          "x": 1211,
+          "y": 0
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "html.bd-can-hover > body > div.cl-content:nth-of-type(1) > header.cl-header > div.cl-right-group:nth-of-type(3) > a.cl-thumb-anchor:nth-of-type(4)",
+        "tag": "a",
+        "text": "acct",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "search gigs",
+        "rect": {
+          "h": 21,
+          "w": 916,
+          "x": 239,
+          "y": 61
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "main.cl-search-ng > form.cl-search-query > div.cl-query-bar:nth-of-type(1) > div.cl-query-with-search-suggest > div.bd-posit-box > input",
+        "tag": "input",
+        "text": "web",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 1169,
+          "y": 55
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "body > div.cl-content:nth-of-type(1) > main.cl-search-ng > form.cl-search-query > div.cl-query-bar:nth-of-type(1) > button.bd-button:nth-of-type(1)",
+        "tag": "button",
+        "text": "",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 1217,
+          "y": 55
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "body > div.cl-content:nth-of-type(1) > main.cl-search-ng > form.cl-search-query > div.cl-query-bar:nth-of-type(1) > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 21,
+          "w": 20,
+          "x": 165,
+          "y": 61
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > main.cl-search-ng > form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-title-bar:nth-of-type(1) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/search/area/austin?cat=lbg&query=web&sort=date#search=2~thumb~0",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 125,
+          "x": 8,
+          "y": 92
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(1) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "labor gigs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 164,
+          "y": 96
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(1) > input",
+        "tag": "input",
+        "text": "111",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/search/area/austin?cat=wrg&query=web&sort=date#search=2~thumb~0",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 125,
+          "x": 8,
+          "y": 114
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "writing gigs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 164,
+          "y": 118
+        },
+        "ref": "e13",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(2) > input",
+        "tag": "input",
+        "text": "112",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/search/area/austin?cat=dmg&query=web&sort=date#search=2~thumb~0",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 125,
+          "x": 8,
+          "y": 136
+        },
+        "ref": "e14",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(3) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "domestic gigs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 164,
+          "y": 140
+        },
+        "ref": "e15",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(3) > input",
+        "tag": "input",
+        "text": "113",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 56,
+          "x": 8,
+          "y": 160
+        },
+        "ref": "e16",
+        "role": "",
+        "selector": "div.cl-jsonform-filters-panel:nth-of-type(2) > div.jsonform-name-excats:nth-of-type(1) > div > div > div.select-deselect-all > button.bd-button:nth-of-type(1)",
+        "tag": "button",
+        "text": "check all",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 72,
+          "x": 105,
+          "y": 160
+        },
+        "ref": "e17",
+        "role": "",
+        "selector": "div.cl-jsonform-filters-panel:nth-of-type(2) > div.jsonform-name-excats:nth-of-type(1) > div > div > div.select-deselect-all > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "uncheck all",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "srchType",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 8,
+          "y": 194
+        },
+        "ref": "e18",
+        "role": "",
+        "selector": "input[name=\"srchType\"]",
+        "tag": "input",
+        "text": "T",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "hasPic",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 8,
+          "y": 216
+        },
+        "ref": "e19",
+        "role": "",
+        "selector": "input[name=\"hasPic\"]",
+        "tag": "input",
+        "text": "1",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "postedToday",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 8,
+          "y": 238
+        },
+        "ref": "e20",
+        "role": "",
+        "selector": "input[name=\"postedToday\"]",
+        "tag": "input",
+        "text": "1",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "bundleDuplicates",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 8,
+          "y": 260
+        },
+        "ref": "e21",
+        "role": "",
+        "selector": "input[name=\"bundleDuplicates\"]",
+        "tag": "input",
+        "text": "1",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "miles",
+        "rect": {
+          "h": 23,
+          "w": 71,
+          "x": 8,
+          "y": 307
+        },
+        "ref": "e22",
+        "role": "",
+        "selector": "form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-jsonform-filters-panel:nth-of-type(2) > div.cl-jsonform-filter:nth-of-type(3) > div.widget-line:nth-of-type(2) > input.small:nth-of-type(1)",
+        "tag": "input",
+        "text": "",
+        "type": "tel"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "postal",
+        "placeholder": "from zip",
+        "rect": {
+          "h": 23,
+          "w": 71,
+          "x": 84,
+          "y": 307
+        },
+        "ref": "e23",
+        "role": "",
+        "selector": "input[name=\"postal\"]",
+        "tag": "input",
+        "text": "",
+        "type": "tel"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 67,
+          "x": 8,
+          "y": 330
+        },
+        "ref": "e24",
+        "role": "",
+        "selector": "main.cl-search-ng > form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-jsonform-filters-panel:nth-of-type(2) > div.cl-jsonform-filter:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "use map...",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 57,
+          "x": 8,
+          "y": 362
+        },
+        "ref": "e25",
+        "role": "",
+        "selector": "form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-jsonform-filters-panel:nth-of-type(2) > ul.cl-jsonform-filter > div.cl-segmented-selector > button.bd-button:nth-of-type(1)",
+        "tag": "button",
+        "text": "all",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 57,
+          "x": 64,
+          "y": 362
+        },
+        "ref": "e26",
+        "role": "",
+        "selector": "form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-jsonform-filters-panel:nth-of-type(2) > ul.cl-jsonform-filter > div.cl-segmented-selector > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "paid",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 57,
+          "x": 121,
+          "y": 362
+        },
+        "ref": "e27",
+        "role": "",
+        "selector": "form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-jsonform-filters-panel:nth-of-type(2) > ul.cl-jsonform-filter > div.cl-segmented-selector > button.bd-button:nth-of-type(3)",
+        "tag": "button",
+        "text": "unpaid",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 76,
+          "x": 8,
+          "y": 412
+        },
+        "ref": "e28",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > main.cl-search-ng > form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-command-buttons:nth-of-type(4) > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "reset",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 78,
+          "x": 99,
+          "y": 412
+        },
+        "ref": "e29",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > main.cl-search-ng > form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-command-buttons:nth-of-type(4) > button.bd-button:nth-of-type(3)",
+        "tag": "button",
+        "text": "apply",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 208,
+          "y": 104
+        },
+        "ref": "e30",
+        "role": "",
+        "selector": "main.cl-search-ng > div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-segmented-selector:nth-of-type(1) > button.bd-button:nth-of-type(1)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 246,
+          "y": 104
+        },
+        "ref": "e31",
+        "role": "",
+        "selector": "main.cl-search-ng > div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-segmented-selector:nth-of-type(1) > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 284,
+          "y": 104
+        },
+        "ref": "e32",
+        "role": "",
+        "selector": "main.cl-search-ng > div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-segmented-selector:nth-of-type(1) > button.bd-button:nth-of-type(3)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 322,
+          "y": 104
+        },
+        "ref": "e33",
+        "role": "",
+        "selector": "main.cl-search-ng > div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-segmented-selector:nth-of-type(1) > button.bd-button:nth-of-type(4)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 360,
+          "y": 104
+        },
+        "ref": "e34",
+        "role": "",
+        "selector": "main.cl-search-ng > div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-segmented-selector:nth-of-type(1) > button.bd-button:nth-of-type(5)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 75,
+          "x": 443,
+          "y": 105
+        },
+        "ref": "e35",
+        "role": "",
+        "selector": "div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-search-sort-mode:nth-of-type(2) > div.bd-posit-box > button.bd-button",
+        "tag": "button",
+        "text": "newest",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 92,
+          "x": 620,
+          "y": 104
+        },
+        "ref": "e36",
+        "role": "",
+        "selector": "div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-horiz-scroller:nth-of-type(3) > div.scrolling-container > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "has image",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 110,
+          "x": 722,
+          "y": 104
+        },
+        "ref": "e37",
+        "role": "",
+        "selector": "div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-horiz-scroller:nth-of-type(3) > div.scrolling-container > button.bd-button:nth-of-type(3)",
+        "tag": "button",
+        "text": "posted today",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-day-labor-workers-wanted-se/nnmNsHJm43eXKhYBjQ2j9V",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 183
+        },
+        "ref": "e38",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(2) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 201
+        },
+        "ref": "e39",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(2) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-day-labor-workers-wanted-se/nnmNsHJm43eXKhYBjQ2j9V",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 501,
+          "x": 300,
+          "y": 203
+        },
+        "ref": "e40",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(2) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Day Labor Workers Wanted / Se buscan trabajadores de labor por día",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 395,
+          "y": 228
+        },
+        "ref": "e41",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(2) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-freelance-writer-wanted-pay-100/vc257BBb5qyfmtQ1PQXYBL",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 262
+        },
+        "ref": "e42",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(3) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 262
+        },
+        "ref": "e43",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(3) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-freelance-writer-wanted-pay-100/vc257BBb5qyfmtQ1PQXYBL",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 458,
+          "x": 300,
+          "y": 264
+        },
+        "ref": "e44",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(3) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "► Freelance Writer Wanted - Pay $100 per article (Remote OK)",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 423,
+          "y": 289
+        },
+        "ref": "e45",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(3) > div.result-node > div.result-info > div.meta:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-pick-up-painting-from-store-must/4nPG6e8AtrVPcRN3Jrhk9m",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 341
+        },
+        "ref": "e46",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(4) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 359
+        },
+        "ref": "e47",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(4) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-pick-up-painting-from-store-must/4nPG6e8AtrVPcRN3Jrhk9m",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 429,
+          "x": 300,
+          "y": 361
+        },
+        "ref": "e48",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(4) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Pick up a painting from a store (Must pick up today!) for $20",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 516,
+          "y": 386
+        },
+        "ref": "e49",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(4) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-day-labor-workers-wanted-se/h7NK41s8S2aCA7P5dTzQ1n",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 421
+        },
+        "ref": "e50",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(5) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 421
+        },
+        "ref": "e51",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(5) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-day-labor-workers-wanted-se/h7NK41s8S2aCA7P5dTzQ1n",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 501,
+          "x": 300,
+          "y": 423
+        },
+        "ref": "e52",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(5) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Day Labor Workers Wanted / Se buscan trabajadores de labor por día",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 395,
+          "y": 448
+        },
+        "ref": "e53",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(5) > div.result-node > div.result-info > div.meta:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-freelance-writer-wanted-pay-100/fDzxhV84S36e2XxuMavztT",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 500
+        },
+        "ref": "e54",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(6) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 500
+        },
+        "ref": "e55",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(6) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-freelance-writer-wanted-pay-100/fDzxhV84S36e2XxuMavztT",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 458,
+          "x": 300,
+          "y": 502
+        },
+        "ref": "e56",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(6) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "► Freelance Writer Wanted - Pay $100 per article (Remote OK)",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 423,
+          "y": 527
+        },
+        "ref": "e57",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(6) > div.result-node > div.result-info > div.meta:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-independent-house-cleaners/vbTZq3QbxgCwU2Hgnhpbb5",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 579
+        },
+        "ref": "e58",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(7) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 597
+        },
+        "ref": "e59",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(7) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-independent-house-cleaners/vbTZq3QbxgCwU2Hgnhpbb5",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 543,
+          "x": 300,
+          "y": 599
+        },
+        "ref": "e60",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(7) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Independent House Cleaners Wanted | Custom Storefront + Local Bookings",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 448,
+          "y": 624
+        },
+        "ref": "e61",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(7) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-austin-lawn-pros-wanted-mowing/tXeBVSCfwddm4tBMwRVnne",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 658
+        },
+        "ref": "e62",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(8) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 676
+        },
+        "ref": "e63",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(8) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-austin-lawn-pros-wanted-mowing/tXeBVSCfwddm4tBMwRVnne",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 429,
+          "x": 300,
+          "y": 678
+        },
+        "ref": "e64",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(8) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Austin Lawn Pros Wanted — Mowing & Leaf Removal Work",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 584,
+          "y": 703
+        },
+        "ref": "e65",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(8) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-freelance-writer-wanted-pay-100/g7Qu5ZNGsfi8Eu8GJEYgBn",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 737
+        },
+        "ref": "e66",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(9) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 737
+        },
+        "ref": "e67",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(9) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-freelance-writer-wanted-pay-100/g7Qu5ZNGsfi8Eu8GJEYgBn",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 458,
+          "x": 300,
+          "y": 739
+        },
+        "ref": "e68",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(9) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "► Freelance Writer Wanted - Pay $100 per article (Remote OK)",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 416,
+          "y": 764
+        },
+        "ref": "e69",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(9) > div.result-node > div.result-info > div.meta:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-day-labor-workers-wanted-se/3WRkT2AzuJPEQWdHwZ6GRJ",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 817
+        },
+        "ref": "e70",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(10) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 835
+        },
+        "ref": "e71",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(10) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-day-labor-workers-wanted-se/3WRkT2AzuJPEQWdHwZ6GRJ",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 501,
+          "x": 300,
+          "y": 837
+        },
+        "ref": "e72",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(10) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Day Labor Workers Wanted / Se buscan trabajadores de labor por día",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 387,
+          "y": 862
+        },
+        "ref": "e73",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(10) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-freelance-writer-wanted-pay-100/9VwPSSPBjfg1EMjFCLvYTQ",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 896
+        },
+        "ref": "e74",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(11) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 896
+        },
+        "ref": "e75",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(11) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-freelance-writer-wanted-pay-100/9VwPSSPBjfg1EMjFCLvYTQ",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 458,
+          "x": 300,
+          "y": 898
+        },
+        "ref": "e76",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(11) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "► Freelance Writer Wanted - Pay $100 per article (Remote OK)",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 416,
+          "y": 923
+        },
+        "ref": "e77",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(11) > div.result-node > div.result-info > div.meta:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-freelance-writer-wanted-pay-100/hMYKYfs5EhP6WPKGHpi6KP",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 975
+        },
+        "ref": "e78",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(12) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 975
+        },
+        "ref": "e79",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(12) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/austin-freelance-writer-wanted-pay-100/hMYKYfs5EhP6WPKGHpi6KP",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 458,
+          "x": 300,
+          "y": 977
+        },
+        "ref": "e80",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(12) > div.result-node > div.result-info > div.title-blob:nth-of-type(1) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "► Freelance Writer Wanted - Pay $100 per article (Remote OK)",
+        "type": ""
+      }
+    ],
+    "title": "🤖 austin gigs \"web\" - craigslist",
+    "url": "https://www.craigslist.org/search/area/austin?cat=ggg&query=web&sort=date#search=2~thumb~0"
   }
 }
