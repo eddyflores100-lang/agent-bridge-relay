@@ -1,1 +1,1 @@
-{"cmd_seq": 1298, "action": "open", "args": {"url": "https://www.truelancer.com/signup", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1299, "action": "snapshot", "args": {"maxEls": 170}}
