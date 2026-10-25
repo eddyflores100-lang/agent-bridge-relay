@@ -1,12 +1,12 @@
 {
-  "id": 1067,
-  "action": "press",
+  "id": 1068,
+  "action": "wait",
   "ok": true,
-  "seq": 1067,
-  "tookMs": 22,
+  "seq": 1068,
+  "tookMs": 613,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:47:19.374Z",
+  "ts": "2026-10-25T02:47:23.407Z",
   "result": {
-    "pressed": "ArrowDown"
+    "waited": 600
   }
 }
