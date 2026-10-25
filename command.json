@@ -1,1 +1,1 @@
-{"cmd_seq": 1386, "action": "open", "args": {"url": "https://comeup.com/en/", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1387, "action": "clicktext", "args": {"text": "Reject All"}}
