@@ -1,15 +1,14 @@
 {
-  "id": 857,
-  "action": "navigate",
+  "id": 858,
+  "action": "geturl",
   "ok": true,
-  "seq": 857,
-  "tookMs": 2457,
+  "seq": 858,
+  "tookMs": 6,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:10:56.007Z",
+  "ts": "2026-10-25T02:11:01.234Z",
   "result": {
-    "url": "https://www.fiverr.com/sellers_onboarding",
-    "loadState": "complete",
-    "tabId": 1762281357,
-    "background": true
+    "url": "https://pro.fiverr.com/sellers_onboarding",
+    "title": "Page not found - Fiverr",
+    "tabId": 1762281357
   }
 }
