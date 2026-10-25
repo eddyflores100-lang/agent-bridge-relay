@@ -1,14 +1,16 @@
 {
-  "id": 1660,
-  "action": "geturl",
+  "id": 1661,
+  "action": "switchtab",
   "ok": true,
-  "seq": 1660,
-  "tookMs": 8,
+  "seq": 1661,
+  "tookMs": 9,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:38:01.057Z",
+  "ts": "2026-10-25T15:38:05.643Z",
   "result": {
-    "url": "https://arc.dev/auth-redirect?authorization_code=Hsa2zX1Zp-h6nXsyZBoso_OdUYYwC3n0v2njVIOM3uOQ04o3aXJUio6FNq8i31mr&from=https%3A%2F%2Fwww.codementor.io%2F&from_oauth=1&provider=github&signingup=1&skip_codementor_auth=false&to=https%3A%2F%2Fwww.codementor.io%2Fuser-onboarding",
+    "tabId": 1762281357,
     "title": "Redirecting...",
-    "tabId": 1762281357
+    "url": "https://arc.dev/auth-redirect?authorization_code=Hsa2zX1Zp-h6nXsyZBoso_OdUYYwC3n0v2njVIOM3uOQ04o3aXJUio6FNq8i31mr&from=https%3A%2F%2Fwww.codementor.io%2F&from_oauth=1&provider=github&signingup=1&skip_",
+    "activated": true,
+    "targeted": true
   }
 }
