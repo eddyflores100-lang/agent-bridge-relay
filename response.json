@@ -1,13 +1,15 @@
 {
-  "id": 1990,
-  "action": "execute",
-  "ok": false,
-  "seq": 1990,
-  "tookMs": 16,
+  "id": 1991,
+  "action": "open",
+  "ok": true,
+  "seq": 1991,
+  "tookMs": 3475,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:56:10.669Z",
-  "error": {
-    "code": "UNSUPPORTED",
-    "message": "accion \"execute\" no soportada en inject.js"
+  "ts": "2026-10-25T18:56:19.053Z",
+  "result": {
+    "tabId": 1762282311,
+    "url": "https://sandiego.craigslist.org/search/ggg?query=web+developer&sort=date",
+    "background": true,
+    "loadState": "complete"
   }
 }
