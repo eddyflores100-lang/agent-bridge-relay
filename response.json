@@ -1,12 +1,13 @@
 {
-  "id": 1946,
-  "action": "gettext",
-  "ok": true,
-  "seq": 1946,
-  "tookMs": 62,
+  "id": 1947,
+  "action": "execute",
+  "ok": false,
+  "seq": 1947,
+  "tookMs": 15,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:40:42.841Z",
-  "result": {
-    "text": "{\"message\": \"Forbidden\", \"error\": 403}"
+  "ts": "2026-10-25T18:40:47.548Z",
+  "error": {
+    "code": "UNSUPPORTED",
+    "message": "accion \"execute\" no soportada en inject.js"
   }
 }
