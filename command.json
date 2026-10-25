@@ -1,1 +1,1 @@
-{"cmd_seq": 970, "action": "wait", "args": {"ms": 4000}}
+{"cmd_seq": 971, "action": "geturl", "args": {"tabId": 1762281357}}
