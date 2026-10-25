@@ -79,3 +79,4 @@
 {"id":2064,"action":"execute","ok":false,"seq":2064,"tookMs":313,"version":"2.3.0","ts":"2026-10-25T19:03:29.797Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2065,"action":"execute","ok":false,"seq":2065,"tookMs":20,"version":"2.3.0","ts":"2026-10-25T19:03:32.497Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2066,"action":"open","ok":true,"seq":2066,"tookMs":3470,"version":"2.3.0","ts":"2026-10-25T19:03:43.090Z","result":{"tabId":1762282386,"url":"https://denver.craigslist.org/search/ggg?query=ai+automation&sort=date","background":true,"loadState":"complete"}}
+{"id":2067,"action":"execute","ok":false,"seq":2067,"tookMs":19,"version":"2.3.0","ts":"2026-10-25T19:03:49.002Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
