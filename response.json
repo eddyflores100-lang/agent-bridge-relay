@@ -1,13 +1,15 @@
 {
-  "id": 2023,
-  "action": "execute",
-  "ok": false,
-  "seq": 2023,
-  "tookMs": 20,
+  "id": 2024,
+  "action": "open",
+  "ok": true,
+  "seq": 2024,
+  "tookMs": 3750,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:59:25.096Z",
-  "error": {
-    "code": "UNSUPPORTED",
-    "message": "accion \"execute\" no soportada en inject.js"
+  "ts": "2026-10-25T18:59:33.395Z",
+  "result": {
+    "tabId": 1762282344,
+    "url": "https://austin.craigslist.org/search/ggg?query=website&sort=date",
+    "background": true,
+    "loadState": "complete"
   }
 }
