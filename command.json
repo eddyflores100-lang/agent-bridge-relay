@@ -1,1 +1,1 @@
-{"cmd_seq": 885, "action": "snapshot", "args": {"tabId": 1762281357, "maxEls": 400}}
+{"cmd_seq": 886, "action": "gethtml", "args": {"selector": "div.ja73cu:nth-of-type(2)", "tabId": 1762281357}}
