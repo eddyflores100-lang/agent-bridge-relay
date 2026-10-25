@@ -78,3 +78,4 @@
 {"id":1174,"action":"check","ok":false,"seq":1174,"tookMs":12,"version":"2.2.3","ts":"2026-10-25T03:03:51.048Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1175,"action":"check","ok":false,"seq":1175,"tookMs":9,"version":"2.2.3","ts":"2026-10-25T03:03:54.442Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1176,"action":"check","ok":true,"seq":1176,"tookMs":59,"version":"2.2.3","ts":"2026-10-25T03:03:59.161Z","result":{"checked":false,"verified":false}}
+{"id":1177,"action":"click","ok":true,"seq":1177,"tookMs":471,"version":"2.2.3","ts":"2026-10-25T03:04:04.551Z","result":{"clicked":true,"selector":"div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)","via":"selector"}}
