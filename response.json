@@ -1,16 +1,15 @@
 {
-  "id": 1396,
-  "action": "snapshot",
+  "id": 1397,
+  "action": "open",
   "ok": true,
-  "seq": 1396,
-  "tookMs": 11,
+  "seq": 1397,
+  "tookMs": 1694,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:22:52.690Z",
+  "ts": "2026-10-25T04:22:57.933Z",
   "result": {
-    "challenge": null,
-    "count": 0,
-    "elements": [],
-    "title": "404 - File or directory not found.",
-    "url": "https://www.computrabajo.com/registro-candidato"
+    "tabId": 1762281357,
+    "url": "https://www.codementor.io/mentor/apply",
+    "reused": true,
+    "loadState": "complete"
   }
 }
