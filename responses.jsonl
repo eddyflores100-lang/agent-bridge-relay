@@ -61,3 +61,4 @@
 {"id":2046,"action":"execute","ok":false,"seq":2046,"tookMs":15,"version":"2.3.0","ts":"2026-10-25T19:01:41.638Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2047,"action":"execute","ok":false,"seq":2047,"tookMs":22,"version":"2.3.0","ts":"2026-10-25T19:01:45.534Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2048,"action":"open","ok":true,"seq":2048,"tookMs":3518,"version":"2.3.0","ts":"2026-10-25T19:01:53.746Z","result":{"tabId":1762282368,"url":"https://atlanta.craigslist.org/search/ggg?query=ai+automation&sort=date","background":true,"loadState":"complete"}}
+{"id":2049,"action":"execute","ok":false,"seq":2049,"tookMs":22,"version":"2.3.0","ts":"2026-10-25T19:02:00.180Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
