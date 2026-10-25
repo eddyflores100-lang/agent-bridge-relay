@@ -1,14 +1,14 @@
 {
-  "id": 1131,
-  "action": "check",
-  "ok": false,
-  "seq": 1131,
-  "tookMs": 12,
+  "id": 1132,
+  "action": "click",
+  "ok": true,
+  "seq": 1132,
+  "tookMs": 396,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:58:56.764Z",
-  "error": {
-    "code": "TARGET_NOT_FOUND",
-    "hint": "prueba snapshot",
-    "message": "selector sin match"
+  "ts": "2026-10-25T02:59:00.916Z",
+  "result": {
+    "clicked": true,
+    "selector": "div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)",
+    "via": "selector"
   }
 }
