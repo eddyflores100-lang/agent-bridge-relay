@@ -50,3 +50,4 @@
 {"id":1146,"action":"click","ok":false,"seq":1146,"tookMs":39,"version":"2.2.3","ts":"2026-10-25T03:00:04.623Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1147,"action":"type","ok":false,"seq":1147,"tookMs":22,"version":"2.2.3","ts":"2026-10-25T03:00:09.516Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview","message":"no visible (obscured)"}}
 {"id":1148,"action":"check","ok":true,"seq":1148,"tookMs":12,"version":"2.2.3","ts":"2026-10-25T03:00:14.400Z","result":{"checked":true,"verified":true}}
+{"id":1149,"action":"check","ok":false,"seq":1149,"tookMs":11,"version":"2.2.3","ts":"2026-10-25T03:00:19.414Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
