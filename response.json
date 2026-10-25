@@ -1,14 +1,16 @@
 {
-  "id": 1170,
-  "action": "click",
+  "id": 1171,
+  "action": "type",
   "ok": true,
-  "seq": 1170,
-  "tookMs": 413,
+  "seq": 1171,
+  "tookMs": 86,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:03:32.094Z",
+  "ts": "2026-10-25T03:03:37.194Z",
   "result": {
-    "clicked": true,
-    "selector": "button._1bsa7o5r",
+    "filled": true,
+    "length": 18,
+    "mode": "instant-background",
+    "verified": true,
     "via": "selector"
   }
 }
