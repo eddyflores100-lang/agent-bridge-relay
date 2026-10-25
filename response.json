@@ -1,13 +1,13 @@
 {
-  "id": 1642,
+  "id": 1643,
   "action": "snapshot",
   "ok": true,
-  "seq": 1642,
-  "tookMs": 1786,
+  "seq": 1643,
+  "tookMs": 13,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:36:02.932Z",
+  "ts": "2026-10-25T15:36:10.691Z",
   "result": {
-    "challenge": null,
+    "challenge": "recaptcha",
     "count": 15,
     "elements": [
       {
@@ -43,7 +43,7 @@
         "role": "",
         "selector": "input#password",
         "tag": "input",
-        "text": "",
+        "text": "Emmqdar",
         "type": "password"
       },
       {
