@@ -1,14 +1,14 @@
 {
-  "id": 1639,
+  "id": 1640,
   "action": "geturl",
   "ok": true,
-  "seq": 1639,
-  "tookMs": 8,
+  "seq": 1640,
+  "tookMs": 7,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:35:48.340Z",
+  "ts": "2026-10-25T15:35:51.830Z",
   "result": {
-    "url": "https://www.getonbrd.com/home",
-    "title": "Get on Board",
+    "url": "https://www.getonbrd.com/webpros/login",
+    "title": "Deja que los empleos lleguen a ti. - Get on Board | Get on Board",
     "tabId": 1762281357
   }
 }
