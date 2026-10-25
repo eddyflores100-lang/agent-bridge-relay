@@ -1,11 +1,11 @@
 {
-  "id": 1268,
+  "id": 1269,
   "action": "ping",
   "ok": true,
-  "seq": 1268,
+  "seq": 1269,
   "tookMs": 9,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:50:21.600Z",
+  "ts": "2026-10-25T04:00:05.180Z",
   "result": {
     "pong": true,
     "version": "2.2.3",
@@ -14,12 +14,12 @@
     "poller": {
       "failStreak": 0,
       "lastCmdAction": "ping",
-      "lastCmdSeen": 1268,
-      "lastCmdSeenAt": 1792900221583,
+      "lastCmdSeen": 1269,
+      "lastCmdSeenAt": 1792900805158,
       "lastError": null,
-      "lastPollAt": 1792900221583,
+      "lastPollAt": 1792900805158,
       "mode": "polling",
-      "quotaRemaining": 3988,
+      "quotaRemaining": 4997,
       "rateFactor": 1,
       "startedAt": 1792893924323
     },
@@ -51,8 +51,8 @@
       },
       {
         "tabId": 1762281025,
-        "title": "Settings - contacto@alicelabs.site",
-        "url": "https://mail.hostinger.com/0/settings/identity",
+        "title": "Sent - contacto@alicelabs.site",
+        "url": "https://mail.hostinger.com/0/mailboxes/INBOX.Sent",
         "active": false
       },
       {
