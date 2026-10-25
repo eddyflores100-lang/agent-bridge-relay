@@ -1,12 +1,13 @@
 {
-  "id": 888,
-  "action": "wait",
+  "id": 889,
+  "action": "getattr",
   "ok": true,
-  "seq": 888,
-  "tookMs": 1517,
+  "seq": 889,
+  "tookMs": 10,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:17:04.555Z",
+  "ts": "2026-10-25T02:17:08.081Z",
   "result": {
-    "waited": 1500
+    "text": "",
+    "via": "selector"
   }
 }
