@@ -1,15 +1,35 @@
 {
-  "id": 1351,
-  "action": "open",
+  "id": 1352,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1351,
-  "tookMs": 2300,
+  "seq": 1352,
+  "tookMs": 17,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:15:17.226Z",
+  "ts": "2026-10-25T04:15:28.360Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.codementor.io/mentor/apply",
-    "reused": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 1,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://arc.dev/signup?to=https%3A%2F%2Fwww.codementor.io%2Fbecome-a-mentor%2Fget-started&service=codementor",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 55,
+          "w": 318,
+          "x": 472,
+          "y": 389
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "center > div.inner-body > div.customizeContainer > div.row-fluid:nth-of-type(2) > div.span10 > a.become-a-codementor",
+        "tag": "a",
+        "text": "BECOME A CODEMENTOR NOW",
+        "type": ""
+      }
+    ],
+    "title": "Apply to Become An Expert Programming Mentor on Codementor",
+    "url": "https://www.codementor.io/mentor/apply"
   }
 }
