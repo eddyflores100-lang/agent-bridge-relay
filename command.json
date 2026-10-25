@@ -1,1 +1,1 @@
-{"cmd_seq": 1372, "action": "snapshot", "args": {"maxEls": 150}}
+{"cmd_seq": 1373, "action": "open", "args": {"url": "https://www.codementor.io/mentor/apply", "reuse": true, "waitMs": 9000}}
