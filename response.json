@@ -1,14 +1,14 @@
 {
-  "id": 1139,
-  "action": "click",
+  "id": 1140,
+  "action": "type",
   "ok": false,
-  "seq": 1139,
-  "tookMs": 9,
+  "seq": 1140,
+  "tookMs": 13,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:59:32.999Z",
+  "ts": "2026-10-25T02:59:38.009Z",
   "error": {
-    "code": "TARGET_NOT_FOUND",
-    "hint": "prueba snapshot",
-    "message": "selector sin match"
+    "code": "NOT_VISIBLE",
+    "hint": "scrollintoview",
+    "message": "no visible (obscured)"
   }
 }
