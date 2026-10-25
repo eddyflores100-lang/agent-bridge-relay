@@ -1,15 +1,13 @@
 {
-  "id": 1389,
-  "action": "open",
+  "id": 1390,
+  "action": "getlinks",
   "ok": true,
-  "seq": 1389,
-  "tookMs": 4133,
+  "seq": 1390,
+  "tookMs": 11,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:21:43.248Z",
+  "ts": "2026-10-25T04:21:47.744Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.soyfreelancer.com/ingresar",
-    "reused": true,
-    "loadState": "complete"
+    "count": 0,
+    "links": []
   }
 }
