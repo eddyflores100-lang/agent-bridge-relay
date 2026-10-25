@@ -1,13 +1,15 @@
 {
-  "id": 1399,
-  "action": "getlinks",
+  "id": 1400,
+  "action": "open",
   "ok": true,
-  "seq": 1399,
-  "tookMs": 12,
+  "seq": 1400,
+  "tookMs": 2895,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:23:18.270Z",
+  "ts": "2026-10-25T04:23:24.327Z",
   "result": {
-    "count": 0,
-    "links": []
+    "tabId": 1762281357,
+    "url": "https://www.usebraintrust.com/signup",
+    "reused": true,
+    "loadState": "complete"
   }
 }
