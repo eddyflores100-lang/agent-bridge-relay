@@ -1,1 +1,1 @@
-{"cmd_seq": 1644, "action": "open", "args": {"url": "https://contra.com/", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1645, "action": "geturl", "args": {}}
