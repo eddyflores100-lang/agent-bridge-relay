@@ -1,1 +1,1 @@
-{"cmd_seq": 1180, "action": "gethtml", "args": {"selector": "[data-track-tag=\"combobox_option\"]", "tabId": 1762281357}}
+{"cmd_seq": 1181, "action": "click", "args": {"selector": "div#field-skills > div._1bsa7o5w > div.ja73c14 > button._1bsa7o5r", "tabId": 1762281357}}
