@@ -1,14 +1,16 @@
 {
-  "id": 1163,
-  "action": "click",
-  "ok": false,
-  "seq": 1163,
-  "tookMs": 13,
+  "id": 1164,
+  "action": "type",
+  "ok": true,
+  "seq": 1164,
+  "tookMs": 115,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:02:58.031Z",
-  "error": {
-    "code": "TARGET_NOT_FOUND",
-    "hint": "prueba snapshot",
-    "message": "selector sin match"
+  "ts": "2026-10-25T03:03:03.089Z",
+  "result": {
+    "filled": true,
+    "length": 7,
+    "mode": "instant-background",
+    "verified": true,
+    "via": "selector"
   }
 }
