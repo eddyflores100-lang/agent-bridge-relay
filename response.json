@@ -1,27 +1,27 @@
 {
-  "id": 1876,
+  "id": 1877,
   "action": "ping",
   "ok": true,
-  "seq": 1876,
+  "seq": 1877,
   "tookMs": 11,
-  "version": "2.2.3",
-  "ts": "2026-10-25T18:06:50.312Z",
+  "version": "2.3.0",
+  "ts": "2026-10-25T18:15:23.761Z",
   "result": {
     "pong": true,
-    "version": "2.2.3",
+    "version": "2.3.0",
     "stealth": true,
     "bridgeTabId": null,
     "poller": {
       "failStreak": 0,
       "lastCmdAction": "ping",
-      "lastCmdSeen": 1876,
-      "lastCmdSeenAt": 1792951610289,
+      "lastCmdSeen": 1877,
+      "lastCmdSeenAt": 1792952123739,
       "lastError": null,
-      "lastPollAt": 1792951610288,
+      "lastPollAt": 1792952123739,
       "mode": "polling",
-      "quotaRemaining": 4989,
+      "quotaRemaining": 4964,
       "rateFactor": 1,
-      "startedAt": 1792950184902
+      "startedAt": 1792952097494
     },
     "tabsAbiertas": 49,
     "tabs": [
@@ -29,126 +29,151 @@
         "tabId": 1762281381,
         "title": "Web analytics | Eddyflores100@gmail.com's Account | Cloudflare",
         "url": "https://dash.cloudflare.com/faf93cd2a0d373573de0859b1cc95328/web-analytics/sites",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762281073,
         "title": "Resultado de la evaluación de tu currículum | Toptal Resume",
         "url": "https://www.toptal.com/resume/es/analizador-de-curriculum/c3eb4e69050bd2c6c44a8d2d3305f4545ad01e12cc5e29cdead3c1f1f650796e/resultado?utm_source=techresume&utm_medium=email&utm_campaign=free-assessment",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280092,
         "title": "KUDERT",
         "url": "https://evaluado.kudert.com/onboarding-proctoring",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280836,
         "title": "AliceLabs LLC (@f55494505) / X",
         "url": "https://x.com/f55494505",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762281438,
         "title": "Sent - contacto@alicelabs.site",
         "url": "https://mail.hostinger.com/0/mailboxes/INBOX.Sent",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280997,
         "title": "Diseño de banner web",
         "url": "https://chatgpt.com/c/6ada99da-1fc0-83e9-a5d7-082860be0286",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280432,
         "title": "October Schedule | Hacktoberfest 2026",
         "url": "https://hacktoberfest.com/schedule/",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280107,
         "title": "Ambitious_Truth_1878 (u/Ambitious_Truth_1878) - Reddit",
         "url": "https://www.reddit.com/user/Ambitious_Truth_1878/?screen_view_count=2",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280110,
         "title": "Tokens",
         "url": "https://vercel.com/account/settings/tokens",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280848,
         "title": "npm | Settings: Tokens",
         "url": "https://www.npmjs.com/settings/eddyflores100/tokens/",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280116,
         "title": "DKIM personalizado | Hostinger",
         "url": "https://hpanel.hostinger.com/email/alicelabs.site/custom-dkim?location=side_menu",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280119,
         "title": "Resend",
         "url": "https://resend.com/login",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280122,
         "title": "Iniciar sesión · GitLab",
         "url": "https://gitlab.com/users/sign_in",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280125,
         "title": "Log in - Intigriti",
         "url": "https://login.intigriti.com/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Frequest_uri%3Durn%253Aietf%253Aparams%253Aoauth%253Arequest_uri%253A53D35F89F5EE04135DBE764A0F854D35944DC43CEF26",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280128,
         "title": "New Links | Hacker News",
         "url": "https://news.ycombinator.com/newest",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762280131,
         "title": "Reseller license – OpenSanctions",
         "url": "https://www.opensanctions.org/licensing/reseller/",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762281373,
         "title": "Great Domains, Easy Management | Namify",
         "url": "https://manage.get.tech/login",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762281426,
         "title": "eddyflores100-lang/alicelabs-space: SENTINEL ARENA - el juego de AliceLabs (alicelabs.space). Verifica skills Ed25519, esquiva scams, gana USDC x402. Built by ZOLO.",
         "url": "https://github.com/eddyflores100-lang/alicelabs-space",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762281423,
         "title": "🚀 Buscamos que seas tu mejor versión",
         "url": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfMrDhqLo7wAvYJYAkVX-GvLdrtwN4y9fZ_YyuDDlsYVFVqjA/formResponse",
-        "active": false
+        "active": false,
+        "who": null
       },
       {
         "tabId": 1762281370,
         "title": "DigitalOcean",
         "url": "https://cloud.digitalocean.com/dashboard?utm_source=inflection&utm_medium=email&utm_campaign=EVG_ONB_Welcome_Flow_10.13.2026&utm_content=EVG_ONB_Welcome_VersionC&inf_ver=2&inf_ctx=hde-fH5gos2wAvjh9hBy",
-        "active": false
+        "active": false,
+        "who": null
       }
     ],
     "rate": {
       "maxPerMin": 30
     },
-    "fastMode": false
+    "fastMode": false,
+    "control": {
+      "human": 0,
+      "agent": 0,
+      "total": 0
+    }
   }
 }
