@@ -1,15 +1,14 @@
 {
-  "id": 1378,
-  "action": "open",
+  "id": 1379,
+  "action": "clicktext",
   "ok": true,
-  "seq": 1378,
-  "tookMs": 2748,
+  "seq": 1379,
+  "tookMs": 40,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:20:31.183Z",
+  "ts": "2026-10-25T04:20:36.677Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.getonbrd.com/home",
-    "reused": true,
-    "loadState": "complete"
+    "clicked": true,
+    "selector": "body.dark-theme > header.gb-header > div.gb-header__container > div.gb-header__actions:nth-of-type(3) > div.dropdown:nth-of-type(2) > button.gb-btn",
+    "via": "clicktext"
   }
 }
