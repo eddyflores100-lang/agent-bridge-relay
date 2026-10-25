@@ -1,15 +1,14 @@
 {
-  "id": 1517,
-  "action": "open",
+  "id": 1518,
+  "action": "geturl",
   "ok": true,
-  "seq": 1517,
-  "tookMs": 3194,
+  "seq": 1518,
+  "tookMs": 7,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:37:27.418Z",
+  "ts": "2026-10-25T04:37:31.554Z",
   "result": {
-    "tabId": 1762281357,
     "url": "https://www.soyfreelancer.com/registro",
-    "reused": true,
-    "loadState": "complete"
+    "title": "Plataforma Freelance | crece tu equipo de trabajo",
+    "tabId": 1762281357
   }
 }
