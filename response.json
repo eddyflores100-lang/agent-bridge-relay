@@ -1,15 +1,1565 @@
 {
-  "id": 2076,
-  "action": "open",
+  "id": 2077,
+  "action": "snapshot",
   "ok": true,
-  "seq": 2076,
-  "tookMs": 3539,
+  "seq": 2077,
+  "tookMs": 322,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:04:56.337Z",
+  "ts": "2026-10-25T19:05:04.478Z",
   "result": {
-    "tabId": 1762282395,
-    "url": "https://sandiego.craigslist.org/search/ggg?query=website&sort=date",
-    "background": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 86,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/area/sandiego",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 37,
+          "w": 60,
+          "x": 5,
+          "y": 4
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "html.bd-can-hover > body > div.cl-content:nth-of-type(1) > header.cl-header > div.cl-left-group:nth-of-type(1) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "CL",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 93,
+          "x": 74,
+          "y": 6
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > header.cl-header > div.cl-left-group:nth-of-type(1) > div.cl-breadcrumb:nth-of-type(1) > div.bd-posit-box > button.bd-button",
+        "tag": "button",
+        "text": "san diego",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 114,
+          "x": 242,
+          "y": 6
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > header.cl-header > div.cl-left-group:nth-of-type(1) > div.cl-breadcrumb:nth-of-type(2) > div.bd-posit-box > button.bd-button",
+        "tag": "button",
+        "text": "all san diego",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 53,
+          "x": 426,
+          "y": 6
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > header.cl-header > div.cl-left-group:nth-of-type(1) > div.cl-breadcrumb:nth-of-type(3) > div.bd-posit-box > button.bd-button",
+        "tag": "button",
+        "text": "gigs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 40,
+          "x": 523,
+          "y": 6
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > header.cl-header > div.cl-left-group:nth-of-type(1) > div.cl-breadcrumb:nth-of-type(4) > div.bd-posit-box > button.bd-button",
+        "tag": "button",
+        "text": "all",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/post/sdo",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 44,
+          "x": 1167,
+          "y": 0
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "html.bd-can-hover > body > div.cl-content:nth-of-type(1) > header.cl-header > div.cl-right-group:nth-of-type(3) > a.cl-thumb-anchor:nth-of-type(3)",
+        "tag": "a",
+        "text": "post",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/account",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 44,
+          "x": 1211,
+          "y": 0
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "html.bd-can-hover > body > div.cl-content:nth-of-type(1) > header.cl-header > div.cl-right-group:nth-of-type(3) > a.cl-thumb-anchor:nth-of-type(4)",
+        "tag": "a",
+        "text": "acct",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "search gigs",
+        "rect": {
+          "h": 21,
+          "w": 916,
+          "x": 239,
+          "y": 61
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "main.cl-search-ng > form.cl-search-query > div.cl-query-bar:nth-of-type(1) > div.cl-query-with-search-suggest > div.bd-posit-box > input",
+        "tag": "input",
+        "text": "website",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 1169,
+          "y": 55
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "body > div.cl-content:nth-of-type(1) > main.cl-search-ng > form.cl-search-query > div.cl-query-bar:nth-of-type(1) > button.bd-button:nth-of-type(1)",
+        "tag": "button",
+        "text": "",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 1217,
+          "y": 55
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "body > div.cl-content:nth-of-type(1) > main.cl-search-ng > form.cl-search-query > div.cl-query-bar:nth-of-type(1) > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 21,
+          "w": 20,
+          "x": 165,
+          "y": 61
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > main.cl-search-ng > form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-title-bar:nth-of-type(1) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/search/area/sandiego?cat=lbg&query=website&sort=date#search=2~thumb~0",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 125,
+          "x": 8,
+          "y": 92
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(1) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "labor gigs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 164,
+          "y": 96
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(1) > input",
+        "tag": "input",
+        "text": "111",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/search/area/sandiego?cat=evg&query=website&sort=date#search=2~thumb~0",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 125,
+          "x": 8,
+          "y": 114
+        },
+        "ref": "e13",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "event gigs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 164,
+          "y": 118
+        },
+        "ref": "e14",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(2) > input",
+        "tag": "input",
+        "text": "115",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/search/area/sandiego?cat=dmg&query=website&sort=date#search=2~thumb~0",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 125,
+          "x": 8,
+          "y": 136
+        },
+        "ref": "e15",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(3) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "domestic gigs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 164,
+          "y": 140
+        },
+        "ref": "e16",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(3) > input",
+        "tag": "input",
+        "text": "113",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/search/area/sandiego?cat=cpg&query=website&sort=date#search=2~thumb~0",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 125,
+          "x": 8,
+          "y": 158
+        },
+        "ref": "e17",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(4) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "computer gigs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 164,
+          "y": 162
+        },
+        "ref": "e18",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(4) > input",
+        "tag": "input",
+        "text": "110",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/search/area/sandiego?cat=wrg&query=website&sort=date#search=2~thumb~0",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 125,
+          "x": 8,
+          "y": 180
+        },
+        "ref": "e19",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(5) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "writing gigs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 164,
+          "y": 184
+        },
+        "ref": "e20",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(5) > input",
+        "tag": "input",
+        "text": "112",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/search/area/sandiego?cat=tlg&query=website&sort=date#search=2~thumb~0",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 125,
+          "x": 8,
+          "y": 202
+        },
+        "ref": "e21",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(6) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "talent gigs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 164,
+          "y": 206
+        },
+        "ref": "e22",
+        "role": "",
+        "selector": "div > ul > div.cat-lists > ul.cats:nth-of-type(1) > li.cat:nth-of-type(6) > input",
+        "tag": "input",
+        "text": "108",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 56,
+          "x": 8,
+          "y": 226
+        },
+        "ref": "e23",
+        "role": "",
+        "selector": "div.cl-jsonform-filters-panel:nth-of-type(2) > div.jsonform-name-excats:nth-of-type(1) > div > div > div.select-deselect-all > button.bd-button:nth-of-type(1)",
+        "tag": "button",
+        "text": "check all",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 72,
+          "x": 105,
+          "y": 226
+        },
+        "ref": "e24",
+        "role": "",
+        "selector": "div.cl-jsonform-filters-panel:nth-of-type(2) > div.jsonform-name-excats:nth-of-type(1) > div > div > div.select-deselect-all > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "uncheck all",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "srchType",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 8,
+          "y": 260
+        },
+        "ref": "e25",
+        "role": "",
+        "selector": "input[name=\"srchType\"]",
+        "tag": "input",
+        "text": "T",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "hasPic",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 8,
+          "y": 282
+        },
+        "ref": "e26",
+        "role": "",
+        "selector": "input[name=\"hasPic\"]",
+        "tag": "input",
+        "text": "1",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "postedToday",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 8,
+          "y": 304
+        },
+        "ref": "e27",
+        "role": "",
+        "selector": "input[name=\"postedToday\"]",
+        "tag": "input",
+        "text": "1",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "bundleDuplicates",
+        "placeholder": "",
+        "rect": {
+          "h": 13,
+          "w": 13,
+          "x": 8,
+          "y": 326
+        },
+        "ref": "e28",
+        "role": "",
+        "selector": "input[name=\"bundleDuplicates\"]",
+        "tag": "input",
+        "text": "1",
+        "type": "checkbox"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "miles",
+        "rect": {
+          "h": 23,
+          "w": 71,
+          "x": 8,
+          "y": 373
+        },
+        "ref": "e29",
+        "role": "",
+        "selector": "form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-jsonform-filters-panel:nth-of-type(2) > div.cl-jsonform-filter:nth-of-type(3) > div.widget-line:nth-of-type(2) > input.small:nth-of-type(1)",
+        "tag": "input",
+        "text": "",
+        "type": "tel"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "postal",
+        "placeholder": "from zip",
+        "rect": {
+          "h": 23,
+          "w": 71,
+          "x": 84,
+          "y": 373
+        },
+        "ref": "e30",
+        "role": "",
+        "selector": "input[name=\"postal\"]",
+        "tag": "input",
+        "text": "",
+        "type": "tel"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 67,
+          "x": 8,
+          "y": 396
+        },
+        "ref": "e31",
+        "role": "",
+        "selector": "main.cl-search-ng > form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-jsonform-filters-panel:nth-of-type(2) > div.cl-jsonform-filter:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "use map...",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 57,
+          "x": 8,
+          "y": 428
+        },
+        "ref": "e32",
+        "role": "",
+        "selector": "form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-jsonform-filters-panel:nth-of-type(2) > ul.cl-jsonform-filter > div.cl-segmented-selector > button.bd-button:nth-of-type(1)",
+        "tag": "button",
+        "text": "all",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 57,
+          "x": 64,
+          "y": 428
+        },
+        "ref": "e33",
+        "role": "",
+        "selector": "form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-jsonform-filters-panel:nth-of-type(2) > ul.cl-jsonform-filter > div.cl-segmented-selector > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "paid",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 57,
+          "x": 121,
+          "y": 428
+        },
+        "ref": "e34",
+        "role": "",
+        "selector": "form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-jsonform-filters-panel:nth-of-type(2) > ul.cl-jsonform-filter > div.cl-segmented-selector > button.bd-button:nth-of-type(3)",
+        "tag": "button",
+        "text": "unpaid",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 76,
+          "x": 8,
+          "y": 478
+        },
+        "ref": "e35",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > main.cl-search-ng > form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-command-buttons:nth-of-type(4) > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "reset",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 78,
+          "x": 99,
+          "y": 478
+        },
+        "ref": "e36",
+        "role": "",
+        "selector": "div.cl-content:nth-of-type(1) > main.cl-search-ng > form.cl-search-query > div.cl-search-filters-panel:nth-of-type(2) > div.cl-command-buttons:nth-of-type(4) > button.bd-button:nth-of-type(3)",
+        "tag": "button",
+        "text": "apply",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 208,
+          "y": 104
+        },
+        "ref": "e37",
+        "role": "",
+        "selector": "main.cl-search-ng > div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-segmented-selector:nth-of-type(1) > button.bd-button:nth-of-type(1)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 246,
+          "y": 104
+        },
+        "ref": "e38",
+        "role": "",
+        "selector": "main.cl-search-ng > div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-segmented-selector:nth-of-type(1) > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 284,
+          "y": 104
+        },
+        "ref": "e39",
+        "role": "",
+        "selector": "main.cl-search-ng > div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-segmented-selector:nth-of-type(1) > button.bd-button:nth-of-type(3)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 322,
+          "y": 104
+        },
+        "ref": "e40",
+        "role": "",
+        "selector": "main.cl-search-ng > div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-segmented-selector:nth-of-type(1) > button.bd-button:nth-of-type(4)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 38,
+          "x": 360,
+          "y": 104
+        },
+        "ref": "e41",
+        "role": "",
+        "selector": "main.cl-search-ng > div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-segmented-selector:nth-of-type(1) > button.bd-button:nth-of-type(5)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 75,
+          "x": 443,
+          "y": 105
+        },
+        "ref": "e42",
+        "role": "",
+        "selector": "div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-search-sort-mode:nth-of-type(2) > div.bd-posit-box > button.bd-button",
+        "tag": "button",
+        "text": "newest",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 92,
+          "x": 620,
+          "y": 104
+        },
+        "ref": "e43",
+        "role": "",
+        "selector": "div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-horiz-scroller:nth-of-type(3) > div.scrolling-container > button.bd-button:nth-of-type(2)",
+        "tag": "button",
+        "text": "has image",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 34,
+          "w": 110,
+          "x": 722,
+          "y": 104
+        },
+        "ref": "e44",
+        "role": "",
+        "selector": "div.cl-search-results:nth-of-type(1) > div.cl-search-toolbar:nth-of-type(1) > div.left-group:nth-of-type(1) > div.cl-horiz-scroller:nth-of-type(3) > div.scrolling-container > button.bd-button:nth-of-type(3)",
+        "tag": "button",
+        "text": "posted today",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-day-labor-workers-wanted-se/q8DY6rWsNg3T5VeoVMJbMF",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 183
+        },
+        "ref": "e45",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(2) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 201
+        },
+        "ref": "e46",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(2) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-day-labor-workers-wanted-se/q8DY6rWsNg3T5VeoVMJbMF",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 501,
+          "x": 300,
+          "y": 203
+        },
+        "ref": "e47",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(2) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Day Labor Workers Wanted / Se buscan trabajadores de labor por día",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 395,
+          "y": 228
+        },
+        "ref": "e48",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(2) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-research-study-on-health/t9PTTB3p5PBgLUAd2eARLt",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 262
+        },
+        "ref": "e49",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(3) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 280
+        },
+        "ref": "e50",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(3) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-research-study-on-health/t9PTTB3p5PBgLUAd2eARLt",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 308,
+          "x": 300,
+          "y": 282
+        },
+        "ref": "e51",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(3) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Research Study on Health Insurance - $55",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 350,
+          "y": 307
+        },
+        "ref": "e52",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(3) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-online-marketing-saleswork/9cJ1ueKCgK33jgnXgrGPZS",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 341
+        },
+        "ref": "e53",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(4) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 359
+        },
+        "ref": "e54",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(4) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-online-marketing-saleswork/9cJ1ueKCgK33jgnXgrGPZS",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 471,
+          "x": 300,
+          "y": 361
+        },
+        "ref": "e55",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(4) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Online Marketing & Sales–Work from home or office, part/full-time",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 471,
+          "y": 386
+        },
+        "ref": "e56",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(4) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-fall-into-surrogacy-this/dP3JhyfSphT1K8ZWtWnyTs",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 421
+        },
+        "ref": "e57",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(5) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 439
+        },
+        "ref": "e58",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(5) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-fall-into-surrogacy-this/dP3JhyfSphT1K8ZWtWnyTs",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 519,
+          "x": 300,
+          "y": 441
+        },
+        "ref": "e59",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(5) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "🍂💖 Fall Into Surrogacy This Season Moms Earn Up to $175K+ 🌻🍂",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 608,
+          "y": 466
+        },
+        "ref": "e60",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(5) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/national-city-hiring-now-construction/qYrdiAhw1s8d2MkR7EjUTw",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 500
+        },
+        "ref": "e61",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(6) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 518
+        },
+        "ref": "e62",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(6) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/national-city-hiring-now-construction/qYrdiAhw1s8d2MkR7EjUTw",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 246,
+          "x": 300,
+          "y": 520
+        },
+        "ref": "e63",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(6) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Hiring NOW Construction workers",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 414,
+          "y": 545
+        },
+        "ref": "e64",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(6) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-general-labor-work/dVSyjCLUSopQ8UN3WHbJZs",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 579
+        },
+        "ref": "e65",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(7) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 597
+        },
+        "ref": "e66",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(7) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-general-labor-work/dVSyjCLUSopQ8UN3WHbJZs",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 146,
+          "x": 300,
+          "y": 599
+        },
+        "ref": "e67",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(7) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "General labor work!",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 414,
+          "y": 624
+        },
+        "ref": "e68",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(7) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/poway-construction-workers-needed-asap/m7HLVNBGSVZwPoDiB5SR4M",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 658
+        },
+        "ref": "e69",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(8) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 676
+        },
+        "ref": "e70",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(8) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/poway-construction-workers-needed-asap/m7HLVNBGSVZwPoDiB5SR4M",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 260,
+          "x": 300,
+          "y": 678
+        },
+        "ref": "e71",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(8) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Construction workers needed ASAP",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 414,
+          "y": 703
+        },
+        "ref": "e72",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(8) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-construction-general-laborers/sGhDxoMrhLamwkUe5dMYdg",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 737
+        },
+        "ref": "e73",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(9) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 755
+        },
+        "ref": "e74",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(9) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-construction-general-laborers/sGhDxoMrhLamwkUe5dMYdg",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 423,
+          "x": 300,
+          "y": 757
+        },
+        "ref": "e75",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(9) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "Construction General Laborers – Entry-Level Opportunities",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 414,
+          "y": 782
+        },
+        "ref": "e76",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(9) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-fall-into-surrogacy-this/tP2Ria1A9kezkCVvGJKkkf",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 817
+        },
+        "ref": "e77",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(10) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 835
+        },
+        "ref": "e78",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(10) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-fall-into-surrogacy-this/tP2Ria1A9kezkCVvGJKkkf",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 519,
+          "x": 300,
+          "y": 837
+        },
+        "ref": "e79",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(10) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "🍂💖 Fall Into Surrogacy This Season Moms Earn Up to $175K+ 🌻🍂",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 608,
+          "y": 862
+        },
+        "ref": "e80",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(10) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/encinitas-per-hour-dog-walkers-needed/p9aej4otLXVa31dzYHJY4m",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 896
+        },
+        "ref": "e81",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(11) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 272,
+          "y": 914
+        },
+        "ref": "e82",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(11) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/encinitas-per-hour-dog-walkers-needed/p9aej4otLXVa31dzYHJY4m",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 436,
+          "x": 300,
+          "y": 916
+        },
+        "ref": "e83",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(11) > div.result-node > div.result-info > div.title-blob:nth-of-type(2) > a.cl-app-anchor",
+        "tag": "a",
+        "text": "$25- $30 Per Hour Dog Walkers Needed Encinitas, Carlsbad",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 24,
+          "x": 442,
+          "y": 941
+        },
+        "ref": "e84",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(11) > div.result-node > div.result-info > div.meta:nth-of-type(3) > button.bd-button",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.craigslist.org/view/d/san-diego-per-hour-dog-walkers-needed/tenovpD4KfNzPi9c8VJfw9",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 60,
+          "w": 64,
+          "x": 208,
+          "y": 975
+        },
+        "ref": "e85",
+        "role": "",
+        "selector": "div#search-results-1 > div.cl-search-result:nth-of-type(12) > div.result-node > a.cl-app-anchor",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      }
+    ],
+    "title": "🤖 san diego gigs \"website\" - craigslist",
+    "url": "https://www.craigslist.org/search/area/sandiego?cat=ggg&query=website&sort=date#search=2~thumb~0"
   }
 }
