@@ -1,1 +1,1 @@
-{"cmd_seq": 930, "action": "gethtml", "args": {"selector": "[role=\"listbox\"]", "tabId": 1762281357}}
+{"cmd_seq": 931, "action": "click", "args": {"selector": "div.ja73c14[aria-label=\"Add languages\"] a", "tabId": 1762281357}}
