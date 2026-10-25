@@ -1,14 +1,14 @@
 {
-  "id": 1648,
+  "id": 1649,
   "action": "snapshot",
   "ok": true,
-  "seq": 1648,
-  "tookMs": 110,
+  "seq": 1649,
+  "tookMs": 24,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:36:44.336Z",
+  "ts": "2026-10-25T15:36:50.079Z",
   "result": {
     "challenge": null,
-    "count": 4,
+    "count": 5,
     "elements": [
       {
         "ariaLabel": "Close",
@@ -18,14 +18,68 @@
         "rect": {
           "h": 44,
           "w": 44,
-          "x": 1045,
+          "x": 885,
           "y": 65
         },
         "ref": "e0",
         "role": "",
-        "selector": "div#enter-email-modal > div.modal-dialog > div.modal-content > button.close",
+        "selector": "div#welcome-resume-modal > div.modal-dialog > div.modal-content > button.close",
         "tag": "button",
         "text": "×",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "resume[file]",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 317,
+          "x": 413,
+          "y": 353
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "input#welcome_resume_file_modal",
+        "tag": "input",
+        "text": "",
+        "type": "file"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "resume[label]",
+        "placeholder": "ej., CV Desarrollador Backend, CV 2024",
+        "rect": {
+          "h": 41,
+          "w": 400,
+          "x": 413,
+          "y": 473
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "input#welcome_resume_label_modal",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 38,
+          "w": 67,
+          "x": 413,
+          "y": 551
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div#welcome-resume-upload-form > div.flex:nth-of-type(3) > button.gb-btn:nth-of-type(1)",
+        "tag": "button",
+        "text": "Cancelar",
         "type": "button"
       },
       {
@@ -34,53 +88,17 @@
         "name": "",
         "placeholder": "",
         "rect": {
-          "h": 47,
-          "w": 190,
-          "x": 473,
-          "y": 194
+          "h": 38,
+          "w": 67,
+          "x": 500,
+          "y": 551
         },
-        "ref": "e1",
+        "ref": "e4",
         "role": "",
-        "selector": "form#welcome_form > div.form-item:nth-of-type(1) > div.rightcol:nth-of-type(2) > button.gb-btn",
+        "selector": "div#welcome-resume-upload-form > div.flex:nth-of-type(3) > button.gb-btn:nth-of-type(2)",
         "tag": "button",
-        "text": "Importar tu CV",
+        "text": "Subir",
         "type": "button"
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "webpro[visible_for_companies]",
-        "placeholder": "",
-        "rect": {
-          "h": 13,
-          "w": 13,
-          "x": 228,
-          "y": 494
-        },
-        "ref": "e2",
-        "role": "",
-        "selector": "input#visible_for_companies",
-        "tag": "input",
-        "text": "1",
-        "type": "checkbox"
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "commit",
-        "placeholder": "",
-        "rect": {
-          "h": 49,
-          "w": 109,
-          "x": 224,
-          "y": 535
-        },
-        "ref": "e3",
-        "role": "",
-        "selector": "input#submit-welcome-info",
-        "tag": "input",
-        "text": "Guardar",
-        "type": "submit"
       }
     ],
     "title": "Empleos para ti | Get on Board",
