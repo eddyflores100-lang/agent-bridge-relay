@@ -1,16 +1,14 @@
 {
-  "id": 1621,
-  "action": "snapshot",
+  "id": 1622,
+  "action": "geturl",
   "ok": true,
-  "seq": 1621,
-  "tookMs": 20,
+  "seq": 1622,
+  "tookMs": 11,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:33:48.746Z",
+  "ts": "2026-10-25T15:33:55.863Z",
   "result": {
-    "challenge": null,
-    "count": 0,
-    "elements": [],
+    "url": "https://www.soyfreelancer.com/ingresar",
     "title": "Ingresar | SoyFreelancer.com",
-    "url": "https://www.soyfreelancer.com/ingresar"
+    "tabId": 1762281357
   }
 }
