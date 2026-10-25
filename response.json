@@ -1,14 +1,13 @@
 {
-  "id": 1253,
+  "id": 1254,
   "action": "gethtml",
-  "ok": false,
-  "seq": 1253,
-  "tookMs": 11,
+  "ok": true,
+  "seq": 1254,
+  "tookMs": 10,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:13:41.392Z",
-  "error": {
-    "code": "TARGET_NOT_FOUND",
-    "hint": "prueba snapshot",
-    "message": "selector sin match"
+  "ts": "2026-10-25T03:14:02.829Z",
+  "result": {
+    "text": "<div class=\"_1bsa7o5k nnpxsm187 nnpxsm18d nnpxsm0 nnpxsm11y nnpxsme7 nnpxsm1cs\" data-track-tag=\"stack\" style=\"--_1bsa7o50: var(--vmb8qq1y);\"><div class=\"nnpxsm0 nnpxsm11t nnpxsm1ap nnpxsm1cs\" data-track-tag=\"stack\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" data-track-tag=\"pin_icon\"><path stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M10.362 7.325a2.362 2.362 0 1 1-4.725 0 2.362 2.362 0 0 1 4.725 0Z\"></path><path stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M14.075 7.325C14.075 12.05 8 14.75 8 14.75s-6.075-2.7-6.075-7.425a6.075 6.075 0 0 1 12.15 0Z\"></path></svg><p class=\"_1bsa7o5k nnpxsm1go nnpxsm1e6 nnpxsm7 nnpxsm2\" data-track-tag=\"text\" style=\"--_1bsa7o50: var(--vmb8qq1y);\">Ecuador</p></div><div class=\"nnpxsm0 nnpxsm11y nnpxsm1cs\" data-track-tag=\"stack\"><div class=\"nnpxsm0 nnpxsm11y nnpxsm1m8 nnpxsm1cs\" data-track-tag=\"stack\"><div class=\"ja73c14 ja73c1e ja73c1j nnpxsm0\" data-track-tag=\"popover_anchor\" aria-expanded=\"false\" aria-haspopup=\"true\" role=\"button\" tabindex=\"-1\" style=\"--ja73cf: fit-content; --ja73c5: 100%; --ja73c0: fit-content;\" aria-label=\"Add languages\" data-uw-rm-empty-ctrl=\"\"><div class=\"nnpxsm0 nnpxsm11t nnpxsm1ap nnpxsme nnpxsm1cs\" data-track-tag=\"stack\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 17\" data-track-tag=\"comment_icon\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M1.25 7.185c0-3.375 2.7-5.062 6.75-5.062s6.75 1.687 6.75 5.062-2.7 5.063-6.75 5.063v2.025s-6.75-2.025-6.75-7.088\"></path></svg><a class=\"_1bsa7o5k _1bsa7o5l _1bsa7o5r nnpxsm26s nnpxsm26t nnpxsm2 nnpxsm292 nnpxsm29e nnpxsm29i\" data-track-tag=\"link\" target=\"_self\" style=\"--_1bsa7o50: var(--vmb8qq1y); --_1bsa7o51: var(--vmb8qq1y); --_1bsa7o57: var(--vmb8qq1y);\" aria-label=\"Add languages\" data-uw-rm-empty-ctrl=\"\" data-uw-rm-kbnav=\"\" tabindex=\"0\"><p class=\"_1bsa7o5k nnpxsm26s nnpxsm1go nnpxsm1e6 nnpxsm7 nnpxsm2\" data-track-tag=\"typography\" style=\"--_1bsa7o50: var(--vmb8qq3j);\">Add languages</p></a></div></div></div><div class=\"nnpxsm0 nnpxsm11y nnpxsme nnpxsm1ap nnpxsm1cs\" data-track-tag=\"stack\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 17\" data-track-tag=\"pencil_icon\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"m9.86 3.146 2.953 2.47m-10.547 4.94 8.319-8.4a2.334 2.334 0 0 1 3.243 0 2.2 2.2 0 0 1 0 3.164l-8.61 8.116L1 14.671z\"></path></svg></div></div></div>",
+    "via": "selector"
   }
 }
