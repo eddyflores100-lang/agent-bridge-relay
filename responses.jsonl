@@ -91,3 +91,4 @@
 {"id":929,"action":"gethtml","ok":false,"seq":929,"tookMs":15,"version":"2.2.3","ts":"2026-10-25T02:23:13.884Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":930,"action":"gethtml","ok":false,"seq":930,"tookMs":34,"version":"2.2.3","ts":"2026-10-25T02:23:22.688Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":931,"action":"click","ok":true,"seq":931,"tookMs":350,"version":"2.2.3","ts":"2026-10-25T02:23:47.640Z","result":{"clicked":true,"selector":"div._1bsa7o5k:nth-of-type(2) > div.nnpxsm0:nth-of-type(2) > div.nnpxsm0:nth-of-type(1) > div.ja73c14:nth-of-type(1) > div.nnpxsm0 > a._1bsa7o5k","via":"selector"}}
+{"id":933,"action":"click","ok":false,"seq":933,"tookMs":16,"version":"2.2.3","ts":"2026-10-25T02:23:54.965Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview y reintenta","message":"elemento no visible (css-hidden)"}}
