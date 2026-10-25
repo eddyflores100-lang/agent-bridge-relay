@@ -1,1 +1,1 @@
-{"cmd_seq": 1283, "action": "snapshot", "args": {"maxEls": 140}}
+{"cmd_seq": 1284, "action": "open", "args": {"url": "https://www.soyfreelancer.com/", "reuse": true, "waitMs": 9000}}
