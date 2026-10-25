@@ -1,4 +1,3 @@
-{"id":1184,"action":"check","ok":false,"seq":1184,"tookMs":16,"version":"2.2.3","ts":"2026-10-25T03:04:38.263Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1185,"action":"check","ok":false,"seq":1185,"tookMs":19,"version":"2.2.3","ts":"2026-10-25T03:04:42.360Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1186,"action":"check","ok":true,"seq":1186,"tookMs":180,"version":"2.2.3","ts":"2026-10-25T03:04:46.984Z","result":{"checked":false,"verified":false}}
 {"id":1187,"action":"click","ok":true,"seq":1187,"tookMs":263,"version":"2.2.3","ts":"2026-10-25T03:04:52.483Z","result":{"clicked":true,"selector":"div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)","via":"selector"}}
@@ -198,3 +197,4 @@
 {"id":1389,"action":"open","ok":true,"seq":1389,"tookMs":4133,"version":"2.2.3","ts":"2026-10-25T04:21:43.248Z","result":{"tabId":1762281357,"url":"https://www.soyfreelancer.com/ingresar","reused":true,"loadState":"complete"}}
 {"id":1390,"action":"getlinks","ok":true,"seq":1390,"tookMs":11,"version":"2.2.3","ts":"2026-10-25T04:21:47.744Z","result":{"count":0,"links":[]}}
 {"id":1391,"action":"open","ok":true,"seq":1391,"tookMs":3549,"version":"2.2.3","ts":"2026-10-25T04:21:55.176Z","result":{"tabId":1762281357,"url":"https://account.hubstaff.com/login","reused":true,"loadState":"complete"}}
+{"id":1392,"action":"getlinks","ok":true,"seq":1392,"tookMs":11,"version":"2.2.3","ts":"2026-10-25T04:22:00.462Z","result":{"count":0,"links":[]}}
