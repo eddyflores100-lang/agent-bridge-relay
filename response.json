@@ -1,30 +1,12 @@
 {
-  "id": 1770,
-  "action": "ping",
+  "id": 1771,
+  "action": "listtabs",
   "ok": true,
-  "seq": 1770,
+  "seq": 1771,
   "tookMs": 7,
   "version": "2.2.3",
-  "ts": "2026-10-25T17:03:52.424Z",
+  "ts": "2026-10-25T17:05:41.862Z",
   "result": {
-    "pong": true,
-    "version": "2.2.3",
-    "stealth": true,
-    "bridgeTabId": 1762281507,
-    "poller": {
-      "failStreak": 0,
-      "lastCmdAction": "ping",
-      "lastCmdSeen": 1770,
-      "lastCmdSeenAt": 1792947832412,
-      "lastError": null,
-      "lastFailAt": 1792942298259,
-      "lastPollAt": 1792947832412,
-      "mode": "polling",
-      "quotaRemaining": 4854,
-      "rateFactor": 1,
-      "startedAt": 1792893924323
-    },
-    "tabsAbiertas": 48,
     "tabs": [
       {
         "tabId": 1762281381,
@@ -145,11 +127,68 @@
         "title": "DigitalOcean",
         "url": "https://cloud.digitalocean.com/dashboard?utm_source=inflection&utm_medium=email&utm_campaign=EVG_ONB_Welcome_Flow_10.13.2026&utm_content=EVG_ONB_Welcome_VersionC&inf_ver=2&inf_ctx=hde-fH5gos2wAvjh9hBy",
         "active": false
+      },
+      {
+        "tabId": 1762280211,
+        "title": "API Keys | Nitrosend",
+        "url": "https://app.nitrosend.com/my/settings/api-keys",
+        "active": false
+      },
+      {
+        "tabId": 1762280164,
+        "title": "SEO y GEO para Marketplaces - Google Gemini",
+        "url": "https://gemini.google.com/app/bba70773eac68750?hl=es&canvas-id=im_874d81fc7c35f1d7",
+        "active": false
+      },
+      {
+        "tabId": 1762281067,
+        "title": "Help my build AI agent - $1,000 - Airtasker",
+        "url": "https://www.airtasker.com/tasks/help-my-build-ai-agent-x01m5ktcpm5f1phpwxtk2kjm6fq/",
+        "active": false
+      },
+      {
+        "tabId": 1762281010,
+        "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon: Build the conversational experiences of tomorrow - Devpost",
+        "url": "https://aws-cds-partner.devpost.com/",
+        "active": false
+      },
+      {
+        "tabId": 1762280980,
+        "title": "Hotmart",
+        "url": "https://app.hotmart.com/tools/webhook/auth",
+        "active": false
+      },
+      {
+        "tabId": 1762281040,
+        "title": "(21) Messenger | Freelancer",
+        "url": "https://www.freelancer.com/messages/thread/444615925",
+        "active": false
+      },
+      {
+        "tabId": 1762281476,
+        "title": "(21) Service Technician – Wind Turbine Maintenance & Inspections | Freelancer",
+        "url": "https://www.freelancer.com/projects/mechanical-engineering/Service-Technician-Wind-Turbine/details",
+        "active": false
+      },
+      {
+        "tabId": 1762281378,
+        "title": "Products",
+        "url": "https://gumroad.com/products",
+        "active": false
+      },
+      {
+        "tabId": 1762281233,
+        "title": "Recibidos (5.233) - eddyflores100@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/0/#inbox",
+        "active": false
+      },
+      {
+        "tabId": 1762281481,
+        "title": "🚀 Flisk is live on Product Hunt! · Issue #2070 · flisk-sh/flisk",
+        "url": "https://github.com/flisk-sh/flisk/issues/2070",
+        "active": false
       }
     ],
-    "rate": {
-      "maxPerMin": 30
-    },
-    "fastMode": false
+    "bridgeTabId": 1762281507
   }
 }
