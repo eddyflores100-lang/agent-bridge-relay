@@ -1,1 +1,1 @@
-{"cmd_seq": 1764, "action": "navigate", "args": {"tabId": 1762281507, "url": "https://app.lemon.io/", "waitMs": 11000}}
+{"cmd_seq": 1765, "action": "snapshot", "args": {"tabId": 1762281507, "maxEls": 80}}
