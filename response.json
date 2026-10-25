@@ -1,14 +1,15 @@
 {
-  "id": 1728,
-  "action": "clicktext",
-  "ok": false,
-  "seq": 1728,
-  "tookMs": 12,
+  "id": 1729,
+  "action": "open",
+  "ok": true,
+  "seq": 1729,
+  "tookMs": 12086,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:49:13.837Z",
-  "error": {
-    "code": "CHALLENGE_PAGE",
-    "message": "challenge anti-bot detectado: recaptcha",
-    "hint": "resuelvelo a mano y reload"
+  "ts": "2026-10-25T16:49:36.532Z",
+  "result": {
+    "tabId": 1762281529,
+    "url": "https://www.gun.io/for-developers",
+    "background": true,
+    "loadState": "complete"
   }
 }
