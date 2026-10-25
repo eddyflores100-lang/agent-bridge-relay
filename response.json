@@ -1,12 +1,323 @@
 {
-  "id": 950,
-  "action": "wait",
+  "id": 951,
+  "action": "snapshot",
   "ok": true,
-  "seq": 950,
-  "tookMs": 5006,
+  "seq": 951,
+  "tookMs": 24,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:27:18.176Z",
+  "ts": "2026-10-25T02:27:22.179Z",
   "result": {
-    "waited": 5000
+    "challenge": null,
+    "count": 17,
+    "elements": [
+      {
+        "ariaLabel": "button",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 51,
+          "w": 106,
+          "x": 40,
+          "y": 15
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "body.layout-service > div:nth-of-type(15) > div.tpi8bmk > div.nnpxsm187:nth-of-type(1) > div.ja73cz:nth-of-type(1) > button._1bsa7o5r",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Open this option",
+        "href": "https://pro.fiverr.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 90,
+          "x": 48,
+          "y": 23
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "div:nth-of-type(15) > div.tpi8bmk > div.nnpxsm187:nth-of-type(1) > div.ja73cz:nth-of-type(1) > button._1bsa7o5r > a._1bsa7o5k",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Exit",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 29,
+          "x": 1209,
+          "y": 28
+        },
+        "ref": "e2",
+        "role": "button",
+        "selector": "div:nth-of-type(15) > div.tpi8bmk > div.nnpxsm187:nth-of-type(1) > div.ja73cz:nth-of-type(1) > div.nnpxsm187 > button._1bsa7o5r",
+        "tag": "button",
+        "text": "Exit",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "Add display name",
+        "rect": {
+          "h": 40,
+          "w": 119,
+          "x": 308,
+          "y": 219
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div.ja73cu > div.nnpxsm0 > div.nnpxsm187 > div.nnpxsm0 > div.nnpxsm0 > input.ja73c1j",
+        "tag": "input",
+        "text": "Edison F.",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "Add title",
+        "rect": {
+          "h": 34,
+          "w": 461,
+          "x": 308,
+          "y": 263
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "div.ja73cu:nth-of-type(2) > div.nnpxsm0 > div.nnpxsm187 > div.nnpxsm0 > div.nnpxsm0 > input.ja73c1j",
+        "tag": "input",
+        "text": "Web Designer for WordPress, Shopify and Landing Pages",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "Add languages",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 22,
+          "w": 122,
+          "x": 407,
+          "y": 305
+        },
+        "ref": "e5",
+        "role": "button",
+        "selector": "div.nnpxsm187 > div.ja73c1j:nth-of-type(2) > div._1bsa7o5k:nth-of-type(2) > div.nnpxsm0:nth-of-type(2) > div.nnpxsm0:nth-of-type(1) > div.ja73c14:nth-of-type(1)",
+        "tag": "div",
+        "text": "Add languages",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 46,
+          "w": 331,
+          "x": 419,
+          "y": 461
+        },
+        "ref": "e6",
+        "role": "combobox",
+        "selector": "div.ja73c1j > div:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(1) > div._1bsa7o5w",
+        "tag": "div",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Select languages",
+        "href": "",
+        "name": "",
+        "placeholder": "Select languages",
+        "rect": {
+          "h": 22,
+          "w": 243,
+          "x": 432,
+          "y": 473
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(1) > div._1bsa7o5w > div.ja73cu:nth-of-type(1) > input.evy0qv8",
+        "tag": "input",
+        "text": "Spanish",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Toggle",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 713,
+          "y": 472
+        },
+        "ref": "e8",
+        "role": "button",
+        "selector": "div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(1) > div._1bsa7o5w > div._1i8zn3z:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 46,
+          "w": 331,
+          "x": 419,
+          "y": 511
+        },
+        "ref": "e9",
+        "role": "combobox",
+        "selector": "div.ja73c1j > div:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(3) > div._1bsa7o5w",
+        "tag": "div",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Level",
+        "href": "",
+        "name": "",
+        "placeholder": "Level",
+        "rect": {
+          "h": 22,
+          "w": 243,
+          "x": 432,
+          "y": 523
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(3) > div._1bsa7o5w > div.ja73cu:nth-of-type(1) > input.evy0qv8",
+        "tag": "input",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Toggle",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 24,
+          "x": 713,
+          "y": 522
+        },
+        "ref": "e11",
+        "role": "button",
+        "selector": "div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(3) > div._1bsa7o5w > div._1i8zn3z:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 71,
+          "x": 679,
+          "y": 561
+        },
+        "ref": "e12",
+        "role": "button",
+        "selector": "div.ja73c1j > div:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm187 > div.nnpxsm18c:nth-of-type(5) > button._1bsa7o5r",
+        "tag": "button",
+        "text": "Delete",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 149,
+          "x": 419,
+          "y": 609
+        },
+        "ref": "e13",
+        "role": "button",
+        "selector": "div.nnpxsm0:nth-of-type(2) > div.nnpxsm0:nth-of-type(1) > div.ja73c1j:nth-of-type(2) > div.ja73c1j > div.nnpxsm0:nth-of-type(3) > button._1bsa7o5r",
+        "tag": "button",
+        "text": "Add languages",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Add skills and expertise",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 213,
+          "x": 197,
+          "y": 779
+        },
+        "ref": "e14",
+        "role": "button",
+        "selector": "div#field-skills > div._1bsa7o5w > div.nnpxsm187:nth-of-type(1) > div.ja73c14 > button._1bsa7o5r",
+        "tag": "button",
+        "text": "Add skills and expertise",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Back",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 62,
+          "x": 40,
+          "y": 928
+        },
+        "ref": "e15",
+        "role": "button",
+        "selector": "div:nth-of-type(15) > div.tpi8bmk > div.ja73c1j:nth-of-type(3) > div.nnpxsmss:nth-of-type(2) > div.nnpxsm187:nth-of-type(1) > button._1bsa7o5r",
+        "tag": "button",
+        "text": "Back",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Continue",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 105,
+          "x": 1133,
+          "y": 919
+        },
+        "ref": "e16",
+        "role": "button",
+        "selector": "[data-testid=\"continue-button\"]",
+        "tag": "button",
+        "text": "Continue",
+        "type": ""
+      }
+    ],
+    "title": "Seller Onboarding",
+    "url": "https://pro.fiverr.com/seller_onboarding/0"
   }
 }
