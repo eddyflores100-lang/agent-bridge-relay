@@ -1,14 +1,13 @@
 {
-  "id": 1140,
-  "action": "type",
-  "ok": false,
-  "seq": 1140,
-  "tookMs": 13,
+  "id": 1141,
+  "action": "check",
+  "ok": true,
+  "seq": 1141,
+  "tookMs": 11,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:59:38.009Z",
-  "error": {
-    "code": "NOT_VISIBLE",
-    "hint": "scrollintoview",
-    "message": "no visible (obscured)"
+  "ts": "2026-10-25T02:59:42.824Z",
+  "result": {
+    "checked": true,
+    "verified": true
   }
 }
