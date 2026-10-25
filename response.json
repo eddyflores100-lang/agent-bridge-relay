@@ -1,14 +1,12 @@
 {
-  "id": 1240,
-  "action": "click",
+  "id": 1241,
+  "action": "wait",
   "ok": true,
-  "seq": 1240,
-  "tookMs": 681,
+  "seq": 1241,
+  "tookMs": 4504,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:11:40.681Z",
+  "ts": "2026-10-25T03:11:50.692Z",
   "result": {
-    "clicked": true,
-    "selector": "[data-testid=\"continue-button\"]",
-    "via": "selector"
+    "waited": 4500
   }
 }
