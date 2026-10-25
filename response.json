@@ -1,13 +1,15 @@
 {
-  "id": 2092,
+  "id": 2093,
   "action": "navigate",
-  "ok": false,
-  "seq": 2092,
-  "tookMs": 1,
+  "ok": true,
+  "seq": 2093,
+  "tookMs": 2618,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:07:15.671Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:07:22.972Z",
+  "result": {
+    "url": "https://chicago.craigslist.org/search/ggg?query=automation&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
