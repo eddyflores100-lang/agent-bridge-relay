@@ -1,13 +1,14 @@
 {
-  "id": 1772,
+  "id": 1773,
   "action": "opentab",
   "ok": false,
-  "seq": 1772,
-  "tookMs": 13,
+  "seq": 1773,
+  "tookMs": 1,
   "version": "2.2.3",
-  "ts": "2026-10-25T17:06:22.026Z",
+  "ts": "2026-10-25T17:06:45.398Z",
   "error": {
-    "code": "UNSUPPORTED",
-    "message": "accion \"opentab\" no soportada en inject.js"
+    "code": "DUPLICATE",
+    "message": "comando identico al anterior en <25s",
+    "hint": "si es intencional, cambia un argumento, usa force:true o espera 25s"
   }
 }
