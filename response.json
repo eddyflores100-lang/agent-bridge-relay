@@ -1,14 +1,14 @@
 {
-  "id": 1259,
+  "id": 1260,
   "action": "click",
   "ok": true,
-  "seq": 1259,
-  "tookMs": 1197,
+  "seq": 1260,
+  "tookMs": 209,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:15:00.950Z",
+  "ts": "2026-10-25T03:15:04.030Z",
   "result": {
     "clicked": true,
-    "selector": "div._1bsa7o5k:nth-of-type(2) > div.nnpxsm0:nth-of-type(2) > div.nnpxsm0:nth-of-type(1) > div.ja73c14:nth-of-type(1) > div.nnpxsm0 > a._1bsa7o5k",
+    "selector": "div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(1) > div._1bsa7o5w > div.ja73cu:nth-of-type(1) > input.evy0qv8",
     "via": "selector"
   }
 }
