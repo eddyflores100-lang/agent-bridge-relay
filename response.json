@@ -1,15 +1,125 @@
 {
-  "id": 1280,
-  "action": "open",
+  "id": 1281,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1280,
-  "tookMs": 4278,
+  "seq": 1281,
+  "tookMs": 26,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:05:34.511Z",
+  "ts": "2026-10-25T04:05:39.340Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://contra.com/signup",
-    "reused": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 6,
+    "elements": [
+      {
+        "ariaLabel": "to home",
+        "href": "https://contra.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 136,
+          "x": 32,
+          "y": 20
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "div.kdFIjO > div.bCShOO > header.bCShOO > nav.bYPztT > div.bYPztT:nth-of-type(1) > a.jrHZPA",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 124,
+          "x": 920,
+          "y": 8
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "div.bCShOO > header.bCShOO > nav.bYPztT > div.dxwoWU:nth-of-type(2) > div.iXJNah:nth-of-type(2) > button.hLtpET:nth-of-type(1)",
+        "tag": "button",
+        "text": "Post a job",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 108,
+          "x": 1059,
+          "y": 8
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "div.bCShOO > header.bCShOO > nav.bYPztT > div.dxwoWU:nth-of-type(2) > div.iXJNah:nth-of-type(2) > button.hLtpET:nth-of-type(2)",
+        "tag": "button",
+        "text": "Sign Up",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://contra.com/log-in?redirectTo=%2Fsignup",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 26,
+          "w": 47,
+          "x": 1184,
+          "y": 19
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div.bCShOO > header.bCShOO > nav.bYPztT > div.dxwoWU:nth-of-type(2) > div.iXJNah:nth-of-type(2) > a.hLtpET",
+        "tag": "a",
+        "text": "Log In",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://contra.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 152,
+          "x": 555,
+          "y": 377
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "div.bCShOO > div.hgbzoH > div.bYPztT > div.bYPztT > div.bYPztT:nth-of-type(2) > a.hLtpET",
+        "tag": "a",
+        "text": "Back to home",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "mailto:hello@contra.com",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 26,
+          "w": 400,
+          "x": 432,
+          "y": 487
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "div.hgbzoH > div.bYPztT > div.bYPztT > div.bYPztT:nth-of-type(3) > span.kCVQTc > a",
+        "tag": "a",
+        "text": "Shoot us a message.",
+        "type": ""
+      }
+    ],
+    "title": "Page not found",
+    "url": "https://contra.com/signup"
   }
 }
