@@ -1,1 +1,1 @@
-{"cmd_seq": 869, "action": "click", "args": {"selector": "[data-testid=\"fill-out-manually-button\"]", "tabId": 1762281357}}
+{"cmd_seq": 870, "action": "wait", "args": {"ms": 3500}}
