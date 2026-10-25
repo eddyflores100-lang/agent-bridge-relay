@@ -1,14 +1,16 @@
 {
-  "id": 1499,
-  "action": "geturl",
+  "id": 1500,
+  "action": "switchtab",
   "ok": true,
-  "seq": 1499,
-  "tookMs": 7,
+  "seq": 1500,
+  "tookMs": 9,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:35:51.041Z",
+  "ts": "2026-10-25T04:35:54.245Z",
   "result": {
-    "url": "https://account.hubstaff.com/signup",
+    "tabId": 1762281357,
     "title": "Hubstaff - 404",
-    "tabId": 1762281357
+    "url": "https://account.hubstaff.com/signup",
+    "activated": true,
+    "targeted": true
   }
 }
