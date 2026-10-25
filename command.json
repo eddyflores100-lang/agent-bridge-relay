@@ -1,1 +1,1 @@
-{"cmd_seq": 1703, "action": "open", "args": {"url": "https://www.turing.com/apply", "waitMs": 12000}}
+{"cmd_seq": 1704, "action": "snapshot", "args": {"tabId": 1762281504, "maxEls": 160}}
