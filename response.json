@@ -1,11 +1,11 @@
 {
-  "id": 1632,
+  "id": 1633,
   "action": "geturl",
   "ok": true,
-  "seq": 1632,
-  "tookMs": 7,
+  "seq": 1633,
+  "tookMs": 8,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:35:05.273Z",
+  "ts": "2026-10-25T15:35:08.970Z",
   "result": {
     "url": "https://www.multitrabajos.com/signin?returnTo=/",
     "title": "multitrabajos.com/signin?returnTo=/",
