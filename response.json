@@ -1,11 +1,11 @@
 {
-  "id": 2049,
+  "id": 2050,
   "action": "execute",
   "ok": false,
-  "seq": 2049,
-  "tookMs": 22,
+  "seq": 2050,
+  "tookMs": 27,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:02:00.180Z",
+  "ts": "2026-10-25T19:02:03.856Z",
   "error": {
     "code": "UNSUPPORTED",
     "message": "accion \"execute\" no soportada en inject.js"
