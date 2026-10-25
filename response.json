@@ -1,14 +1,251 @@
 {
-  "id": 1311,
-  "action": "clicktext",
+  "id": 1312,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1311,
-  "tookMs": 93,
+  "seq": 1312,
+  "tookMs": 90,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:11:02.073Z",
+  "ts": "2026-10-25T04:11:07.978Z",
   "result": {
-    "clicked": true,
-    "selector": "a#topnav-join-now",
-    "via": "clicktext"
+    "challenge": null,
+    "count": 13,
+    "elements": [
+      {
+        "ariaLabel": "Guru",
+        "href": "https://www.guru.com/index.aspx?Ref=login.aspx",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 30,
+          "w": 130,
+          "x": 48,
+          "y": 23
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "a#topnav-gurulogo",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 55,
+          "w": 48,
+          "x": 744,
+          "y": 220
+        },
+        "ref": "e1",
+        "role": "button",
+        "selector": "a#social-log-in-apple",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 55,
+          "w": 48,
+          "x": 848,
+          "y": 220
+        },
+        "ref": "e2",
+        "role": "button",
+        "selector": "a#social-log-in-facebook",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 55,
+          "w": 48,
+          "x": 952,
+          "y": 220
+        },
+        "ref": "e3",
+        "role": "button",
+        "selector": "a#social-log-in-linkedin",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 55,
+          "w": 48,
+          "x": 1056,
+          "y": 220
+        },
+        "ref": "e4",
+        "role": "button",
+        "selector": "a#social-log-in-google",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "  Full Name",
+        "rect": {
+          "h": 48,
+          "w": 416,
+          "x": 716,
+          "y": 345
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "input#fullName",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "Email",
+        "rect": {
+          "h": 48,
+          "w": 416,
+          "x": 716,
+          "y": 424
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "input#regEmail",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 56,
+          "w": 128,
+          "x": 1010,
+          "y": 502
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "div.loginRegisterLayout > div:nth-of-type(2) > div > div.signup__actionBtnContainer--end:nth-of-type(3) > div:nth-of-type(2) > button.o-button",
+        "tag": "button",
+        "text": "Proceed",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 38,
+          "x": 985,
+          "y": 588
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "div#vue-register-app > main.loginLayout > div.loginLayout__right:nth-of-type(3) > div.loginRegisterLayout > p.loginRegisterLayout__footer > button.o-button",
+        "tag": "button",
+        "text": "Log In",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/privacy-policy/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 15,
+          "w": 81,
+          "x": 191,
+          "y": 872
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "p#onetrust-policy-text > a",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 291,
+          "x": 796,
+          "y": 820
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "button#onetrust-pc-btn-handler",
+        "tag": "button",
+        "text": "Cookies Settings",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 291,
+          "x": 796,
+          "y": 872
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "button#onetrust-reject-all-handler",
+        "tag": "button",
+        "text": "Reject All",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 291,
+          "x": 796,
+          "y": 923
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "button#onetrust-accept-btn-handler",
+        "tag": "button",
+        "text": "Accept All Cookies",
+        "type": ""
+      }
+    ],
+    "title": "Sign Up on Guru - Register to Hire Freelancers or Find Freelance Jobs",
+    "url": "https://www.guru.com/registeraccount.aspx"
   }
 }
