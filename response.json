@@ -1,14 +1,16 @@
 {
-  "id": 1565,
-  "action": "geturl",
+  "id": 1566,
+  "action": "switchtab",
   "ok": true,
-  "seq": 1565,
-  "tookMs": 7,
+  "seq": 1566,
+  "tookMs": 10,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:43:55.638Z",
+  "ts": "2026-10-25T04:43:57.709Z",
   "result": {
-    "url": "https://accounts.torre.ai/email/?next=/openid/authorize%3Fscope%3Dopenid%2Bprofile%2Bemail%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Ftorre.ai%252Fcallback%253Fclient_name%253Dstarrgate%26state%3DnhaPS7ASTsJC03RdCcooLdk29NBCLBczE7Hde7s6F8k%26intent%3Dhome%253Asign-in%26client_id%3D541493",
+    "tabId": 1762281357,
     "title": "Torre cuentas | Torre",
-    "tabId": 1762281357
+    "url": "https://accounts.torre.ai/email/?next=/openid/authorize%3Fscope%3Dopenid%2Bprofile%2Bemail%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Ftorre.ai%252Fcallback%253Fclient_name%253Dstarrga",
+    "activated": true,
+    "targeted": true
   }
 }
