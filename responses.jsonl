@@ -37,3 +37,4 @@
 {"id":1053,"action":"click","ok":false,"seq":1053,"tookMs":15,"version":"2.2.3","ts":"2026-10-25T02:45:08.264Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview y reintenta","message":"elemento no visible (zero-size)"}}
 {"id":1054,"action":"wait","ok":true,"seq":1054,"tookMs":1208,"version":"2.2.3","ts":"2026-10-25T02:45:12.375Z","result":{"waited":1200}}
 {"id":1055,"action":"click","ok":true,"seq":1055,"tookMs":334,"version":"2.2.3","ts":"2026-10-25T02:45:17.305Z","result":{"clicked":true,"selector":"div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)","via":"selector"}}
+{"id":1056,"action":"wait","ok":true,"seq":1056,"tookMs":2008,"version":"2.2.3","ts":"2026-10-25T02:45:22.923Z","result":{"waited":2000}}
