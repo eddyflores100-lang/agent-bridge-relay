@@ -1,15 +1,13 @@
 {
-  "id": 1988,
-  "action": "open",
-  "ok": true,
-  "seq": 1988,
-  "tookMs": 4065,
+  "id": 1989,
+  "action": "execute",
+  "ok": false,
+  "seq": 1989,
+  "tookMs": 20,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:56:00.928Z",
-  "result": {
-    "tabId": 1762282308,
-    "url": "https://sandiego.craigslist.org/search/ggg?query=website&sort=date",
-    "background": true,
-    "loadState": "complete"
+  "ts": "2026-10-25T18:56:07.785Z",
+  "error": {
+    "code": "UNSUPPORTED",
+    "message": "accion \"execute\" no soportada en inject.js"
   }
 }
