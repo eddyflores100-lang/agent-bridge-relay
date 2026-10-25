@@ -1,1 +1,1 @@
-{"cmd_seq": 863, "action": "navigate", "args": {"url": "https://pro.fiverr.com/start_selling", "tabId": 1762281357, "waitMs": 15000}}
+{"cmd_seq": 864, "action": "snapshot", "args": {"tabId": 1762281357, "maxEls": 250}}
