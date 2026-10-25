@@ -1,15 +1,14 @@
 {
-  "id": 1442,
-  "action": "open",
-  "ok": true,
-  "seq": 1442,
-  "tookMs": 4495,
+  "id": 1443,
+  "action": "clicktext",
+  "ok": false,
+  "seq": 1443,
+  "tookMs": 36,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:29:04.881Z",
-  "result": {
-    "tabId": 1762281357,
-    "url": "https://comeup.com/en/",
-    "reused": true,
-    "loadState": "complete"
+  "ts": "2026-10-25T04:29:09.739Z",
+  "error": {
+    "code": "TARGET_NOT_FOUND",
+    "hint": "snapshot para ver la pagina",
+    "message": "clicktext sin match visible para \"reject all\""
   }
 }
