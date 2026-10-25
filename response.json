@@ -1,15 +1,413 @@
 {
-  "id": 1274,
-  "action": "open",
+  "id": 1275,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1274,
-  "tookMs": 10275,
+  "seq": 1275,
+  "tookMs": 73,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:04:46.316Z",
+  "ts": "2026-10-25T04:04:52.336Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://legiit.com/signup",
-    "reused": true,
-    "loadState": "timeout"
+    "challenge": null,
+    "count": 22,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://legiit.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 70,
+          "x": 62,
+          "y": 16
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "div.header-manual-container > div.flex > div.flex:nth-of-type(1) > div.hidden:nth-of-type(1) > div.flex-shrink-0 > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://legiit.com/command-center/start",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 133,
+          "x": 157,
+          "y": 14
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "div.flex > div.flex:nth-of-type(1) > div.hidden:nth-of-type(1) > nav.flex > div.h-16:nth-of-type(1) > a.text-gray-500",
+        "tag": "a",
+        "text": "Command Center",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://legiit.com/marketplace",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 98,
+          "x": 305,
+          "y": 14
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "div#h-marketplace > a.text-gray-500",
+        "tag": "a",
+        "text": "Marketplace",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://legiit.com/courses",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 71,
+          "x": 419,
+          "y": 14
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "div.flex > div.flex:nth-of-type(1) > div.hidden:nth-of-type(1) > nav.flex > div.h-16:nth-of-type(3) > a.text-gray-500",
+        "tag": "a",
+        "text": "Courses",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://legiit.com/resources",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 85,
+          "x": 506,
+          "y": 14
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "div#h-resources > a.text-gray-500",
+        "tag": "a",
+        "text": "Resources",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://legiit.com/agency-directory",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 77,
+          "x": 607,
+          "y": 14
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "div.flex > div.flex:nth-of-type(1) > div.hidden:nth-of-type(1) > nav.flex > div.h-16:nth-of-type(5) > a.text-gray-500",
+        "tag": "a",
+        "text": "Agencies",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 163,
+          "x": 700,
+          "y": 12
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "div#h-user-testing > button.text-gray-500",
+        "tag": "button",
+        "text": "User Testing\nNEW",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Search",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 908,
+          "y": 12
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "div.flex > div.flex:nth-of-type(1) > div.flex:nth-of-type(2) > div.flex:nth-of-type(2) > div.hidden:nth-of-type(2) > button.p-2",
+        "tag": "button",
+        "text": "",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 964,
+          "y": 12
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "div.flex:nth-of-type(2) > div.flex:nth-of-type(2) > div.hidden:nth-of-type(3) > div.flex > div.relative:nth-of-type(1) > button.relative",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://legiit.com/sign-in",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 73,
+          "x": 1020,
+          "y": 16
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "div.flex:nth-of-type(2) > div.flex:nth-of-type(2) > div.hidden:nth-of-type(3) > div.flex > div.hidden:nth-of-type(2) > a.px-3:nth-of-type(1)",
+        "tag": "a",
+        "text": "Log In",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://legiit.com/register",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 84,
+          "x": 1101,
+          "y": 16
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "div.flex:nth-of-type(2) > div.flex:nth-of-type(2) > div.hidden:nth-of-type(3) > div.flex > div.hidden:nth-of-type(2) > a.px-3:nth-of-type(2)",
+        "tag": "a",
+        "text": "Sign Up",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://legiit.com/sign-in",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 38,
+          "w": 263,
+          "x": 92,
+          "y": 511
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "div.container:nth-of-type(11) > div.row > div.col-12:nth-of-type(1) > div.profile-sidebar > div > a.btn:nth-of-type(1)",
+        "tag": "a",
+        "text": "Contact Me",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://legiit.com/sign-in",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 263,
+          "x": 92,
+          "y": 567
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "div.container:nth-of-type(11) > div.row > div.col-12:nth-of-type(1) > div.profile-sidebar > div > a.user_button:nth-of-type(2)",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 263,
+          "x": 92,
+          "y": 557
+        },
+        "ref": "e13",
+        "role": "",
+        "selector": "div.row > div.col-12:nth-of-type(1) > div.profile-sidebar > div > a.user_button:nth-of-type(2) > input.btn",
+        "tag": "input",
+        "text": "Custom Order",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 41,
+          "w": 79,
+          "x": 369,
+          "y": 303
+        },
+        "ref": "e14",
+        "role": "tab",
+        "selector": "button#pills-listings-tab",
+        "tag": "button",
+        "text": "Listings",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 41,
+          "w": 68,
+          "x": 456,
+          "y": 303
+        },
+        "ref": "e15",
+        "role": "tab",
+        "selector": "button#pills-about-tab",
+        "tag": "button",
+        "text": "About",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 41,
+          "w": 84,
+          "x": 532,
+          "y": 303
+        },
+        "ref": "e16",
+        "role": "tab",
+        "selector": "button#pills-portfolio-tab",
+        "tag": "button",
+        "text": "Portfolio",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 41,
+          "w": 83,
+          "x": 624,
+          "y": 303
+        },
+        "ref": "e17",
+        "role": "tab",
+        "selector": "button#pills-review-tab",
+        "tag": "button",
+        "text": "Reviews",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 41,
+          "w": 189,
+          "x": 715,
+          "y": 303
+        },
+        "ref": "e18",
+        "role": "tab",
+        "selector": "button#pills-affiliated-tab",
+        "tag": "button",
+        "text": "Recommended Services",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 39,
+          "w": 122,
+          "x": 892,
+          "y": 898
+        },
+        "ref": "e19",
+        "role": "",
+        "selector": "div#legiit-cookie-consent > div.legiit-cc-banner > div.legiit-cc-banner-inner:nth-of-type(1) > div.legiit-cc-actions:nth-of-type(2) > button.legiit-cc-btn:nth-of-type(1)",
+        "tag": "button",
+        "text": "Customize",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 39,
+          "w": 97,
+          "x": 1024,
+          "y": 898
+        },
+        "ref": "e20",
+        "role": "",
+        "selector": "div#legiit-cookie-consent > div.legiit-cc-banner > div.legiit-cc-banner-inner:nth-of-type(1) > div.legiit-cc-actions:nth-of-type(2) > button.legiit-cc-btn:nth-of-type(2)",
+        "tag": "button",
+        "text": "Reject All",
+        "type": "button"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 39,
+          "w": 103,
+          "x": 1132,
+          "y": 898
+        },
+        "ref": "e21",
+        "role": "",
+        "selector": "div#legiit-cookie-consent > div.legiit-cc-banner > div.legiit-cc-banner-inner:nth-of-type(1) > div.legiit-cc-actions:nth-of-type(2) > button.legiit-cc-btn:nth-of-type(3)",
+        "tag": "button",
+        "text": "Accept All",
+        "type": "button"
+      }
+    ],
+    "title": "signup | Legiit",
+    "url": "https://legiit.com/signup"
   }
 }
