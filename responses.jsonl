@@ -82,3 +82,4 @@
 {"id":2067,"action":"execute","ok":false,"seq":2067,"tookMs":19,"version":"2.3.0","ts":"2026-10-25T19:03:49.002Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2068,"action":"execute","ok":false,"seq":2068,"tookMs":21,"version":"2.3.0","ts":"2026-10-25T19:03:53.013Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2069,"action":"open","ok":true,"seq":2069,"tookMs":4125,"version":"2.3.0","ts":"2026-10-25T19:04:00.895Z","result":{"tabId":1762282389,"url":"https://boston.craigslist.org/search/ggg?query=website&sort=date","background":true,"loadState":"complete"}}
+{"id":2070,"action":"execute","ok":false,"seq":2070,"tookMs":21,"version":"2.3.0","ts":"2026-10-25T19:04:07.068Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
