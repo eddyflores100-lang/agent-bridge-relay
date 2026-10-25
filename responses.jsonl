@@ -35,3 +35,4 @@
 {"id":1051,"action":"type","ok":true,"seq":1051,"tookMs":194,"version":"2.2.3","ts":"2026-10-25T02:44:59.185Z","result":{"filled":true,"length":9,"mode":"instant-background","verified":true,"via":"selector"}}
 {"id":1052,"action":"wait","ok":true,"seq":1052,"tookMs":2003,"version":"2.2.3","ts":"2026-10-25T02:45:04.357Z","result":{"waited":2000}}
 {"id":1053,"action":"click","ok":false,"seq":1053,"tookMs":15,"version":"2.2.3","ts":"2026-10-25T02:45:08.264Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview y reintenta","message":"elemento no visible (zero-size)"}}
+{"id":1054,"action":"wait","ok":true,"seq":1054,"tookMs":1208,"version":"2.2.3","ts":"2026-10-25T02:45:12.375Z","result":{"waited":1200}}
