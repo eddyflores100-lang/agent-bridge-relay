@@ -1,1 +1,1 @@
-{"cmd_seq": 1368, "action": "snapshot", "args": {"maxEls": 130}}
+{"cmd_seq": 1369, "action": "open", "args": {"url": "https://www.computrabajo.com/registro-candidato", "reuse": true, "waitMs": 9000}}
