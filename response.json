@@ -1,13 +1,15 @@
 {
-  "id": 2128,
+  "id": 2129,
   "action": "navigate",
-  "ok": false,
-  "seq": 2128,
-  "tookMs": 1,
+  "ok": true,
+  "seq": 2129,
+  "tookMs": 3059,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:11:02.911Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:11:11.162Z",
+  "result": {
+    "url": "https://boston.craigslist.org/search/ggg?query=automation&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
