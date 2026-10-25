@@ -1,1 +1,1 @@
-{"cmd_seq": 2072, "action": "open", "args": {"url": "https://sandiego.craigslist.org/search/ggg?query=website&sort=date"}}
+{"cmd_seq": 2073, "action": "execute", "args": {"tabId": 1762282392, "fn": "() => JSON.stringify({n: document.querySelectorAll('li').length, cards: document.querySelectorAll('li.cl-search-result').length, old: document.querySelectorAll('.result-row').length, body: document.body.innerText.slice(0,300)})"}}
