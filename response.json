@@ -1,15 +1,13 @@
 {
-  "id": 1893,
-  "action": "open",
+  "id": 1894,
+  "action": "scroll",
   "ok": true,
-  "seq": 1893,
-  "tookMs": 2525,
+  "seq": 1894,
+  "tookMs": 38,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:33:08.928Z",
+  "ts": "2026-10-25T18:33:16.343Z",
   "result": {
-    "tabId": 1762281637,
-    "url": "https://www.reddit.com/r/forhire/search/?q=%5BHiring%5D%20AI%20agent&restrict_sr=on&sort=new&t=year",
-    "background": true,
-    "loadState": "complete"
+    "scrolled": true,
+    "y": 0
   }
 }
