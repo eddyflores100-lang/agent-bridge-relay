@@ -1,14 +1,215 @@
 {
-  "id": 1490,
-  "action": "fill",
-  "ok": false,
-  "seq": 1490,
-  "tookMs": 14,
+  "id": 1491,
+  "action": "snapshot",
+  "ok": true,
+  "seq": 1491,
+  "tookMs": 36,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:35:06.753Z",
-  "error": {
-    "code": "CHALLENGE_PAGE",
-    "message": "challenge anti-bot detectado: recaptcha",
-    "hint": "resuelvelo a mano y reload"
+  "ts": "2026-10-25T04:35:10.405Z",
+  "result": {
+    "challenge": "recaptcha",
+    "count": 11,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 36,
+          "x": 509,
+          "y": 326
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "form[name=\"github\"] > button.ui__sc-2sp6l-4",
+        "tag": "button",
+        "text": "",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 36,
+          "x": 584,
+          "y": 326
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "form[name=\"linkedin\"] > button.ui__sc-2sp6l-4",
+        "tag": "button",
+        "text": "",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 36,
+          "x": 658,
+          "y": 326
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "form[name=\"facebook\"] > button.ui__sc-2sp6l-4",
+        "tag": "button",
+        "text": "",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 36,
+          "x": 733,
+          "y": 326
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "form[name=\"google\"] > button.ui__sc-2sp6l-4",
+        "tag": "button",
+        "text": "",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "name",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 296,
+          "x": 491,
+          "y": 440
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "input[name=\"name\"]",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "email",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 296,
+          "x": 491,
+          "y": 508
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "input[name=\"email\"]",
+        "tag": "input",
+        "text": "",
+        "type": "email"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "password",
+        "placeholder": "",
+        "rect": {
+          "h": 32,
+          "w": 296,
+          "x": 491,
+          "y": 577
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "input[name=\"password\"]",
+        "tag": "input",
+        "text": "",
+        "type": "password"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 320,
+          "x": 479,
+          "y": 629
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "div.ui__sc-2sp6l-2 > div.ui__sc-2sp6l-1:nth-of-type(2) > div.ui__sc-1nadvt-0:nth-of-type(2) > form > div:nth-of-type(4) > button.ui__sc-1mmo7mk-0",
+        "tag": "button",
+        "text": "SIGN UP",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.codementor.io/terms",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 92,
+          "x": 696,
+          "y": 685
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "div.credential-form:nth-of-type(2) > div.ui__sc-2sp6l-2 > div.ui__sc-2sp6l-1:nth-of-type(2) > div.ui__sc-2sp6l-6:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Terms of Service",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.codementor.io/privacy",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 75,
+          "x": 548,
+          "y": 703
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "div.credential-form:nth-of-type(2) > div.ui__sc-2sp6l-2 > div.ui__sc-2sp6l-1:nth-of-type(2) > div.ui__sc-2sp6l-6:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.codementor.io/cookies",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 17,
+          "w": 73,
+          "x": 654,
+          "y": 703
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "div.credential-form:nth-of-type(2) > div.ui__sc-2sp6l-2 > div.ui__sc-2sp6l-1:nth-of-type(2) > div.ui__sc-2sp6l-6:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "text": "Cookie Policy",
+        "type": ""
+      }
+    ],
+    "title": "Codementor | Get live 1:1 coding help, hire a developer, & more",
+    "url": "https://www.codementor.io/"
   }
 }
