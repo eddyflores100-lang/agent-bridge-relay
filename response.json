@@ -1,11 +1,11 @@
 {
-  "id": 929,
+  "id": 930,
   "action": "gethtml",
   "ok": false,
-  "seq": 929,
-  "tookMs": 15,
+  "seq": 930,
+  "tookMs": 34,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:23:13.884Z",
+  "ts": "2026-10-25T02:23:22.688Z",
   "error": {
     "code": "TARGET_NOT_FOUND",
     "hint": "prueba snapshot",
