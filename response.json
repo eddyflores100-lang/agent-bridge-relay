@@ -1,12 +1,14 @@
 {
-  "id": 846,
-  "action": "wait",
+  "id": 847,
+  "action": "geturl",
   "ok": true,
-  "seq": 846,
-  "tookMs": 5003,
+  "seq": 847,
+  "tookMs": 7,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:07:48.791Z",
+  "ts": "2026-10-25T02:07:53.626Z",
   "result": {
-    "waited": 5000
+    "url": "https://pro.fiverr.com/",
+    "title": "Fiverr Pro - Dashboard",
+    "tabId": 1762281357
   }
 }
