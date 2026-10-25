@@ -1,1 +1,1 @@
-{"cmd_seq": 1529, "action": "open", "args": {"url": "https://www.getonbrd.com/users/sign_up", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1530, "action": "geturl", "args": {}}
