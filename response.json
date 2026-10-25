@@ -1,14 +1,12 @@
 {
-  "id": 865,
-  "action": "click",
+  "id": 866,
+  "action": "wait",
   "ok": true,
-  "seq": 865,
-  "tookMs": 422,
+  "seq": 866,
+  "tookMs": 4009,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:13:04.701Z",
+  "ts": "2026-10-25T02:13:11.568Z",
   "result": {
-    "clicked": true,
-    "selector": "div.builder-blocks > div.ck74w11j:nth-of-type(2) > div.ck74w11e:nth-of-type(1) > div.ck74w11j > div.ck74w11j > button._1gwpigir",
-    "via": "selector"
+    "waited": 4000
   }
 }
