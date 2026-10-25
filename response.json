@@ -1,15 +1,14 @@
 {
-  "id": 1672,
-  "action": "open",
+  "id": 1673,
+  "action": "geturl",
   "ok": true,
-  "seq": 1672,
-  "tookMs": 7250,
+  "seq": 1673,
+  "tookMs": 8,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:40:04.548Z",
+  "ts": "2026-10-25T15:40:10.175Z",
   "result": {
-    "tabId": 1762281357,
     "url": "https://www.multitrabajos.com/signin?returnTo=/",
-    "reused": true,
-    "loadState": "complete"
+    "title": "multitrabajos.com/signin?returnTo=/",
+    "tabId": 1762281357
   }
 }
