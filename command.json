@@ -1,1 +1,1 @@
-{"cmd_seq": 994, "action": "clicktext", "args": {"text": "align expectations", "contains": true, "tabId": 1762281357}}
+{"cmd_seq": 995, "action": "wait", "args": {"ms": 1200}}
