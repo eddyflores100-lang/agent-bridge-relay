@@ -1,1 +1,1 @@
-{"cmd_seq": 1528, "action": "snapshot", "args": {"maxEls": 150}}
+{"cmd_seq": 1529, "action": "open", "args": {"url": "https://www.getonbrd.com/users/sign_up", "reuse": true, "waitMs": 9000}}
