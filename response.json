@@ -1,13 +1,15 @@
 {
-  "id": 2050,
-  "action": "execute",
-  "ok": false,
-  "seq": 2050,
-  "tookMs": 27,
+  "id": 2051,
+  "action": "open",
+  "ok": true,
+  "seq": 2051,
+  "tookMs": 4189,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:02:03.856Z",
-  "error": {
-    "code": "UNSUPPORTED",
-    "message": "accion \"execute\" no soportada en inject.js"
+  "ts": "2026-10-25T19:02:12.706Z",
+  "result": {
+    "tabId": 1762282371,
+    "url": "https://seattle.craigslist.org/search/ggg?query=website&sort=date",
+    "background": true,
+    "loadState": "complete"
   }
 }
