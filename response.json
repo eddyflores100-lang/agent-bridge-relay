@@ -1,16 +1,15 @@
 {
-  "id": 1339,
-  "action": "snapshot",
+  "id": 1340,
+  "action": "open",
   "ok": true,
-  "seq": 1339,
-  "tookMs": 23,
+  "seq": 1340,
+  "tookMs": 2136,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:13:52.118Z",
+  "ts": "2026-10-25T04:13:57.753Z",
   "result": {
-    "challenge": null,
-    "count": 0,
-    "elements": [],
-    "title": "",
-    "url": "https://www.multitrabajos.com/"
+    "tabId": 1762281357,
+    "url": "https://www.computrabajo.com/registro-candidato",
+    "reused": true,
+    "loadState": "complete"
   }
 }
