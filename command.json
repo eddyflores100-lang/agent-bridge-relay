@@ -1,1 +1,1 @@
-{"cmd_seq": 1696, "action": "open", "args": {"url": "https://www.elempleo.com/ec", "waitMs": 12000}}
+{"cmd_seq": 1697, "action": "snapshot", "args": {"tabId": 1762281493, "maxEls": 160}}
