@@ -104,3 +104,4 @@
 {"id":1201,"action":"click","ok":true,"seq":1201,"tookMs":470,"version":"2.2.3","ts":"2026-10-25T03:06:45.146Z","result":{"clicked":true,"selector":"button._1bsa7o5r","via":"selector"}}
 {"id":1202,"action":"wait","ok":true,"seq":1202,"tookMs":2013,"version":"2.2.3","ts":"2026-10-25T03:06:51.187Z","result":{"waited":2000}}
 {"id":1203,"action":"type","ok":true,"seq":1203,"tookMs":115,"version":"2.2.3","ts":"2026-10-25T03:06:54.543Z","result":{"filled":true,"length":7,"mode":"instant-background","verified":true,"via":"selector"}}
+{"id":1204,"action":"wait","ok":true,"seq":1204,"tookMs":2516,"version":"2.2.3","ts":"2026-10-25T03:07:00.510Z","result":{"waited":2500}}
