@@ -1,1 +1,1 @@
-{"cmd_seq": 1679, "action": "open", "args": {"url": "https://www.soyfreelancer.com/ingresar", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1680, "action": "geturl", "args": {}}
