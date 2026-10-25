@@ -1,1 +1,1 @@
-{"cmd_seq": 1492, "action": "open", "args": {"url": "https://comeup.com/en/register", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1493, "action": "geturl", "args": {}}
