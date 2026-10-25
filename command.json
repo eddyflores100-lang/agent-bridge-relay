@@ -1,1 +1,1 @@
-{"cmd_seq": 2011, "action": "execute", "args": {"tabId": 1762282329, "fn": "() => { window.close(); return 1; }"}}
+{"cmd_seq": 2012, "action": "open", "args": {"url": "https://newyork.craigslist.org/search/ggg?query=ai+automation&sort=date"}}
