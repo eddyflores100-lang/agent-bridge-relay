@@ -1,13 +1,15 @@
 {
-  "id": 2137,
+  "id": 2138,
   "action": "navigate",
-  "ok": false,
-  "seq": 2137,
-  "tookMs": 1,
+  "ok": true,
+  "seq": 2138,
+  "tookMs": 7460,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:12:00.860Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:12:13.065Z",
+  "result": {
+    "url": "https://houston.craigslist.org/search/ggg?query=web&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
