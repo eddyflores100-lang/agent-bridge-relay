@@ -110,3 +110,4 @@
 {"id":1208,"action":"check","ok":true,"seq":1208,"tookMs":131,"version":"2.2.3","ts":"2026-10-25T03:07:28.316Z","result":{"checked":false,"verified":false}}
 {"id":1209,"action":"wait","ok":true,"seq":1209,"tookMs":1211,"version":"2.2.3","ts":"2026-10-25T03:07:32.027Z","result":{"waited":1200}}
 {"id":1210,"action":"click","ok":true,"seq":1210,"tookMs":335,"version":"2.2.3","ts":"2026-10-25T03:07:36.415Z","result":{"clicked":true,"selector":"div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)","via":"selector"}}
+{"id":1211,"action":"wait","ok":true,"seq":1211,"tookMs":2507,"version":"2.2.3","ts":"2026-10-25T03:07:43.505Z","result":{"waited":2500}}
