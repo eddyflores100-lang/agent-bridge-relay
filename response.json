@@ -1,15 +1,14 @@
 {
-  "id": 1638,
-  "action": "open",
+  "id": 1639,
+  "action": "geturl",
   "ok": true,
-  "seq": 1638,
-  "tookMs": 3659,
+  "seq": 1639,
+  "tookMs": 8,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:35:42.766Z",
+  "ts": "2026-10-25T15:35:48.340Z",
   "result": {
-    "tabId": 1762281357,
     "url": "https://www.getonbrd.com/home",
-    "reused": true,
-    "loadState": "complete"
+    "title": "Get on Board",
+    "tabId": 1762281357
   }
 }
