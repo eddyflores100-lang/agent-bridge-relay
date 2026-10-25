@@ -59,3 +59,4 @@
 {"id":2044,"action":"execute","ok":false,"seq":2044,"tookMs":25,"version":"2.3.0","ts":"2026-10-25T19:01:28.427Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2045,"action":"open","ok":true,"seq":2045,"tookMs":3468,"version":"2.3.0","ts":"2026-10-25T19:01:35.871Z","result":{"tabId":1762282365,"url":"https://atlanta.craigslist.org/search/ggg?query=web+developer&sort=date","background":true,"loadState":"complete"}}
 {"id":2046,"action":"execute","ok":false,"seq":2046,"tookMs":15,"version":"2.3.0","ts":"2026-10-25T19:01:41.638Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
+{"id":2047,"action":"execute","ok":false,"seq":2047,"tookMs":22,"version":"2.3.0","ts":"2026-10-25T19:01:45.534Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
