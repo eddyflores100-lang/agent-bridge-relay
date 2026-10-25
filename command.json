@@ -1,1 +1,1 @@
-{"cmd_seq": 1712, "action": "snapshot", "args": {"tabId": 1762281513, "maxEls": 160}}
+{"cmd_seq": 1713, "action": "navigate", "args": {"tabId": 1762281513, "url": "https://apply.proxify.io/", "waitMs": 10000}}
