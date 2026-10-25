@@ -1,15 +1,13 @@
 {
-  "id": 2048,
-  "action": "open",
-  "ok": true,
-  "seq": 2048,
-  "tookMs": 3518,
+  "id": 2049,
+  "action": "execute",
+  "ok": false,
+  "seq": 2049,
+  "tookMs": 22,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:01:53.746Z",
-  "result": {
-    "tabId": 1762282368,
-    "url": "https://atlanta.craigslist.org/search/ggg?query=ai+automation&sort=date",
-    "background": true,
-    "loadState": "complete"
+  "ts": "2026-10-25T19:02:00.180Z",
+  "error": {
+    "code": "UNSUPPORTED",
+    "message": "accion \"execute\" no soportada en inject.js"
   }
 }
