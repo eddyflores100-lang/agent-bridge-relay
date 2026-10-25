@@ -1,12 +1,12 @@
 {
-  "id": 1069,
-  "action": "press",
+  "id": 1070,
+  "action": "wait",
   "ok": true,
-  "seq": 1069,
-  "tookMs": 16,
+  "seq": 1070,
+  "tookMs": 1511,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:47:27.341Z",
+  "ts": "2026-10-25T02:47:34.457Z",
   "result": {
-    "pressed": "Enter"
+    "waited": 1500
   }
 }
