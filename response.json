@@ -1,14 +1,12 @@
 {
-  "id": 1053,
-  "action": "click",
-  "ok": false,
-  "seq": 1053,
-  "tookMs": 15,
+  "id": 1054,
+  "action": "wait",
+  "ok": true,
+  "seq": 1054,
+  "tookMs": 1208,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:45:08.264Z",
-  "error": {
-    "code": "NOT_VISIBLE",
-    "hint": "scrollintoview y reintenta",
-    "message": "elemento no visible (zero-size)"
+  "ts": "2026-10-25T02:45:12.375Z",
+  "result": {
+    "waited": 1200
   }
 }
