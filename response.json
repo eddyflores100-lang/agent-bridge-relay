@@ -1,14 +1,53 @@
 {
-  "id": 1514,
-  "action": "click",
+  "id": 1515,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1514,
-  "tookMs": 356,
+  "seq": 1515,
+  "tookMs": 18,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:37:05.561Z",
+  "ts": "2026-10-25T04:37:11.836Z",
   "result": {
-    "clicked": true,
-    "selector": "div.md-whiteframe:nth-of-type(1) > div.md-toolbar > div.md-toolbar-container > div.tdl-user-actions:nth-of-type(5) > div.no-user > button.sign-in",
-    "via": "ref"
+    "challenge": null,
+    "count": 2,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "email",
+        "placeholder": "",
+        "rect": {
+          "h": 46,
+          "w": 496,
+          "x": 391,
+          "y": 136
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "input#id_email",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "submit",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 118,
+          "x": 771,
+          "y": 210
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "button[name=\"submit\"]",
+        "tag": "button",
+        "text": "CONTINUAR",
+        "type": "submit"
+      }
+    ],
+    "title": "Torre cuentas | Torre",
+    "url": "https://accounts.torre.ai/email/?next=/openid/authorize%3Fscope%3Dopenid%2Bprofile%2Bemail%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Ftorre.ai%252Fcallback%253Fclient_name%253Dstarrgate%26state%3D3FvdjPx1TkzHpJQV58_Lbtdryk7Q0_JHq1hrJ03ifMk%26intent%3Dhome%253Asign-in%26client_id%3D5"
   }
 }
