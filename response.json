@@ -1,14 +1,16 @@
 {
-  "id": 1572,
-  "action": "geturl",
+  "id": 1573,
+  "action": "switchtab",
   "ok": true,
-  "seq": 1572,
-  "tookMs": 7,
+  "seq": 1573,
+  "tookMs": 10,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:44:28.612Z",
+  "ts": "2026-10-25T04:44:30.373Z",
   "result": {
-    "url": "https://hubstafftalent.net/signup",
+    "tabId": 1762281357,
     "title": "Create an account",
-    "tabId": 1762281357
+    "url": "https://hubstafftalent.net/signup",
+    "activated": true,
+    "targeted": true
   }
 }
