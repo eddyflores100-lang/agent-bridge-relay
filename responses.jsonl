@@ -77,3 +77,4 @@
 {"id":1173,"action":"check","ok":false,"seq":1173,"tookMs":19,"version":"2.2.3","ts":"2026-10-25T03:03:46.794Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1174,"action":"check","ok":false,"seq":1174,"tookMs":12,"version":"2.2.3","ts":"2026-10-25T03:03:51.048Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1175,"action":"check","ok":false,"seq":1175,"tookMs":9,"version":"2.2.3","ts":"2026-10-25T03:03:54.442Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
+{"id":1176,"action":"check","ok":true,"seq":1176,"tookMs":59,"version":"2.2.3","ts":"2026-10-25T03:03:59.161Z","result":{"checked":false,"verified":false}}
