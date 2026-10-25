@@ -1,1 +1,1 @@
-{"cmd_seq": 1727, "action": "fill", "args": {"tabId": 1762281526, "selector": "#email", "value": "eddyflores100@gmail.com"}}
+{"cmd_seq": 1728, "action": "clicktext", "args": {"tabId": 1762281526, "text": "Accept all", "contains": true}}
