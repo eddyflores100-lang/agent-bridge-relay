@@ -1,1 +1,1 @@
-{"cmd_seq": 1273, "action": "snapshot", "args": {"maxEls": 140}}
+{"cmd_seq": 1274, "action": "open", "args": {"url": "https://legiit.com/signup", "reuse": true, "waitMs": 9000}}
