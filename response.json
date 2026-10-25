@@ -1,11 +1,11 @@
 {
-  "id": 873,
+  "id": 874,
   "action": "type",
   "ok": false,
-  "seq": 873,
+  "seq": 874,
   "tookMs": 17,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:14:07.034Z",
+  "ts": "2026-10-25T02:14:10.079Z",
   "error": {
     "code": "WRITE_FAILED",
     "message": "elemento disabled/readonly"
