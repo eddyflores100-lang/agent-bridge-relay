@@ -1,15 +1,14 @@
 {
-  "id": 1333,
-  "action": "open",
+  "id": 1334,
+  "action": "clicktext",
   "ok": true,
-  "seq": 1333,
-  "tookMs": 2296,
+  "seq": 1334,
+  "tookMs": 49,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:13:11.741Z",
+  "ts": "2026-10-25T04:13:17.768Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.soyfreelancer.com/",
-    "reused": true,
-    "loadState": "complete"
+    "clicked": true,
+    "selector": "div#mobile-menu-2 > ul.tw-flex > li.tw-flex:nth-of-type(5) > a.tw-block",
+    "via": "clicktext"
   }
 }
