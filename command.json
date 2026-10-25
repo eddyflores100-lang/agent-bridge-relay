@@ -1,1 +1,1 @@
-{"cmd_seq": 1072, "action": "switchtab", "args": {"tabId": 1762281357, "realSwitch": true}}
+{"cmd_seq": 1073, "action": "wait", "args": {"ms": 1200}}
