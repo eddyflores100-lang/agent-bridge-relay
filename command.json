@@ -1,1 +1,1 @@
-{"cmd_seq": 942, "action": "gethtml", "args": {"selector": "div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(1)", "tabId": 1762281357}}
+{"cmd_seq": 943, "action": "gethtml", "args": {"selector": "[role=\"option\"]", "tabId": 1762281357}}
