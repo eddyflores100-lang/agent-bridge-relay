@@ -1,15 +1,197 @@
 {
-  "id": 1692,
-  "action": "open",
+  "id": 1693,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1692,
-  "tookMs": 3238,
+  "seq": 1693,
+  "tookMs": 17,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:40:01.237Z",
+  "ts": "2026-10-25T16:40:04.665Z",
   "result": {
-    "tabId": 1762281487,
-    "url": "https://ec.indeed.com/?from=gnav-jobsearch--indeed",
-    "background": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 10,
+    "elements": [
+      {
+        "ariaLabel": "Indeed Home",
+        "href": "https://www.indeed.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 25,
+          "w": 75,
+          "x": 16,
+          "y": 16
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "div#root > nav.gnav > div.gnav-nav:nth-of-type(1) > a.link-logo",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.indeed.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 97,
+          "x": 115,
+          "y": 19
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "a#findJobs",
+        "tag": "a",
+        "text": "Buscar empleos",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.indeed.com/companies",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 155,
+          "x": 236,
+          "y": 19
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "a#companyReviews",
+        "tag": "a",
+        "text": "Evaluaciones de empresa",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.indeed.com/career/salaries",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 91,
+          "x": 414,
+          "y": 19
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "a#findSalaries",
+        "tag": "a",
+        "text": "Buscar sueldos",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.indeed.com/promo/resume",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 53,
+          "x": 882,
+          "y": 19
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "a#uploadResume",
+        "tag": "a",
+        "text": "Subir CV",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://secure.indeed.com/account/login?hl=es&continue=https%3A%2F%2Fwww.indeed.com",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 85,
+          "x": 959,
+          "y": 19
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "a#signIn",
+        "tag": "a",
+        "text": "Iniciar sesión",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.indeed.com/hire?hl=es&ikw=gnav-header-hire&isid=employerlink",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 19,
+          "w": 170,
+          "x": 1092,
+          "y": 19
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "a#employers",
+        "tag": "a",
+        "text": "Empresas/Publicar empleos",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.indeed.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 239,
+          "x": 520,
+          "y": 282
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "a#returnHome",
+        "tag": "a",
+        "text": "Volver a página de inicio\n  →",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.indeed.com/help/job-seekers/articles/33465379855501-cloudflare-errors-basic-troubleshooting?hl=es",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 21,
+          "w": 353,
+          "x": 463,
+          "y": 341
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "a#troubleshooting",
+        "tag": "a",
+        "text": "Resolución de problemas de errores de Cloudflare",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.indeed.com/support/contact",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 21,
+          "w": 88,
+          "x": 678,
+          "y": 397
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "a#contactUs",
+        "tag": "a",
+        "text": "Contáctanos",
+        "type": ""
+      }
+    ],
+    "title": "Security Check - Indeed.com",
+    "url": "https://ec.indeed.com/?from=gnav-jobsearch--indeed"
   }
 }
