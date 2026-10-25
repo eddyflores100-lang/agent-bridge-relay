@@ -1,1 +1,1 @@
-{"cmd_seq": 1521, "action": "snapshot", "args": {"maxEls": 140}}
+{"cmd_seq": 1522, "action": "open", "args": {"url": "https://www.soyfreelancer.com/registro", "reuse": true, "waitMs": 9000}}
