@@ -1,1 +1,1 @@
-{"cmd_seq": 929, "action": "gethtml", "args": {"selector": "body > div:last-child", "tabId": 1762281357}}
+{"cmd_seq": 930, "action": "gethtml", "args": {"selector": "[role=\"listbox\"]", "tabId": 1762281357}}
