@@ -53,3 +53,4 @@
 {"id":887,"action":"click","ok":true,"seq":887,"tookMs":160,"version":"2.2.3","ts":"2026-10-25T02:16:59.100Z","result":{"clicked":true,"selector":"div.nnpxsm187 > div.nnpxsm0 > svg","via":"selector"}}
 {"id":888,"action":"wait","ok":true,"seq":888,"tookMs":1517,"version":"2.2.3","ts":"2026-10-25T02:17:04.555Z","result":{"waited":1500}}
 {"id":889,"action":"getattr","ok":true,"seq":889,"tookMs":10,"version":"2.2.3","ts":"2026-10-25T02:17:08.081Z","result":{"text":"","via":"selector"}}
+{"id":890,"action":"type","ok":true,"seq":890,"tookMs":105,"version":"2.2.3","ts":"2026-10-25T02:17:17.344Z","result":{"filled":true,"length":49,"mode":"instant-background","verified":true,"via":"selector"}}
