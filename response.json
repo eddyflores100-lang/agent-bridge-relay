@@ -1,15 +1,14 @@
 {
-  "id": 1348,
-  "action": "open",
-  "ok": true,
-  "seq": 1348,
-  "tookMs": 8294,
+  "id": 1349,
+  "action": "clicktext",
+  "ok": false,
+  "seq": 1349,
+  "tookMs": 35,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:14:57.849Z",
-  "result": {
-    "tabId": 1762281357,
-    "url": "https://www.getonbrd.com/home",
-    "reused": true,
-    "loadState": "complete"
+  "ts": "2026-10-25T04:15:03.978Z",
+  "error": {
+    "code": "TARGET_NOT_FOUND",
+    "hint": "snapshot para ver la pagina",
+    "message": "clicktext sin match visible para \"sign up\""
   }
 }
