@@ -1,14 +1,359 @@
 {
-  "id": 1238,
-  "action": "gethtml",
-  "ok": false,
-  "seq": 1238,
-  "tookMs": 12,
+  "id": 1239,
+  "action": "snapshot",
+  "ok": true,
+  "seq": 1239,
+  "tookMs": 27,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:10:45.901Z",
-  "error": {
-    "code": "TARGET_NOT_FOUND",
-    "hint": "prueba snapshot",
-    "message": "selector sin match"
+  "ts": "2026-10-25T03:11:10.818Z",
+  "result": {
+    "challenge": null,
+    "count": 19,
+    "elements": [
+      {
+        "ariaLabel": "button",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 51,
+          "w": 106,
+          "x": 40,
+          "y": 15
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "body.layout-service > div:nth-of-type(15) > div.tpi8bmk > div.nnpxsm187:nth-of-type(1) > div.ja73cz:nth-of-type(1) > button._1bsa7o5r",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Open this option",
+        "href": "https://pro.fiverr.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 35,
+          "w": 90,
+          "x": 48,
+          "y": 23
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "div:nth-of-type(15) > div.tpi8bmk > div.nnpxsm187:nth-of-type(1) > div.ja73cz:nth-of-type(1) > button._1bsa7o5r > a._1bsa7o5k",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Exit",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 29,
+          "x": 1209,
+          "y": 28
+        },
+        "ref": "e2",
+        "role": "button",
+        "selector": "div:nth-of-type(15) > div.tpi8bmk > div.nnpxsm187:nth-of-type(1) > div.ja73cz:nth-of-type(1) > div.nnpxsm187 > button._1bsa7o5r",
+        "tag": "button",
+        "text": "Exit",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Add new",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 110,
+          "x": 197,
+          "y": 206
+        },
+        "ref": "e3",
+        "role": "button",
+        "selector": "div#field-skills > div._1bsa7o5w > div.ja73c14 > button._1bsa7o5r",
+        "tag": "button",
+        "text": "Add new",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 420,
+          "y": 281
+        },
+        "ref": "e4",
+        "role": "button",
+        "selector": "div._1bsa7o5w > div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(1) > div:nth-of-type(2) > div.ja73c14",
+        "tag": "div",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 420,
+          "y": 281
+        },
+        "ref": "e5",
+        "role": "button",
+        "selector": "div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(1) > div:nth-of-type(2) > div.ja73c14 > button._1bsa7o5r",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 714,
+          "y": 281
+        },
+        "ref": "e6",
+        "role": "button",
+        "selector": "div._1bsa7o5w > div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(2) > div:nth-of-type(2) > div.ja73c14",
+        "tag": "div",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 714,
+          "y": 281
+        },
+        "ref": "e7",
+        "role": "button",
+        "selector": "div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(2) > div:nth-of-type(2) > div.ja73c14 > button._1bsa7o5r",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 1008,
+          "y": 281
+        },
+        "ref": "e8",
+        "role": "button",
+        "selector": "div._1bsa7o5w > div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(3) > div:nth-of-type(2) > div.ja73c14",
+        "tag": "div",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 1008,
+          "y": 281
+        },
+        "ref": "e9",
+        "role": "button",
+        "selector": "div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(3) > div:nth-of-type(2) > div.ja73c14 > button._1bsa7o5r",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 420,
+          "y": 381
+        },
+        "ref": "e10",
+        "role": "button",
+        "selector": "div._1bsa7o5w > div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(4) > div:nth-of-type(2) > div.ja73c14",
+        "tag": "div",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 420,
+          "y": 381
+        },
+        "ref": "e11",
+        "role": "button",
+        "selector": "div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(4) > div:nth-of-type(2) > div.ja73c14 > button._1bsa7o5r",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 714,
+          "y": 381
+        },
+        "ref": "e12",
+        "role": "button",
+        "selector": "div._1bsa7o5w > div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(5) > div:nth-of-type(2) > div.ja73c14",
+        "tag": "div",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 714,
+          "y": 381
+        },
+        "ref": "e13",
+        "role": "button",
+        "selector": "div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(5) > div:nth-of-type(2) > div.ja73c14 > button._1bsa7o5r",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 1008,
+          "y": 381
+        },
+        "ref": "e14",
+        "role": "button",
+        "selector": "div._1bsa7o5w > div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(6) > div:nth-of-type(2) > div.ja73c14",
+        "tag": "div",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "More Options",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 42,
+          "x": 1008,
+          "y": 381
+        },
+        "ref": "e15",
+        "role": "button",
+        "selector": "div.ja73c14 > div.nnpxsm1uc:nth-of-type(2) > div._1bsa7o5w:nth-of-type(6) > div:nth-of-type(2) > div.ja73c14 > button._1bsa7o5r",
+        "tag": "button",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Add work experience",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 196,
+          "x": 197,
+          "y": 649
+        },
+        "ref": "e16",
+        "role": "button",
+        "selector": "div.ja73c1j:nth-of-type(2) > div.nnpxsm187 > div._1bsa7o5w:nth-of-type(4) > div.nnpxsm187:nth-of-type(1) > div.ja73c14 > button._1bsa7o5r",
+        "tag": "button",
+        "text": "Add work experience",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Back",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 62,
+          "x": 40,
+          "y": 928
+        },
+        "ref": "e17",
+        "role": "button",
+        "selector": "div:nth-of-type(15) > div.tpi8bmk > div.ja73c1j:nth-of-type(3) > div.nnpxsmss:nth-of-type(2) > div.nnpxsm187:nth-of-type(1) > button._1bsa7o5r",
+        "tag": "button",
+        "text": "Back",
+        "type": ""
+      },
+      {
+        "ariaLabel": "Continue",
+        "href": "",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 42,
+          "w": 105,
+          "x": 1133,
+          "y": 919
+        },
+        "ref": "e18",
+        "role": "button",
+        "selector": "[data-testid=\"continue-button\"]",
+        "tag": "button",
+        "text": "Continue",
+        "type": ""
+      }
+    ],
+    "title": "Seller Onboarding",
+    "url": "https://pro.fiverr.com/seller_onboarding/0"
   }
 }
