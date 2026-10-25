@@ -1,12 +1,14 @@
 {
-  "id": 1040,
-  "action": "wait",
+  "id": 1041,
+  "action": "click",
   "ok": true,
-  "seq": 1040,
-  "tookMs": 1515,
+  "seq": 1041,
+  "tookMs": 210,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:43:02.883Z",
+  "ts": "2026-10-25T02:43:06.087Z",
   "result": {
-    "waited": 1500
+    "clicked": true,
+    "selector": "div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(1) > div._1bsa7o5w > div.ja73cu:nth-of-type(1) > input.evy0qv8",
+    "via": "selector"
   }
 }
