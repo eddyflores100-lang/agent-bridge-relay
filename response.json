@@ -1,13 +1,12 @@
 {
-  "id": 1206,
-  "action": "check",
+  "id": 1207,
+  "action": "wait",
   "ok": true,
-  "seq": 1206,
-  "tookMs": 137,
+  "seq": 1207,
+  "tookMs": 1508,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:07:18.630Z",
+  "ts": "2026-10-25T03:07:24.790Z",
   "result": {
-    "checked": false,
-    "verified": false
+    "waited": 1500
   }
 }
