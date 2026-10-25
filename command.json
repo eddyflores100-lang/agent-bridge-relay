@@ -1,1 +1,1 @@
-{"cmd_seq": 1543, "action": "open", "args": {"url": "https://hubstafftalent.net/", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1544, "action": "geturl", "args": {}}
