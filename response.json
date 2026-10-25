@@ -1,16 +1,161 @@
 {
-  "id": 1597,
-  "action": "fill",
+  "id": 1598,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1597,
-  "tookMs": 834,
+  "seq": 1598,
+  "tookMs": 19,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:47:11.608Z",
+  "ts": "2026-10-25T04:47:16.020Z",
   "result": {
-    "filled": true,
-    "length": 13,
-    "mode": "human",
-    "verified": true,
-    "via": "ref"
+    "challenge": null,
+    "count": 8,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://accounts.torre.ai/email/?next=%2Fopenid%2Fauthorize%3Fscope%3Dopenid%2Bprof",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 100,
+          "x": 547,
+          "y": 128
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "main.mdl-layout__content > div.mdl-grid > div.mdl-cell > div.starrgate-content > p.account-data--header:nth-of-type(2) > a.starrgate-typography--body1",
+        "tag": "a",
+        "text": "INICIA SESIÓN",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "name",
+        "placeholder": "",
+        "rect": {
+          "h": 46,
+          "w": 496,
+          "x": 391,
+          "y": 239
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "input#id_name",
+        "tag": "input",
+        "text": "Edison Flores",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "email",
+        "placeholder": "",
+        "rect": {
+          "h": 46,
+          "w": 496,
+          "x": 391,
+          "y": 315
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "input#id_email",
+        "tag": "input",
+        "text": "eddyflores100@gmail.com",
+        "type": "email"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "phone_number",
+        "placeholder": "(201) 555-0123",
+        "rect": {
+          "h": 46,
+          "w": 500,
+          "x": 391,
+          "y": 389
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "input#id_phone_number",
+        "tag": "input",
+        "text": "",
+        "type": "tel"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "awareness_answer",
+        "placeholder": "",
+        "rect": {
+          "h": 46,
+          "w": 496,
+          "x": 391,
+          "y": 463
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "input#id_awareness_answer",
+        "tag": "input",
+        "text": "Google search",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "awareness_context",
+        "placeholder": "",
+        "rect": {
+          "h": 46,
+          "w": 496,
+          "x": 391,
+          "y": 539
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "input#id_awareness_context",
+        "tag": "input",
+        "text": "",
+        "type": "text"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://torre.ai/terms",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 44,
+          "w": 472,
+          "x": 389,
+          "y": 615
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "div.mdl-grid > div.mdl-cell > div.starrgate-content > form > p.m-t-1 > a",
+        "tag": "a",
+        "text": "Términos de Servicio y Política de Privacidad",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "submit",
+        "placeholder": "",
+        "rect": {
+          "h": 36,
+          "w": 118,
+          "x": 771,
+          "y": 677
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "button[name=\"submit\"]",
+        "tag": "button",
+        "text": "CONTINUAR",
+        "type": "submit"
+      }
+    ],
+    "title": "Create an account | Torre",
+    "url": "https://accounts.torre.ai/account/?next=%2Fopenid%2Fauthorize%3Fscope%3Dopenid%2Bprof"
   }
 }
