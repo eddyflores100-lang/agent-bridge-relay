@@ -1,1 +1,1 @@
-{"cmd_seq": 1664, "action": "open", "args": {"url": "https://www.codementor.io/user-onboarding", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1665, "action": "geturl", "args": {}}
