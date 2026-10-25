@@ -1,15 +1,14 @@
 {
-  "id": 1529,
-  "action": "open",
+  "id": 1530,
+  "action": "geturl",
   "ok": true,
-  "seq": 1529,
-  "tookMs": 2604,
+  "seq": 1530,
+  "tookMs": 6,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:39:09.380Z",
+  "ts": "2026-10-25T04:39:15.090Z",
   "result": {
-    "tabId": 1762281357,
     "url": "https://www.getonbrd.com/users/sign_up",
-    "reused": true,
-    "loadState": "complete"
+    "title": "Get on Board",
+    "tabId": 1762281357
   }
 }
