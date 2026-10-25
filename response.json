@@ -1,15 +1,14 @@
 {
-  "id": 1345,
-  "action": "open",
+  "id": 1346,
+  "action": "clicktext",
   "ok": true,
-  "seq": 1345,
-  "tookMs": 9029,
+  "seq": 1346,
+  "tookMs": 91,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:14:33.791Z",
+  "ts": "2026-10-25T04:14:39.593Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://torre.ai/",
-    "reused": true,
-    "loadState": "timeout"
+    "clicked": true,
+    "selector": "div.md-whiteframe:nth-of-type(1) > div.md-toolbar > div.md-toolbar-container > div.tdl-user-actions:nth-of-type(5) > div.no-user > button.sign-in",
+    "via": "clicktext"
   }
 }
