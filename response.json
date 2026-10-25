@@ -1,13 +1,15 @@
 {
-  "id": 2140,
+  "id": 2141,
   "action": "navigate",
-  "ok": false,
-  "seq": 2140,
-  "tookMs": 2,
+  "ok": true,
+  "seq": 2141,
+  "tookMs": 3516,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:12:27.159Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:12:35.392Z",
+  "result": {
+    "url": "https://houston.craigslist.org/search/ggg?query=automation&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
