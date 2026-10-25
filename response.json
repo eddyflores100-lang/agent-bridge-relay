@@ -1,16 +1,14 @@
 {
-  "id": 1759,
-  "action": "snapshot",
+  "id": 1760,
+  "action": "reload",
   "ok": true,
-  "seq": 1759,
-  "tookMs": 13,
+  "seq": 1760,
+  "tookMs": 3337,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:53:04.258Z",
+  "ts": "2026-10-25T16:53:16.663Z",
   "result": {
-    "challenge": null,
-    "count": 0,
-    "elements": [],
-    "title": "Un momento…",
-    "url": "https://www.upwork.com/nx/signup/"
+    "url": "https://www.turing.com/apply",
+    "loadState": "complete",
+    "tabId": 1762281504
   }
 }
