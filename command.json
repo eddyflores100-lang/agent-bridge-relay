@@ -1,1 +1,1 @@
-{"cmd_seq": 1343, "action": "clicktext", "args": {"text": "Sign in"}}
+{"cmd_seq": 1344, "action": "snapshot", "args": {"maxEls": 120}}
