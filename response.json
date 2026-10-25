@@ -1,13 +1,15 @@
 {
-  "id": 1917,
-  "action": "execute",
-  "ok": false,
-  "seq": 1917,
-  "tookMs": 13,
+  "id": 1918,
+  "action": "open",
+  "ok": true,
+  "seq": 1918,
+  "tookMs": 2465,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:36:09.075Z",
-  "error": {
-    "code": "UNSUPPORTED",
-    "message": "accion \"execute\" no soportada en inject.js"
+  "ts": "2026-10-25T18:36:18.679Z",
+  "result": {
+    "tabId": 1762281660,
+    "url": "https://www.reddit.com/r/forhire/search.json?q=%22%5BHiring%5D%22+%22AI%20agent%22&restrict_sr=on&sort=new&t=year&limit=50",
+    "background": true,
+    "loadState": "complete"
   }
 }
