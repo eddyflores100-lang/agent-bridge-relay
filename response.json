@@ -1,13 +1,12 @@
 {
-  "id": 897,
-  "action": "type",
-  "ok": false,
-  "seq": 897,
-  "tookMs": 12,
+  "id": 898,
+  "action": "press",
+  "ok": true,
+  "seq": 898,
+  "tookMs": 192,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:18:20.604Z",
-  "error": {
-    "code": "WRITE_FAILED",
-    "message": "elemento disabled/readonly"
+  "ts": "2026-10-25T02:18:25.024Z",
+  "result": {
+    "pressed": "Enter"
   }
 }
