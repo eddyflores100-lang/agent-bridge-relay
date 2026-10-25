@@ -1,15 +1,719 @@
 {
-  "id": 1270,
-  "action": "open",
+  "id": 1271,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1270,
-  "tookMs": 3193,
+  "seq": 1271,
+  "tookMs": 22,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:04:11.633Z",
+  "ts": "2026-10-25T04:04:17.624Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.guru.com/join/",
-    "reused": true,
-    "loadState": "complete"
+    "challenge": null,
+    "count": 39,
+    "elements": [
+      {
+        "ariaLabel": "Guru",
+        "href": "https://www.guru.com/index.aspx?Ref=login.aspx",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 30,
+          "w": 130,
+          "x": 48,
+          "y": 23
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "a#topnav-gurulogo",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/d/freelancers/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 58,
+          "w": 122,
+          "x": 226,
+          "y": 9
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "a#topnav-find-a-guru",
+        "tag": "a",
+        "text": "Find Freelancers",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/d/jobs/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 58,
+          "w": 67,
+          "x": 380,
+          "y": 9
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "a#topnav-find-a-job",
+        "tag": "a",
+        "text": "Find Jobs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/registeraccount.aspx?ReturnUrl=hire/post/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 37,
+          "w": 97,
+          "x": 914,
+          "y": 19
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "a#topnav-post-a-job",
+        "tag": "a",
+        "text": "Post a Job",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/registeraccount.aspx",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 77,
+          "x": 1042,
+          "y": 29
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "a#topnav-join-now",
+        "tag": "a",
+        "text": "Sign Up",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/login.aspx",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 64,
+          "x": 1151,
+          "y": 29
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "a#topnav-sign-in",
+        "tag": "a",
+        "text": "Log In",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/d/freelancers/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 397,
+          "x": -408,
+          "y": 60
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "a#mobile-find-a-guru",
+        "tag": "a",
+        "text": "Find Freelancers",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/d/jobs/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 397,
+          "x": -408,
+          "y": 108
+        },
+        "ref": "e7",
+        "role": "",
+        "selector": "a#mobile-find-a-job",
+        "tag": "a",
+        "text": "Find a Job",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/agreements/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 48,
+          "w": 397,
+          "x": -408,
+          "y": 554
+        },
+        "ref": "e8",
+        "role": "",
+        "selector": "a#mobile-work-agreements",
+        "tag": "a",
+        "text": "Work Agreements",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 56,
+          "w": 138,
+          "x": 81,
+          "y": 385
+        },
+        "ref": "e9",
+        "role": "",
+        "selector": "main#main > div.o-container > div.pageNotFound > div.pageNotFound__content > div.pageNotFound__cta > a.o-button:nth-of-type(1)",
+        "tag": "a",
+        "text": "Go To Home",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/contact.aspx",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 56,
+          "w": 129,
+          "x": 281,
+          "y": 385
+        },
+        "ref": "e10",
+        "role": "",
+        "selector": "main#main > div.o-container > div.pageNotFound > div.pageNotFound__content > div.pageNotFound__cta > a.o-button:nth-of-type(2)",
+        "tag": "a",
+        "text": "Contact Us",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/index.aspx?Ref=login.aspx",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 48,
+          "y": 730
+        },
+        "ref": "e11",
+        "role": "",
+        "selector": "a#footer-home",
+        "tag": "a",
+        "text": "Home",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/registeraccount.aspx?ReturnUrl=hire/post/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 48,
+          "y": 764
+        },
+        "ref": "e12",
+        "role": "",
+        "selector": "a#footer-postjob-link",
+        "tag": "a",
+        "text": "Post a Job",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/d/freelancers/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 48,
+          "y": 798
+        },
+        "ref": "e13",
+        "role": "",
+        "selector": "a#footer-searchfreelancers",
+        "tag": "a",
+        "text": "Find a Freelancer",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/d/jobs/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 48,
+          "y": 832
+        },
+        "ref": "e14",
+        "role": "",
+        "selector": "a#footer-findjobs",
+        "tag": "a",
+        "text": "Find a Job",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/enterprise/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 48,
+          "y": 866
+        },
+        "ref": "e15",
+        "role": "",
+        "selector": "a#footer-enterprise",
+        "tag": "a",
+        "text": "Enterprise Solutions",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/agency/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 48,
+          "y": 900
+        },
+        "ref": "e16",
+        "role": "",
+        "selector": "a#footer-agency",
+        "tag": "a",
+        "text": "Agency Solutions",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/purchase-orders/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 48,
+          "y": 934
+        },
+        "ref": "e17",
+        "role": "",
+        "selector": "a#footer-po",
+        "tag": "a",
+        "text": "PO Solutions",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/about/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 245,
+          "y": 730
+        },
+        "ref": "e18",
+        "role": "",
+        "selector": "a#footer-about",
+        "tag": "a",
+        "text": "About Guru",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/how-it-works/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 245,
+          "y": 764
+        },
+        "ref": "e19",
+        "role": "",
+        "selector": "a#footer-howitworks",
+        "tag": "a",
+        "text": "How Guru Works",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/why-guru/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 245,
+          "y": 798
+        },
+        "ref": "e20",
+        "role": "",
+        "selector": "a#footer-why-guru",
+        "tag": "a",
+        "text": "Why Guru",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/agreements/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 245,
+          "y": 832
+        },
+        "ref": "e21",
+        "role": "",
+        "selector": "a#footer-work-agreements",
+        "tag": "a",
+        "text": "Work Agreements",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/safepay/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 245,
+          "y": 866
+        },
+        "ref": "e22",
+        "role": "",
+        "selector": "a#footer-safepay",
+        "tag": "a",
+        "text": "SafePay",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/pricing-employer/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 245,
+          "y": 900
+        },
+        "ref": "e23",
+        "role": "",
+        "selector": "a#footer-pricing",
+        "tag": "a",
+        "text": "Pricing",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/help/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 442,
+          "y": 730
+        },
+        "ref": "e24",
+        "role": "",
+        "selector": "a#footer-help",
+        "tag": "a",
+        "text": "Help & FAQ",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/blog/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 442,
+          "y": 764
+        },
+        "ref": "e25",
+        "role": "",
+        "selector": "a#footer-blog",
+        "tag": "a",
+        "text": "Blog",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/contact.aspx",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 442,
+          "y": 798
+        },
+        "ref": "e26",
+        "role": "",
+        "selector": "a#footer-contactus",
+        "tag": "a",
+        "text": "Contact Us",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/app/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 442,
+          "y": 832
+        },
+        "ref": "e27",
+        "role": "",
+        "selector": "a#footer-mobileapp",
+        "tag": "a",
+        "text": "Mobile App",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/apihelp/help.html",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 442,
+          "y": 866
+        },
+        "ref": "e28",
+        "role": "",
+        "selector": "a#footer-apis",
+        "tag": "a",
+        "text": "APIs",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/sitemap/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 442,
+          "y": 900
+        },
+        "ref": "e29",
+        "role": "",
+        "selector": "a#footer-sitemap",
+        "tag": "a",
+        "text": "Sitemap",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/trademark-copyright-policy/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 640,
+          "y": 730
+        },
+        "ref": "e30",
+        "role": "",
+        "selector": "a#footer-ippolicy",
+        "tag": "a",
+        "text": "IP Policy",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/privacy-policy/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 640,
+          "y": 764
+        },
+        "ref": "e31",
+        "role": "",
+        "selector": "a#footer-privacypolicy",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/terms-of-service/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 18,
+          "w": 181,
+          "x": 640,
+          "y": 798
+        },
+        "ref": "e32",
+        "role": "",
+        "selector": "a#footer-tos",
+        "tag": "a",
+        "text": "Terms of Service",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.facebook.com/GuruFreelancing/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 837,
+          "y": 730
+        },
+        "ref": "e33",
+        "role": "",
+        "selector": "a#footer-social-media-facebook",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://x.com/GuruFreelancing",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 885,
+          "y": 730
+        },
+        "ref": "e34",
+        "role": "",
+        "selector": "a#footer-social-media-x",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.linkedin.com/company/gurufreelancing/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 933,
+          "y": 730
+        },
+        "ref": "e35",
+        "role": "",
+        "selector": "a#footer-social-media-linkedin",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://apps.apple.com/us/developer/websoft-inc/id1551376616",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 837,
+          "y": 844
+        },
+        "ref": "e36",
+        "role": "",
+        "selector": "a#apple_app_store_download_button",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://play.google.com/store/apps/dev?id=8502258576761407444&hl=en",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 885,
+          "y": 844
+        },
+        "ref": "e37",
+        "role": "",
+        "selector": "a#google_play_store_download_button",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.guru.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 31,
+          "w": 110,
+          "x": 48,
+          "y": 1041
+        },
+        "ref": "e38",
+        "role": "",
+        "selector": "body.headerNotFixed > footer.c-footer > div.o-container > div.c-footer__bottom:nth-of-type(2) > p.c-footer__bottom__logowrap:nth-of-type(1) > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      }
+    ],
+    "title": "Guru.com - Page Not Found",
+    "url": "https://www.guru.com/join/"
   }
 }
