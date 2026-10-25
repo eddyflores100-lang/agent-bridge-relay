@@ -19,3 +19,4 @@
 {"id":1035,"action":"click","ok":false,"seq":1035,"tookMs":17,"version":"2.2.3","ts":"2026-10-25T02:42:36.066Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview y reintenta","message":"elemento no visible (zero-size)"}}
 {"id":1036,"action":"wait","ok":true,"seq":1036,"tookMs":1006,"version":"2.2.3","ts":"2026-10-25T02:42:40.433Z","result":{"waited":1000}}
 {"id":1037,"action":"click","ok":true,"seq":1037,"tookMs":856,"version":"2.2.3","ts":"2026-10-25T02:42:44.452Z","result":{"clicked":true,"selector":"div.nnpxsm187 > div.nnpxsm0 > div.nnpxsm0 > input.ja73c1j","via":"selector"}}
+{"id":1038,"action":"wait","ok":true,"seq":1038,"tookMs":2005,"version":"2.2.3","ts":"2026-10-25T02:42:52.962Z","result":{"waited":2000}}
