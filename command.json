@@ -1,1 +1,1 @@
-{"cmd_seq": 2014, "action": "execute", "args": {"tabId": 1762282332, "fn": "() => { window.close(); return 1; }"}}
+{"cmd_seq": 2015, "action": "open", "args": {"url": "https://chicago.craigslist.org/search/ggg?query=website&sort=date"}}
