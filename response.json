@@ -1,15 +1,13 @@
 {
-  "id": 2000,
-  "action": "open",
-  "ok": true,
-  "seq": 2000,
-  "tookMs": 3235,
+  "id": 2001,
+  "action": "execute",
+  "ok": false,
+  "seq": 2001,
+  "tookMs": 20,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:57:14.073Z",
-  "result": {
-    "tabId": 1762282320,
-    "url": "https://losangeles.craigslist.org/search/ggg?query=web+developer&sort=date",
-    "background": true,
-    "loadState": "complete"
+  "ts": "2026-10-25T18:57:19.731Z",
+  "error": {
+    "code": "UNSUPPORTED",
+    "message": "accion \"execute\" no soportada en inject.js"
   }
 }
