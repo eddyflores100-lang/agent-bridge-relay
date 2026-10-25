@@ -1,13 +1,15 @@
 {
-  "id": 2089,
+  "id": 2090,
   "action": "navigate",
-  "ok": false,
-  "seq": 2089,
-  "tookMs": 3,
+  "ok": true,
+  "seq": 2090,
+  "tookMs": 3102,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:06:57.910Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:07:04.811Z",
+  "result": {
+    "url": "https://chicago.craigslist.org/search/ggg?query=web&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
