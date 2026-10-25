@@ -1,15 +1,13 @@
 {
-  "id": 1898,
-  "action": "open",
+  "id": 1899,
+  "action": "scroll",
   "ok": true,
-  "seq": 1898,
-  "tookMs": 3065,
+  "seq": 1899,
+  "tookMs": 60,
   "version": "2.3.0",
-  "ts": "2026-10-25T18:33:37.807Z",
+  "ts": "2026-10-25T18:33:45.043Z",
   "result": {
-    "tabId": 1762281640,
-    "url": "https://www.reddit.com/r/forhire/search/?q=%5BHiring%5D%20wordpress&restrict_sr=on&sort=new&t=year",
-    "background": true,
-    "loadState": "complete"
+    "scrolled": true,
+    "y": 0
   }
 }
