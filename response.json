@@ -1,13 +1,15 @@
 {
-  "id": 2110,
+  "id": 2111,
   "action": "navigate",
-  "ok": false,
-  "seq": 2110,
-  "tookMs": 1,
+  "ok": true,
+  "seq": 2111,
+  "tookMs": 3009,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:09:13.068Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:09:20.783Z",
+  "result": {
+    "url": "https://atlanta.craigslist.org/search/ggg?query=automation&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
