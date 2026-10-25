@@ -1,1 +1,1 @@
-{"cmd_seq": 1378, "action": "open", "args": {"url": "https://www.getonbrd.com/home", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1379, "action": "clicktext", "args": {"text": "Reg\u00edstrate"}}
