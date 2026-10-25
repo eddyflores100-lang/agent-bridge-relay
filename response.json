@@ -1,14 +1,13 @@
 {
-  "id": 926,
-  "action": "clicktext",
+  "id": 927,
+  "action": "getattr",
   "ok": true,
-  "seq": 926,
-  "tookMs": 224,
+  "seq": 927,
+  "tookMs": 11,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:22:28.642Z",
+  "ts": "2026-10-25T02:22:53.748Z",
   "result": {
-    "clicked": true,
-    "selector": "html > body.layout-service > div:nth-of-type(15) > div.tpi8bmk",
-    "via": "clicktext"
+    "text": "false",
+    "via": "selector"
   }
 }
