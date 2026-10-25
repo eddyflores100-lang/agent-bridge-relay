@@ -1,12 +1,13 @@
 {
-  "id": 883,
-  "action": "wait",
-  "ok": true,
-  "seq": 883,
-  "tookMs": 1206,
+  "id": 884,
+  "action": "type",
+  "ok": false,
+  "seq": 884,
+  "tookMs": 16,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:16:16.986Z",
-  "result": {
-    "waited": 1200
+  "ts": "2026-10-25T02:16:19.889Z",
+  "error": {
+    "code": "WRITE_FAILED",
+    "message": "elemento disabled/readonly"
   }
 }
