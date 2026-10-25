@@ -1,1 +1,1 @@
-{"cmd_seq": 1120, "action": "wait", "args": {"ms": 1000}}
+{"cmd_seq": 1121, "action": "check", "args": {"selector": "li[data-track-value=\"Web design\"] input[type=\"radio\"]", "tabId": 1762281357}}
