@@ -25,3 +25,4 @@
 {"id":2010,"action":"execute","ok":false,"seq":2010,"tookMs":15,"version":"2.3.0","ts":"2026-10-25T18:58:14.482Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2011,"action":"execute","ok":false,"seq":2011,"tookMs":23,"version":"2.3.0","ts":"2026-10-25T18:58:17.226Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2012,"action":"open","ok":true,"seq":2012,"tookMs":3544,"version":"2.3.0","ts":"2026-10-25T18:58:25.512Z","result":{"tabId":1762282332,"url":"https://newyork.craigslist.org/search/ggg?query=ai+automation&sort=date","background":true,"loadState":"complete"}}
+{"id":2013,"action":"execute","ok":false,"seq":2013,"tookMs":15,"version":"2.3.0","ts":"2026-10-25T18:58:31.336Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
