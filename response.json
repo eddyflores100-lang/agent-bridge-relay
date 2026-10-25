@@ -1,13 +1,15 @@
 {
-  "id": 2113,
+  "id": 2114,
   "action": "navigate",
-  "ok": false,
-  "seq": 2113,
-  "tookMs": 1,
+  "ok": true,
+  "seq": 2114,
+  "tookMs": 4162,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:09:31.333Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:09:40.291Z",
+  "result": {
+    "url": "https://seattle.craigslist.org/search/ggg?query=web&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
