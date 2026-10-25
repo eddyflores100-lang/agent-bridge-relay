@@ -1,1 +1,1 @@
-{"cmd_seq": 1451, "action": "snapshot", "args": {"maxEls": 130}}
+{"cmd_seq": 1452, "action": "open", "args": {"url": "https://talent.hubstaff.com/", "reuse": true, "waitMs": 9000}}
