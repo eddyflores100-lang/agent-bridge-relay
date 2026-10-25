@@ -1,14 +1,15 @@
 {
-  "id": 1678,
-  "action": "geturl",
+  "id": 1679,
+  "action": "open",
   "ok": true,
-  "seq": 1678,
-  "tookMs": 12,
+  "seq": 1679,
+  "tookMs": 5580,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:40:36.618Z",
+  "ts": "2026-10-25T15:40:45.676Z",
   "result": {
-    "url": "https://www.multitrabajos.com/signin?returnTo=/",
-    "title": "Empleos en Ecuador: trabajo y ofertas de empleo - Multitrabajos 2026",
-    "tabId": 1762281357
+    "tabId": 1762281357,
+    "url": "https://www.soyfreelancer.com/ingresar",
+    "reused": true,
+    "loadState": "complete"
   }
 }
