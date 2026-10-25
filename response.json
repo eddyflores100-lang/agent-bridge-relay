@@ -1,15 +1,14 @@
 {
-  "id": 1310,
-  "action": "open",
+  "id": 1311,
+  "action": "clicktext",
   "ok": true,
-  "seq": 1310,
-  "tookMs": 4688,
+  "seq": 1311,
+  "tookMs": 93,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:10:56.189Z",
+  "ts": "2026-10-25T04:11:02.073Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.guru.com/",
-    "reused": true,
-    "loadState": "complete"
+    "clicked": true,
+    "selector": "a#topnav-join-now",
+    "via": "clicktext"
   }
 }
