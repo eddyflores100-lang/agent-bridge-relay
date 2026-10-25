@@ -1,16 +1,15 @@
 {
-  "id": 1697,
-  "action": "snapshot",
+  "id": 1698,
+  "action": "open",
   "ok": true,
-  "seq": 1697,
-  "tookMs": 21,
+  "seq": 1698,
+  "tookMs": 8274,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:40:40.412Z",
+  "ts": "2026-10-25T16:40:51.975Z",
   "result": {
-    "challenge": null,
-    "count": 0,
-    "elements": [],
-    "title": "The resource cannot be found.",
-    "url": "https://www.elempleo.com/ec"
+    "tabId": 1762281496,
+    "url": "https://www.multitrabajos.com/",
+    "background": true,
+    "loadState": "complete"
   }
 }
