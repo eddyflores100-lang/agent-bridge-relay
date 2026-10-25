@@ -1,14 +1,14 @@
 {
-  "id": 1766,
-  "action": "click",
+  "id": 1767,
+  "action": "clicktext",
   "ok": true,
-  "seq": 1766,
-  "tookMs": 102,
+  "seq": 1767,
+  "tookMs": 65,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:54:38.073Z",
+  "ts": "2026-10-25T16:54:41.349Z",
   "result": {
     "clicked": true,
-    "selector": "[data-testid=\"got-it-btn\"]",
-    "via": "selector"
+    "selector": "div#__next > div > header.sc-e44881cc-0 > div.sc-e44881cc-6 > a.sc-e44881cc-8",
+    "via": "clicktext"
   }
 }
