@@ -1,15 +1,14 @@
 {
-  "id": 1713,
-  "action": "navigate",
-  "ok": true,
-  "seq": 1713,
-  "tookMs": 1887,
+  "id": 1714,
+  "action": "snapshot",
+  "ok": false,
+  "seq": 1714,
+  "tookMs": 5,
   "version": "2.2.3",
-  "ts": "2026-10-25T16:47:34.507Z",
-  "result": {
-    "url": "https://apply.proxify.io/",
-    "loadState": "gone",
-    "tabId": 1762281513,
-    "background": true
+  "ts": "2026-10-25T16:47:38.132Z",
+  "error": {
+    "code": "TARGET_NOT_FOUND",
+    "message": "tabId 1762281513 no existe",
+    "hint": "listtabs"
   }
 }
