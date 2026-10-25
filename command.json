@@ -1,1 +1,1 @@
-{"cmd_seq": 1702, "action": "listtabs", "args": {}}
+{"cmd_seq": 1703, "action": "open", "args": {"url": "https://www.turing.com/apply", "waitMs": 12000}}
