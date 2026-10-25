@@ -1,1 +1,1 @@
-{"cmd_seq": 1067, "action": "press", "args": {"selector": "div.nnpxsm187 > div.nnpxsm187:nth-of-type(3) > div.ja73c14:nth-of-type(3) > div.ja73c1j > div._1bsa7o5k > button._1bsa7o5r", "key": "ArrowDown", "tabId": 1762281357}}
+{"cmd_seq": 1068, "action": "wait", "args": {"ms": 600}}
