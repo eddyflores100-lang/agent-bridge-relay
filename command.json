@@ -1,1 +1,1 @@
-{"cmd_seq": 1185, "action": "check", "args": {"selector": "li[data-track-value=\"chatbot development\"] input[type=\"radio\"]", "tabId": 1762281357}}
+{"cmd_seq": 1186, "action": "check", "args": {"selector": "li[data-track-value=\"INTERMEDIATE\"] input[type=\"radio\"]", "tabId": 1762281357}}
