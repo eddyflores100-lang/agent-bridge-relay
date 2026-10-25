@@ -1,15 +1,12 @@
 {
-  "id": 845,
-  "action": "open",
+  "id": 846,
+  "action": "wait",
   "ok": true,
-  "seq": 845,
-  "tookMs": 12080,
+  "seq": 846,
+  "tookMs": 5003,
   "version": "2.2.3",
-  "ts": "2026-10-25T02:07:34.671Z",
+  "ts": "2026-10-25T02:07:48.791Z",
   "result": {
-    "tabId": 1762281357,
-    "url": "https://www.fiverr.com/",
-    "background": true,
-    "loadState": "timeout"
+    "waited": 5000
   }
 }
