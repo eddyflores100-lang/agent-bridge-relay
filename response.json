@@ -1,16 +1,53 @@
 {
-  "id": 1531,
-  "action": "switchtab",
+  "id": 1532,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1531,
-  "tookMs": 18,
+  "seq": 1532,
+  "tookMs": 23,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:39:18.553Z",
+  "ts": "2026-10-25T04:39:27.651Z",
   "result": {
-    "tabId": 1762281357,
+    "challenge": null,
+    "count": 2,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://www.getonbrd.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 23,
+          "w": 210,
+          "x": 54,
+          "y": 86
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "html > body.bg-sherpa-blue > section > div.container > h2 > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://www.getonbrd.com/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 50,
+          "w": 145,
+          "x": 54,
+          "y": 430
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "html > body.bg-sherpa-blue > section > div.container > div:nth-of-type(2) > a.btn",
+        "tag": "a",
+        "text": "Back to home",
+        "type": ""
+      }
+    ],
     "title": "Get on Board",
-    "url": "https://www.getonbrd.com/users/sign_up",
-    "activated": true,
-    "targeted": true
+    "url": "https://www.getonbrd.com/users/sign_up"
   }
 }
