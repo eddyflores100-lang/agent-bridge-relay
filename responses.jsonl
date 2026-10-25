@@ -146,3 +146,4 @@
 {"id":2131,"action":"navigate","ok":false,"seq":2131,"tookMs":2,"version":"2.3.0","ts":"2026-10-25T19:11:22.603Z","error":{"code":"BLOCKED_URL","message":"denylist (/^about:/i)"}}
 {"id":2132,"action":"navigate","ok":true,"seq":2132,"tookMs":4975,"version":"2.3.0","ts":"2026-10-25T19:11:33.225Z","result":{"url":"https://dallas.craigslist.org/search/ggg?query=web&sort=date","loadState":"complete","tabId":1762282395,"background":true}}
 {"id":2134,"action":"navigate","ok":false,"seq":2134,"tookMs":1,"version":"2.3.0","ts":"2026-10-25T19:11:41.171Z","error":{"code":"BLOCKED_URL","message":"denylist (/^about:/i)"}}
+{"id":2135,"action":"navigate","ok":true,"seq":2135,"tookMs":3183,"version":"2.3.0","ts":"2026-10-25T19:11:50.111Z","result":{"url":"https://dallas.craigslist.org/search/ggg?query=automation&sort=date","loadState":"complete","tabId":1762282395,"background":true}}
