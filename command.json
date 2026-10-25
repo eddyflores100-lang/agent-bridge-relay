@@ -1,1 +1,1 @@
-{"cmd_seq": 1533, "action": "snapshot", "args": {"maxEls": 150}}
+{"cmd_seq": 1534, "action": "open", "args": {"url": "https://comeup.com/en/login", "reuse": true, "waitMs": 9000}}
