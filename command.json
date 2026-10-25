@@ -1,1 +1,1 @@
-{"cmd_seq": 1719, "action": "click", "args": {"tabId": 1762281526, "selector": "button:nth-of-type(3)"}}
+{"cmd_seq": 1720, "action": "clicktext", "args": {"tabId": 1762281526, "text": "Sign up with Email", "contains": true}}
