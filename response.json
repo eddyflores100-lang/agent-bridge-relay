@@ -1,14 +1,16 @@
 {
-  "id": 1640,
-  "action": "geturl",
+  "id": 1641,
+  "action": "switchtab",
   "ok": true,
-  "seq": 1640,
-  "tookMs": 7,
+  "seq": 1641,
+  "tookMs": 8,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:35:51.830Z",
+  "ts": "2026-10-25T15:35:56.774Z",
   "result": {
-    "url": "https://www.getonbrd.com/webpros/login",
-    "title": "Deja que los empleos lleguen a ti. - Get on Board | Get on Board",
-    "tabId": 1762281357
+    "tabId": 1762281357,
+    "title": "Inicia sesión: Cuentas de Google",
+    "url": "https://accounts.google.com/v3/signin/accountchooser?access_type=offline&client_id=471436299215-h897rc7c5ebc8jshf0e1g74k8ruf85rl.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.getonbrd.com%",
+    "activated": true,
+    "targeted": true
   }
 }
