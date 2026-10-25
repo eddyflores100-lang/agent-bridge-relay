@@ -1,1 +1,1 @@
-{"cmd_seq": 1923, "action": "execute", "args": {"tabId": 1762281663, "fn": "() => { window.close(); return 'ok'; }"}}
+{"cmd_seq": 1924, "action": "open", "args": {"url": "https://www.reddit.com/r/freelancer_hire/new.json?limit=100&sort=new"}}
