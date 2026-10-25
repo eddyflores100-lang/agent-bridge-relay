@@ -1,15 +1,14 @@
 {
-  "id": 1543,
-  "action": "open",
+  "id": 1544,
+  "action": "geturl",
   "ok": true,
-  "seq": 1543,
-  "tookMs": 3226,
+  "seq": 1544,
+  "tookMs": 6,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:40:32.059Z",
+  "ts": "2026-10-25T04:40:37.908Z",
   "result": {
-    "tabId": 1762281357,
     "url": "https://hubstafftalent.net/",
-    "reused": true,
-    "loadState": "complete"
+    "title": "Hire Freelancers & Remote Workers For Free",
+    "tabId": 1762281357
   }
 }
