@@ -32,3 +32,4 @@
 {"id":2017,"action":"execute","ok":false,"seq":2017,"tookMs":23,"version":"2.3.0","ts":"2026-10-25T18:58:53.170Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":2018,"action":"open","ok":true,"seq":2018,"tookMs":3030,"version":"2.3.0","ts":"2026-10-25T18:59:00.839Z","result":{"tabId":1762282338,"url":"https://chicago.craigslist.org/search/ggg?query=web+developer&sort=date","background":true,"loadState":"complete"}}
 {"id":2019,"action":"execute","ok":false,"seq":2019,"tookMs":16,"version":"2.3.0","ts":"2026-10-25T18:59:06.542Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
+{"id":2020,"action":"execute","ok":false,"seq":2020,"tookMs":16,"version":"2.3.0","ts":"2026-10-25T18:59:09.362Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
