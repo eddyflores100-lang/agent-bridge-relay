@@ -51,3 +51,4 @@
 {"id":1067,"action":"press","ok":true,"seq":1067,"tookMs":22,"version":"2.2.3","ts":"2026-10-25T02:47:19.374Z","result":{"pressed":"ArrowDown"}}
 {"id":1068,"action":"wait","ok":true,"seq":1068,"tookMs":613,"version":"2.2.3","ts":"2026-10-25T02:47:23.407Z","result":{"waited":600}}
 {"id":1069,"action":"press","ok":true,"seq":1069,"tookMs":16,"version":"2.2.3","ts":"2026-10-25T02:47:27.341Z","result":{"pressed":"Enter"}}
+{"id":1070,"action":"wait","ok":true,"seq":1070,"tookMs":1511,"version":"2.2.3","ts":"2026-10-25T02:47:34.457Z","result":{"waited":1500}}
