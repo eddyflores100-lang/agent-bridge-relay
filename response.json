@@ -1,143 +1,16 @@
 {
-  "id": 1329,
-  "action": "snapshot",
+  "id": 1330,
+  "action": "fill",
   "ok": true,
-  "seq": 1329,
-  "tookMs": 56,
+  "seq": 1330,
+  "tookMs": 121,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:12:55.410Z",
+  "ts": "2026-10-25T04:12:58.606Z",
   "result": {
-    "challenge": null,
-    "count": 7,
-    "elements": [
-      {
-        "ariaLabel": "Close modal",
-        "href": "",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 27,
-          "w": 24,
-          "x": 864,
-          "y": 222
-        },
-        "ref": "e0",
-        "role": "",
-        "selector": "div#_r_n_ > div.fPSBzf > div.eGhpTr > div.fPSBzf:nth-of-type(1) > button",
-        "tag": "button",
-        "text": "",
-        "type": "button"
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 48,
-          "w": 432,
-          "x": 416,
-          "y": 305
-        },
-        "ref": "e1",
-        "role": "",
-        "selector": "div#_r_n_ > div.fPSBzf > div.eGhpTr > div.fPSBzf:nth-of-type(2) > div:nth-of-type(2) > button.hLtpET",
-        "tag": "button",
-        "text": "Continue with Google",
-        "type": "button"
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "",
-        "placeholder": "First name",
-        "rect": {
-          "h": 56,
-          "w": 208,
-          "x": 416,
-          "y": 417
-        },
-        "ref": "e2",
-        "role": "",
-        "selector": "input#firstName",
-        "tag": "input",
-        "text": "",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "",
-        "placeholder": "Last name",
-        "rect": {
-          "h": 56,
-          "w": 208,
-          "x": 640,
-          "y": 417
-        },
-        "ref": "e3",
-        "role": "",
-        "selector": "input#lastName",
-        "tag": "input",
-        "text": "",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "",
-        "placeholder": "name@work-email.com",
-        "rect": {
-          "h": 56,
-          "w": 432,
-          "x": 416,
-          "y": 489
-        },
-        "ref": "e4",
-        "role": "",
-        "selector": "input#email",
-        "tag": "input",
-        "text": "",
-        "type": ""
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 48,
-          "w": 432,
-          "x": 416,
-          "y": 647
-        },
-        "ref": "e5",
-        "role": "",
-        "selector": "div.fPSBzf > div.eGhpTr > div.fPSBzf:nth-of-type(2) > div:nth-of-type(4) > form.fPSBzf > button.hLtpET",
-        "tag": "button",
-        "text": "Continue",
-        "type": "submit"
-      },
-      {
-        "ariaLabel": "",
-        "href": "",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 16,
-          "w": 40,
-          "x": 684,
-          "y": 721
-        },
-        "ref": "e6",
-        "role": "",
-        "selector": "div#_r_n_ > div.fPSBzf > div.eGhpTr > div.fPSBzf:nth-of-type(2) > div.jvkBsv:nth-of-type(5) > button",
-        "tag": "button",
-        "text": "Log in",
-        "type": "button"
-      }
-    ],
-    "title": "Contra - The network for creative intelligence.",
-    "url": "https://contra.com/?view=projects"
+    "filled": true,
+    "length": 6,
+    "mode": "instant-background",
+    "verified": true,
+    "via": "ref"
   }
 }
