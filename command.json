@@ -1,1 +1,1 @@
-{"cmd_seq": 1953, "action": "execute", "args": {"tabId": 1762281696, "fn": "() => { window.close(); return 'ok'; }"}}
+{"cmd_seq": 1954, "action": "open", "args": {"url": "https://www.reddit.com/r/forhire/search.json?q=%22%5BHiring%5D%22+website&restrict_sr=on&sort=new&t=year&limit=15&raw_json=1"}}
