@@ -1,14 +1,12 @@
 {
-  "id": 1159,
-  "action": "click",
+  "id": 1160,
+  "action": "wait",
   "ok": true,
-  "seq": 1159,
-  "tookMs": 477,
+  "seq": 1160,
+  "tookMs": 2009,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:01:48.906Z",
+  "ts": "2026-10-25T03:01:55.026Z",
   "result": {
-    "clicked": true,
-    "selector": "button._1bsa7o5r",
-    "via": "selector"
+    "waited": 2000
   }
 }
