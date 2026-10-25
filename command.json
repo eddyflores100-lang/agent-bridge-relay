@@ -1,1 +1,1 @@
-{"cmd_seq": 2023, "action": "execute", "args": {"tabId": 1762282341, "fn": "() => { window.close(); return 1; }"}}
+{"cmd_seq": 2024, "action": "open", "args": {"url": "https://austin.craigslist.org/search/ggg?query=website&sort=date"}}
