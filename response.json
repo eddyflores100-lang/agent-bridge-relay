@@ -1,14 +1,14 @@
 {
-  "id": 1610,
+  "id": 1611,
   "action": "snapshot",
   "ok": true,
-  "seq": 1610,
-  "tookMs": 33,
+  "seq": 1611,
+  "tookMs": 21,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:30:40.604Z",
+  "ts": "2026-10-25T15:30:48.704Z",
   "result": {
     "challenge": null,
-    "count": 12,
+    "count": 11,
     "elements": [
       {
         "ariaLabel": "Volver a la pantalla anterior",
@@ -65,24 +65,6 @@
         "type": "link"
       },
       {
-        "ariaLabel": "Año",
-        "href": "",
-        "name": "",
-        "placeholder": "",
-        "rect": {
-          "h": 24,
-          "w": 31,
-          "x": 732,
-          "y": 354
-        },
-        "ref": "e3",
-        "role": "",
-        "selector": "input#\\:r0\\:-year-input",
-        "tag": "input",
-        "text": "1976",
-        "type": "text"
-      },
-      {
         "ariaLabel": "",
         "href": "",
         "name": "numeroDocumento",
@@ -93,11 +75,11 @@
           "x": 596,
           "y": 447
         },
-        "ref": "e4",
+        "ref": "e3",
         "role": "",
         "selector": "input#numeroDocumento",
         "tag": "input",
-        "text": "",
+        "text": "1713289682",
         "type": "text"
       },
       {
@@ -111,7 +93,7 @@
           "x": 596,
           "y": 551
         },
-        "ref": "e5",
+        "ref": "e4",
         "role": "",
         "selector": "input#numero",
         "tag": "input",
@@ -129,7 +111,7 @@
           "x": 511,
           "y": 673
         },
-        "ref": "e6",
+        "ref": "e5",
         "role": "",
         "selector": "[data-testid=\"registro-terminos-link\"]",
         "tag": "a",
@@ -147,7 +129,7 @@
           "x": 448,
           "y": 709
         },
-        "ref": "e7",
+        "ref": "e6",
         "role": "",
         "selector": "[data-testid=\"registro-proteccion-datos-privacidad-link\"]",
         "tag": "a",
@@ -165,7 +147,7 @@
           "x": 539,
           "y": 835
         },
-        "ref": "e8",
+        "ref": "e7",
         "role": "",
         "selector": "button#crearCuenta",
         "tag": "button",
@@ -183,7 +165,7 @@
           "x": 609,
           "y": 923
         },
-        "ref": "e9",
+        "ref": "e8",
         "role": "",
         "selector": "[data-testid=\"registro-login-link\"]",
         "tag": "a",
@@ -201,7 +183,7 @@
           "x": 527,
           "y": 1055
         },
-        "ref": "e10",
+        "ref": "e9",
         "role": "",
         "selector": "div.sc-htoDjs:nth-of-type(1) > div.sc-dnqmqq > div.sc-fhYwyz > div.sc-jzgbtB > div.sc-gJWqzi:nth-of-type(1) > a.sc-rBLzX",
         "tag": "a",
@@ -219,7 +201,7 @@
           "x": 649,
           "y": 1055
         },
-        "ref": "e11",
+        "ref": "e10",
         "role": "",
         "selector": "div.sc-htoDjs:nth-of-type(1) > div.sc-dnqmqq > div.sc-fhYwyz > div.sc-jzgbtB > div.sc-gJWqzi:nth-of-type(2) > a.sc-rBLzX",
         "tag": "a",
