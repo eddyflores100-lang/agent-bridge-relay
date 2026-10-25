@@ -1,1 +1,1 @@
-{"cmd_seq": 1280, "action": "open", "args": {"url": "https://contra.com/signup", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1281, "action": "snapshot", "args": {"maxEls": 140}}
