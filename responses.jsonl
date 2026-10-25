@@ -101,3 +101,4 @@
 {"id":1198,"action":"click","ok":true,"seq":1198,"tookMs":366,"version":"2.2.3","ts":"2026-10-25T03:06:21.405Z","result":{"clicked":true,"selector":"div.ja73c14 > div._1bsa7o5w:nth-of-type(2) > div.nnpxsm187 > div.nnpxsm0:nth-of-type(4) > div.nnpxsm0:nth-of-type(2) > button._1bsa7o5r:nth-of-type(2)","via":"selector"}}
 {"id":1199,"action":"wait","ok":true,"seq":1199,"tookMs":2515,"version":"2.2.3","ts":"2026-10-25T03:06:26.955Z","result":{"waited":2500}}
 {"id":1200,"action":"gethtml","ok":false,"seq":1200,"tookMs":11,"version":"2.2.3","ts":"2026-10-25T03:06:31.133Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
+{"id":1201,"action":"click","ok":true,"seq":1201,"tookMs":470,"version":"2.2.3","ts":"2026-10-25T03:06:45.146Z","result":{"clicked":true,"selector":"button._1bsa7o5r","via":"selector"}}
