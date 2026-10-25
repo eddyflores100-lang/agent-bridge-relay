@@ -1,15 +1,14 @@
 {
-  "id": 1481,
-  "action": "open",
+  "id": 1482,
+  "action": "geturl",
   "ok": true,
-  "seq": 1481,
-  "tookMs": 4710,
+  "seq": 1482,
+  "tookMs": 8,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:34:24.818Z",
+  "ts": "2026-10-25T04:34:30.025Z",
   "result": {
-    "tabId": 1762281357,
     "url": "https://www.codementor.io/",
-    "reused": true,
-    "loadState": "complete"
+    "title": "Codementor | Get live 1:1 coding help, hire a developer, & more",
+    "tabId": 1762281357
   }
 }
