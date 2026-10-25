@@ -1,1 +1,1 @@
-{"cmd_seq": 1629, "action": "switchtab", "args": {"tabId": 1762281357, "realSwitch": true}}
+{"cmd_seq": 1630, "action": "snapshot", "args": {"maxEls": 200}}
