@@ -1,13 +1,15 @@
 {
-  "id": 2125,
+  "id": 2126,
   "action": "navigate",
-  "ok": false,
-  "seq": 2125,
-  "tookMs": 1,
+  "ok": true,
+  "seq": 2126,
+  "tookMs": 4340,
   "version": "2.3.0",
-  "ts": "2026-10-25T19:10:42.009Z",
-  "error": {
-    "code": "BLOCKED_URL",
-    "message": "denylist (/^about:/i)"
+  "ts": "2026-10-25T19:10:52.177Z",
+  "result": {
+    "url": "https://boston.craigslist.org/search/ggg?query=web&sort=date",
+    "loadState": "complete",
+    "tabId": 1762282395,
+    "background": true
   }
 }
