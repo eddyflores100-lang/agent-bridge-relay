@@ -1,1 +1,1 @@
-{"cmd_seq": 838, "action": "screenshot", "args": {"tabId": 1762281349, "quality": 55}}
+{"cmd_seq": 839, "action": "clicktext", "args": {"text": "Create your profile", "tabId": 1762281349}}
