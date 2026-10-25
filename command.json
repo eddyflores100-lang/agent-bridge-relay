@@ -1,1 +1,1 @@
-{"cmd_seq": 1522, "action": "open", "args": {"url": "https://www.soyfreelancer.com/registro", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1523, "action": "geturl", "args": {}}
