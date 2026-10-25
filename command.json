@@ -1,1 +1,1 @@
-{"cmd_seq": 878, "action": "gethtml", "args": {"selector": "div.ja73cu", "tabId": 1762281357}}
+{"cmd_seq": 879, "action": "click", "args": {"selector": "div.ja73cu svg[data-track-tag=\"pencil_icon\"]", "tabId": 1762281357}}
