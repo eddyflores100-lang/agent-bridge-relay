@@ -1,1 +1,1 @@
-{"cmd_seq": 1052, "action": "wait", "args": {"ms": 2000}}
+{"cmd_seq": 1053, "action": "click", "args": {"selector": "li[data-track-value=\"INTERMEDIATE\"] label", "tabId": 1762281357}}
