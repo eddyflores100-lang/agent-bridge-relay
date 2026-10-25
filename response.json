@@ -1,14 +1,13 @@
 {
-  "id": 1260,
-  "action": "click",
+  "id": 1261,
+  "action": "check",
   "ok": true,
-  "seq": 1260,
-  "tookMs": 209,
+  "seq": 1261,
+  "tookMs": 711,
   "version": "2.2.3",
-  "ts": "2026-10-25T03:15:04.030Z",
+  "ts": "2026-10-25T03:15:06.925Z",
   "result": {
-    "clicked": true,
-    "selector": "div.nnpxsm187 > div.nnpxsm187 > div.ja73c14:nth-of-type(1) > div._1bsa7o5w > div.ja73cu:nth-of-type(1) > input.evy0qv8",
-    "via": "selector"
+    "checked": false,
+    "verified": false
   }
 }
