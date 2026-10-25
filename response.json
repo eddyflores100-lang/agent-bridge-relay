@@ -1,14 +1,16 @@
 {
-  "id": 1553,
-  "action": "geturl",
+  "id": 1554,
+  "action": "switchtab",
   "ok": true,
-  "seq": 1553,
-  "tookMs": 8,
+  "seq": 1554,
+  "tookMs": 11,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:41:38.664Z",
+  "ts": "2026-10-25T04:41:42.291Z",
   "result": {
-    "url": "https://torre.ai/es?r=27saDYgI",
+    "tabId": 1762281357,
     "title": "La red global de trabajos | Torre.ai",
-    "tabId": 1762281357
+    "url": "https://torre.ai/es?r=27saDYgI",
+    "activated": true,
+    "targeted": true
   }
 }
