@@ -1,16 +1,15 @@
 {
-  "id": 1302,
-  "action": "fill",
+  "id": 1303,
+  "action": "open",
   "ok": true,
-  "seq": 1302,
-  "tookMs": 43,
+  "seq": 1303,
+  "tookMs": 6938,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:10:14.367Z",
+  "ts": "2026-10-25T04:10:24.727Z",
   "result": {
-    "filled": true,
-    "length": 23,
-    "mode": "instant-background",
-    "verified": true,
-    "via": "ref"
+    "tabId": 1762281357,
+    "url": "https://www.seoclerks.com/signup",
+    "reused": true,
+    "loadState": "complete"
   }
 }
