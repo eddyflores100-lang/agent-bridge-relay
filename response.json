@@ -1,14 +1,143 @@
 {
-  "id": 1343,
-  "action": "clicktext",
+  "id": 1344,
+  "action": "snapshot",
   "ok": true,
-  "seq": 1343,
-  "tookMs": 46,
+  "seq": 1344,
+  "tookMs": 31,
   "version": "2.2.3",
-  "ts": "2026-10-25T04:14:15.992Z",
+  "ts": "2026-10-25T04:14:22.018Z",
   "result": {
-    "clicked": true,
-    "selector": "nav.navbar-default:nth-of-type(1) > div.container > div.collapse:nth-of-type(2) > ul.nav:nth-of-type(2) > li:nth-of-type(3) > a.text-info",
-    "via": "clicktext"
+    "challenge": null,
+    "count": 7,
+    "elements": [
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 24,
+          "w": 108,
+          "x": 1110,
+          "y": 30
+        },
+        "ref": "e0",
+        "role": "",
+        "selector": "div.page-wrapper > div.customer-retention > div.onboarding-container:nth-of-type(2) > div.content > div.hubstaff-logo:nth-of-type(1) > a",
+        "tag": "a",
+        "text": "",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "user[email]",
+        "placeholder": "Enter email",
+        "rect": {
+          "h": 40,
+          "w": 456,
+          "x": 711,
+          "y": 411
+        },
+        "ref": "e1",
+        "role": "",
+        "selector": "input#user_email",
+        "tag": "input",
+        "text": "",
+        "type": "email"
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "user[password]",
+        "placeholder": "Enter password",
+        "rect": {
+          "h": 40,
+          "w": 456,
+          "x": 711,
+          "y": 496
+        },
+        "ref": "e2",
+        "role": "",
+        "selector": "input#user_password",
+        "tag": "input",
+        "text": "",
+        "type": "password"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://account.hubstaff.com/forgot_password",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 16,
+          "w": 124,
+          "x": 1043,
+          "y": 548
+        },
+        "ref": "e3",
+        "role": "",
+        "selector": "[data-testid=\"login-forgot-password-link\"]",
+        "tag": "a",
+        "text": "Forgot your password?",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "",
+        "name": "button",
+        "placeholder": "",
+        "rect": {
+          "h": 43,
+          "w": 456,
+          "x": 711,
+          "y": 585
+        },
+        "ref": "e4",
+        "role": "",
+        "selector": "[data-testid=\"login-submit\"]",
+        "tag": "button",
+        "text": "Sign in",
+        "type": "submit"
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://account.hubstaff.com/sso_login",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 97,
+          "x": 890,
+          "y": 648
+        },
+        "ref": "e5",
+        "role": "",
+        "selector": "[data-testid=\"login-sso-link\"]",
+        "tag": "a",
+        "text": "Log in with SSO",
+        "type": ""
+      },
+      {
+        "ariaLabel": "",
+        "href": "https://hubstafftalent.net/signup",
+        "name": "",
+        "placeholder": "",
+        "rect": {
+          "h": 20,
+          "w": 70,
+          "x": 977,
+          "y": 719
+        },
+        "ref": "e6",
+        "role": "",
+        "selector": "div.content > div.form-wrapper:nth-of-type(2) > div.form > div.footer:nth-of-type(2) > div.signup > a",
+        "tag": "a",
+        "text": "Get started",
+        "type": ""
+      }
+    ],
+    "title": "Hubstaff Account",
+    "url": "https://account.hubstaff.com/login"
   }
 }
