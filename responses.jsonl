@@ -1,1 +1,2 @@
 {"id":1095,"action":"type","ok":true,"seq":1095,"tookMs":115,"version":"2.2.3","ts":"2026-10-25T02:51:47.542Z","result":{"filled":true,"length":9,"mode":"instant-background","verified":true,"via":"selector"}}
+{"id":1096,"action":"wait","ok":true,"seq":1096,"tookMs":2511,"version":"2.2.3","ts":"2026-10-25T02:51:52.976Z","result":{"waited":2500}}
