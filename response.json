@@ -1,14 +1,15 @@
 {
-  "id": 1616,
-  "action": "geturl",
+  "id": 1617,
+  "action": "open",
   "ok": true,
-  "seq": 1616,
-  "tookMs": 9,
+  "seq": 1617,
+  "tookMs": 6499,
   "version": "2.2.3",
-  "ts": "2026-10-25T15:31:54.429Z",
+  "ts": "2026-10-25T15:33:26.242Z",
   "result": {
     "tabId": 1762281357,
-    "title": "Create an account",
-    "url": "https://hubstafftalent.net/signup"
+    "url": "https://www.soyfreelancer.com/ingresar",
+    "reused": true,
+    "loadState": "complete"
   }
 }
