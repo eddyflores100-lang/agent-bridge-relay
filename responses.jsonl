@@ -120,3 +120,4 @@
 {"id":1218,"action":"check","ok":false,"seq":1218,"tookMs":15,"version":"2.2.3","ts":"2026-10-25T03:08:38.827Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":1219,"action":"wait","ok":true,"seq":1219,"tookMs":1514,"version":"2.2.3","ts":"2026-10-25T03:08:43.737Z","result":{"waited":1500}}
 {"id":1220,"action":"gethtml","ok":false,"seq":1220,"tookMs":12,"version":"2.2.3","ts":"2026-10-25T03:08:46.879Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
+{"id":1221,"action":"scrollintoview","ok":true,"seq":1221,"tookMs":1127,"version":"2.2.3","ts":"2026-10-25T03:09:05.575Z","result":{"selector":"div.nnpxsm187 > div.ja73c1j:nth-of-type(2) > div._1bsa7o5k:nth-of-type(2) > div.nnpxsm0:nth-of-type(2) > div.nnpxsm0:nth-of-type(1) > div.ja73c14","visible":false}}
