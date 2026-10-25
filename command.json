@@ -1,1 +1,1 @@
-{"cmd_seq": 1292, "action": "open", "args": {"url": "https://www.computrabajo.com/", "reuse": true, "waitMs": 9000}}
+{"cmd_seq": 1293, "action": "snapshot", "args": {"maxEls": 140}}
