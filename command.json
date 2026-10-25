@@ -1,1 +1,1 @@
-{"cmd_seq": 2099, "action": "navigate", "args": {"url": "https://austin.craigslist.org/search/ggg?query=automation&sort=date", "tabId": 1762282395}}
+{"cmd_seq": 2100, "action": "snapshot", "args": {"tabId": 1762282395, "maxEls": 250}}
