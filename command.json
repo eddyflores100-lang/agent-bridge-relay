@@ -1,1 +1,1 @@
-{"cmd_seq": 1766, "action": "click", "args": {"tabId": 1762281507, "selector": "[data-testid=\"got-it-btn\"]"}}
+{"cmd_seq": 1767, "action": "clicktext", "args": {"tabId": 1762281507, "text": "Login", "contains": true}}
