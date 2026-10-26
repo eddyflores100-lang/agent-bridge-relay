@@ -1,14 +1,13 @@
 {
-  "id": 2354,
-  "action": "click",
-  "ok": false,
-  "seq": 2354,
-  "tookMs": 22,
+  "id": 2355,
+  "action": "gethtml",
+  "ok": true,
+  "seq": 2355,
+  "tookMs": 51,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:54:37.706Z",
-  "error": {
-    "code": "OBSCURED",
-    "hint": "click al tapador: selector div#react-select-country-option-7 o cierra el modal/banner",
-    "message": "elemento tapado por div \"Angola +244\""
+  "ts": "2026-10-26T02:55:07.789Z",
+  "result": {
+    "text": "<div class=\"select__option select__option--is-focused remix-css-1n68om0-option\" aria-disabled=\"false\" id=\"react-select-question_20325498004-option-0\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">Immediately Available</div><div class=\"select__option remix-css-1u2h8b-option\" aria-disabled=\"false\" id=\"react-select-question_20325498004-option-1\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">1 Month</div><div class=\"select__option remix-css-1u2h8b-option\" aria-disabled=\"false\" id=\"react-select-question_20325498004-option-2\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">2 Months</div><div class=\"select__option remix-css-1u2h8b-option\" aria-disabled=\"false\" id=\"react-select-question_20325498004-option-3\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">3 Months</div><div class=\"select__option remix-css-1u2h8b-option\" aria-disabled=\"false\" id=\"react-select-question_20325498004-option-4\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">3+ Months</div>",
+    "via": "selector"
   }
 }
