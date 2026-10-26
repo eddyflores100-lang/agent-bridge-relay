@@ -1,14 +1,14 @@
 {
-  "id": 2441,
-  "action": "click",
-  "ok": false,
-  "seq": 2441,
-  "tookMs": 49,
+  "id": 2442,
+  "action": "clicktext",
+  "ok": true,
+  "seq": 2442,
+  "tookMs": 439,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:46:21.367Z",
-  "error": {
-    "code": "OBSCURED",
-    "hint": "click al tapador: selector form#application-form > div.application--questions:nth-of-type(2) > div.field-wrapper:nth-of-type(2) > div.text-input-wrapper o cierra el modal/banner",
-    "message": "elemento tapado por div \"What are your salary expectations*\n\nThis field is required.\""
+  "ts": "2026-10-26T04:46:25.342Z",
+  "result": {
+    "clicked": true,
+    "selector": "html > body > main.main > div.job__embedded-wrapper",
+    "via": "clicktext"
   }
 }
