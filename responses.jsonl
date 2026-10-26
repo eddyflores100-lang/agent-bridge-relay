@@ -103,3 +103,4 @@
 {"id":2403,"action":"remotesync","ok":true,"seq":2403,"tookMs":42,"version":"2.5.0","ts":"2026-10-26T04:34:17.170Z","result":{"ok":true,"patchVersion":"2.5.0","fresh":false}}
 {"id":2404,"action":"patchstatus","ok":true,"seq":2404,"tookMs":4,"version":"2.5.0","ts":"2026-10-26T04:34:21.873Z","result":{"kernel":"2.5.0","patch":{"version":"2.5.0","at":1792989229405,"bytes":19756},"flags":{"autoApply":true}}}
 {"id":2405,"action":"evaljs","ok":true,"seq":2405,"tookMs":601,"version":"2.5.0","ts":"2026-10-26T04:34:25.175Z","result":{"value":5,"type":"number","tabId":1762282068}}
+{"id":2406,"action":"evaljs","ok":true,"seq":2406,"tookMs":145,"version":"2.5.0","ts":"2026-10-26T04:34:28.286Z","result":{"value":"2.5.0","type":"string","tabId":1762282068}}
