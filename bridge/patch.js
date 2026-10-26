@@ -4,7 +4,7 @@
  * instaladas. Cero reinstalaciones. Versioned por __v.
  */
 (function () {
-  const V = "2.5.0";
+  const V = "2.5.1";
   if (window.__ABPATCH && window.__ABPATCH.__v === V) {
     return { already: true, patched: true, version: V };
   }
