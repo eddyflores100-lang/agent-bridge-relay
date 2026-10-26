@@ -1,14 +1,20 @@
 {
-  "id": 2403,
-  "action": "remotesync",
+  "id": 2404,
+  "action": "patchstatus",
   "ok": true,
-  "seq": 2403,
-  "tookMs": 42,
+  "seq": 2404,
+  "tookMs": 4,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:34:17.170Z",
+  "ts": "2026-10-26T04:34:21.873Z",
   "result": {
-    "ok": true,
-    "patchVersion": "2.5.0",
-    "fresh": false
+    "kernel": "2.5.0",
+    "patch": {
+      "version": "2.5.0",
+      "at": 1792989229405,
+      "bytes": 19756
+    },
+    "flags": {
+      "autoApply": true
+    }
   }
 }
