@@ -1,1 +1,1 @@
-{"cmd_seq": 2403, "action": "remotesync", "args": {"force": true}}
+{"cmd_seq": 2404, "action": "patchstatus", "args": {}}
