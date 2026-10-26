@@ -1,18 +1,12 @@
 {
-  "id": 2292,
-  "action": "ping",
+  "id": 2293,
+  "action": "listtabs",
   "ok": true,
-  "seq": 2292,
-  "tookMs": 28,
+  "seq": 2293,
+  "tookMs": 12,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:10:07.918Z",
+  "ts": "2026-10-26T02:11:07.740Z",
   "result": {
-    "pong": true,
-    "version": "2.4.0",
-    "stealth": true,
-    "bridgeTabId": null,
-    "poller": null,
-    "tabsAbiertas": 41,
     "tabs": [
       {
         "tabId": 1762282068,
@@ -153,23 +147,83 @@
         "url": "https://gemini.google.com/app/bba70773eac68750?hl=es&canvas-id=im_874d81fc7c35f1d7",
         "active": false,
         "who": null
+      },
+      {
+        "tabId": 1762282696,
+        "title": "Help my build AI agent - $1,000 - Airtasker",
+        "url": "https://www.airtasker.com/tasks/help-my-build-ai-agent-x01m5ktcpm5f1phpwxtk2kjm6fq/",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762282138,
+        "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon: Build the conversational experiences of tomorrow - Devpost",
+        "url": "https://aws-cds-partner.devpost.com/",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762282141,
+        "title": "Hotmart",
+        "url": "https://app.hotmart.com/tools/webhook/auth",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762282144,
+        "title": "(21) Messenger | Freelancer",
+        "url": "https://www.freelancer.com/messages/thread/444615925",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762282705,
+        "title": "Products",
+        "url": "https://gumroad.com/products",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762282153,
+        "title": "Your profile was rejected - eddyflores100@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQjggfsbHXKsncwdjRCXFQLZHhT",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762282860,
+        "title": "Hire Freelancers & Remote Workers For Free",
+        "url": "https://hubstafftalent.net/profiles/edison-flores/edit",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762282165,
+        "title": "Explotar AliceLabs en USA",
+        "url": "https://chatgpt.com/c/6add6f5d-b968-83e9-860b-2e6c7da5f730",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762282168,
+        "title": "C&D Municipal Sales, Maryland Seeks Agency for WordPress Website Redesign and Manufacturer Directory Development (Client Budget: $5,000) – Upscale Method",
+        "url": "https://upscalemethod.com/cd_maryland_wordpressredesign_development_5k/?utm_source=chatgpt.com",
+        "active": false,
+        "who": null
+      },
+      {
+        "tabId": 1762282711,
+        "title": "Account settings ・ Render Dashboard",
+        "url": "https://dashboard.render.com/u/usr-d4blj8ripnbc73a67c9g/settings",
+        "active": false,
+        "who": null
       }
     ],
-    "rate": {
-      "maxPerMin": 90
-    },
-    "fastMode": false,
+    "bridgeTabId": null,
     "control": {
       "human": 0,
       "agent": 0,
       "total": 0
-    },
-    "needsHelp": false,
-    "helpTabs": [],
-    "parallel": [
-      "openmany",
-      "parallel",
-      "batch"
-    ]
+    }
   }
 }
