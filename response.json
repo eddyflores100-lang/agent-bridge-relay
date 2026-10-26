@@ -1,13 +1,13 @@
 {
-  "id": 2390,
+  "id": 2391,
   "action": "gethtml",
   "ok": false,
-  "seq": 2390,
-  "tookMs": 10,
+  "seq": 2391,
+  "tookMs": 15,
   "version": "2.4.0",
-  "ts": "2026-10-26T03:13:37.703Z",
+  "ts": "2026-10-26T03:14:07.717Z",
   "error": {
     "code": "INVALID_ARGS",
-    "message": "selector CSS invalido: Failed to execute 'querySelector' on 'Document': 'div.select__value-container:has(input#4024325004)' is not a valid selector."
+    "message": "selector CSS invalido: Failed to execute 'querySelector' on 'Document': 'div.select__value-container:has(input#4024326004)' is not a valid selector."
   }
 }
