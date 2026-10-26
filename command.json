@@ -1,1 +1,1 @@
-{"cmd_seq": 2383, "action": "press", "args": {"tabId": 1762282888, "selector": "input#country", "key": "Escape"}}
+{"cmd_seq": 2384, "action": "click", "args": {"tabId": 1762282888, "selector": "input#country"}}
