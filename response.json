@@ -1,16 +1,16 @@
 {
-  "id": 2348,
-  "action": "fill",
+  "id": 2349,
+  "action": "upload",
   "ok": true,
-  "seq": 2348,
-  "tookMs": 88,
+  "seq": 2349,
+  "tookMs": 10028,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:51:37.763Z",
+  "ts": "2026-10-26T02:52:17.728Z",
   "result": {
-    "filled": true,
-    "length": 55,
-    "mode": "instant-background",
-    "verified": true,
-    "via": "selector"
+    "uploaded": true,
+    "tabId": 1762282888,
+    "input": "input#cover_letter",
+    "file": "C:\\Users\\Usuario\\Downloads\\Edison_Flores_Resume.pdf",
+    "bytes": 42332
   }
 }
