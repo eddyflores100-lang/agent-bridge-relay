@@ -129,3 +129,4 @@
 {"id":2431,"action":"fill","ok":true,"seq":2431,"tookMs":59,"version":"2.5.0","ts":"2026-10-26T04:45:33.627Z","result":{"filled":true,"length":6,"mode":"instant-background","verified":true,"via":"selector"}}
 {"id":2432,"action":"fill","ok":true,"seq":2432,"tookMs":115,"version":"2.5.0","ts":"2026-10-26T04:45:37.403Z","result":{"filled":true,"length":23,"mode":"instant-background","verified":true,"via":"selector"}}
 {"id":2433,"action":"fill","ok":true,"seq":2433,"tookMs":287,"version":"2.5.0","ts":"2026-10-26T04:45:41.446Z","result":{"filled":true,"length":55,"mode":"instant-background","verified":true,"via":"selector"}}
+{"id":2434,"action":"upload","ok":true,"seq":2434,"tookMs":9073,"version":"2.5.0","ts":"2026-10-26T04:45:54.117Z","result":{"uploaded":true,"tabId":1762282953,"input":"input#cover_letter","file":"C:\\Users\\Usuario\\Downloads\\agent-bridge-v2.5.0-FIX\\Edison_Flores_Resume.pdf","bytes":42332}}
