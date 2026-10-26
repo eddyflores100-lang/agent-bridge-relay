@@ -1,14 +1,14 @@
 {
-  "id": 2461,
-  "action": "fill",
+  "id": 2462,
+  "action": "click",
   "ok": false,
-  "seq": 2461,
-  "tookMs": 30,
+  "seq": 2462,
+  "tookMs": 22,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:51:39.299Z",
+  "ts": "2026-10-26T04:51:43.202Z",
   "error": {
-    "code": "NOT_VISIBLE",
-    "hint": "scrollintoview",
-    "message": "no visible (obscured)"
+    "code": "OBSCURED",
+    "hint": "click al tapador: selector form#application-form > div.application--questions:nth-of-type(2) > div.field-wrapper:nth-of-type(9) > div.select o cierra el modal/banner",
+    "message": "elemento tapado por div \"Do you have 3+ months of internship/work experience?*\nYes\nYe\""
   }
 }
