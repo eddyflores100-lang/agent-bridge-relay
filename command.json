@@ -1,1 +1,1 @@
-{"cmd_seq": 2269, "action": "gettext", "args": {"tabId": 1762282863}}
+{"cmd_seq": 2270, "action": "gethtml", "args": {"tabId": 1762282863, "selector": "form"}}
