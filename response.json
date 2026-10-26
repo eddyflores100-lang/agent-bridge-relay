@@ -1,14 +1,13 @@
 {
-  "id": 2322,
-  "action": "click",
-  "ok": false,
-  "seq": 2322,
-  "tookMs": 14,
+  "id": 2323,
+  "action": "gethtml",
+  "ok": true,
+  "seq": 2323,
+  "tookMs": 50,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:32:37.686Z",
-  "error": {
-    "code": "OBSCURED",
-    "hint": "click al tapador: selector div#react-select-country-option-7 o cierra el modal/banner",
-    "message": "elemento tapado por div \"Angola +244\""
+  "ts": "2026-10-26T02:33:07.726Z",
+  "result": {
+    "text": "<div class=\"select__option select__option--is-focused remix-css-1n68om0-option\" aria-disabled=\"false\" id=\"react-select-question_20325496004-option-0\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">Yes</div><div class=\"select__option remix-css-1u2h8b-option\" aria-disabled=\"false\" id=\"react-select-question_20325496004-option-1\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">No</div>",
+    "via": "selector"
   }
 }
