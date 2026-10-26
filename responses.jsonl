@@ -25,3 +25,4 @@
 {"id":2325,"action":"click","ok":true,"seq":2325,"tookMs":56,"version":"2.4.0","ts":"2026-10-26T02:35:37.755Z","result":{"clicked":true,"selector":"input#question_20325496004","via":"selector"}}
 {"id":2326,"action":"gethtml","ok":false,"seq":2326,"tookMs":10,"version":"2.4.0","ts":"2026-10-26T02:36:07.711Z","error":{"code":"TARGET_NOT_FOUND","hint":"prueba snapshot","message":"selector sin match"}}
 {"id":2327,"action":"press","ok":true,"seq":2327,"tookMs":39,"version":"2.4.0","ts":"2026-10-26T02:36:37.711Z","result":{"pressed":"ArrowDown"}}
+{"id":2328,"action":"press","ok":true,"seq":2328,"tookMs":38,"version":"2.4.0","ts":"2026-10-26T02:37:07.727Z","result":{"pressed":"ArrowDown"}}
