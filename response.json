@@ -1,20 +1,46 @@
 {
-  "id": 2424,
-  "action": "patchstatus",
+  "id": 2425,
+  "action": "openmany",
   "ok": true,
-  "seq": 2424,
-  "tookMs": 4,
+  "seq": 2425,
+  "tookMs": 11023,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:42:26.239Z",
+  "ts": "2026-10-26T04:42:42.937Z",
   "result": {
-    "kernel": "2.5.0",
-    "patch": {
-      "version": "2.5.0",
-      "at": 1792989229405,
-      "bytes": 19756
-    },
-    "flags": {
-      "autoApply": true
-    }
+    "opened": [
+      {
+        "tabId": 1762282953,
+        "url": "https://job-boards.greenhouse.io/embed/job_app?for=wppproduction&token=6228187004",
+        "loadState": "complete",
+        "patched": true
+      },
+      {
+        "tabId": 1762282954,
+        "url": "https://job-boards.greenhouse.io/embed/job_app?for=gapinternational&token=6233824004",
+        "loadState": "complete",
+        "patched": true
+      },
+      {
+        "tabId": 1762282955,
+        "url": "https://job-boards.greenhouse.io/embed/job_app?for=sezzle&token=8040652003",
+        "loadState": "complete",
+        "patched": true
+      },
+      {
+        "tabId": 1762282956,
+        "url": "https://job-boards.greenhouse.io/embed/job_app?for=topsteptrader&token=8039087003",
+        "loadState": "complete",
+        "patched": true
+      }
+    ],
+    "failed": [],
+    "count": 4,
+    "tabIds": [
+      1762282953,
+      1762282954,
+      1762282955,
+      1762282956
+    ],
+    "parallel": true
   }
 }
