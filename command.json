@@ -1,1 +1,1 @@
-{"cmd_seq": 2357, "action": "gethtml", "args": {"tabId": 1762282888, "selector": "div.select__value-container:has(input#question_20325498004)", "outer": true}}
+{"cmd_seq": 2358, "action": "press", "args": {"tabId": 1762282888, "selector": "input#question_20325498004", "key": "ArrowDown"}}
