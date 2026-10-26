@@ -1,1 +1,1 @@
-{"cmd_seq": 2392, "action": "gethtml", "args": {"tabId": 1762282888, "selector": "div.select__value-container:has(input#4024327004)", "outer": true}}
+{"cmd_seq": 2393, "action": "getattr", "args": {"tabId": 1762282888, "selector": "#first_name", "attr": "value"}}
