@@ -1,1 +1,1 @@
-{"cmd_seq": 2451, "action": "clicktext", "args": {"tabId": 1762282954, "text": "Submit application", "contains": true}}
+{"cmd_seq": 2452, "action": "gettext", "args": {"tabId": 1762282954}}
