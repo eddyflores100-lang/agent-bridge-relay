@@ -1,1 +1,1 @@
-{"cmd_seq": 2321, "action": "batch", "args": {"tabId": 1762282888, "ops": [{"action": "fill", "selector": "#last_name", "value": "Flores"}, {"action": "fill", "selector": "#email", "value": "eddyflores100@gmail.com"}]}}
+{"cmd_seq": 2322, "action": "click", "args": {"tabId": 1762282888, "selector": "input#question_20325496004"}}
