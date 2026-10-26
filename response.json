@@ -1,16 +1,14 @@
 {
-  "id": 2317,
-  "action": "fill",
-  "ok": true,
-  "seq": 2317,
-  "tookMs": 115,
+  "id": 2318,
+  "action": "click",
+  "ok": false,
+  "seq": 2318,
+  "tookMs": 16,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:28:07.816Z",
-  "result": {
-    "filled": true,
-    "length": 6,
-    "mode": "instant-background",
-    "verified": true,
-    "via": "selector"
+  "ts": "2026-10-26T02:28:37.704Z",
+  "error": {
+    "code": "OBSCURED",
+    "hint": "click al tapador: selector div#react-select-country-option-7 o cierra el modal/banner",
+    "message": "elemento tapado por div \"Angola +244\""
   }
 }
