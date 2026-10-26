@@ -1,14 +1,14 @@
 {
-  "id": 2450,
-  "action": "fill",
-  "ok": false,
-  "seq": 2450,
-  "tookMs": 13,
+  "id": 2451,
+  "action": "clicktext",
+  "ok": true,
+  "seq": 2451,
+  "tookMs": 105,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:49:53.333Z",
-  "error": {
-    "code": "NOT_VISIBLE",
-    "hint": "scrollintoview",
-    "message": "no visible (obscured)"
+  "ts": "2026-10-26T04:49:59.917Z",
+  "result": {
+    "clicked": true,
+    "selector": "form#application-form > div.application--submit:nth-of-type(3) > button.btn",
+    "via": "clicktext"
   }
 }
