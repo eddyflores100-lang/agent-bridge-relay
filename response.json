@@ -1,14 +1,12 @@
 {
-  "id": 2451,
-  "action": "clicktext",
+  "id": 2452,
+  "action": "gettext",
   "ok": true,
-  "seq": 2451,
-  "tookMs": 105,
+  "seq": 2452,
+  "tookMs": 45,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:49:59.917Z",
+  "ts": "2026-10-26T04:50:07.666Z",
   "result": {
-    "clicked": true,
-    "selector": "form#application-form > div.application--submit:nth-of-type(3) > button.btn",
-    "via": "clicktext"
+    "text": "Apply for this job\n\n*\n\nindicates a required field\n\nFirst Name*\nLast Name*\nEmail*\nPhone\nCountry\n+593\nPhone\nResume/CV*\n\nCV_Edison_Flores_Modern_EN.docx\n\nCover Letter\nAttach\nAttach\nDropbox\nEnter manually\nEnter manually\n\nAccepted file types: pdf, doc, docx, txt, rtf\n\nLinkedIn profile *\nPlease share a document/link to your portfolio*\nPlease share the specific job site in which you found this role *\n\nThis field is required.\n\nAre you legally eligible to work in the US?*\nYes\nWill you require sponsorship for employment visa status (e.g. H1-B or other work visa) in the future?*\noption No, selected.\nNo\nI certify that all statements made by me on this application are true and complete to the best of my knowledge and that I have withheld nothing which, if disclosed, would affect this application unfavorably. *\nYes\nYes\nNo\nSubmit application"
   }
 }
