@@ -1,13 +1,14 @@
 {
-  "id": 2355,
-  "action": "gethtml",
-  "ok": true,
-  "seq": 2355,
-  "tookMs": 51,
+  "id": 2356,
+  "action": "click",
+  "ok": false,
+  "seq": 2356,
+  "tookMs": 25,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:55:07.789Z",
-  "result": {
-    "text": "<div class=\"select__option select__option--is-focused remix-css-1n68om0-option\" aria-disabled=\"false\" id=\"react-select-question_20325498004-option-0\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">Immediately Available</div><div class=\"select__option remix-css-1u2h8b-option\" aria-disabled=\"false\" id=\"react-select-question_20325498004-option-1\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">1 Month</div><div class=\"select__option remix-css-1u2h8b-option\" aria-disabled=\"false\" id=\"react-select-question_20325498004-option-2\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">2 Months</div><div class=\"select__option remix-css-1u2h8b-option\" aria-disabled=\"false\" id=\"react-select-question_20325498004-option-3\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">3 Months</div><div class=\"select__option remix-css-1u2h8b-option\" aria-disabled=\"false\" id=\"react-select-question_20325498004-option-4\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">3+ Months</div>",
-    "via": "selector"
+  "ts": "2026-10-26T02:55:37.743Z",
+  "error": {
+    "code": "OBSCURED",
+    "hint": "click al tapador: selector div#react-select-country-listbox o cierra el modal/banner",
+    "message": "elemento tapado por div \"United States +1\nAfghanistan +93\nÅland Islands +358\nAlbania \""
   }
 }
