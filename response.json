@@ -1,14 +1,13 @@
 {
-  "id": 2356,
-  "action": "click",
-  "ok": false,
-  "seq": 2356,
-  "tookMs": 25,
+  "id": 2357,
+  "action": "gethtml",
+  "ok": true,
+  "seq": 2357,
+  "tookMs": 52,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:55:37.743Z",
-  "error": {
-    "code": "OBSCURED",
-    "hint": "click al tapador: selector div#react-select-country-listbox o cierra el modal/banner",
-    "message": "elemento tapado por div \"United States +1\nAfghanistan +93\nÅland Islands +358\nAlbania \""
+  "ts": "2026-10-26T02:56:07.769Z",
+  "result": {
+    "text": "<div class=\"select__value-container remix-css-hlgwow\"><div class=\"select__placeholder remix-css-1jqq78o-placeholder\" id=\"react-select-question_20325498004-placeholder\">Select...</div><div class=\"select__input-container remix-css-19bb58m\" data-value=\"\"><input class=\"select__input\" autocapitalize=\"none\" autocomplete=\"off\" autocorrect=\"off\" id=\"question_20325498004\" spellcheck=\"false\" tabindex=\"0\" type=\"text\" aria-autocomplete=\"list\" aria-expanded=\"true\" aria-haspopup=\"true\" aria-errormessage=\"question_20325498004-error\" aria-invalid=\"false\" aria-labelledby=\"question_20325498004-label\" aria-required=\"true\" role=\"combobox\" aria-activedescendant=\"react-select-question_20325498004-option-0\" aria-describedby=\"react-select-question_20325498004-placeholder question_20325498004-error\" enterkeyhint=\"done\" value=\"\" style=\"color: inherit; background: 0px center; opacity: 1; width: 100%; grid-area: 1 / 2; font: inherit; min-width: 2px; border: 0px; margin: 0px; outline: 0px; padding: 0px;\" aria-controls=\"react-select-question_20325498004-listbox\"></div></div>",
+    "via": "selector"
   }
 }
