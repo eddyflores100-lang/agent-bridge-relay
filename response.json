@@ -1,123 +1,12 @@
 {
-  "id": 2465,
-  "action": "filljob",
+  "id": 2466,
+  "action": "gettext",
   "ok": true,
-  "seq": 2465,
-  "tookMs": 166684,
+  "seq": 2466,
+  "tookMs": 43,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:54:43.758Z",
+  "ts": "2026-10-26T04:54:44.516Z",
   "result": {
-    "challenge": null,
-    "dropdowns": [
-      {
-        "id": "country",
-        "options": 244,
-        "picked": "Ecuador +593",
-        "value": null
-      },
-      {
-        "error": "sin opciones",
-        "id": "candidate-location"
-      },
-      {
-        "id": "question_33198908003",
-        "options": 2,
-        "picked": "Yes",
-        "value": null
-      },
-      {
-        "id": "question_33198909003",
-        "options": 2,
-        "picked": "No",
-        "value": null
-      }
-    ],
-    "errors": [
-      "Phone*",
-      "Phone*",
-      "Phone is required.",
-      "Location (City)*",
-      "Please enter your location",
-      "Resume/CV*",
-      "Resume/CV is required.",
-      "What is your desired compensation for this position?*"
-    ],
-    "filled": [
-      "first_name=Edison",
-      "last_name=Flores",
-      "preferred_name=Edison",
-      "email=eddyflores100@gmail.com",
-      "question_33198915003=https://github.com/eddyflores1",
-      "question_33198916003=https://github.com/eddyflores1"
-    ],
-    "key": "topsteptrader/8039087003",
-    "needsFile": true,
-    "pending": [
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      },
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      },
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      },
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      },
-      {
-        "id": "question_33198910003",
-        "label": "what is your desired compensation for this position?*",
-        "why": "sin regla"
-      },
-      {
-        "id": "question_33198911003",
-        "label": "what is your full legal name?*",
-        "why": "sin regla"
-      },
-      {
-        "id": "question_33198912003",
-        "label": "were you referred by a topstep team member? if yes, please provide their name.",
-        "why": "sin regla"
-      },
-      {
-        "id": "question_33198913003",
-        "label": "are you currently bound by any contractual obligations (e.g., non-compete, non-solicit, or confidentiality agreements) with a current or for",
-        "why": "sin regla"
-      },
-      {
-        "id": "question_33198914003",
-        "label": "why do you think you're a great fit for this role?",
-        "why": "sin regla"
-      },
-      {
-        "id": "candidate-location",
-        "why": "dropdown: sin opciones"
-      },
-      {
-        "id": "",
-        "why": "requerido vacio"
-      },
-      {
-        "id": "candidate-location",
-        "why": "dropdown requerido vacio"
-      }
-    ],
-    "radios": [],
-    "skipped": [
-      "phone (sin dato)"
-    ],
-    "submitted": false,
-    "url": "https://job-boards.greenhouse.io/embed/job_app?for=topsteptrader&token=8039087003",
-    "validation": "errores de validacion tras submit",
-    "tabId": 1762282956
+    "text": "Hi,\n\nThanks for your interest in this position at WPP Production! \n\nWe want to thank you for taking the time to send us information about yourself, and we want to assure you that your application will be considered very carefully.\n\nIf your experience and qualifications match our needs, you will hear from us by phone or email to schedule the next step in the process. All correspondence about opportunities at WPP Production will come from www.wppproduction.com email addresses. \n\nThanks,\nThe WPP Production Talent Acquisition team\n\nVer más puestos en WPP Production\nVolver a la oferta de empleo\n\nRastree su estado\n\nInicie sesión en MyGreenhouse para seguir su solicitud, recibir actualizaciones de estado y mucho más.\n\nInitial screen\n\nTeam interview\n\nOnsite interview\n\nOffer\n\nInicie sesión en MyGreenhouse"
   }
 }
