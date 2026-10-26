@@ -1,1 +1,1 @@
-{"cmd_seq": 2234, "action": "snapshot", "args": {"tabId": 1762282863, "maxEls": 250}}
+{"cmd_seq": 2235, "action": "navigate", "args": {"url": "https://my.greenhouse.io/jobs/search?query=graphic%20design", "tabId": 1762282863}}
