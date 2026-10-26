@@ -1,12 +1,31 @@
 {
-  "id": 2320,
-  "action": "press",
+  "id": 2321,
+  "action": "batch",
   "ok": true,
-  "seq": 2320,
-  "tookMs": 38,
+  "seq": 2321,
+  "tookMs": 33,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:31:37.738Z",
+  "ts": "2026-10-26T02:32:07.738Z",
   "result": {
-    "pressed": "Escape"
+    "batch": true,
+    "ops": 2,
+    "results": [
+      {
+        "action": "fill",
+        "error": {
+          "code": "OP_FAILED",
+          "message": "actions is not defined"
+        },
+        "i": 0
+      },
+      {
+        "action": "fill",
+        "error": {
+          "code": "OP_FAILED",
+          "message": "actions is not defined"
+        },
+        "i": 1
+      }
+    ]
   }
 }
