@@ -1,11 +1,11 @@
 {
-  "id": 2415,
+  "id": 2416,
   "action": "ping",
   "ok": true,
-  "seq": 2415,
-  "tookMs": 15,
+  "seq": 2416,
+  "tookMs": 28,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:36:44.439Z",
+  "ts": "2026-10-26T04:37:41.168Z",
   "result": {
     "pong": true,
     "version": "2.5.0",
@@ -14,12 +14,12 @@
     "poller": {
       "failStreak": 0,
       "lastCmdAction": "ping",
-      "lastCmdSeen": 2415,
-      "lastCmdSeenAt": 1792989400353,
+      "lastCmdSeen": 2416,
+      "lastCmdSeenAt": 1792989461120,
       "lastError": null,
-      "lastPollAt": 1792989400353,
+      "lastPollAt": 1792989461120,
       "mode": "polling",
-      "quotaRemaining": 4832,
+      "quotaRemaining": 4819,
       "rateFactor": 1,
       "startedAt": 1792989232196
     },
