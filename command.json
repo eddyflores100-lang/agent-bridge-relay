@@ -1,1 +1,1 @@
-{"cmd_seq": 2226, "action": "listtabs", "args": {}}
+{"cmd_seq": 2227, "action": "open", "args": {"url": "https://my.greenhouse.io/jobs/search?query=web", "reuse": true}}
