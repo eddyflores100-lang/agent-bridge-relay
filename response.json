@@ -1,20 +1,48 @@
 {
-  "id": 2454,
-  "action": "hotpatch",
+  "id": 2455,
+  "action": "filljob",
   "ok": true,
-  "seq": 2454,
-  "tookMs": 40,
+  "seq": 2455,
+  "tookMs": 180,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:51:07.467Z",
+  "ts": "2026-10-26T04:51:11.143Z",
   "result": {
-    "applied": 1,
-    "results": [
+    "challenge": null,
+    "dropdowns": [],
+    "errors": [
+      "What city are you located in?*",
+      "What city are you located in?*",
+      "This field is required.",
+      "What university are you currently pursuing your bachelor's degree? *",
+      "What university are you currently pursuing your bachelor's degree? *",
+      "This field is required.",
+      "Please upload a copy of your unofficial university transcripts.*",
+      "This field is required."
+    ],
+    "filled": [],
+    "key": "sezzle/8040652003",
+    "needsFile": true,
+    "pending": [
       {
-        "tabId": 1762282955,
-        "already": true,
-        "patched": true,
-        "version": "2.5.0"
+        "id": "question_33212687003",
+        "label": "what university are you currently pursuing your bachelor's degree? *",
+        "why": "sin regla"
       }
-    ]
+    ],
+    "radios": [],
+    "skipped": [
+      "first_name (ya tenia valor)",
+      "last_name (ya tenia valor)",
+      "preferred_name (ya tenia valor)",
+      "email (ya tenia valor)",
+      "phone (ya tenia valor)",
+      "question_33212684003 (sin dato)",
+      "question_33212690003 (ya tenia valor)",
+      "question_33212694003 (ya tenia valor)"
+    ],
+    "submitted": false,
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=sezzle&token=8040652003",
+    "validation": "errores de validacion tras submit",
+    "tabId": 1762282955
   }
 }
