@@ -1,13 +1,14 @@
 {
-  "id": 2435,
-  "action": "gethtml",
+  "id": 2436,
+  "action": "click",
   "ok": true,
-  "seq": 2435,
-  "tookMs": 89,
+  "seq": 2436,
+  "tookMs": 173,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:45:58.078Z",
+  "ts": "2026-10-26T04:46:02.871Z",
   "result": {
-    "text": "<div class=\"select__value-container remix-css-hlgwow\"><div class=\"select__placeholder remix-css-1jqq78o-placeholder\" id=\"react-select-question_20325496004-placeholder\">Select...</div><div class=\"select__input-container remix-css-19bb58m\" data-value=\"\"><input class=\"select__input\" autocapitalize=\"none\" autocomplete=\"off\" autocorrect=\"off\" id=\"question_20325496004\" spellcheck=\"false\" tabindex=\"0\" type=\"text\" aria-autocomplete=\"list\" aria-expanded=\"false\" aria-haspopup=\"true\" aria-errormessage=\"question_20325496004-error\" aria-invalid=\"true\" aria-labelledby=\"question_20325496004-label\" aria-required=\"true\" role=\"combobox\" aria-activedescendant=\"\" aria-describedby=\"react-select-question_20325496004-placeholder question_20325496004-error\" enterkeyhint=\"done\" value=\"\" style=\"color: inherit; background: 0px center; opacity: 1; width: 100%; grid-area: 1 / 2; font: inherit; min-width: 2px; border: 0px; margin: 0px; outline: 0px; padding: 0px;\"></div></div>",
+    "clicked": true,
+    "selector": "input#question_20325496004",
     "via": "selector"
   }
 }
