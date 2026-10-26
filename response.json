@@ -1,14 +1,14 @@
 {
-  "id": 2405,
+  "id": 2406,
   "action": "evaljs",
   "ok": true,
-  "seq": 2405,
-  "tookMs": 601,
+  "seq": 2406,
+  "tookMs": 145,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:34:25.175Z",
+  "ts": "2026-10-26T04:34:28.286Z",
   "result": {
-    "value": 5,
-    "type": "number",
+    "value": "2.5.0",
+    "type": "string",
     "tabId": 1762282068
   }
 }
