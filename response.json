@@ -1,14 +1,14 @@
 {
-  "id": 2324,
+  "id": 2325,
   "action": "click",
   "ok": true,
-  "seq": 2324,
-  "tookMs": 58,
+  "seq": 2325,
+  "tookMs": 56,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:35:07.746Z",
+  "ts": "2026-10-26T02:35:37.755Z",
   "result": {
     "clicked": true,
-    "selector": "input#country",
+    "selector": "input#question_20325496004",
     "via": "selector"
   }
 }
