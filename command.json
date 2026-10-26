@@ -1,1 +1,1 @@
-{"cmd_seq": 2434, "action": "upload", "args": {"tabId": 1762282953, "index": 0, "url": "https://raw.githubusercontent.com/eddyflores100-lang/agent-bridge-relay/main/cv/Edison_Flores_Resume.pdf", "filename": "Edison_Flores_Resume.pdf"}}
+{"cmd_seq": 2435, "action": "gethtml", "args": {"tabId": 1762282953, "selector": "div.select__value-container:has(input#question_20325496004)", "outer": true}}
