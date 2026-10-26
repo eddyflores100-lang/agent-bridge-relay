@@ -1,1 +1,1 @@
-{"cmd_seq": 2238, "action": "snapshot", "args": {"tabId": 1762282863, "maxEls": 250}}
+{"cmd_seq": 2239, "action": "navigate", "args": {"url": "https://my.greenhouse.io/jobs/search?query=crm", "tabId": 1762282863}}
