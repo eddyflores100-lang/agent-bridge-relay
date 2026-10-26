@@ -1,1 +1,1 @@
-{"cmd_seq": 2420, "action": "ping", "args": {}}
+{"cmd_seq": 2421, "action": "remotesync", "args": {"force": true}}
