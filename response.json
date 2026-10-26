@@ -1,12 +1,13 @@
 {
-  "id": 2336,
-  "action": "press",
+  "id": 2337,
+  "action": "gethtml",
   "ok": true,
-  "seq": 2336,
-  "tookMs": 82,
+  "seq": 2337,
+  "tookMs": 28,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:41:37.788Z",
+  "ts": "2026-10-26T02:42:07.751Z",
   "result": {
-    "pressed": "Enter"
+    "text": "<div class=\"select__input-container remix-css-19bb58m\" data-value=\"\"><input class=\"select__input\" autocapitalize=\"none\" autocomplete=\"off\" autocorrect=\"off\" id=\"question_20325496004\" spellcheck=\"false\" tabindex=\"0\" type=\"text\" aria-autocomplete=\"list\" aria-expanded=\"true\" aria-haspopup=\"true\" aria-errormessage=\"question_20325496004-error\" aria-invalid=\"false\" aria-labelledby=\"question_20325496004-label\" aria-required=\"true\" role=\"combobox\" aria-activedescendant=\"react-select-question_20325496004-option-1\" enterkeyhint=\"done\" value=\"\" style=\"color: inherit; background: 0px center; opacity: 0; width: 100%; grid-area: 1 / 2; font: inherit; min-width: 2px; border: 0px; margin: 0px; outline: 0px; padding: 0px;\" aria-controls=\"react-select-question_20325496004-listbox\" aria-describedby=\"question_20325496004-error\"></div>",
+    "via": "selector"
   }
 }
