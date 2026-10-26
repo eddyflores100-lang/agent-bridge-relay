@@ -1,47 +1,16 @@
 {
-  "id": 2301,
-  "action": "batch",
+  "id": 2302,
+  "action": "upload",
   "ok": true,
-  "seq": 2301,
-  "tookMs": 61,
+  "seq": 2302,
+  "tookMs": 10373,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:19:37.762Z",
+  "ts": "2026-10-26T02:20:18.093Z",
   "result": {
-    "batch": true,
-    "ops": 4,
-    "results": [
-      {
-        "action": "fill",
-        "error": {
-          "code": "OP_FAILED",
-          "message": "actions is not defined"
-        },
-        "i": 0
-      },
-      {
-        "action": "fill",
-        "error": {
-          "code": "OP_FAILED",
-          "message": "actions is not defined"
-        },
-        "i": 1
-      },
-      {
-        "action": "fill",
-        "error": {
-          "code": "OP_FAILED",
-          "message": "actions is not defined"
-        },
-        "i": 2
-      },
-      {
-        "action": "fill",
-        "error": {
-          "code": "OP_FAILED",
-          "message": "actions is not defined"
-        },
-        "i": 3
-      }
-    ]
+    "uploaded": true,
+    "tabId": 1762282888,
+    "input": "input#resume",
+    "file": "C:\\Users\\Usuario\\Downloads\\agent-bridge-extension-v2.4.0\\Edison_Flores_Resume.pdf",
+    "bytes": 42332
   }
 }
