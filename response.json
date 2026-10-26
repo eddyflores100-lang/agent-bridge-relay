@@ -1,13 +1,14 @@
 {
-  "id": 2437,
-  "action": "gethtml",
+  "id": 2438,
+  "action": "click",
   "ok": true,
-  "seq": 2437,
-  "tookMs": 54,
+  "seq": 2438,
+  "tookMs": 300,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:46:06.718Z",
+  "ts": "2026-10-26T04:46:11.553Z",
   "result": {
-    "text": "<div class=\"select__option select__option--is-focused remix-css-1n68om0-option\" aria-disabled=\"false\" id=\"react-select-question_20325496004-option-0\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">Yes</div><div class=\"select__option remix-css-1u2h8b-option\" aria-disabled=\"false\" id=\"react-select-question_20325496004-option-1\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">No</div>",
+    "clicked": true,
+    "selector": "div#react-select-question_20325496004-option-1",
     "via": "selector"
   }
 }
