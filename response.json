@@ -1,13 +1,14 @@
 {
-  "id": 2353,
-  "action": "gethtml",
-  "ok": true,
-  "seq": 2353,
-  "tookMs": 49,
+  "id": 2354,
+  "action": "click",
+  "ok": false,
+  "seq": 2354,
+  "tookMs": 22,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:54:07.743Z",
-  "result": {
-    "text": "<div class=\"select__value-container remix-css-hlgwow\"><div class=\"select__placeholder remix-css-1jqq78o-placeholder\" id=\"react-select-question_20325498004-placeholder\">Select...</div><div class=\"select__input-container remix-css-19bb58m\" data-value=\"\"><input class=\"select__input\" autocapitalize=\"none\" autocomplete=\"off\" autocorrect=\"off\" id=\"question_20325498004\" spellcheck=\"false\" tabindex=\"0\" type=\"text\" aria-autocomplete=\"list\" aria-expanded=\"true\" aria-haspopup=\"true\" aria-errormessage=\"question_20325498004-error\" aria-invalid=\"false\" aria-labelledby=\"question_20325498004-label\" aria-required=\"true\" role=\"combobox\" aria-activedescendant=\"react-select-question_20325498004-option-0\" aria-describedby=\"react-select-question_20325498004-placeholder question_20325498004-error\" enterkeyhint=\"done\" value=\"\" style=\"color: inherit; background: 0px center; opacity: 1; width: 100%; grid-area: 1 / 2; font: inherit; min-width: 2px; border: 0px; margin: 0px; outline: 0px; padding: 0px;\" aria-controls=\"react-select-question_20325498004-listbox\"></div></div>",
-    "via": "selector"
+  "ts": "2026-10-26T02:54:37.706Z",
+  "error": {
+    "code": "OBSCURED",
+    "hint": "click al tapador: selector div#react-select-country-option-7 o cierra el modal/banner",
+    "message": "elemento tapado por div \"Angola +244\""
   }
 }
