@@ -1,14 +1,12 @@
 {
-  "id": 2371,
-  "action": "gethtml",
-  "ok": false,
-  "seq": 2371,
-  "tookMs": 17,
+  "id": 2372,
+  "action": "press",
+  "ok": true,
+  "seq": 2372,
+  "tookMs": 170,
   "version": "2.4.0",
-  "ts": "2026-10-26T03:03:07.737Z",
-  "error": {
-    "code": "TARGET_NOT_FOUND",
-    "hint": "prueba snapshot",
-    "message": "selector sin match"
+  "ts": "2026-10-26T03:03:37.873Z",
+  "result": {
+    "pressed": "ArrowDown"
   }
 }
