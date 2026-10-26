@@ -1,1 +1,1 @@
-{"cmd_seq": 2277, "action": "click", "args": {"tabId": 1762282863, "selector": "input#question_20325496004"}}
+{"cmd_seq": 2278, "action": "snapshot", "args": {"tabId": 1762282863, "maxEls": 250}}
