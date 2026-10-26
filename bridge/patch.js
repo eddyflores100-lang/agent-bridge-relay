@@ -183,6 +183,7 @@
     };
     if (/salary|expectation/.test(l)) return 0;
     if (/notice/.test(l)) { let i = find(/immedi/); return i >= 0 ? i : 0; }
+    if (/university|universidad|bachelor|currently pursuing|currently enrolled|currently stud|grado acad/.test(l)) { let i = find(/not applicable|n\/a|^na$|prefer not|other|^no$/); return i >= 0 ? i : yesNo(false); }
     if (/authorized to work|legally authorized/.test(l)) return yesNo(true);
     if (/sponsor/.test(l)) return yesNo(false);
     if (/relocate|relocation/.test(l)) return yesNo(false);
@@ -273,6 +274,8 @@
     if (/tools|software|stack|experience with|technolog/.test(l)) return cfg.tools_text;
     if (/phone|telefono|celular|m\u00f3vil|movil/.test(l)) return cfg.phone || "";
     if (/location|ciudad|city/.test(l)) return cfg.location || "";
+    if (/university|universidad|bachelor|currently pursuing|currently enrolled|currently stud|grado acad/.test(l)) return cfg.university_text != null ? cfg.university_text : "N/A";
+    if (/how did you hear|where did you hear|como te enteraste|cómo te enteraste/.test(l)) return cfg.heard_text != null ? cfg.heard_text : "LinkedIn";
     return null;
   }
   function ty_email(label) { return /email/.test(norm(label)); }
