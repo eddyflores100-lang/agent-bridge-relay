@@ -1,1 +1,1 @@
-{"cmd_seq": 2305, "action": "press", "args": {"tabId": 1762282888, "selector": "input#country", "key": "ArrowDown"}}
+{"cmd_seq": 2306, "action": "snapshot", "args": {"tabId": 1762282888, "maxEls": 260}}
