@@ -1,13 +1,14 @@
 {
-  "id": 2440,
-  "action": "gethtml",
-  "ok": true,
-  "seq": 2440,
-  "tookMs": 120,
+  "id": 2441,
+  "action": "click",
+  "ok": false,
+  "seq": 2441,
+  "tookMs": 49,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:46:18.521Z",
-  "result": {
-    "text": "<div class=\"select__value-container select__value-container--has-value remix-css-hlgwow\"><div class=\"select__single-value remix-css-1dimb5e-singleValue\">No</div><div class=\"select__input-container remix-css-19bb58m\" data-value=\"\"><input class=\"select__input\" autocapitalize=\"none\" autocomplete=\"off\" autocorrect=\"off\" id=\"question_20325496004\" spellcheck=\"false\" tabindex=\"0\" type=\"text\" aria-autocomplete=\"list\" aria-expanded=\"false\" aria-haspopup=\"true\" aria-errormessage=\"question_20325496004-error\" aria-invalid=\"true\" aria-labelledby=\"question_20325496004-label\" aria-required=\"true\" role=\"combobox\" aria-activedescendant=\"\" enterkeyhint=\"done\" value=\"\" style=\"color: inherit; background: 0px center; opacity: 0; width: 100%; grid-area: 1 / 2; font: inherit; min-width: 2px; border: 0px; margin: 0px; outline: 0px; padding: 0px;\" aria-describedby=\"question_20325496004-error\"></div></div>",
-    "via": "selector"
+  "ts": "2026-10-26T04:46:21.367Z",
+  "error": {
+    "code": "OBSCURED",
+    "hint": "click al tapador: selector form#application-form > div.application--questions:nth-of-type(2) > div.field-wrapper:nth-of-type(2) > div.text-input-wrapper o cierra el modal/banner",
+    "message": "elemento tapado por div \"What are your salary expectations*\n\nThis field is required.\""
   }
 }
