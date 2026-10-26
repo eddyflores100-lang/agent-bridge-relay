@@ -1,46 +1,14 @@
 {
-  "id": 2411,
-  "action": "openmany",
-  "ok": true,
-  "seq": 2411,
-  "tookMs": 12527,
+  "id": 2412,
+  "action": "filljob",
+  "ok": false,
+  "seq": 2412,
+  "tookMs": 14,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:34:59.842Z",
-  "result": {
-    "opened": [
-      {
-        "tabId": 1762282937,
-        "url": "https://job-boards.greenhouse.io/embed/job_app?for=wppproduction&token=6228187004",
-        "loadState": "complete",
-        "patched": true
-      },
-      {
-        "tabId": 1762282938,
-        "url": "https://job-boards.greenhouse.io/embed/job_app?for=gapinternational&token=6233824004",
-        "loadState": "complete",
-        "patched": true
-      },
-      {
-        "tabId": 1762282939,
-        "url": "https://job-boards.greenhouse.io/embed/job_app?for=sezzle&token=8040652003",
-        "loadState": "complete",
-        "patched": true
-      },
-      {
-        "tabId": 1762282940,
-        "url": "https://job-boards.greenhouse.io/embed/job_app?for=topsteptrader&token=8039087003",
-        "loadState": "complete",
-        "patched": true
-      }
-    ],
-    "failed": [],
-    "count": 4,
-    "tabIds": [
-      1762282937,
-      1762282938,
-      1762282939,
-      1762282940
-    ],
-    "parallel": true
+  "ts": "2026-10-26T04:35:52.079Z",
+  "error": {
+    "code": "PATCH_FAILED",
+    "message": "no se pudo activar el patch remoto en la pestaña: Another debugger is already attached to the tab with id: 1762282937.",
+    "hint": "revisa bridge/patch.js en el repo"
   }
 }
