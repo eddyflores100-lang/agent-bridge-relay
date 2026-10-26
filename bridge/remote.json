@@ -1,0 +1,9 @@
+{
+ "patchVersion": "2.5.0",
+ "patchUrl": "https://raw.githubusercontent.com/eddyflores100-lang/agent-bridge-relay/main/bridge/patch.js",
+ "flags": {
+  "autoApply": true
+ },
+ "config": {},
+ "updated": "2026-10-26T04:18:12+0000"
+}
