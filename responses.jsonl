@@ -1,4 +1,3 @@
-{"id":1994,"action":"open","ok":true,"seq":1994,"tookMs":3187,"version":"2.3.0","ts":"2026-10-25T18:56:35.206Z","result":{"tabId":1762282314,"url":"https://sandiego.craigslist.org/search/ggg?query=ai+automation&sort=date","background":true,"loadState":"complete"}}
 {"id":1995,"action":"execute","ok":false,"seq":1995,"tookMs":20,"version":"2.3.0","ts":"2026-10-25T18:56:41.044Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":1996,"action":"execute","ok":false,"seq":1996,"tookMs":21,"version":"2.3.0","ts":"2026-10-25T18:56:44.788Z","error":{"code":"UNSUPPORTED","message":"accion \"execute\" no soportada en inject.js"}}
 {"id":1997,"action":"open","ok":true,"seq":1997,"tookMs":5034,"version":"2.3.0","ts":"2026-10-25T18:56:54.544Z","result":{"tabId":1762282317,"url":"https://losangeles.craigslist.org/search/ggg?query=website&sort=date","background":true,"loadState":"complete"}}
@@ -198,3 +197,4 @@
 {"id":2272,"action":"fill","ok":false,"seq":2272,"tookMs":13,"version":"2.3.0","ts":"2026-10-26T01:27:56.263Z","error":{"code":"CHALLENGE_PAGE","message":"challenge anti-bot detectado: recaptcha","hint":"resuelvelo a mano y reload"}}
 {"id":2273,"action":"fill","ok":false,"seq":2273,"tookMs":20,"version":"2.3.0","ts":"2026-10-26T01:28:01.023Z","error":{"code":"CHALLENGE_PAGE","message":"challenge anti-bot detectado: recaptcha","hint":"resuelvelo a mano y reload"}}
 {"id":2274,"action":"fill","ok":false,"seq":2274,"tookMs":12,"version":"2.3.0","ts":"2026-10-26T01:28:04.729Z","error":{"code":"CHALLENGE_PAGE","message":"challenge anti-bot detectado: recaptcha","hint":"resuelvelo a mano y reload"}}
+{"id":2275,"action":"upload","ok":true,"seq":2275,"tookMs":12838,"version":"2.3.0","ts":"2026-10-26T01:28:21.347Z","result":{"uploaded":true,"tabId":1762282863,"input":"input#resume","file":"C:\\Users\\Usuario\\Downloads\\agent-bridge-extension-v2.3.0\\Edison_Flores_Resume.pdf","bytes":42332}}
