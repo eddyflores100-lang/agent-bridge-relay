@@ -1,1 +1,1 @@
-{"cmd_seq": 2323, "action": "gethtml", "args": {"tabId": 1762282888, "selector": "div[id^=\"react-select-question_20325496004-listbox\"], div[id^=\"react-select-question_20325496004-menu\"]", "outer": false}}
+{"cmd_seq": 2324, "action": "click", "args": {"tabId": 1762282888, "selector": "input#country"}}
