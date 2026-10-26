@@ -1,1 +1,1 @@
-{"cmd_seq": 2319, "action": "snapshot", "args": {"tabId": 1762282888, "maxEls": 300}}
+{"cmd_seq": 2320, "action": "press", "args": {"tabId": 1762282888, "key": "Escape"}}
