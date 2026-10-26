@@ -1,13 +1,13 @@
 {
-  "id": 2392,
-  "action": "gethtml",
-  "ok": false,
-  "seq": 2392,
-  "tookMs": 11,
+  "id": 2393,
+  "action": "getattr",
+  "ok": true,
+  "seq": 2393,
+  "tookMs": 49,
   "version": "2.4.0",
-  "ts": "2026-10-26T03:14:37.694Z",
-  "error": {
-    "code": "INVALID_ARGS",
-    "message": "selector CSS invalido: Failed to execute 'querySelector' on 'Document': 'div.select__value-container:has(input#4024327004)' is not a valid selector."
+  "ts": "2026-10-26T03:15:07.754Z",
+  "result": {
+    "text": "Edison",
+    "via": "selector"
   }
 }
