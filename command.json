@@ -1,1 +1,1 @@
-{"cmd_seq": 2317, "action": "fill", "args": {"tabId": 1762282888, "selector": "#first_name", "value": "Edison"}}
+{"cmd_seq": 2318, "action": "click", "args": {"tabId": 1762282888, "selector": "input#question_20325496004"}}
