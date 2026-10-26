@@ -1,1 +1,1 @@
-{"cmd_seq": 2300, "action": "gethtml", "args": {"tabId": 1762282888, "selector": "form"}}
+{"cmd_seq": 2301, "action": "batch", "args": {"tabId": 1762282888, "ops": [{"action": "fill", "selector": "#first_name", "value": "Edison"}, {"action": "fill", "selector": "#last_name", "value": "Flores"}, {"action": "fill", "selector": "#email", "value": "eddyflores100@gmail.com"}, {"action": "fill", "selector": "#question_20325497004", "value": "USD 1,000 - 1,400 / month, negotiable (remote contract)"}]}}
