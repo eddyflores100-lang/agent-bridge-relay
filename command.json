@@ -1,1 +1,1 @@
-{"cmd_seq": 2369, "action": "gethtml", "args": {"tabId": 1762282888, "selector": "div.select__value-container:has(input#country)", "outer": true}}
+{"cmd_seq": 2370, "action": "click", "args": {"tabId": 1762282888, "selector": "input#country"}}
