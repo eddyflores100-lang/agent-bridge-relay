@@ -1,1 +1,1 @@
-{"cmd_seq": 2457, "action": "filljob", "args": {"tabId": 1762282955, "key": "sezzle/8040652003", "data": {"first_name": "Edison", "last_name": "Flores", "email": "eddyflores100@gmail.com", "portfolio": "https://github.com/eddyflores100-lang", "salary_text": "USD 1,000 - 1,400 / month, negotiable (remote contract)", "tools_text": "WordPress, Shopify, HTML/CSS/JS, AI chatbots (WhatsApp), n8n, Make, Zapier, CRM integrations"}, "submit": true, "timeoutMs": 180000}}
+{"cmd_seq": 2458, "action": "gethtml", "args": {"tabId": 1762282955, "selector": "form"}}
