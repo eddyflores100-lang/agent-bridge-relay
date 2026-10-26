@@ -1,20 +1,14 @@
 {
-  "id": 2428,
-  "action": "hotpatch",
-  "ok": true,
-  "seq": 2428,
-  "tookMs": 89,
+  "id": 2429,
+  "action": "filljob",
+  "ok": false,
+  "seq": 2429,
+  "tookMs": 18,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:44:41.250Z",
-  "result": {
-    "applied": 1,
-    "results": [
-      {
-        "tabId": 1762282953,
-        "already": true,
-        "patched": true,
-        "version": "2.5.0"
-      }
-    ]
+  "ts": "2026-10-26T04:45:22.082Z",
+  "error": {
+    "code": "PATCH_FAILED",
+    "message": "no se pudo activar el patch remoto en la pestaña: Another debugger is already attached to the tab with id: 1762282953.",
+    "hint": "revisa bridge/patch.js en el repo"
   }
 }
