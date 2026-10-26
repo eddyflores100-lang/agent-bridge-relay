@@ -1,17 +1,28 @@
 {
-  "id": 2401,
+  "id": 2402,
   "action": "ping",
   "ok": true,
-  "seq": 2401,
-  "tookMs": 34,
-  "version": "2.4.0",
-  "ts": "2026-10-26T04:20:07.780Z",
+  "seq": 2402,
+  "tookMs": 19,
+  "version": "2.5.0",
+  "ts": "2026-10-26T04:34:12.164Z",
   "result": {
     "pong": true,
-    "version": "2.4.0",
+    "version": "2.5.0",
     "stealth": true,
-    "bridgeTabId": 1762282888,
-    "poller": null,
+    "bridgeTabId": null,
+    "poller": {
+      "failStreak": 0,
+      "lastCmdAction": "ping",
+      "lastCmdSeen": 2402,
+      "lastCmdSeenAt": 1792989252118,
+      "lastError": null,
+      "lastPollAt": 1792989252118,
+      "mode": "polling",
+      "quotaRemaining": 4959,
+      "rateFactor": 1,
+      "startedAt": 1792989232196
+    },
     "tabsAbiertas": 51,
     "tabs": [
       {
@@ -161,8 +172,8 @@
     "fastMode": false,
     "control": {
       "human": 0,
-      "agent": 8,
-      "total": 8
+      "agent": 0,
+      "total": 0
     },
     "needsHelp": false,
     "helpTabs": [],
@@ -170,6 +181,11 @@
       "openmany",
       "parallel",
       "batch"
-    ]
+    ],
+    "patch": {
+      "version": "2.5.0",
+      "bytes": 19756
+    },
+    "autopatch": true
   }
 }
