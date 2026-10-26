@@ -1,14 +1,14 @@
 {
-  "id": 2325,
-  "action": "click",
-  "ok": true,
-  "seq": 2325,
-  "tookMs": 56,
+  "id": 2326,
+  "action": "gethtml",
+  "ok": false,
+  "seq": 2326,
+  "tookMs": 10,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:35:37.755Z",
-  "result": {
-    "clicked": true,
-    "selector": "input#question_20325496004",
-    "via": "selector"
+  "ts": "2026-10-26T02:36:07.711Z",
+  "error": {
+    "code": "TARGET_NOT_FOUND",
+    "hint": "prueba snapshot",
+    "message": "selector sin match"
   }
 }
