@@ -1,12 +1,13 @@
 {
-  "id": 2359,
-  "action": "press",
+  "id": 2360,
+  "action": "gethtml",
   "ok": true,
-  "seq": 2359,
-  "tookMs": 159,
+  "seq": 2360,
+  "tookMs": 46,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:57:07.892Z",
+  "ts": "2026-10-26T02:57:37.737Z",
   "result": {
-    "pressed": "Enter"
+    "text": "<div class=\"select__value-container select__value-container--has-value remix-css-hlgwow\"><div class=\"select__single-value remix-css-1dimb5e-singleValue\">1 Month</div><div class=\"select__input-container remix-css-19bb58m\" data-value=\"\"><input class=\"select__input\" autocapitalize=\"none\" autocomplete=\"off\" autocorrect=\"off\" id=\"question_20325498004\" spellcheck=\"false\" tabindex=\"0\" type=\"text\" aria-autocomplete=\"list\" aria-expanded=\"true\" aria-haspopup=\"true\" aria-errormessage=\"question_20325498004-error\" aria-invalid=\"false\" aria-labelledby=\"question_20325498004-label\" aria-required=\"true\" role=\"combobox\" aria-activedescendant=\"react-select-question_20325498004-option-1\" enterkeyhint=\"done\" value=\"\" style=\"color: inherit; background: 0px center; opacity: 0; width: 100%; grid-area: 1 / 2; font: inherit; min-width: 2px; border: 0px; margin: 0px; outline: 0px; padding: 0px;\" aria-controls=\"react-select-question_20325498004-listbox\" aria-describedby=\"question_20325498004-error\"></div></div>",
+    "via": "selector"
   }
 }
