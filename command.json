@@ -1,1 +1,1 @@
-{"cmd_seq": 2371, "action": "gethtml", "args": {"tabId": 1762282888, "selector": "div[id^=\"react-select-country-listbox\"]", "outer": false}}
+{"cmd_seq": 2372, "action": "press", "args": {"tabId": 1762282888, "selector": "input#country", "key": "ArrowDown"}}
