@@ -1,14 +1,13 @@
 {
-  "id": 2331,
-  "action": "click",
-  "ok": false,
-  "seq": 2331,
-  "tookMs": 21,
+  "id": 2332,
+  "action": "gethtml",
+  "ok": true,
+  "seq": 2332,
+  "tookMs": 47,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:39:07.759Z",
-  "error": {
-    "code": "NOT_VISIBLE",
-    "hint": "scrollintoview y reintenta",
-    "message": "elemento no visible (css-hidden)"
+  "ts": "2026-10-26T02:39:37.744Z",
+  "result": {
+    "text": "<div class=\"select__option remix-css-1u2h8b-option\" aria-disabled=\"false\" id=\"react-select-question_20325496004-option-0\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">Yes</div><div class=\"select__option select__option--is-focused select__option--is-selected remix-css-gsgj77-option\" aria-disabled=\"false\" id=\"react-select-question_20325496004-option-1\" tabindex=\"-1\" role=\"option\" aria-selected=\"true\">No</div>",
+    "via": "selector"
   }
 }
