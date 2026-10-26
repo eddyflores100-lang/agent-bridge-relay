@@ -1,16 +1,14 @@
 {
-  "id": 2275,
-  "action": "upload",
-  "ok": true,
-  "seq": 2275,
-  "tookMs": 12838,
+  "id": 2276,
+  "action": "fill",
+  "ok": false,
+  "seq": 2276,
+  "tookMs": 44,
   "version": "2.3.0",
-  "ts": "2026-10-26T01:28:21.347Z",
-  "result": {
-    "uploaded": true,
-    "tabId": 1762282863,
-    "input": "input#resume",
-    "file": "C:\\Users\\Usuario\\Downloads\\agent-bridge-extension-v2.3.0\\Edison_Flores_Resume.pdf",
-    "bytes": 42332
+  "ts": "2026-10-26T01:28:27.609Z",
+  "error": {
+    "code": "CHALLENGE_PAGE",
+    "message": "challenge anti-bot detectado: recaptcha",
+    "hint": "resuelvelo a mano y reload"
   }
 }
