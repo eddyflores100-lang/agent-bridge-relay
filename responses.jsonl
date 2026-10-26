@@ -151,3 +151,4 @@
 {"id":2459,"action":"fill","ok":false,"seq":2459,"tookMs":96,"version":"2.5.0","ts":"2026-10-26T04:51:30.940Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview","message":"no visible (obscured)"}}
 {"id":2460,"action":"fill","ok":false,"seq":2460,"tookMs":50,"version":"2.5.0","ts":"2026-10-26T04:51:35.608Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview","message":"no visible (obscured)"}}
 {"id":2461,"action":"fill","ok":false,"seq":2461,"tookMs":30,"version":"2.5.0","ts":"2026-10-26T04:51:39.299Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview","message":"no visible (obscured)"}}
+{"id":2463,"action":"clicktext","ok":true,"seq":2463,"tookMs":169,"version":"2.5.0","ts":"2026-10-26T04:51:46.330Z","result":{"clicked":true,"selector":"html > body > main.main > div.job__embedded-wrapper","via":"clicktext"}}
