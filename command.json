@@ -1,1 +1,1 @@
-{"cmd_seq": 2303, "action": "click", "args": {"tabId": 1762282888, "selector": "input#country"}}
+{"cmd_seq": 2304, "action": "snapshot", "args": {"tabId": 1762282888, "maxEls": 260}}
