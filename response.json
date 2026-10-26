@@ -1,16 +1,14 @@
 {
-  "id": 2449,
+  "id": 2450,
   "action": "fill",
-  "ok": true,
-  "seq": 2449,
-  "tookMs": 121,
+  "ok": false,
+  "seq": 2450,
+  "tookMs": 13,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:49:49.361Z",
-  "result": {
-    "filled": true,
-    "length": 6,
-    "mode": "instant-background",
-    "verified": true,
-    "via": "selector"
+  "ts": "2026-10-26T04:49:53.333Z",
+  "error": {
+    "code": "NOT_VISIBLE",
+    "hint": "scrollintoview",
+    "message": "no visible (obscured)"
   }
 }
