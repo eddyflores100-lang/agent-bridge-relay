@@ -1,14 +1,111 @@
 {
   "id": 2412,
   "action": "filljob",
-  "ok": false,
+  "ok": true,
   "seq": 2412,
-  "tookMs": 14,
+  "tookMs": 94715,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:35:52.079Z",
-  "error": {
-    "code": "PATCH_FAILED",
-    "message": "no se pudo activar el patch remoto en la pestaña: Another debugger is already attached to the tab with id: 1762282937.",
-    "hint": "revisa bridge/patch.js en el repo"
+  "ts": "2026-10-26T04:36:41.856Z",
+  "result": {
+    "challenge": null,
+    "dropdowns": [
+      {
+        "id": "country",
+        "options": 244,
+        "picked": "Ecuador +593",
+        "value": null
+      },
+      {
+        "id": "question_20325496004",
+        "options": 2,
+        "picked": "No",
+        "value": null
+      },
+      {
+        "id": "question_20325498004",
+        "options": 5,
+        "picked": "Immediately Available",
+        "value": null
+      },
+      {
+        "id": "question_20325499004",
+        "options": 2,
+        "picked": "Yes",
+        "value": null
+      },
+      {
+        "id": "4024325004",
+        "options": 8,
+        "picked": "25-34",
+        "value": null
+      },
+      {
+        "id": "4024326004",
+        "options": 5,
+        "picked": "Masculino",
+        "value": null
+      },
+      {
+        "id": "4024327004",
+        "options": 3,
+        "picked": "Yes",
+        "value": null
+      }
+    ],
+    "errors": [
+      "Phone",
+      "Phone",
+      "Phone number is too short",
+      "Resume/CV*",
+      "Resume/CV is required."
+    ],
+    "filled": [
+      "first_name=Edison",
+      "last_name=Flores",
+      "email=eddyflores100@gmail.com",
+      "question_20325497004=USD 1,000 - 1,400 / month, neg"
+    ],
+    "key": "wppproduction/6228187004",
+    "needsFile": true,
+    "pending": [
+      {
+        "id": "",
+        "label": "",
+        "why": "sin regla"
+      },
+      {
+        "id": "",
+        "label": "",
+        "why": "sin regla"
+      },
+      {
+        "id": "",
+        "label": "",
+        "why": "sin regla"
+      },
+      {
+        "id": "",
+        "label": "",
+        "why": "sin regla"
+      },
+      {
+        "id": "",
+        "label": "",
+        "why": "sin regla"
+      },
+      {
+        "id": "",
+        "label": "",
+        "why": "sin regla"
+      }
+    ],
+    "radios": [],
+    "skipped": [
+      "phone (sin dato)"
+    ],
+    "submitted": false,
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=wppproduction&token=6228187004",
+    "validation": "errores de validacion tras submit",
+    "tabId": 1762282937
   }
 }
