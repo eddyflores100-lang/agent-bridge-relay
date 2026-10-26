@@ -1,1 +1,1 @@
-{"cmd_seq": 2338, "action": "click", "args": {"tabId": 1762282888, "selector": "div#react-select-question_20325496004-option-1"}}
+{"cmd_seq": 2339, "action": "gethtml", "args": {"tabId": 1762282888, "selector": "div.select__value-container:has(input#question_20325496004)", "outer": true}}
