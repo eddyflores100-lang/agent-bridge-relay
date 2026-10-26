@@ -1,12 +1,14 @@
 {
-  "id": 2443,
-  "action": "gettext",
-  "ok": true,
-  "seq": 2443,
-  "tookMs": 52,
+  "id": 2444,
+  "action": "filljob",
+  "ok": false,
+  "seq": 2444,
+  "tookMs": 16,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:46:33.841Z",
-  "result": {
-    "text": "Create a Job Alert\n\nInterested in building your career at WPP Production? Get future opportunities sent straight to your email.\n\nCreate alert\nApply for this job\n\n*\n\nindicates a required field\n\nAutofill my application\nFirst Name*\n\nFirst Name is required.\n\nLast Name*\n\nLast Name is required.\n\nEmail*\n\nEmail is required.\n\nPhone\nCountry\n+593\nPhone\nResume/CV*\n\nCV_Edison_Flores_Modern_EN.docx\n\nResume/CV is required.\n\nCover Letter\nAre you currently an intern, freelancer, or employee at WPP or one of its agencies?*\nNo\n\nThis field is required.\n\nWhat are your salary expectations*\n\nThis field is required.\n\nWhat is your current notice period*\nImmediately Available\nDo you have an Advanced English level?*\nYes\nDemographic questions Argentina/Columbia/Uruguay\n\nTo support us in keeping ourselves accountable, we would like to invite you to complete the following questionnaire. It has been designed to help us check that we are operating a fair and equal recruitment policy, so your honest responses would be valuable. Participation in the survey is voluntary and anonymous – your answers would be stored separately from your application and would not be linked to your candidate profile or shared with recruitment teams. Data received is only used collectively and anonymously for our general reporting purposes.\n\nHow old are you?*\n35-44\nWhat is your gender identity?*\nMasculino\nMasculino\nFemenino\nNo binario\nElijo otra auto descripción\nNo quiero responder\nDo you identify as transgender*\nYes\nSubmit application"
+  "ts": "2026-10-26T04:47:22.081Z",
+  "error": {
+    "code": "PATCH_FAILED",
+    "message": "no se pudo activar el patch remoto en la pestaña: Another debugger is already attached to the tab with id: 1762282954.",
+    "hint": "revisa bridge/patch.js en el repo"
   }
 }
