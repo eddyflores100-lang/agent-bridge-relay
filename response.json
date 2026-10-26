@@ -1,16 +1,14 @@
 {
-  "id": 2302,
-  "action": "upload",
+  "id": 2303,
+  "action": "click",
   "ok": true,
-  "seq": 2302,
-  "tookMs": 10373,
+  "seq": 2303,
+  "tookMs": 284,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:20:18.093Z",
+  "ts": "2026-10-26T02:20:37.986Z",
   "result": {
-    "uploaded": true,
-    "tabId": 1762282888,
-    "input": "input#resume",
-    "file": "C:\\Users\\Usuario\\Downloads\\agent-bridge-extension-v2.4.0\\Edison_Flores_Resume.pdf",
-    "bytes": 42332
+    "clicked": true,
+    "selector": "input#country",
+    "via": "selector"
   }
 }
