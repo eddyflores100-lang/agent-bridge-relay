@@ -1,1 +1,1 @@
-{"cmd_seq": 2265, "action": "navigate", "args": {"url": "https://job-boards.greenhouse.io/wppproduction/jobs/6228187004", "tabId": 1762282863}}
+{"cmd_seq": 2266, "action": "snapshot", "args": {"tabId": 1762282863, "maxEls": 150}}
