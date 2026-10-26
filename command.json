@@ -1,1 +1,1 @@
-{"cmd_seq": 2329, "action": "press", "args": {"tabId": 1762282888, "selector": "input#question_20325496004", "key": "Enter"}}
+{"cmd_seq": 2330, "action": "gethtml", "args": {"tabId": 1762282888, "selector": "div:has(> input#question_20325496004)", "outer": false}}
