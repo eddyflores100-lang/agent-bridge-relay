@@ -1,18 +1,18 @@
 {
-  "id": 2400,
+  "id": 2401,
   "action": "ping",
   "ok": true,
-  "seq": 2400,
-  "tookMs": 7,
+  "seq": 2401,
+  "tookMs": 34,
   "version": "2.4.0",
-  "ts": "2026-10-26T03:21:37.687Z",
+  "ts": "2026-10-26T04:20:07.780Z",
   "result": {
     "pong": true,
     "version": "2.4.0",
     "stealth": true,
     "bridgeTabId": 1762282888,
     "poller": null,
-    "tabsAbiertas": 50,
+    "tabsAbiertas": 51,
     "tabs": [
       {
         "tabId": 1762282068,
