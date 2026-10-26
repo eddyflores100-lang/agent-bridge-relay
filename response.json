@@ -1,15 +1,19 @@
 {
-  "id": 2444,
-  "action": "filljob",
+  "id": 2445,
+  "action": "hotpatch",
   "ok": true,
-  "seq": 2444,
-  "tookMs": 180203,
+  "seq": 2445,
+  "tookMs": 12,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:49:38.193Z",
+  "ts": "2026-10-26T04:49:38.955Z",
   "result": {
-    "pending": true,
-    "key": "gapinternational/6233824004",
-    "tabId": 1762282954,
-    "hint": "consulta con getresult {key}"
+    "applied": 0,
+    "results": [
+      {
+        "tabId": 1762282954,
+        "patched": false,
+        "error": "Another debugger is already attached to the tab with id: 1762282954."
+      }
+    ]
   }
 }
