@@ -1,12 +1,14 @@
 {
-  "id": 2383,
-  "action": "press",
+  "id": 2384,
+  "action": "click",
   "ok": true,
-  "seq": 2383,
-  "tookMs": 94,
+  "seq": 2384,
+  "tookMs": 59,
   "version": "2.4.0",
-  "ts": "2026-10-26T03:09:07.798Z",
+  "ts": "2026-10-26T03:09:37.756Z",
   "result": {
-    "pressed": "Escape"
+    "clicked": true,
+    "selector": "input#country",
+    "via": "selector"
   }
 }
