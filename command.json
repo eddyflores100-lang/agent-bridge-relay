@@ -1,1 +1,1 @@
-{"cmd_seq": 2339, "action": "gethtml", "args": {"tabId": 1762282888, "selector": "div.select__value-container:has(input#question_20325496004)", "outer": true}}
+{"cmd_seq": 2340, "action": "ping", "args": {}}
