@@ -1,1 +1,1 @@
-{"cmd_seq": 2276, "action": "fill", "args": {"tabId": 1762282863, "selector": "#question_20325497004", "value": "USD 1,000 - 1,400 / month (negotiable, remote contract)"}}
+{"cmd_seq": 2277, "action": "click", "args": {"tabId": 1762282863, "selector": "input#question_20325496004"}}
