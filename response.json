@@ -1,28 +1,17 @@
 {
-  "id": 2291,
+  "id": 2292,
   "action": "ping",
   "ok": true,
-  "seq": 2291,
-  "tookMs": 10,
-  "version": "2.3.0",
-  "ts": "2026-10-26T01:42:05.956Z",
+  "seq": 2292,
+  "tookMs": 28,
+  "version": "2.4.0",
+  "ts": "2026-10-26T02:10:07.918Z",
   "result": {
     "pong": true,
-    "version": "2.3.0",
+    "version": "2.4.0",
     "stealth": true,
-    "bridgeTabId": 1762282863,
-    "poller": {
-      "failStreak": 0,
-      "lastCmdAction": "ping",
-      "lastCmdSeen": 2291,
-      "lastCmdSeenAt": 1792978925854,
-      "lastError": null,
-      "lastPollAt": 1792978925854,
-      "mode": "polling",
-      "quotaRemaining": 4623,
-      "rateFactor": 1,
-      "startedAt": 1792977170733
-    },
+    "bridgeTabId": null,
+    "poller": null,
     "tabsAbiertas": 41,
     "tabs": [
       {
@@ -97,8 +86,8 @@
       },
       {
         "tabId": 1762282102,
-        "title": "Hostinger Reach | Hostinger",
-        "url": "https://hpanel.hostinger.com/email-marketing",
+        "title": "Vista general | Hostinger",
+        "url": "https://hpanel.hostinger.com/domain/alicelabs.cloud/domain-overview/6obVRVGQf6CS4tkE",
         "active": false,
         "who": null
       },
@@ -167,13 +156,20 @@
       }
     ],
     "rate": {
-      "maxPerMin": 30
+      "maxPerMin": 90
     },
     "fastMode": false,
     "control": {
-      "human": 1,
+      "human": 0,
       "agent": 0,
-      "total": 1
-    }
+      "total": 0
+    },
+    "needsHelp": false,
+    "helpTabs": [],
+    "parallel": [
+      "openmany",
+      "parallel",
+      "batch"
+    ]
   }
 }
