@@ -1,1 +1,1 @@
-{"cmd_seq": 2274, "action": "fill", "args": {"tabId": 1762282863, "selector": "#email", "value": "eddyflores100@gmail.com"}}
+{"cmd_seq": 2275, "action": "upload", "args": {"tabId": 1762282863, "index": 0, "url": "https://raw.githubusercontent.com/eddyflores100-lang/agent-bridge-relay/main/cv/Edison_Flores_Resume.pdf", "filename": "Edison_Flores_Resume.pdf"}}
