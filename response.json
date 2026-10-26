@@ -1,15 +1,12 @@
 {
-  "id": 2227,
-  "action": "open",
+  "id": 2228,
+  "action": "gettext",
   "ok": true,
-  "seq": 2227,
-  "tookMs": 4366,
+  "seq": 2228,
+  "tookMs": 233,
   "version": "2.3.0",
-  "ts": "2026-10-26T01:13:55.226Z",
+  "ts": "2026-10-26T01:14:06.278Z",
   "result": {
-    "tabId": 1762282863,
-    "url": "https://my.greenhouse.io/jobs/search?query=web",
-    "background": true,
-    "loadState": "complete"
+    "text": "Home\nProfile\nApplications\nJobs\nLocation\nSearch\nDate posted\nSalary\nWork type\nEmployment type\nSearch\nAlerts\nJobs that match your search\nJunior Web Developer\n\nBeauhurst\n\nHybrid\nEngland, GB\n\nPosted · 2 days ago\n\nWeb Producer II\n\nSmartsheet\n\nRemote\nSeattle, WA\n$75,000 - $101,250\n\nPosted · 3 days ago • Viewed\n\nWeb Platforms Engineer\n\nAppnovation Technologies\n\nHybrid\nToronto, ON\n\nPosted · 3 days ago\n\nWeb Platforms Engineer\n\nAppnovation Technologies\n\nHybrid\nNew York, NY\nToronto, ON\n\nPosted · 3 days ago\n\nWeb Engineer III\n\nonX\n\nRemote\nUnited States\n\nPosted · 4 days ago\n\nWeb Integrations Support Engineer\n\nSmartling\n\nRemote\nUnited States\n\nPosted · 2 days ago\n\nProduct Manager - Web Onboarding\n\nFlo Health\n\nHybrid\nVilnius, VI\n\nPosted · 2 days ago\n\nProduct Manager - Web Onboarding\n\nFlo Health\n\nHybrid\nEngland, GB\n\nPosted · 2 days ago\n\nMarketing Web Development Intern\n\nIvalua\n\nHybrid\nJersey City, NJ\nHarrison, NJ\nHoboken, NJ\nNew York, NY\n\nPosted · 3 days ago\n\nSenior Web Technical Product Manager\n\nAppnovation Technologies\n\nHybrid\nToronto, ON\n\nPosted · 3 days ago\n\nSenior Web Technical Product Manager\n\nAppnovation Technologies\n\nRemote\nNew York, NY\nVancouver, BC\n\nPosted · 3 days ago\n\nW\nWeb Graphic Designer\n\nWPP Production\n\nHybrid\nBuenos Aires, C\n\nPosted · 6 days ago\n\nResults are presented and sorted with the help of AI. Be sure to review jobs before applying.\n\nLoading...\nThis site uses cookies\nBy continuing to use this site, you are agreeing to our use of cookies. See Privacy Policy\nOk"
   }
 }
