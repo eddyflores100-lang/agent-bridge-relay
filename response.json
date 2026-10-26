@@ -1,16 +1,16 @@
 {
-  "id": 2433,
-  "action": "fill",
+  "id": 2434,
+  "action": "upload",
   "ok": true,
-  "seq": 2433,
-  "tookMs": 287,
+  "seq": 2434,
+  "tookMs": 9073,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:45:41.446Z",
+  "ts": "2026-10-26T04:45:54.117Z",
   "result": {
-    "filled": true,
-    "length": 55,
-    "mode": "instant-background",
-    "verified": true,
-    "via": "selector"
+    "uploaded": true,
+    "tabId": 1762282953,
+    "input": "input#cover_letter",
+    "file": "C:\\Users\\Usuario\\Downloads\\agent-bridge-v2.5.0-FIX\\Edison_Flores_Resume.pdf",
+    "bytes": 42332
   }
 }
