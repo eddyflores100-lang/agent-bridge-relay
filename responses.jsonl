@@ -150,3 +150,4 @@
 {"id":2456,"action":"upload","ok":true,"seq":2456,"tookMs":7598,"version":"2.5.0","ts":"2026-10-26T04:51:21.462Z","result":{"uploaded":true,"tabId":1762282955,"input":"input#cover_letter","file":"C:\\Users\\Usuario\\Downloads\\agent-bridge-v2.5.0-FIX\\Edison_Flores_Resume.pdf","bytes":42332}}
 {"id":2459,"action":"fill","ok":false,"seq":2459,"tookMs":96,"version":"2.5.0","ts":"2026-10-26T04:51:30.940Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview","message":"no visible (obscured)"}}
 {"id":2460,"action":"fill","ok":false,"seq":2460,"tookMs":50,"version":"2.5.0","ts":"2026-10-26T04:51:35.608Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview","message":"no visible (obscured)"}}
+{"id":2461,"action":"fill","ok":false,"seq":2461,"tookMs":30,"version":"2.5.0","ts":"2026-10-26T04:51:39.299Z","error":{"code":"NOT_VISIBLE","hint":"scrollintoview","message":"no visible (obscured)"}}
