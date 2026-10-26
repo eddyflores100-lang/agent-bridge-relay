@@ -1,1 +1,1 @@
-{"cmd_seq": 2298, "action": "ping", "args": {}}
+{"cmd_seq": 2299, "action": "openmany", "args": {"urls": ["https://job-boards.greenhouse.io/embed/job_app?for=wppproduction&token=6228187004", "https://job-boards.greenhouse.io/embed/job_app?for=gapinternational&token=6233824004", "https://job-boards.greenhouse.io/embed/job_app?for=sezzle&token=8040652003", "https://job-boards.greenhouse.io/embed/job_app?for=topsteptrader&token=8039087003"], "waitMs": 15000}}
