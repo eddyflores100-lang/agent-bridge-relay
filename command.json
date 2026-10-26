@@ -1,1 +1,1 @@
-{"cmd_seq": 2478, "action": "ping", "args": {}}
+{"cmd_seq": 2479, "action": "openmany", "args": {"urls": ["https://job-boards.greenhouse.io/embed/job_app?for=smartsheet&token=8315902"], "waitMs": 12000}}
