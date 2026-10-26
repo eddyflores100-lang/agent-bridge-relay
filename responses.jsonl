@@ -91,3 +91,4 @@
 {"id":2391,"action":"gethtml","ok":false,"seq":2391,"tookMs":15,"version":"2.4.0","ts":"2026-10-26T03:14:07.717Z","error":{"code":"INVALID_ARGS","message":"selector CSS invalido: Failed to execute 'querySelector' on 'Document': 'div.select__value-container:has(input#4024326004)' is not a valid selector."}}
 {"id":2392,"action":"gethtml","ok":false,"seq":2392,"tookMs":11,"version":"2.4.0","ts":"2026-10-26T03:14:37.694Z","error":{"code":"INVALID_ARGS","message":"selector CSS invalido: Failed to execute 'querySelector' on 'Document': 'div.select__value-container:has(input#4024327004)' is not a valid selector."}}
 {"id":2393,"action":"getattr","ok":true,"seq":2393,"tookMs":49,"version":"2.4.0","ts":"2026-10-26T03:15:07.754Z","result":{"text":"Edison","via":"selector"}}
+{"id":2394,"action":"getattr","ok":true,"seq":2394,"tookMs":34,"version":"2.4.0","ts":"2026-10-26T03:15:37.713Z","result":{"text":"Flores","via":"selector"}}
