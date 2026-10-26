@@ -1,13 +1,12 @@
 {
-  "id": 2334,
-  "action": "gethtml",
+  "id": 2335,
+  "action": "press",
   "ok": true,
-  "seq": 2334,
-  "tookMs": 41,
+  "seq": 2335,
+  "tookMs": 43,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:40:37.731Z",
+  "ts": "2026-10-26T02:41:07.726Z",
   "result": {
-    "text": "<div class=\"select__option select__option--is-focused remix-css-1n68om0-option\" aria-disabled=\"false\" id=\"react-select-question_20325496004-option-0\" tabindex=\"-1\" role=\"option\" aria-selected=\"false\">Yes</div><div class=\"select__option select__option--is-selected remix-css-gsgj77-option\" aria-disabled=\"false\" id=\"react-select-question_20325496004-option-1\" tabindex=\"-1\" role=\"option\" aria-selected=\"true\">No</div>",
-    "via": "selector"
+    "pressed": "ArrowDown"
   }
 }
