@@ -1,14 +1,15 @@
 {
   "id": 2444,
   "action": "filljob",
-  "ok": false,
+  "ok": true,
   "seq": 2444,
-  "tookMs": 16,
+  "tookMs": 180203,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:47:22.081Z",
-  "error": {
-    "code": "PATCH_FAILED",
-    "message": "no se pudo activar el patch remoto en la pestaña: Another debugger is already attached to the tab with id: 1762282954.",
-    "hint": "revisa bridge/patch.js en el repo"
+  "ts": "2026-10-26T04:49:38.193Z",
+  "result": {
+    "pending": true,
+    "key": "gapinternational/6233824004",
+    "tabId": 1762282954,
+    "hint": "consulta con getresult {key}"
   }
 }
