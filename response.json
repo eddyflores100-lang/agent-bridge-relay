@@ -1,20 +1,14 @@
 {
-  "id": 2404,
-  "action": "patchstatus",
+  "id": 2405,
+  "action": "evaljs",
   "ok": true,
-  "seq": 2404,
-  "tookMs": 4,
+  "seq": 2405,
+  "tookMs": 601,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:34:21.873Z",
+  "ts": "2026-10-26T04:34:25.175Z",
   "result": {
-    "kernel": "2.5.0",
-    "patch": {
-      "version": "2.5.0",
-      "at": 1792989229405,
-      "bytes": 19756
-    },
-    "flags": {
-      "autoApply": true
-    }
+    "value": 5,
+    "type": "number",
+    "tabId": 1762282068
   }
 }
