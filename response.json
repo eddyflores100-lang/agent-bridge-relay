@@ -1,14 +1,14 @@
 {
-  "id": 2346,
+  "id": 2347,
   "action": "fill",
   "ok": true,
-  "seq": 2346,
-  "tookMs": 90,
+  "seq": 2347,
+  "tookMs": 61,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:50:37.790Z",
+  "ts": "2026-10-26T02:51:07.740Z",
   "result": {
     "filled": true,
-    "length": 6,
+    "length": 23,
     "mode": "instant-background",
     "verified": true,
     "via": "selector"
