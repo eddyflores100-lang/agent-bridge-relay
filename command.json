@@ -1,1 +1,1 @@
-{"cmd_seq": 2405, "action": "evaljs", "args": {"tabId": 1762282068, "code": "2+3"}}
+{"cmd_seq": 2406, "action": "evaljs", "args": {"tabId": 1762282068, "code": "window.__ABPATCH ? window.__ABPATCH.version() : 'SIN_PATCH'"}}
