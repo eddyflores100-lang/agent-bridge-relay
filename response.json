@@ -1,138 +1,20 @@
 {
-  "id": 2453,
-  "action": "filljob",
+  "id": 2454,
+  "action": "hotpatch",
   "ok": true,
-  "seq": 2453,
-  "tookMs": 56154,
+  "seq": 2454,
+  "tookMs": 40,
   "version": "2.5.0",
-  "ts": "2026-10-26T04:51:06.689Z",
+  "ts": "2026-10-26T04:51:07.467Z",
   "result": {
-    "challenge": null,
-    "dropdowns": [
+    "applied": 1,
+    "results": [
       {
-        "id": "country",
-        "options": 244,
-        "picked": "Ecuador +593",
-        "value": null
-      },
-      {
-        "id": "question_33212683003",
-        "options": 2,
-        "picked": "Yes",
-        "value": null
-      },
-      {
-        "id": "question_33212685003",
-        "options": 2,
-        "picked": "Yes",
-        "value": null
-      },
-      {
-        "id": "question_33212686003",
-        "options": 2,
-        "picked": "Yes",
-        "value": null
-      },
-      {
-        "id": "question_33212688003",
-        "options": 13,
-        "picked": "Below 9",
-        "value": null
-      },
-      {
-        "id": "question_33212691003",
-        "options": 2,
-        "picked": "Yes",
-        "value": null
-      },
-      {
-        "id": "question_33212692003",
-        "options": 6,
-        "picked": "A1",
-        "value": null
-      },
-      {
-        "id": "question_33212693003",
-        "options": 12,
-        "picked": "LinkedIn",
-        "value": null
+        "tabId": 1762282955,
+        "already": true,
+        "patched": true,
+        "version": "2.5.0"
       }
-    ],
-    "errors": [
-      "What city are you located in?*",
-      "What city are you located in?*",
-      "This field is required.",
-      "What university are you currently pursuing your bachelor's degree? *",
-      "What university are you currently pursuing your bachelor's degree? *",
-      "This field is required.",
-      "Please upload a copy of your unofficial university transcripts.*",
-      "This field is required."
-    ],
-    "filled": [
-      "first_name=Edison",
-      "last_name=Flores",
-      "preferred_name=Edison",
-      "email=eddyflores100@gmail.com",
-      "question_33212690003=USD 1,000 - 1,400 / month, neg",
-      "question_33212694003=https://github.com/eddyflores1"
-    ],
-    "key": "sezzle/8040652003",
-    "needsFile": true,
-    "pending": [
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      },
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      },
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      },
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      },
-      {
-        "id": "question_33212687003",
-        "label": "what university are you currently pursuing your bachelor's degree? *",
-        "why": "sin regla"
-      },
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      },
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      },
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      },
-      {
-        "id": "",
-        "label": "",
-        "why": "sin regla"
-      }
-    ],
-    "radios": [],
-    "skipped": [
-      "phone (sin dato)",
-      "question_33212684003 (sin dato)"
-    ],
-    "submitted": false,
-    "url": "https://job-boards.greenhouse.io/embed/job_app?for=sezzle&token=8040652003",
-    "validation": "errores de validacion tras submit",
-    "tabId": 1762282955
+    ]
   }
 }
