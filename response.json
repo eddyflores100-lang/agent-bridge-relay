@@ -1,12 +1,12 @@
 {
-  "id": 2328,
+  "id": 2329,
   "action": "press",
   "ok": true,
-  "seq": 2328,
-  "tookMs": 38,
+  "seq": 2329,
+  "tookMs": 106,
   "version": "2.4.0",
-  "ts": "2026-10-26T02:37:07.727Z",
+  "ts": "2026-10-26T02:37:37.803Z",
   "result": {
-    "pressed": "ArrowDown"
+    "pressed": "Enter"
   }
 }
