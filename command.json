@@ -1,1 +1,1 @@
-{"cmd_seq": 2363, "action": "gethtml", "args": {"tabId": 1762282888, "selector": "div[id^=\"react-select-question_20325499004-listbox\"]", "outer": false}}
+{"cmd_seq": 2364, "action": "ping", "args": {}}
