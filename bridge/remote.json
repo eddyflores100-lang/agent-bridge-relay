@@ -1,5 +1,5 @@
 {
- "patchVersion": "2.5.2",
+ "patchVersion": "2.5.3",
  "patchUrl": "https://raw.githubusercontent.com/alicelabs-llc/agent-bridge-patch/main/bridge/patch.js",
  "flags": {
   "autoApply": true
