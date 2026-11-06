@@ -1,9 +1,10 @@
 {
- "patchVersion": "2.5.3",
+ "patchVersion": "2.5.4",
  "patchUrl": "https://raw.githubusercontent.com/alicelabs-llc/agent-bridge-patch/main/bridge/patch.js",
  "flags": {
   "autoApply": true
  },
  "config": {},
- "note": "shim publico: el kernel 2.5.0 hace fetch ANONIMO de aqui; el relay real es alicelabs-llc/agent-bridge-relay (privado)"
+ "note": "shim publico: el kernel 2.5.0 hace fetch ANONIMO de aqui; el relay real es alicelabs-llc/agent-bridge-relay (privado) | 2.5.4: reglas located + animated film (lote 7-nov)",
+ "updated": "2026-11-06T22:30:29+00:00"
 }
