@@ -4,7 +4,7 @@
  * instaladas. Cero reinstalaciones. Versioned por __v.
  */
 (function () {
-  const V = "2.5.2";
+  const V = "2.5.3";
   if (window.__ABPATCH && window.__ABPATCH.__v === V) {
     return { already: true, patched: true, version: V };
   }
@@ -266,7 +266,7 @@
     const idl = norm(id);
     if (idl === "first_name" || /first name|nombre(\s|$)/.test(l)) return cfg.first_name;
     if (idl === "last_name" || /last name|apellido/.test(l)) return cfg.last_name;
-    if (/^(full |your )?name$|^[nombre completo$|systemfield_?name/.test(l) || /systemfield_?name/.test(idl)) return ((cfg.first_name || "") + " " + (cfg.last_name || "")).trim();
+    if (/^(full |your )?name$|^nombre completo$|systemfield_?name/.test(l) || /systemfield_?name/.test(idl)) return ((cfg.first_name || "") + " " + (cfg.last_name || "")).trim();
     if (idl === "email" || ty_email(label) || /correo|e-mail/.test(l)) return cfg.email;
     if (/salary|expectation/.test(l)) return cfg.salary_text;
     if (/portfolio|website|github|url|links? to (your )?work|proud of|work samples?/.test(l) && !/linkedin/.test(l)) return cfg.portfolio;
