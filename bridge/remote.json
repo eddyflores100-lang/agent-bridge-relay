@@ -1,10 +1,10 @@
 {
- "patchVersion": "2.5.6",
+ "patchVersion": "2.5.7",
  "patchUrl": "https://raw.githubusercontent.com/eddyflores100-lang/agent-bridge-relay/main/bridge/patch.js",
  "flags": {
   "autoApply": true
  },
  "config": {},
- "updated": "2026-11-07T00:19:47+00:00",
- "note": "2.5.6: linkedin/x reales + opensource"
+ "updated": "2026-11-07T01:04:14+00:00",
+ "note": "2.5.6: linkedin/x reales + opensource | 2.5.7: exceptionally-good"
 }
