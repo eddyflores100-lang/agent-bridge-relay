@@ -4,7 +4,7 @@
  * instaladas. Cero reinstalaciones. Versioned por __v.
  */
 (function () {
-  const V = "2.5.5";
+  const V = "2.5.6";
   if (window.__ABPATCH && window.__ABPATCH.__v === V) {
     return { already: true, patched: true, version: V };
   }
@@ -90,7 +90,10 @@
     async_text: "I've worked fully remote and async with clients in other time zones for several years: written updates, documented handoffs and checklists over meetings. I over-communicate blockers early and keep everything in writing. My base is Quito, Ecuador (GMT-5), which overlaps well with US teams.",
     why_linear_text: "Linear is the rare tool where speed and craft are the product itself — it made me care about how software support can feel effortless. I want to help Linear's users get that same experience every day and grow with a team that holds such a high quality bar.",
     crossfunc_text: "As an independent web developer I'm the bridge between clients, marketing agencies and technical vendors: I've built WordPress/Shopify stores, wired CRMs to automations (n8n, Make, Zapier) and delivered a WhatsApp AI chatbot end-to-end — gathering requirements from non-technical owners and translating them into working integrations, in English and Spanish.",
-    troubleshoot_text: "Daily work: integrating and debugging third-party APIs (CRM, WhatsApp Business, payments, automation platforms) — reading docs, testing requests and tracing webhooks and logs to the root cause. I've fixed auth/token errors, webhook misconfigurations and data-format mismatches for small-business clients, and I document every fix so it's repeatable."
+    troubleshoot_text: "Daily work: integrating and debugging third-party APIs (CRM, WhatsApp Business, payments, automation platforms) — reading docs, testing requests and tracing webhooks and logs to the root cause. I've fixed auth/token errors, webhook misconfigurations and data-format mismatches for small-business clients, and I document every fix so it's repeatable.",
+    linkedin: "https://www.linkedin.com/in/edison-flores-guerra/",
+    twitter_url: "https://x.com/f55494505",
+    opensource_text: "Yes — I publish and maintain open source: Alethech (encrypted portable memory for AI agents: .aleth files, Ed25519 signatures, AES-256-GCM; CLI, MCP integration, PyPI package), MarketNow (trust infrastructure for AI agents: MCP catalog, credential verification, revocation checks; MCP server on npm) and the Universal Trust Adapter (co-developed; ATC/JWT/W3C VC credential adapter with conformance tests). Repos: github.com/eddyflores100-lang"
   };
 
   /* ==================== escaneo del formulario ==================== */
@@ -280,6 +283,7 @@
     if (/salary|expectation/.test(l)) return cfg.salary_text;
     if (/portfolio|website|github|url|links? to (your )?work|proud of|work samples?/.test(l) && !/linkedin/.test(l)) return cfg.portfolio;
     if (/linkedin/.test(l)) return cfg.linkedin || cfg.portfolio;
+    if (/twitter|\bx profile\b/.test(l)) return cfg.twitter_url || "";
     if (/cover letter|carta de presentaci|motivaci/.test(l)) return cfg.cover_letter != null ? cfg.cover_letter : "";
     if (/tools|software|stack|experience with|technolog/.test(l)) return cfg.tools_text;
     if (/phone|telefono|celular|m\u00f3vil|movil/.test(l)) return cfg.phone || "";
@@ -289,6 +293,7 @@
     if (/country of residence|residencia|country you (currently )?(live|reside)/.test(l)) return cfg.residence_country || "Ecuador";
     if (/over the age of 18|mayor de edad/.test(l)) return "Yes";
     if (/why linear/.test(l)) return cfg.why_linear_text || "";
+    if (/open source|contribuciones de c\u00f3digo abierto/.test(l)) return cfg.opensource_text || "";
     if (/cross-?functional/.test(l)) return cfg.crossfunc_text || "";
     if (/troubleshooting|apis? and integration/.test(l)) return cfg.troubleshoot_text || "";
     if (/async/.test(l)) return cfg.async_text || "";
