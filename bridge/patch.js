@@ -4,7 +4,7 @@
  * instaladas. Cero reinstalaciones. Versioned por __v.
  */
 (function () {
-  const V = "2.5.6";
+  const V = "2.5.7";
   if (window.__ABPATCH && window.__ABPATCH.__v === V) {
     return { already: true, patched: true, version: V };
   }
@@ -91,6 +91,7 @@
     why_linear_text: "Linear is the rare tool where speed and craft are the product itself — it made me care about how software support can feel effortless. I want to help Linear's users get that same experience every day and grow with a team that holds such a high quality bar.",
     crossfunc_text: "As an independent web developer I'm the bridge between clients, marketing agencies and technical vendors: I've built WordPress/Shopify stores, wired CRMs to automations (n8n, Make, Zapier) and delivered a WhatsApp AI chatbot end-to-end — gathering requirements from non-technical owners and translating them into working integrations, in English and Spanish.",
     troubleshoot_text: "Daily work: integrating and debugging third-party APIs (CRM, WhatsApp Business, payments, automation platforms) — reading docs, testing requests and tracing webhooks and logs to the root cause. I've fixed auth/token errors, webhook misconfigurations and data-format mismatches for small-business clients, and I document every fix so it's repeatable.",
+    exceptional_text: "End-to-end delivery as a solo founder: turning a vague idea into a working, secure product fast — web apps (React/Node/TypeScript), API integrations and automations (n8n, Make, Zapier) and AI-agent infrastructure (MCP, encrypted memory, credential verification). What makes me unique: design training (bachelor's in graphic design) combined with applied security (Ed25519, AES-GCM), and I ship bilingual (EN/ES) products solo, from UI to CI/CD and deployment.",
     linkedin: "https://www.linkedin.com/in/edison-flores-guerra/",
     twitter_url: "https://x.com/f55494505",
     opensource_text: "Yes — I publish and maintain open source: Alethech (encrypted portable memory for AI agents: .aleth files, Ed25519 signatures, AES-256-GCM; CLI, MCP integration, PyPI package), MarketNow (trust infrastructure for AI agents: MCP catalog, credential verification, revocation checks; MCP server on npm) and the Universal Trust Adapter (co-developed; ATC/JWT/W3C VC credential adapter with conformance tests). Repos: github.com/eddyflores100-lang"
@@ -292,6 +293,7 @@
     if (/passport country|pasaporte/.test(l)) return cfg.passport_country || "Ecuador";
     if (/country of residence|residencia|country you (currently )?(live|reside)/.test(l)) return cfg.residence_country || "Ecuador";
     if (/over the age of 18|mayor de edad/.test(l)) return "Yes";
+    if (/exceptionally good|uniquely/.test(l)) return cfg.exceptional_text || "";
     if (/why linear/.test(l)) return cfg.why_linear_text || "";
     if (/open source|contribuciones de c\u00f3digo abierto/.test(l)) return cfg.opensource_text || "";
     if (/cross-?functional/.test(l)) return cfg.crossfunc_text || "";
